@@ -1,5 +1,9 @@
 ---
 title: "Post: Chat"
+tagline: "This is a custom tagline content which overrides the *default* page excerpt."
+header:
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Blog
 tags:
