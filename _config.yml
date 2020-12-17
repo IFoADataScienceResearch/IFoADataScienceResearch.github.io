@@ -60,7 +60,9 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "The objective of the Data Science Research workstream is to identify interesting actuarial data 
+            science research problems and data sets and conduct data science research and case studies. We also 
+            collate Data Science use cases and case studies and make them accessible."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
