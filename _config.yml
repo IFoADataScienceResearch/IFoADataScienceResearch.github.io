@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastnamee"
+  name   : "IFoA DS Research"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "The objective of the Data Science Research workstream is to identify interesting actuarial data 
             science research problems and data sets and conduct data science research and case studies. 
