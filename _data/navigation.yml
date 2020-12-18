@@ -9,7 +9,7 @@ main:
     url: /about/
     
 sidebar-nav:
-  - title: "Parent Page A"
+  - title: "Publications"
     children:
       - title: "Child Page A1"
         url: /
@@ -17,14 +17,14 @@ sidebar-nav:
         url: /
       - title: "Child Page A3"
         url: /
-  - title: "Parent Page B"
+  - title: "Risk Modelling"
     children:
       - title: "Child Page B1"
         url: /
       - title: "Child Page B2"
         url: /
         url: /
-  - title: "Parent Page C"
+  - title: "Twitter Sentiment"
     children:
       - title: "Child Page C1"
         url: /
@@ -32,7 +32,7 @@ sidebar-nav:
         url: /
       - title: "Child Page C3"
         url: /
-  - title: "Parent Page D"
+  - title: "Federated Learning"
     children:
       - title: "Child Page D1"
         url: /
