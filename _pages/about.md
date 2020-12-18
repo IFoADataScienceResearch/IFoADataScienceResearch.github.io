@@ -5,7 +5,7 @@ title: "About"
 author_profile: false
 
 sidebar:
-  title: "Page Navigation"
+  title: "Site Navigation"
   nav: sidebar-nav
 ---
 
