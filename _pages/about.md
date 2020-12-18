@@ -2,6 +2,7 @@
 permalink: /about/
 classes: wide
 title: "About"
+nav: sidebar-sample
 author_profile: false
 ---
 
