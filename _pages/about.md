@@ -2,8 +2,11 @@
 permalink: /about/
 classes: wide
 title: "About"
-nav: sidebar-sample
 author_profile: false
+
+sidebar:
+  title: "Page Navigation"
+  nav: sidebar-sample
 ---
 
 The IFoA Data Science Working Party consists of an international group of actuaries, data scientists and academics meeting regularly to research and develop data science techniques in actuarial applications.
