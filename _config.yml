@@ -25,6 +25,7 @@ baseurl                 : /
 # github_username       : username
 minimal_mistakes_skin   : default
 search                  : true
+logo                    : /assets/images/masthead.png
 
 # Build settings
 markdown: kramdown
