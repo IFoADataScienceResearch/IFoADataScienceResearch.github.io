@@ -1,2 +1,2 @@
 # IFoA Data Science Research
-Home page of IFoA's Data Science Research workstream
+Web page of IFoA's Data Science Research workstream
