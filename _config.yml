@@ -91,7 +91,7 @@ footer:
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
 
-sidebar-sample:
+sidebar-nav:
   - title: "Parent Page A"
     children:
       - title: "Child Page A1"
