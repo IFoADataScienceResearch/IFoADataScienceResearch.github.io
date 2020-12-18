@@ -83,8 +83,8 @@ author:
 
 footer:
   links:
-    - label: "IFoA"
-      icon: /assets/images/ifoa.jpg
+    - label: "Institute and Faculy of Actuaries"
+      icon: # /assets/images/ifoa.jpg
       url: https://www.actuaries.org.uk/
     - label: # "GitHub"
       icon: # "fab fa-fw fa-github"
