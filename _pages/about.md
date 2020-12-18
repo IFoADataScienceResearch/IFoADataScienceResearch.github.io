@@ -8,7 +8,7 @@ sidebar:
   nav: sidebar-nav
 ---
 
-The IFoA Data Science Working Party consists of an international group of actuaries, data scientists and academics meeting regularly to research and develop data science techniques in actuarial applications.
+The <a href="https://www.actuaries.org.uk/practice-areas/general-insurance/research-working-parties/data-science">IFoA Data Science Working Party</a> consists of an international group of actuaries, data scientists and academics meeting regularly to research and develop data science techniques in actuarial applications.
 
 The objective of the Data Science Research workstream is to:
 
