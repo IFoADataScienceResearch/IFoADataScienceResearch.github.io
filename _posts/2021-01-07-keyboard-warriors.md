@@ -1,8 +1,9 @@
 ---
 title: "Keyboard Warriors"
 excerpt_separator: "<!--more-->"
-author: John Ng
-author2: Melanie Zhang
+author: 
+  - John Ng
+  - Melanie Zhang
 categories:
   - Blog
 tags:
