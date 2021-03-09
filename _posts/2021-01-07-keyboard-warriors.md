@@ -6,7 +6,7 @@ sidebar:
   - title: "John Ng"
     image: /assets/images/bio/john.jfif
   - title: "Melanie Zhang"
-    image: /assets/images/bio-photo.jpg
+    image: /assets/images/bio/melanie.jfif
 categories:
   - Blog
 tags:
