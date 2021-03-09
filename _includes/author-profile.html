@@ -1,21 +1,11 @@
 <p>
 {% assign authorCount = page.author | size %}
 {% if authorCount == 0 %}
-    No author test
+    No author
 {% elsif authorCount == 1 %}
     {{ page.author | first }}
 {% else %}
     {% for author in page.author %}
-        {% if forloop.first %}
-            {{ author }}
-        {% elsif forloop.last %}
-            and {{ author }}
-        {% else %}
-            , {{ author }}
-        {% endif %}
-    {% endfor %}
-{% endif %}
-</p>
 
 <div itemscope itemtype="https://schema.org/Person">
 
@@ -267,3 +257,6 @@
   </div>
 </div>
 
+    {% endfor %}
+{% endif %}
+</p>
