@@ -12,6 +12,7 @@ tags:
   - Actuary Magazine
   - Twitter Sentiment
 ---
+<small>This article first appeared in the Feb 2021 issue of <a href="https://www.theactuary.com/2021/02/04/insurance-and-social-media-keyboard-worriers"> The Actuary</a>.</small>
 
 <b> John Ng and Melanie Zhang discuss how they analysed Twitter sentiment relating to COVID-19 and insurance – and how insurers could use such analysis </b>
 
