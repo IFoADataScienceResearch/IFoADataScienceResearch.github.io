@@ -1,10 +1,5 @@
-{% assign authorCount = page.author | size %}
-{% if authorCount == 0 %} 
-  {% assign authors = page.author | default: page.authors[0] | default: site.author %}
-  {% assign authors = site.data.authors[author] | default: author %}
-{% else %}
-  {% assign authors = {{page.author}} %}
-{% endif %}
+{% assign authors = page.author | default: page.authors[0] | default: site.author %}
+{% assign authors = site.data.authors[author] | default: author %}
 
 {% for author in authors %}
 <div itemscope itemtype="https://schema.org/Person">
