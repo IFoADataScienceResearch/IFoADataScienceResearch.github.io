@@ -1,6 +1,5 @@
 ---
 title: "Keyboard Warriors"
-excerpt_separator: "<!--more-->"
 author_profile: false 
 sidebar:
   - title: "John Ng"
