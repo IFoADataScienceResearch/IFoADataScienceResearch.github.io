@@ -1,11 +1,11 @@
 <p>
-{% assign authorCount = page.authors | size %}
+{% assign authorCount = page.author | size %}
 {% if authorCount == 0 %}
     No author
 {% elsif authorCount == 1 %}
-    {{ page.authors | first }}
+    {{ page.author | first }}
 {% else %}
-    {% for author in page.authors %}
+    {% for author in page.author %}
         {% if forloop.first %}
             {{ author }}
         {% elsif forloop.last %}
