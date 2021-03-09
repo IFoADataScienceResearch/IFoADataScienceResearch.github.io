@@ -4,11 +4,12 @@ excerpt_separator: "<!--more-->"
 author_profile: false
 sidebar:
   - title: "John Ng"
-    image: "/assets/images/bio/john.jfif"
+    image: /assets/images/bio/john.jfif
     text: "Experienced data scientist and qualified actuary (FIA) passionate about democratizing data analytics and explainable machine learning in enterprises and for social good. Pharmacist with experience from hospital, primary care and retail business."
   - title: "Melanie Zhang"
-    image: "/assets/images/bio-photo.jpg"
+    image: /assets/images/bio-photo.jpg
     text: "testing."
+    author: Melanie Zhang
 categories:
   - Blog
 tags:
