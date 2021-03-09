@@ -1,19 +1,23 @@
+<p>
 {% assign authorCount = page.authors | size %}
 {% if authorCount == 0 %}
-  {% if page.author and site.data.authors[page.author] %}
-    {% assign author = site.data.authors[page.author] %}
-  {% else %}
-    {% assign author = site.author %}
-  {% endif %}
-  
-  {% assign authors = {{author.authorid | split: "," }} %}
+    No author
+{% elsif authorCount == 1 %}
+    {{ page.authors | first }}
 {% else %}
-  {% assign authors = page.authors %}
+    {% for author in page.authors %}
+        {% if forloop.first %}
+            {{ author }}
+        {% elsif forloop.last %}
+            and {{ author }}
+        {% else %}
+            , {{ author }}
+        {% endif %}
+    {% endfor %}
 {% endif %}
+</p>
 
-<div itemscope itemtype="http://schema.org/Person">
-  {% for authorid in authors %}
-  <p>
+<div itemscope itemtype="https://schema.org/Person">
 
   {% if author.avatar %}
     <div class="author__avatar">
@@ -261,7 +265,4 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
-
-  </p>
-  {% endfor %}
 </div>
