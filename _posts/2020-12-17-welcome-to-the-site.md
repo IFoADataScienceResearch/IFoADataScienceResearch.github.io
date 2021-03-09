@@ -2,7 +2,7 @@
 title: "Welcome to the site"
 date: 2020-12-17T15:34:30-04:00
 categories:
-  - general
+  - General
 tags:
   - update
 ---
