@@ -8,7 +8,7 @@ main:
   - title: "About"
     url: /about/
 
-sidebar-nav:
+about-nav:
   - title: "Publications"
     children:
       - title: "Child Page A1"
