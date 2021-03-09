@@ -5,9 +5,10 @@
 {% elsif authorCount == 1 %}
     {{ page.author | first }}
 {% else %}
+<div itemscope itemtype="https://schema.org/Person">
     {% for author in page.author %}
 
-<div itemscope itemtype="https://schema.org/Person">
+
 
   {% if author.avatar %}
     <div class="author__avatar">
@@ -255,8 +256,9 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
+    {% endfor %}
 </div>
 
-    {% endfor %}
+    
 {% endif %}
 </p>
