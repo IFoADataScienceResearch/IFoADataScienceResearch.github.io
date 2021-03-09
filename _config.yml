@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache   
   
 # author sidebar
-author:
+authorid:
   name   : "DS Research"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "The objective of the Data Science Research workstream is to identify interesting actuarial data 
