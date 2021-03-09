@@ -1,7 +1,7 @@
 {% assign authorCount = page.authors | size %}
 {% if authorCount == 0 %} 
-  {% assign author = page.author | default: page.authors[0] | default: site.author %}
-  {% assign author = site.data.authors[author] | default: author %}
+  {% assign authors = page.author | default: page.authors[0] | default: site.author %}
+  {% assign authors = site.data.authors[author] | default: author %}
 {% else %}
   {% assign authors = {{author.authorid | split: "," }} %}
 {% endif %}
