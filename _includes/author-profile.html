@@ -15,9 +15,6 @@
   {% for authorid in authors %}
   <p>
 
-
-<div itemscope itemtype="https://schema.org/Person">
-
   {% if author.avatar %}
     <div class="author__avatar">
       {% if author.home %}
@@ -264,7 +261,6 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
-</div>
 
   </p>
   {% endfor %}
