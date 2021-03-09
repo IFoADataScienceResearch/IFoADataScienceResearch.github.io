@@ -11,9 +11,8 @@
   {% assign authors = page.authors %}
 {% endif %}
 
+{% for author in authors %}
 <div itemscope itemtype="https://schema.org/Person">
-  {% for author in authors %}
-  <p>
 
   {% if author.avatar %}
     <div class="author__avatar">
@@ -261,7 +260,5 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
-
-  </p>
-  {% endfor %}
 </div>
+{% endfor %}
