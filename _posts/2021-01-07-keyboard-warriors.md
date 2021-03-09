@@ -5,8 +5,10 @@ author_profile: false
 sidebar:
   - title: "John Ng"
     image: /assets/images/bio/john.jfif
+    text: "Senior data scientist at RGA and chair of IFoA Data Science Research Section"
   - title: "Melanie Zhang"
     image: /assets/images/bio/melanie.jfif
+    text: "Senior portfolio manager at Ki Insurance"
 categories:
   - Blog
 tags:
