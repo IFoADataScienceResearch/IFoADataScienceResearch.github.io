@@ -9,7 +9,6 @@ sidebar:
   - title: "Melanie Zhang"
     image: /assets/images/bio-photo.jpg
     text: "testing."
-    author: Melanie Zhang
 categories:
   - Blog
 tags:
