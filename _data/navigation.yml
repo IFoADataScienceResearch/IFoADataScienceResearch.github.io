@@ -38,3 +38,20 @@ sidebar-nav:
         url: /
       - title: "Child Page D2"
         url: /
+        
+risk-nav:
+  - title: "Publications"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+  - title: "Blog Posts"
+    children:
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B2"
+        url: /
+
