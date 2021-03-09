@@ -5,10 +5,8 @@ author_profile: false
 sidebar:
   - title: "John Ng"
     image: /assets/images/bio/john.jfif
-    text: "Senior data scientist at RGA and chair of IFoA Data Science Research Section"
   - title: "Melanie Zhang"
     image: /assets/images/bio/melanie.jfif
-    text: "Senior portfolio manager at Ki Insurance"
 categories:
   - Blog
 tags:
@@ -45,3 +43,44 @@ For each dataset, we explored a variety of machine learning algorithms and encod
 Based on results in Table 1, run-time and simplicity, our final selected model is regularised logistic regression with TF-IDF encoding trained on the enriched dataset. This achieved a 0.859 AUC. Fine-tuning machine learning models on a COVID-19-specific Twitter dataset can significantly outperform open-source tools.
 
 <img src="/assets/images/keyboard-warriors/figure1.png" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images/keyboard-warriors/table1.png" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+
+<b> Step 3: Sentiment analysis </b>
+
+Our selected model was then used to assign individual sentiment scores to all 1.7m UK tweets. The resulting scores enable further analysis of overall trends over time, sentiment relating to specific topics, and underlying drivers.
+
+<b> Top concerns relating to coronavirus </b>
+
+Figure 2 compares 20 of the most popular topics during the first wave versus during the whole duration of pandemic. Top-of-mind topics include ‘lockdown’, ‘government’, ‘deaths’, ‘cases’ and ‘health’.
+
+The UK’s NHS was a frequent topic during the first wave, but not during subsequent months. It was associated with the positive sentiment resulting from the ‘clap for carers’ initiative, but there were dips in sentiment relating to fears over shortages of hospital beds and personal protective equipment. Discussion of ‘vaccines’, ‘school’ and ‘masks’ were relatively uncommon during the first wave but subsequently became mainstream.
+
+<img src="/assets/images/keyboard-warriors/figure2.png" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+
+<b> Sentiment analysis and overall trend </b>
+
+Tweets in February focused on COVID-19 development in other countries and carried a more negative sentiment. Since the inflection point in mid-March, overall sentiment has remained positive for the rest of the year. Sentiment towards the first lockdown was generally positive.
+
+The granularity of text data enables us to perform deeper topical analysis by analysing the sentiment and context around certain words. We will look at two examples here: the words ‘government’ and ‘insurance’.
+
+Figure 5 shows that the sentiment on government was low during the first wave, but improved and hovered around neutral from April to November. These trends are broadly consistent with University College London’s COVID-19 social study, a panel study of more than 70,000 respondents conducted via online weekly surveys. Sentiment analysis of social media could be a cost-effective tool for analysing the evolution of public opinion; traditional surveys can suffer from lower coverage and time lags. However, there are potential biases relating to the demographics of social media users as compared to the wider population.
+
+<img src="/assets/images/keyboard-warriors/figure34.png" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+
+<b> Sentiment on insurance and insurers </b>
+
+Figure 6 shows a large peak in February due to an increase in tweets about travel insurance advice. The dip in March before lockdown was mainly due to government advice that asked the public to stay away from pubs and restaurants without enforcing closures, leaving businesses unable to claim insurance and liable to bankruptcy.
+
+Many insurers are perceived negatively due to COVID-19-related claims and losses, business interruption, event cancellation, legal disputes, mismanagement of funds, and dividend cuts. Conversely, NFU Mutual, Admiral, Vitality and Cigna are examples of insurers with favourable sentiment thanks to their customer service, motor policy refunds and financial resilience. It is encouraging to see positivity towards customer service and insurer advice on mental health, exercise and workplace culture – these actions could be emulated by other insurers for the good of society.
+
+<img src="/assets/images/keyboard-warriors/figure56.png" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+
+<b> Sentiment analysis in the insurance industry </b>
+
+Sentiment analysis and social media could be leveraged by insurers in their digital transformation journey. Trends can be identified from ‘voice of the customer’ analysis, leading to value proposition. For example, the pandemic could drive demand for protection products, usage-based insurance and bike insurance. 
+
+In addition, Twitter sentiment analysis is useful for reputation management, allowing insurers to monitor public opinion of their organisations, products or marketing campaigns.  
+
+Studies such as ‘Psychological language on Twitter predicts county-level heart disease mortality’ (Eichstaedt et al., 2015) and ‘Correlating Twitter language with community-level health outcomes’ (Schneuwly et al., 2019) have found Twitter language to be correlated with mortality and morbidity outcomes such as heart disease, diabetes and cancer. Inevitably, this suggests potential application in underwriting and pricing. However, this application would require rigorous checks around ethical and privacy considerations, and analysis of correlation-versus-causation effects.
+
+Nevertheless, these methods have promising applications across the insurance value chain, including in product development, sales, marketing, competitor analysis, social profiling and, ultimately, providing better services to customers.
