@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache   
   
 # author sidebar
-authorid:
+author:
   name   : "DS Research"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "The objective of the Data Science Research workstream is to identify interesting actuarial data 
@@ -78,8 +78,6 @@ authorid:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io"
-      
-authorid:
 
 footer:
   links:
