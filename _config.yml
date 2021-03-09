@@ -79,23 +79,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io"
       
-author2:
-  name   : "DS Research"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The objective of the Data Science Research workstream is to identify interesting actuarial data 
-            science research problems and data sets and conduct data science research and case studies. 
-            
-            We also collate Data Science use cases and case studies and make them accessible."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io"
+authorid:
 
 footer:
   links:
