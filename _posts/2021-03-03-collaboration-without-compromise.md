@@ -11,6 +11,8 @@ tags:
   - Federated Learning
 ---
 
+<small>This article first appeared in the March 2021 issue of <a href="https://www.theactuary.com/features/2021/02/26/insurance-collaboration-without-compromise"> The Actuary </a>.</small>
+
 <b> Małgorzata Śmietanka introduces the opportunities for federated learning and privacy-preserving data access in insurance. </b>
 
 Insurance companies are increasingly collecting large quantities of historic and real-time data. This includes traditional data sources, such as business, financial and economic data, as well as new data sources such as social media, mobile and wearable devices, telematics and GPS. There is also increasing collaboration on joint data analytics with third parties. The privacy of this data poses many challenges, including internal data management, collaboration with third parties, monetisation of data, data analytics, and legislation.
