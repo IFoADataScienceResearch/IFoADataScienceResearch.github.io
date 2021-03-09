@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Warriors"
 excerpt_separator: "<!--more-->"
-author_profile: false
+author: John Ng
 sidebar:
   - title: "John Ng"
     image: /assets/images/bio/john.jfif
