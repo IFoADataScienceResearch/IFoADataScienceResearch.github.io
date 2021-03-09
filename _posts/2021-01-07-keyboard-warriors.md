@@ -1,8 +1,7 @@
 ---
 title: "Keyboard Warriors"
 excerpt_separator: "<!--more-->"
-author:
-  - John Ng
+author: John Ng
 categories:
   - Blog
 tags:
