@@ -8,15 +8,6 @@ main:
   - title: "About"
     url: /about/
 
-john-melanie:
-  - title: "John Ng"
-    image: "/assets/images/bio-photo.jpg"
-    text: "Experienced data scientist and qualified actuary (FIA) passionate about democratizing data analytics and explainable machine learning in enterprises and for social good. Pharmacist with experience from hospital, primary care and retail business."
-    
-  - title: "Melanie Zhang"
-    image: "/assets/images/bio-photo.jpg"
-    text: "testing."
-
 about-nav:
   - title: "Publications"
     children:
