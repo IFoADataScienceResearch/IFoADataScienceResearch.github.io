@@ -3,7 +3,7 @@
   {% assign authors = page.author | default: page.authors[0] | default: site.author %}
   {% assign authors = site.data.authors[author] | default: author %}
 {% else %}
-  {% assign authors = {{page.author | split: "," }} %}
+  {% assign authors = {{page.author}} %}
 {% endif %}
 
 {% for author in authors %}
