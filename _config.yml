@@ -58,39 +58,7 @@ plugins:
   - jekyll-gist
   # - jekyll-feed
   - jemoji
-  - jekyll-include-cache
-
-# author sidebar
-John Ng:
-  name   : "John Ng"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Experienced data scientist and qualified actuary (FIA) passionate about democratizing data analytics and explainable machine learning in enterprises and for social good. Pharmacist with experience from hospital, primary care and retail business."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io"
-
-Melanie Zhang:
-  name   : "Melanie Zhang"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : ""
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io"
-     
+  - jekyll-include-cache   
 
 footer:
   links:
