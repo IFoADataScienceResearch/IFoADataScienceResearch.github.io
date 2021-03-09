@@ -5,7 +5,7 @@ title: "About"
 author_profile: false
 sidebar:
   title: "Site Navigation"
-  nav: sidebar-nav
+  nav: about-nav
 ---
 
 The Data Science Working Party consists of an international group of actuaries, data scientists and academics meeting regularly to research and develop data science techniques in actuarial applications.
