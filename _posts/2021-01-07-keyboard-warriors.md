@@ -41,3 +41,5 @@ Next, we carried out the pre-processing and encoding steps depicted in Figure 1.
 For each dataset, we explored a variety of machine learning algorithms and encodings to predict binary classification of positive (+1) or negative (-1) sentiment. The model performance metric is ‘area under the ROC curve’ (AUC), an aggregate measure of performance across all classification thresholds. We compared these against simple baseline models – SentiWordNet and TextBlob (open-source tools ready for ‘out-of-the-box’ use).
 
 Based on results in Table 1, run-time and simplicity, our final selected model is regularised logistic regression with TF-IDF encoding trained on the enriched dataset. This achieved a 0.859 AUC. Fine-tuning machine learning models on a COVID-19-specific Twitter dataset can significantly outperform open-source tools.
+
+<img src="/assets/images/keyboard-warriors/figure1.png" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
