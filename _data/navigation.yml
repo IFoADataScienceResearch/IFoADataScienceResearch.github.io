@@ -1,7 +1,7 @@
 main:
   - title: "Risk Modelling"
     url: https://ifoadatascienceresearch.github.io/risk-modelling/
-      - title: "NLP"
+  - title: "NLP"
     url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
   - title: "Federated Learning"
     url: https://ifoadatascienceresearch.github.io/federated-learning/
