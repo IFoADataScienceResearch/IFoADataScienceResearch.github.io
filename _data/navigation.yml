@@ -55,7 +55,7 @@ risk-nav:
       - title: "Child Page B2"
         url: /
         
-  twitter-nav:
+twitter-nav:
   - title: "Publications"
     children:
       - title: "Child Page A1"
