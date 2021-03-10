@@ -1,8 +1,8 @@
 main:
+  - title: "Federated Learning"
+    url: https://ifoadatascienceresearch.github.io/federated-learning/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "About"
