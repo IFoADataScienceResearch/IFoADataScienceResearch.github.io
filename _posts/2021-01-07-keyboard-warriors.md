@@ -10,7 +10,7 @@ categories:
   - Blog
 tags:
   - Actuary Magazine
-  - Twitter Sentiment
+  - NLP
 ---
 <small>This article first appeared in the Feb 2021 issue of <a href="https://www.theactuary.com/2021/02/04/insurance-and-social-media-keyboard-worriers"> The Actuary</a>.</small>
 
