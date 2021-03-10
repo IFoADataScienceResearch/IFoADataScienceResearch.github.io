@@ -19,6 +19,7 @@ Sentiment analysis is used in many applications:
   <li>
 Monitor and analyse online and social media content around a specific topic
   </li>
+  <li>
 Evaluating survey response
   </li>
   <li>
