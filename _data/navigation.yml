@@ -19,34 +19,25 @@ about-nav:
         url: /
   - title: "Risk Modelling"
     children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-        url: /
+      - title: "Home"
+        url: https://ifoadatascienceresearch.github.io/risk-modelling/
   - title: "Twitter Sentiment"
     children:
-      - title: "Child Page C1"
-        url: /
+      - title: "Home"
+        url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
       - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
+        url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
   - title: "Federated Learning"
     children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
+      - title: "Home"
+        url: https://ifoadatascienceresearch.github.io/federated-learning/
+      - title: "Insurance: Collaboration without compromise"
+        url: https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/
         
 risk-nav:
   - title: "Publications"
     children:
       - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
         url: /
   - title: "Blog Posts"
     children:
