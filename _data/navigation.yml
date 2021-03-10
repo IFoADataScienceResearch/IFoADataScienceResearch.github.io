@@ -50,10 +50,20 @@ risk-nav:
         url: /
   - title: "Blog Posts"
     children:
-      - title: "Child Page B1"
+      - title: "Insurance: Collaboration without compromise"
+        url: https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/
+        
+federated-nav:
+  - title: "Publications"
+    children:
+      - title: "Child Page A1"
         url: /
-      - title: "Child Page B2"
+      - title: "Child Page A2"
         url: /
+  - title: "Blog Posts"
+    children:
+      - title: "Insurance: Collaboration without compromise"
+        url: https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/
         
 twitter-nav:
   - title: "Publications"
@@ -66,6 +76,3 @@ twitter-nav:
     children:
       - title: "Keyboard Warriors"
         url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
-      - title: "Child Page B2"
-        url: /
-
