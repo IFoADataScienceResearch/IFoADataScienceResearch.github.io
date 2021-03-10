@@ -1,7 +1,7 @@
 ---
 permalink: /twitter-sentiment/
 classes: wide
-title: "Twitter Sentiment Workstream"
+title: "Natural Language Processing Workstream"
 author_profile: false
 sidebar:
   title: "Content"
