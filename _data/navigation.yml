@@ -54,4 +54,18 @@ risk-nav:
         url: /
       - title: "Child Page B2"
         url: /
+        
+  twitter-nav:
+  - title: "Publications"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+  - title: "Blog Posts"
+    children:
+      - title: "Keyboard Warriors"
+        url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
+      - title: "Child Page B2"
+        url: /
 
