@@ -9,9 +9,6 @@ main:
     url: /posts/
   - title: "About"
     url: /about/
-  - title: "Tags"
-    url: /tags/
-
 
 about-nav:
   - title: "Publications"
