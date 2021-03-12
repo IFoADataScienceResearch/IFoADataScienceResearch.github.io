@@ -3,6 +3,7 @@ permalink: /federated-learning/
 classes: wide
 title: "Federated Learning Workstream"
 author_profile: false
+toc: true
 sidebar:
   title: "Content"
   nav: federated-nav
