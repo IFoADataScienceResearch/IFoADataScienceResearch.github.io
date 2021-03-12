@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title                   : IFoA Data Science Research
-# subtitle                : Part of Data Science Working Party
+# subtitle                : Part of IFoA Data Science Working Party
 email                   :
 description             : >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -63,21 +63,20 @@ plugins:
 # author sidebar
 author:
   name   : "DS Research"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/favicon-32x32.png"
   bio    : "The objective of the Data Science Research workstream is to identify interesting actuarial data 
-            science research problems and data sets and conduct data science research and case studies. 
+            science research problems and data sets and conduct data science research and case studies." 
             
-            We also collate Data Science use cases and case studies and make them accessible."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io"
 
 footer:
   links:
