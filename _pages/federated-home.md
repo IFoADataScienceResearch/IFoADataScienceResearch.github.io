@@ -23,3 +23,9 @@ sidebar:
 6. Jonathan Bowden
 7. Steven Perkins
 8. Zack Chan
+
+## What is Federated Learning?
+
+Federated LEarning is a new MAchine Learning Model, allowing local machines to build a model together while holding training data on device. This removes the need to store sensitive training data on a central server.
+
+## How does Federated Learning work?
