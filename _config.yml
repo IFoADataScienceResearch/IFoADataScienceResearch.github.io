@@ -86,6 +86,11 @@ footer:
     - label: "Tags"
       icon: "fas fa-tags"
       url: /tags/
+    - label: "About"
+      icon: "far fa-question-circle"
+      url: /about/
+      
+      
 #    - label: "GitHub"
 #      icon: "fas fa-book-open"
 #      url: "https://github.com/"
