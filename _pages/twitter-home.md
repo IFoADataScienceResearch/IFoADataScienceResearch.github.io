@@ -3,6 +3,7 @@ permalink: /twitter-sentiment/
 classes: wide
 title: "Natural Language Processing Workstream"
 author_profile: false
+toc: true
 sidebar:
   title: "Content"
   nav: twitter-nav
