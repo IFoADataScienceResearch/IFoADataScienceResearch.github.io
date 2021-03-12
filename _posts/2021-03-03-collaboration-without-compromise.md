@@ -11,7 +11,7 @@ tags:
   - Federated Learning
 ---
 
-<small>Originally published by The Actuary, March 2021. © The Institute and Faculty of Actuaries. <a href="https://www.theactuary.com/features/2021/02/26/insurance-collaboration-without-compromise"> Click here to see the original article</a>.</small>
+<small>Originally published by The Actuary, March 2021. © The Institute and Faculty of Actuaries. <a href="https://www.theactuary.com/features/2021/02/26/insurance-collaboration-without-compromise"> Click here to read the original article</a>.</small>
 
 <b> Małgorzata Śmietanka introduces the opportunities for federated learning and privacy-preserving data access in insurance. </b>
 
