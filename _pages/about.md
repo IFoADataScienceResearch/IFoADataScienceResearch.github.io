@@ -3,6 +3,7 @@ permalink: /about/
 classes: wide
 title: "About"
 author_profile: false
+toc: true
 sidebar:
   title: "Site Navigation"
   nav: about-nav
