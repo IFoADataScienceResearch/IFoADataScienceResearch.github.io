@@ -8,7 +8,23 @@ sidebar:
   nav: twitter-nav
 ---
 
-<b> What is Sentiment Analysis? </b>
+## Aims
+1.	Produce a case study on classifying Twitter messages on COVID-19 and other topics using NLP and supervised machine learning techniques
+2.	Deep learning models
+3.	Sentiment analysis
+4.	Insights on insurance and insurers
+5.	Topical analysis
+
+## Members
+1. John Ng (Lead)
+2. Melanie Zhang
+3. Arshad Khan
+4. Claudio Giancaterino
+5. Neptune Jin
+6. Zack Chan
+
+
+## What is Sentiment Analysis?
 
 Sentiment analysis, also known as opinion mining or emotion AI, refer to the use of Natural Language Processing (NLP) and text analytics to automatically determine the overall feeling a writer is expressing in a piece of text.
 
@@ -38,28 +54,3 @@ Reputation and Brand management
 Market Research, Competitor Analysis
   </li>
 </ul>
-
-<b> Research Aims </b>
-
-In this work, we consider the problem of classifying sentiment of UK Twitter messages on COVID19 using Natural Language Processing (NLP) and supervised Machine Learning techniques
-
-Our research considers the following: 
-<ul>
-  <li>
-    Labelling sentiments using emoticons (a noisy method) 
-  </li>
-  <li>
-    Data enrichment using a non-COVID Twitter dataset (sentiment140) 
-  </li>
-  <li>
-    NLP pipeline for pre-processing Twitter data
-  </li>
-  <li>
-Encoding methods: Bag-of-words (BoW),Term Frequency-Inverse Document Frequency (TF-IDF), GLoVE (Global Vectors for Word Representation) 
-  </li>
-  <li>
-    Comparison of ‘out-of-the-box sentiment classifier’ vs Machine Learning predictive models: Random Forest, Logistic Regression, Support Vector Machines, Naive Bayes, XGBoost 
-  </li>
-  <li>
-    Visualisation of time-series results for overall UK Twitter sentiment, and for Tweets relating to keywords, such as ‘nhs’ ‘stayathome’, ‘work’, ‘government’
-
