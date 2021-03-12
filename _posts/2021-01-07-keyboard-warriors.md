@@ -1,5 +1,5 @@
 ---
-title: "Keyboard Warriors"
+title: "Insurance and social media: Keyboard warriors"
 author_profile: false 
 sidebar:
   - title: "John Ng"
