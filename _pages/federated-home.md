@@ -15,11 +15,11 @@ sidebar:
 
 ## Members
 
-Małgorzata Śmietanka (Lead)
-Claudio Giancaterino
-Dylan Liew
-Arshad Khan
-John Ng
-Jonathan Bowden
-Steven Perkins
-Zack Chan
+1. Małgorzata Śmietanka (Lead)
+2. Claudio Giancaterino 
+3. Dylan Liew
+4. Arshad Khan
+5. John Ng
+6. Jonathan Bowden
+7. Steven Perkins
+8. Zack Chan
