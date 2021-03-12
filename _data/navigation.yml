@@ -7,10 +7,11 @@ main:
     url: https://ifoadatascienceresearch.github.io/federated-learning/
   - title: "Posts"
     url: /posts/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Tags"
+    url: /tags/
+
 
 about-nav:
   - title: "Publications"
