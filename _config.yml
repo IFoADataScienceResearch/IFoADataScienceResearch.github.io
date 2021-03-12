@@ -81,9 +81,12 @@ author:
 
 footer:
   links:
-    - label: "All Posts"
-      icon: /assets/images/ifoa.jpg
+    - label: "Posts"
+      icon: "fas fa-book-open"
       url: /posts/
+    - label: "Tags"
+      icon: "fas fa-tags"
+      url: /tags/
 #    - label: "GitHub"
 #      icon: "fas fa-book-open"
 #      url: "https://github.com/"
