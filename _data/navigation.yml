@@ -30,7 +30,7 @@ about-nav:
     children:
       - title: "Home"
         url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
-      - title: "Keyboard Warriors"
+      - title: "Insurance and social media: Keyboard Warriors"
         url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
   - title: "Federated Learning"
     children:
