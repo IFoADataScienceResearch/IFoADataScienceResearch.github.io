@@ -29,11 +29,11 @@ We plan to form additional workstreams in the future:
 
 ## Structure
 
-<b> Chair: </b> <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a>
-<b> Federated Learning workstream lead: </b> <a href href="https://www.linkedin.com/in/ma%C5%82gorzata-%C5%9Bmietanka-a1963a112/"> Malgorzata Smietanka </a>
-<b> NLP workstream lead: </b> John Ng
-<b> Supervised Learning workstream lead: /b> Neptune Jin
-<b> Webmaster and contents lead: </b> Zack 
+<b> Chair: </b> <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
+<b> Federated Learning workstream lead: </b> <a href href="https://www.linkedin.com/in/ma%C5%82gorzata-%C5%9Bmietanka-a1963a112/"> Malgorzata Smietanka </a> <br>
+<b> NLP workstream lead: </b> John Ng <br>
+<b> Supervised Learning workstream lead: /b> Neptune Jin <br>
+<b> Webmaster and contents lead: </b> Zack <br>
 
 
 ## Disclaimer
