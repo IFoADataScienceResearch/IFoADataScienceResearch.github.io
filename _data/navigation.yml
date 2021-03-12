@@ -5,8 +5,8 @@ main:
     url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
   - title: "Federated Learning"
     url: https://ifoadatascienceresearch.github.io/federated-learning/
-  - title: "Posts"
-    url: /posts/
+  - title: "Technology"
+    url: /404/
   - title: "About"
     url: /about/
 
