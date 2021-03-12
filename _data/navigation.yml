@@ -70,5 +70,5 @@ twitter-nav:
         url: /
   - title: "Blog Posts"
     children:
-      - title: "Keyboard Warriors"
+      - title: "Insurance and social media: Keyboard Warriors"
         url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
