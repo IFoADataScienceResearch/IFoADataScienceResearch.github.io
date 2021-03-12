@@ -3,6 +3,7 @@ permalink: /supervised-learning/
 classes: wide
 title: "Supervised Learning Workstream"
 author_profile: false
+toc: true
 sidebar:
   title: "Content"
   nav: super-nav
