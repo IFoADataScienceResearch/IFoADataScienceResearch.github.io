@@ -81,11 +81,11 @@ author:
 
 footer:
   links:
-#    - label: "DS Research"
-#      icon: /assets/images/ifoa.jpg
-#      url: /
+    - label: "All Posts"
+      icon: /assets/images/ifoa.jpg
+      url: /posts/
 #    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
+#      icon: "fas fa-book-open"
 #      url: "https://github.com/"
 
 defaults:
