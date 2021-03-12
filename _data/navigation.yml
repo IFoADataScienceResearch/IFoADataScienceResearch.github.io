@@ -38,15 +38,15 @@ about-nav:
       - title: "Insurance: Collaboration without compromise"
         url: https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/
         
-risk-nav:
+super-nav:
   - title: "Publications"
     children:
       - title: "Child Page A1"
         url: /
   - title: "Blog Posts"
     children:
-      - title: "Insurance: Collaboration without compromise"
-        url: https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/
+      - title: "Placeholder"
+        url: /
         
 federated-nav:
   - title: "Publications"
