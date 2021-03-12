@@ -1,11 +1,11 @@
 ---
-permalink: /risk-modelling/
+permalink: /supervised-learning/
 classes: wide
-title: "Risk Modelling Workstream"
+title: "Supervised Learning Workstream"
 author_profile: false
 sidebar:
   title: "Content"
-  nav: risk-nav
+  nav: super-nav
 ---
 
-Placeholder landing page for Risk Modelling work stream.
+Placeholder landing page for Supervised Learning work stream.
