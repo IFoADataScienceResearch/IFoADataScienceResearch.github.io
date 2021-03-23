@@ -14,7 +14,8 @@ tags:
   - NLP
 ---
 
-Originally published by The Actuary, February 2021. © The Institute and Faculty of Actuaries. <a href="https://www.theactuary.com/2021/02/04/insurance-and-social-media-keyboard-worriers"> Click here to read the original article.</a>
+Originally published by The Actuary, February 2021. © The Institute and Faculty of Actuaries. <br>
+<a href="https://www.theactuary.com/2021/02/04/insurance-and-social-media-keyboard-worriers"> Click here to read the original article.</a>
 {: .notice}
 
 <b> John Ng and Melanie Zhang discuss how they analysed Twitter sentiment relating to COVID-19 and insurance – and how insurers could use such analysis </b>
