@@ -18,4 +18,4 @@ sidebar:
 <br>
 <br>
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/jonathan.jpg){: .align-left}{: width="150" } Jonathan is an Associate Actuary and Data Scientist with experience in Banking and Non-life Insurance and has developed models across a range of applications, including statistical risk analyses and data investigations for banks, insurers and government entities. He is passionate about solving problems using machine learning techniques and is always looking to learn more. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/jonathan.jpg){: .align-left}{: width="150" } <small> Jonathan is an Associate Actuary and Data Scientist with experience in Banking and Non-life Insurance and has developed models across a range of applications, including statistical risk analyses and data investigations for banks, insurers and government entities. He is passionate about solving problems using machine learning techniques and is always looking to learn more. </small>
