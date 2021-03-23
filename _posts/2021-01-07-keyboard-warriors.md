@@ -1,6 +1,7 @@
 ---
 title: "Insurance and social media: Keyboard warriors"
 author_profile: false 
+classes: wide
 sidebar:
   - title: "John Ng"
     image: /assets/images/bio/john.jfif
