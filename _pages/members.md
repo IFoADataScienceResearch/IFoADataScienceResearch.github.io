@@ -3,7 +3,6 @@ permalink: /members/
 classes: wide
 title: "Members' Profile"
 author_profile: false
-toc: true
 sidebar:
   title: "Site Navigation"
   nav: about-nav
