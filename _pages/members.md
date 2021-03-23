@@ -8,7 +8,7 @@ sidebar:
   nav: about-nav
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/john.jfif){: .align-left}{: width="150" } The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is left aligned.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/john.jfif){: .align-left}{: width="150" } <small> Experienced data scientist and qualified actuary (FIA) passionate about democratizing data analytics and explainable machine learning in enterprises and for social good. Pharmacist with experience from hospital, primary care and retail business. </small>
 
 <br>
 <br>
