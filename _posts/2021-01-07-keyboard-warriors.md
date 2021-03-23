@@ -13,10 +13,11 @@ tags:
   - Actuary Magazine
   - NLP
 ---
-<b> John Ng and Melanie Zhang discuss how they analysed Twitter sentiment relating to COVID-19 and insurance – and how insurers could use such analysis </b>
 
 Originally published by The Actuary, February 2021. © The Institute and Faculty of Actuaries. <a href="https://www.theactuary.com/2021/02/04/insurance-and-social-media-keyboard-worriers"> Click here to read the original article.</a>
 {: .notice}
+
+<b> John Ng and Melanie Zhang discuss how they analysed Twitter sentiment relating to COVID-19 and insurance – and how insurers could use such analysis </b>
 
 Twitter offers the public the opportunity to give their real-time thoughts on world events by posting short texts known as ‘tweets’. The COVID-19 pandemic was the defining event of 2020, which makes it a great subject for sentiment analysis – the use of natural language processing to automatically determine the emotion a writer is expressing in a piece of text – or tweets. We wanted to see if we could use Twitter data relating to COVID-19 in the UK to uncover insights pertinent to public interest and the insurance industry.
 
