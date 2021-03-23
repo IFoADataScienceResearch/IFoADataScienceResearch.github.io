@@ -1,6 +1,7 @@
 ---
 title: "Insurance: Collaboration without compromise"
 author_profile: false 
+classes: wide
 sidebar:
   - title: "MAŁGORZATA ŚMIETANKA"
     image: /assets/images/bio/malgorzata.jfif
