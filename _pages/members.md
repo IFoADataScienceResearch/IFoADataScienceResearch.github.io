@@ -1,5 +1,5 @@
 ---
-permalink: /members
+permalink: /members/
 classes: wide
 title: "Members' Profile"
 author_profile: false
