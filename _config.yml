@@ -86,6 +86,9 @@ footer:
     - label: "Tags"
       icon: "fas fa-tags"
       url: /tags/
+    - label: "Members"
+      icon: "fas fa-user-astronaut"
+      url: /members/
     - label: "About"
       icon: "far fa-question-circle"
       url: /about/
