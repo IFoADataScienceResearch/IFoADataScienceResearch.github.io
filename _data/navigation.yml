@@ -13,6 +13,8 @@ main:
     url: /events/
   - title: "Tags"
     url: /tags/
+  - title: "Downloads"
+    url: /downloads/
   - title: "About"
     url: /about/
 
