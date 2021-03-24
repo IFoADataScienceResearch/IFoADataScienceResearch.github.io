@@ -30,4 +30,4 @@ sidebar:
 Federated Learning is a new Machine Learning Model, allowing local machines to build a model together while holding training data on device. This removes the need to store sensitive training data on a central server.
 
 ## How does Federated Learning work?
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=Jy7ozgwovgg&t=71s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jy7ozgwovgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
