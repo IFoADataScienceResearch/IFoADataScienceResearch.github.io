@@ -28,7 +28,7 @@ We plan to form additional workstreams in the future:
 3. Unsupervised Learning
 4. Autoencoders   
 
-## Structure
+## Team
 
 Chair: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
 Federated Learning workstream lead: <a href href="https://www.linkedin.com/in/ma%C5%82gorzata-%C5%9Bmietanka-a1963a112/"> Malgorzata Smietanka </a> <br>
