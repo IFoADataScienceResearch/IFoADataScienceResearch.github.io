@@ -9,6 +9,10 @@ main:
         url: https://ifoadatascienceresearch.github.io/federated-learning/
       - title: "Technology"
         url: /404/
+  - title: "Events"
+    url: /events/
+  - title: "Tags"
+    url: /tags/
   - title: "About"
     url: /about/
 
