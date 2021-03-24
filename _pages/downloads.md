@@ -8,5 +8,5 @@ author_profile: false
 ---
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/downloads/datavis.PNG){: .align-left}{: width="150" } 
-<a href="assets/pdfs/Data Visualisation in Insurance.pdf">Data Visualisation in Insurance</a> <br> 
+<a href="assets/pdfs/Data Visualisation in Insurance.pdf" download="download">Data Visualisation in Insurance</a> <br> 
 <small> Learn more as Małgorzata introduces visualisation libraries for python. </small> <br>
