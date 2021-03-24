@@ -3,7 +3,7 @@ permalink: /downloads/
 classes: wide
 title: "Download the latest materials here"
 header:
-  overlay_image: /assets/images/splash-home.jpg
+  overlay_image: /assets/images/splash-download.jpg
 author_profile: false
 ---
 
