@@ -69,3 +69,9 @@ twitter-nav:
     children:
       - title: "Insurance and social media: Keyboard Warriors"
         url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
+        
+tech-nav:
+  - title: "Talks"
+    children:
+      - title: "Data Visualisation in Insurance"
+        url: /assets/pdfs/Data Visualisation in Insurance
