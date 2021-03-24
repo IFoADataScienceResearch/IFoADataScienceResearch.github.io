@@ -53,6 +53,10 @@ super-nav:
         url: /
         
 federated-nav:
+  - title: "Events"
+    children:
+      - title: "Data science - How actuaries can optimize usage of data science techniques within their sectors"
+        url: https://www.actuaries.org.uk/learn-develop/attend-event/data-science-how-actuaries-can-optimize-usage-data-science-techniques-within-their-sectors
   - title: "Publications"
     children:
       - title: "Child Page A1"
