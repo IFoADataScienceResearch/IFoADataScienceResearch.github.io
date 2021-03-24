@@ -1,14 +1,14 @@
 main:
-#  - title: "Workstreams"
-#    sublinks:
-  - title: "Supervised Learning"
-    url: https://ifoadatascienceresearch.github.io/supervised-learning/
-  - title: "NLP"
-    url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
-  - title: "Federated Learning"
-    url: https://ifoadatascienceresearch.github.io/federated-learning/
-  - title: "Technology"
-    url: /404/
+  - title: "Workstreams"
+    sublinks:
+      - title: "Supervised Learning"
+        url: https://ifoadatascienceresearch.github.io/supervised-learning/
+      - title: "NLP"
+        url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
+      - title: "Federated Learning"
+        url: https://ifoadatascienceresearch.github.io/federated-learning/
+      - title: "Technology"
+        url: /404/
   - title: "About"
     url: /about/
 
