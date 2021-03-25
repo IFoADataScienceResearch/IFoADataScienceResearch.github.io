@@ -13,7 +13,7 @@ sidebar:
 <br>
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/malgorzata.jfif){: .align-left}{: width="150" } Małgorzata Śmietanka <br> <small>
-The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is left aligned. </small>
+Małgorzata Śmietanka is PhD researcher in the UCL Computer Science Department, leading the Actuari project at UCL and insurance industry collaboration through UCL spinout Actuari Ltd </small>
 
 <br>
 
