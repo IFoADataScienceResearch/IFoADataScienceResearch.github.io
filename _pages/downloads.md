@@ -30,7 +30,6 @@ author_profile: false
 <br>
 <br>
 <br>
-<br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/downloads/twittersentimentanalysis.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/IFoA%20COVID%20Twitter%20Analysis_02072020.pdf" download>Twitter SEntiment Analysis: What does Social Media tell us about coronavirus concerns in the UK?</a> <br> 
+<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/IFoA%20COVID%20Twitter%20Analysis_02072020.pdf" download>Twitter Sentiment Analysis: What does Social Media tell us about coronavirus concerns in the UK?</a> <br> 
 <small> In this work, we consider the problem of classifying sentiment of UK Twitter messages on COVID-19 using Natural Language Processing (NLP) and supervised Machine Learning techniques.  </small> 
