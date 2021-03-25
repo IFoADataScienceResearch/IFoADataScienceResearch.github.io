@@ -8,12 +8,12 @@ sidebar:
   nav: about-nav
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/john.jfif){: .align-left}{: width="150" } John Ng <br> <small> John is an experienced data scientist and qualified actuary (FIA) passionate about democratizing data analytics and explainable machine learning in enterprises and for social good. Pharmacist with experience from hospital, primary care and retail business. </small>\
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/john.jfif){: .align-left}{: width="150" } John Ng <br> <small> John is an experienced data scientist and qualified actuary (FIA) passionate about democratizing data analytics and explainable machine learning in enterprises and for social good. Pharmacist with experience from hospital, primary care and retail business. </small>
 ***
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/malgorzata.jfif){: .align-left}{: width="150" } Małgorzata Śmietanka <br> <small>
-Małgorzata Śmietanka is PhD researcher in the UCL Computer Science Department, leading the Actuari project at UCL and insurance industry collaboration through UCL spinout Actuari Ltd </small>\
+Małgorzata Śmietanka is PhD researcher in the UCL Computer Science Department, leading the Actuari project at UCL and insurance industry collaboration through UCL spinout Actuari Ltd </small>
 ***
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/jonathan.jpg){: .align-left}{: width="150" } Jonathan Bowden <br> <small> Jonathan is an Associate Actuary and Data Scientist with experience in Banking and Non-life Insurance and has developed models across a range of applications, including statistical risk analyses and data investigations for banks, insurers and government entities. He is passionate about solving problems using machine learning techniques and is always looking to learn more. </small>\
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/jonathan.jpg){: .align-left}{: width="150" } Jonathan Bowden <br> <small> Jonathan is an Associate Actuary and Data Scientist with experience in Banking and Non-life Insurance and has developed models across a range of applications, including statistical risk analyses and data investigations for banks, insurers and government entities. He is passionate about solving problems using machine learning techniques and is always looking to learn more. </small>
 ***
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/zack.JPG){: .align-left}{: width="150" } Zack Chan <br> <small> Zack is a qualified actuary... </small>\
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/zack.JPG){: .align-left}{: width="150" } Zack Chan <br> <small> Zack is a qualified actuary... </small>
 ***
