@@ -21,12 +21,8 @@ main:
 about-nav:
   - title: "Publications"
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
+      - title: "Federated Learning for Privacy-Preserving Data Access"
+        url: https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Federated%20Learning%20for%20Privacy-Preserving%20Data%20Access.pdf
   - title: "Risk Modelling"
     children:
       - title: "Home"
@@ -47,6 +43,8 @@ about-nav:
     children:
       - title: "Home"
         url: https://ifoadatascienceresearch.github.io/technology/
+      - title: "Pieces of the technology puzzle"
+        url: https://ifoadatascienceresearch.github.io/blog/pieces-of-the-technology-puzzle/
         
 super-nav:
   - title: "Publications"
