@@ -18,3 +18,7 @@ Małgorzata Śmietanka is PhD researcher in the UCL Computer Science Department,
 <br>
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/jonathan.jpg){: .align-left}{: width="150" } Jonathan Bowden <br> <small> Jonathan is an Associate Actuary and Data Scientist with experience in Banking and Non-life Insurance and has developed models across a range of applications, including statistical risk analyses and data investigations for banks, insurers and government entities. He is passionate about solving problems using machine learning techniques and is always looking to learn more. </small>
+
+<br>
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/zack.JPG){: .align-left}{: width="150" } Zack Chan <br> <small> Zack is a qualified actuary... </small>
