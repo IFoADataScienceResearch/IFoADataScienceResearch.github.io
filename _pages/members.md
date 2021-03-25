@@ -7,9 +7,9 @@ sidebar:
   title: "Site Navigation"
   nav: about-nav
 ---
-
+<div>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/john.jfif){: .align-left}{: width="150" } John Ng <br> <small> John is an experienced data scientist and qualified actuary (FIA) passionate about democratizing data analytics and explainable machine learning in enterprises and for social good. Pharmacist with experience from hospital, primary care and retail business. </small>
-***
+</div>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/malgorzata.jfif){: .align-left}{: width="150" } Małgorzata Śmietanka <br> <small>
 Małgorzata Śmietanka is PhD researcher in the UCL Computer Science Department, leading the Actuari project at UCL and insurance industry collaboration through UCL spinout Actuari Ltd </small>
 ***
