@@ -65,10 +65,8 @@ federated-nav:
         url: https://www.actuaries.org.uk/learn-develop/attend-event/data-science-how-actuaries-can-optimize-usage-data-science-techniques-within-their-sectors
   - title: "Publications"
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
+      - title: "Federated Learning for Privacy-Preserving Data Access"
+        url: https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Federated%20Learning%20for%20Privacy-Preserving%20Data%20Access.pdf
   - title: "Blog Posts"
     children:
       - title: "Insurance: Collaboration without compromise"
