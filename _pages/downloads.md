@@ -14,6 +14,7 @@ author_profile: false
 <br>
 <br>
 <br>
+<br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/downloads/EMLpipeline.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Modular%20Framework%20of%20Machine%20Learning%20Pipeline.pdf" download>Modular Framework of Machine Learning Pipeline (Preview)</a> <br> 
 <small> In this presentation, John Ng introduced the Actuarial Data Science Control Cycle and a modular framework of streamlining analytics and machine learning workflow in enterprises. (IFoA Data Science Webinar Series; IFoA Asia Conference 2020) </small> 
