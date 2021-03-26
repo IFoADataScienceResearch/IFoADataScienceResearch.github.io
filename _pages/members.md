@@ -8,17 +8,17 @@ sidebar:
   nav: about-nav
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/john.jfif){: .align-left}{: width="150" } John Ng <br> <small> John Ng is Senior Data Scientist and Actuary at RGA, providing predictive modelling solutions and research insights for clients on mortality, morbidity, biometrics, actuarial pricing and digital distribution. Previously he designed and led Automated Machine Learning platforms to price a range of personal lines products. John is passionate about promoting the adoption of advance and responsible data science within the actuarial community. </small>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/john.jfif){: .align-left}{: width="200" } John Ng <br> <small> John Ng is Senior Data Scientist and Actuary at RGA, providing predictive modelling solutions and research insights for clients on mortality, morbidity, biometrics, actuarial pricing and digital distribution. Previously he designed and led Automated Machine Learning platforms to price a range of personal lines products. John is passionate about promoting the adoption of advance and responsible data science within the actuarial community. </small>
 <br>
 <br>
 <hr>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/malgorzata.jfif){: .align-left}{: width="150" } Małgorzata Śmietanka <br> <small>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/malgorzata.jfif){: .align-left}{: width="200" } Małgorzata Śmietanka <br> <small>
 Małgorzata Śmietanka is PhD researcher in the UCL Computer Science Department, leading the Actuari project at UCL and insurance industry collaboration through UCL spinout Actuari Ltd </small>
 <br>
 <br>
 <br>
 <hr>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/jonathan.jpg){: .align-left}{: width="150" } Jonathan Bowden <br> <small> Jonathan is an Associate Actuary and Data Scientist with experience in Banking and Non-life Insurance and has developed models across a range of applications, including statistical risk analyses and data investigations for banks, insurers and government entities. He is passionate about solving problems using machine learning techniques and is always looking to learn more. </small>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/jonathan.jpg){: .align-left}{: width="200" } Jonathan Bowden <br> <small> Jonathan is an Associate Actuary and Data Scientist with experience in Banking and Non-life Insurance and has developed models across a range of applications, including statistical risk analyses and data investigations for banks, insurers and government entities. He is passionate about solving problems using machine learning techniques and is always looking to learn more. </small>
 <hr>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/zack.JPG){: .align-left}{: width="150" } Zack Chan <br> <small> Zack is a qualified actuary... </small>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/zack.JPG){: .align-left}{: width="200" } Zack Chan <br> <small> Zack is a qualified actuary... </small>
 
