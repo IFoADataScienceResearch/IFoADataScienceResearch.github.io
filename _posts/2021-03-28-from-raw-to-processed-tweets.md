@@ -52,6 +52,16 @@ vocab <- create_vocabulary(it_train,
 ```
 <img src="/assets/images/NLP/vocab.PNG" style="width: auto; height: auto">
 
+We then pruned the entire list of vocabulary using prune_vocabulary which filters the input vocabulary and throws out very frequent and very infrequent terms. More details can be found in the text2vec RDocumentation <a href="https://www.rdocumentation.org/packages/text2vec/versions/0.6/topics/prune_vocabulary">here</a>.
+
+An important decision here was to select the parameters for which a word would be retained based on:
+1. the minimum number of occurences over all documents (term_count_min)
+2. the minimum number of documents containing this term (doc_count_min)
+3. the maximum proportion of documents which should contain this term (doc_proportion_max)
+4. the maximum number of terms in vocabulary (vocab_term_max). Note that this is to limit the absolute size of the vocabulary and does not have an effect here as it is set to the original number of rows.
+
+This decision was arrived at after performing a 5 fold cross validation over a total grid space of 108 cells, each representing a unique combination of each of the above parameters. The optimal combination was then selected based on AUC.
+
 ```r
 # parameters derived from cross-validation above
 pruned_vocab <- prune_vocabulary(vocab, 
@@ -74,7 +84,7 @@ An example of a DTM is shown below, with the corresponding column names.
 <img src="/assets/images/NLP/dtm_fold_train.PNG" style="width: auto; height: auto">
 <img src="/assets/images/NLP/colnames_dtm.PNG" style="width: auto; height: auto">
 
-This is the base data structure that will be used as input in the modelling stage, after a transformation with TF-IDF in the next step. DTMs are often stored as a sparse matrix object, which is a matrix in which most of the elements are zero. This is a more efficient data structure compared to using standard dense-matrix structure, requireing less storage. [<a href="https://en.wikipedia.org/wiki/Sparse_matrix">1</a>].
+This is the base data structure that will be used as input in the modelling stage, after a transformation with TF-IDF in the next step. DTMs are often stored as a sparse matrix object, which is a matrix in which most of the elements are zero. This is a more efficient data structure compared to using standard dense-matrix structure, requiring less storage [<a href="https://en.wikipedia.org/wiki/Sparse_matrix">2</a>].
 
 ```r
 ## Vectorisation - transform list of tokens into vector space
