@@ -12,7 +12,7 @@ tags:
   - NLP
 ---
 
-This is a first of a two part series in the data processing phase of oour NLP pipeline. <br>
+This is a first of a two part series in the data processing phase of our NLP pipeline. <br>
 {: .notice}
 
 ## Step 1: Reading in the data
@@ -26,7 +26,7 @@ text_processed_train <- DF_tweets_train$text_clean
 text_processed_train <- gsub("'", "", text_processed_train)
 text_processed_train <- gsub("-", "", text_processed_train)
 ```
-<img src="/assets/images/NLP/df_tweets_train.png" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images/NLP/df_tweets_train.PNG" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
 ## Step 2: 
 
