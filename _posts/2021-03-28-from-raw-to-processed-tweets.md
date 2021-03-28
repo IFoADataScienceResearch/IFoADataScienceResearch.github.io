@@ -12,8 +12,8 @@ tags:
   - NLP
 ---
 
-This is a first of a two part series in the data processing phase of our NLP pipeline. <br>
-{: .notice}
+#This is a first of a two part series in the data processing phase of our NLP pipeline. <br>
+#{: .notice}
 
 ## Step 1: Reading in the data
 The first step is to read in the the raw tweets data that has been hydrated using a Twitter API. Two minor processing steps are performed to substitute ' and - from the tweets. A sample output from DF_tweets_train$text_clean is shown below.
