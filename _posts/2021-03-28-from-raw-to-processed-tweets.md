@@ -39,7 +39,7 @@ it_train <- itoken(text_processed_train,
                    progressbar = FALSE
 )
 ```
-
+Once we have the iterator object, we can now count the appearance of each unique word using create_vocabulary. We also filtered out stopwords in this step and selected 1-gram as an extraction criteria. This means that in the vocab dataframe, we will only see single the term_count and doc_count of single words. term_count is defined as the number of times a particular word appears throughout all documents (or tweets), while doc_count is the number of documents (or tweets) in which that word appeard. It comes as no surprise that the words "and", "to" and "the" appeared the most often in tweets as shown below.
 
 ```r
 stop_words = c("i")
@@ -47,7 +47,10 @@ vocab <- create_vocabulary(it_train,
                            ngram = c(1,1),
                            stopwords = stop_words
 ) ## 14492
+```
+<img src="/assets/images/NLP/vocab.PNG" style="width: auto; height: auto">
 
+```r
 # parameters derived from cross-validation above
 pruned_vocab <- prune_vocabulary(vocab, 
                                  term_count_min = 2, 
