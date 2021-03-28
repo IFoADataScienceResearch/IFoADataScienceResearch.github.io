@@ -3,9 +3,9 @@ title: "From raw to processed tweets"
 author_profile: false 
 classes: wide
 comments: true
-sidebar:
-  - title: "John Ng"
-    image: /assets/images/bio/john.jfif
+#sidebar:
+#  - title: "John Ng"
+#    image: /assets/images/bio/john.jfif
 categories:
   - Blog
 tags:
@@ -28,17 +28,7 @@ text_processed_train <- gsub("-", "", text_processed_train)
 ```
 <img src="/assets/images/NLP/df_tweets_train.PNG" style="width: auto; height: auto">
 
-## Step 2: Creating a Document Term Matrix (DTM)
-A DTM describes the frequency of terms that occur in a collection of documents (defined as individual tweets in our case). This is represented in a matrix form where
-1. each row represetns one document
-2. each column represents one term or word
-3. the value in each matrix cell represents the number of times it appeared in that document (or tweet)
-
-An example of a DTM is shown below, with the corresponding column names.
-
-<img src="/assets/images/NLP/dtm_fold_train.PNG" style="width: auto; height: auto">
-<img src="/assets/images/NLP/colnames_dtm.PNG" style="width: auto; height: auto">
-
+## Step 2: Pruning the vocabulary
 
 ```html
 it_train <- itoken(text_processed_train, 
@@ -62,7 +52,22 @@ pruned_vocab <- prune_vocabulary(vocab,
                                  #doc_proportion_min = 0.0001, 
                                  vocab_term_max = nrow(vocab)
 ) ## 6144
+```
 
+## Step 3: Creating a Document Term Matrix (DTM)
+A DTM describes the frequency of terms that occur in a collection of documents (defined as individual tweets in our case). This is represented in a matrix form where
+1. each row represetns one document
+2. each column represents one term or word
+3. the value in each matrix cell represents the number of times it appeared in that document (or tweet)
+
+An example of a DTM is shown below, with the corresponding column names.
+
+<img src="/assets/images/NLP/dtm_fold_train.PNG" style="width: auto; height: auto">
+<img src="/assets/images/NLP/colnames_dtm.PNG" style="width: auto; height: auto">
+
+This is the base data structure that will be used as input in the modelling stage, after a transformation with TF-IDF in the next step. DTMs are often stored as a sparse matrix object, which is a matrix in which most of the elements are zero. This is a more efficient data structure compared to using standard dense-matrix structure, requireing less storage. [<a href="https://en.wikipedia.org/wiki/Sparse_matrix">1</a>].
+
+```html
 ## Vectorisation - transform list of tokens into vector space
 vectorizer <- vocab_vectorizer(pruned_vocab)
 
@@ -70,3 +75,4 @@ vectorizer <- vocab_vectorizer(pruned_vocab)
 dtm_train  <- create_dtm(it_train, vectorizer)
 dim(dtm_train) ##7000x6141
 ```
+## Step 4: Term Frequency Inverse Document Frequency (TF-IDF)
