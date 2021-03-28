@@ -28,7 +28,16 @@ text_processed_train <- gsub("-", "", text_processed_train)
 ```
 <img src="/assets/images/NLP/df_tweets_train.PNG" style="width: auto; height: auto">
 
-## Step 2: 
+## Step 2: Creating a Document Term Matrix (DTM)
+A DTM describes the frequency of terms that occur in a collection of documents (defined as individual tweets in our case). This is represented in a matrix form where
+1. each row represetns one document
+2. each column represents one term or word
+3. the value in each matrix cell represents the number of times it appeared in that document (or tweet)
+
+An example of a DTM is shown below, with the corresponding column names.
+
+<img src="/assets/images/NLP/dtm_fold_train.PNG" style="width: auto; height: auto">
+<img src="/assets/images/NLP/colnames_dtm.PNG" style="width: auto; height: auto">
 
 
 ```html
