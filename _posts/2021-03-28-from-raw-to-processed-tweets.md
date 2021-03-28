@@ -60,7 +60,7 @@ An important decision here was to select the parameters for which a word would b
 3. the maximum proportion of documents which should contain this term (doc_proportion_max)
 4. the maximum number of terms in vocabulary (vocab_term_max). Note that this is to limit the absolute size of the vocabulary and does not have an effect here as it is set to the original number of rows.
 
-This decision was arrived at after performing a 5 fold cross validation over a total grid space of 108 cells, each representing a unique combination of each of the above parameters. The optimal combination was then selected based on AUC, shown below.
+This decision was arrived at after performing a 5 fold cross validation over a total grid space of 108 cells, each representing a unique combination of each of the above parameters. The optimal combination was then selected based on AUC, as shown below. The cross validation steps are similar to what is presented in steps 1 to 3 here, except that these steps are applied to different cuts of the data using unique combination of input parameters into prune_vocabulary. The algorithm used in cross validation is glmnet.
 
 ```r
 # parameters derived from cross-validation above
@@ -76,7 +76,7 @@ pruned_vocab <- prune_vocabulary(vocab,
 
 ## Step 3: Creating a Document Term Matrix (DTM)
 A DTM describes the frequency of terms that occur in a collection of documents (defined as individual tweets in our case). This is represented in a matrix form where
-1. each row represetns one document
+1. each row represetns one document (or tweet)
 2. each column represents one term or word
 3. the value in each matrix cell represents the number of times it appeared in that document (or tweet)
 
@@ -96,3 +96,26 @@ dtm_train  <- create_dtm(it_train, vectorizer)
 dim(dtm_train) ##7000x6141
 ```
 ## Step 4: Term Frequency Inverse Document Frequency (TF-IDF)
+This final step is to compute TF-IDF from the DTM in step 3. TF-IDF consists of two metrics:
+1. Term frequency of a word in a document (or tweet). For example, the word "and" appeared a cumulative 2520 times in our dataset.
+2. Inverse document frequency of a word across all documents (or tweets). For example, the word "and" appeared in 1948 tweetes our of 7000 tweets.
+
+The higher the score, the more relevant that word would be in our dataset for that particular tweet.
+
+At this stage, we would have a matrix of TF-IDF scores (column) for each tweet (row) that we can then use as input when we train our model in the next step.
+
+```r
+## fit the TF-IDF to the train data
+tfidf <- TfIdf$new(smooth_idf = TRUE,
+                   norm = "l2",
+                   sublinear_tf = FALSE)
+dtm_train_tfidf <- fit_transform(dtm_train, tfidf)
+
+# apply pre-trained tf-idf transformation to test data
+dtm_test_tfidf  <- create_dtm(it_test, vectorizer)
+dtm_test_tfidf  <- transform(dtm_test_tfidf, tfidf)
+```
+
+<img src="/assets/images/NLP/dtm_test_tfidf.PNG" style="width: auto; height: auto">
+
+
