@@ -60,7 +60,7 @@ An important decision here was to select the parameters for which a word would b
 3. the maximum proportion of documents which should contain this term (doc_proportion_max)
 4. the maximum number of terms in vocabulary (vocab_term_max). Note that this is to limit the absolute size of the vocabulary and does not have an effect here as it is set to the original number of rows.
 
-This decision was arrived at after performing a 5 fold cross validation over a total grid space of 108 cells, each representing a unique combination of each of the above parameters. The optimal combination was then selected based on AUC.
+This decision was arrived at after performing a 5 fold cross validation over a total grid space of 108 cells, each representing a unique combination of each of the above parameters. The optimal combination was then selected based on AUC, shown below.
 
 ```r
 # parameters derived from cross-validation above
@@ -72,6 +72,7 @@ pruned_vocab <- prune_vocabulary(vocab,
                                  vocab_term_max = nrow(vocab)
 ) ## 6144
 ```
+<img src="/assets/images/NLP/saved x-validation.PNG" style="width: auto; height: auto">
 
 ## Step 3: Creating a Document Term Matrix (DTM)
 A DTM describes the frequency of terms that occur in a collection of documents (defined as individual tweets in our case). This is represented in a matrix form where
