@@ -85,7 +85,7 @@ An example of a DTM is shown below, with the corresponding column names.
 <img src="/assets/images/NLP/dtm_fold_train.PNG" style="width: auto; height: auto">
 <img src="/assets/images/NLP/colnames_dtm.PNG" style="width: auto; height: auto">
 
-This is the base data structure that will be used as input in the modelling stage, after a transformation with TF-IDF in the next step. DTMs are often stored as a sparse matrix object, which is a matrix in which most of the elements are zero. This is a more efficient data structure compared to using standard dense-matrix structure, requiring less storage [<a href="https://en.wikipedia.org/wiki/Sparse_matrix">2</a>].
+This is the base data structure which will be used as input in the modelling stage, after a transformation with TF-IDF in the next step. DTMs are often stored as a sparse matrix object, which is a matrix in which most of the elements are zero. This is a more efficient data structure compared to using standard dense-matrix structure, requiring less storage [<a href="https://en.wikipedia.org/wiki/Sparse_matrix">1</a>].
 
 ```r
 ## Vectorisation - transform list of tokens into vector space
