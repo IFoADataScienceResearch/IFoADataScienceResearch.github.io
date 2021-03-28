@@ -12,6 +12,9 @@ tags:
   - NLP
 ---
 
+This is part of a series of posts that aim to explain in greater detail the NLP pipeline supporting the twitter sentiment analysis performed <a href="https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/">here.</a>
+{: .notice}
+
 ## Step 1: Reading in the data
 The first step is to read in the the raw tweets data that has been hydrated using a Twitter API. Two minor processing steps are performed to substitute "'" and "-" from the tweets. A sample output from DF_tweets_train$text_clean is shown below.
 
