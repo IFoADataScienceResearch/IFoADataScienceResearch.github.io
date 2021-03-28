@@ -16,7 +16,7 @@ tags:
 #{: .notice}
 
 ## Step 1: Reading in the data
-The first step is to read in the the raw tweets data that has been hydrated using a Twitter API. Two minor processing steps are performed to substitute ' and - from the tweets. A sample output from DF_tweets_train$text_clean is shown below.
+The first step is to read in the the raw tweets data that has been hydrated using a Twitter API. Two minor processing steps are performed to substitute "'" and "-" from the tweets. A sample output from DF_tweets_train$text_clean is shown below.
 
 ```r
 DF_tweets_train <-  read_excel(paste0(path_dir, "\\tweets_train.xlsx"))
