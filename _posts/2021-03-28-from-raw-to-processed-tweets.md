@@ -16,7 +16,7 @@ This is part of a series of posts that aim to explain in greater detail the NLP 
 {: .notice}
 
 ## Step 1: Reading in the data
-The first step is to read in the the raw tweets data that has been hydrated using a Twitter API. Two minor processing steps are performed to substitute "'" and "-" from the tweets. A sample output from DF_tweets_train$text_clean is shown below.
+The first step is to read in the raw tweets dataset that has been hydrated using a Twitter API. Two minor processing steps are performed to substitute "'" and "-" from the tweets. A sample output from DF_tweets_train$text_clean is shown below.
 
 ```r
 DF_tweets_train <-  read_excel(paste0(path_dir, "\\tweets_train.xlsx"))
@@ -29,7 +29,7 @@ text_processed_train <- gsub("-", "", text_processed_train)
 <img src="/assets/images/NLP/df_tweets_train.PNG" style="width: auto; height: auto">
 
 ## Step 2: Pruning the vocabulary
-Prior to pruning the vocabulary, we need to prepare an iterator object which can be used as input into create_vocabulary(). Here, we also apply to preprocessor "tolower", converting all letters to lowercase as well as tokenize our tweets by word. This breaks up the tweets into individual words. Other possible  include "space_tokenizer" or "stem_tokenizer". More details can be found in the text2vec RDocumentation <a href="https://www.rdocumentation.org/packages/text2vec/versions/0.6/topics/itoken">here</a>.
+Prior to pruning the vocabulary, we need to prepare an iterator object which can be used as input into create_vocabulary(). Here, we also apply "tolower" to preprocessor, converting all letters to lowercase as well as tokenizing our tweets by word. This breaks up the tweets into individual words. Other possible alternatives include "space_tokenizer" or "stem_tokenizer". More details can be found in the text2vec RDocumentation <a href="https://www.rdocumentation.org/packages/text2vec/versions/0.6/topics/itoken">here</a>.
 
 ```r
 it_train <- itoken(text_processed_train, 
