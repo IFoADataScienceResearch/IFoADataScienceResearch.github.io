@@ -9,21 +9,29 @@ sidebar:
 categories:
   - Blog
 tags:
-  - Actuary Magazine
-  - Federated Learning
+  - NLP
 ---
 
 This is a first of a two part series in the data processing phase of oour NLP pipeline. <br>
 {: .notice}
 
+## Step 1: Reading in the data
+The first step is to read in the the raw tweets data that has been hydrated using a Twitter API. Two minor processing steps are performed to substitute ' and - from the tweets. A sample output from DF_tweets_train$text_clean is shown below.
 
 ```html
+DF_tweets_train <-  read_excel(paste0(path_dir, "\\tweets_train.xlsx"))
 text_processed_train <- DF_tweets_train$text_clean
 
 ## Remove curly apostrophe (additional processing)
 text_processed_train <- gsub("'", "", text_processed_train)
 text_processed_train <- gsub("-", "", text_processed_train)
+```
+<img src="/assets/images/NLP/df_tweets_train.png" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
+## Step 2: 
+
+
+```html
 it_train <- itoken(text_processed_train, 
                    preprocessor = tolower, 
                    tokenizer =  word_tokenizer,
