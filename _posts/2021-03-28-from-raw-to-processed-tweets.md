@@ -39,9 +39,9 @@ it_train <- itoken(text_processed_train,
                    progressbar = FALSE
 )
 ```
-Once we have the iterator object, we can now count the appearance of each unique word using create_vocabulary. We also filtered out stopwords in this step and selected 1-gram as an extraction criteria. This means that in the vocab dataframe, we will only see single the term_count and doc_count of single words. 
+Once we have the iterator object, we can now count the appearance of each unique word using create_vocabulary(). We also filtered out stopwords in this step and selected 1-gram as an extraction criteria. This means that in the vocab dataframe, we will only see term_count and doc_count for single words. 
 
-term_count is defined as the number of times a particular word appears throughout all documents (or tweets), while doc_count is the number of documents (or tweets) in which that word appeard. It comes as no surprise that the words "and", "to" and "the" appeared the most often in tweets as shown below.
+term_count is defined as the number of times a particular word appears throughout all documents (or tweets), while doc_count is the number of documents (or tweets) in which that word appeared in. It comes as no surprise that the words "and", "to" and "the" appeared the most often in tweets as shown below.
 
 ```r
 stop_words = c("i")
@@ -52,7 +52,7 @@ vocab <- create_vocabulary(it_train,
 ```
 <img src="/assets/images/NLP/vocab.PNG" style="width: auto; height: auto">
 
-We then pruned the entire list of vocabulary using prune_vocabulary which filters the input vocabulary and throws out very frequent and very infrequent terms. More details can be found in the text2vec RDocumentation <a href="https://www.rdocumentation.org/packages/text2vec/versions/0.6/topics/prune_vocabulary">here</a>.
+We then pruned the entire list of vocabulary using prune_vocabulary() which filters the input vocabulary and throws out very frequent and very infrequent terms. More details can be found in the text2vec RDocumentation <a href="https://www.rdocumentation.org/packages/text2vec/versions/0.6/topics/prune_vocabulary">here</a>.
 
 An important decision here was to select the parameters for which a word would be retained based on:
 1. the minimum number of occurences over all documents (term_count_min)
@@ -60,7 +60,7 @@ An important decision here was to select the parameters for which a word would b
 3. the maximum proportion of documents which should contain this term (doc_proportion_max)
 4. the maximum number of terms in vocabulary (vocab_term_max). Note that this is to limit the absolute size of the vocabulary and does not have an effect here as it is set to the original number of rows.
 
-This decision was arrived at after performing a 5 fold cross validation over a total grid space of 108 cells, each representing a unique combination of each of the above parameters. The optimal combination was then selected based on AUC, as shown below. The cross validation steps are similar to what is presented in steps 1 to 3 here, except that these steps are applied to different cuts of the data using unique combination of input parameters into prune_vocabulary. The algorithm used in cross validation is glmnet.
+This decision was arrived at after performing a 5 fold cross validation over a total grid space of 108 cells, each representing a unique combination of each of the above parameters. The optimal combination was then selected based on AUC, as shown below. The cross validation steps are similar to what is presented in steps 1 to 3 here, except that these steps are applied to different folds of the data and based on unique combination of input parameters for prune_vocabulary(). The algorithm used in cross validation is glmnet.
 
 ```r
 # parameters derived from cross-validation above
