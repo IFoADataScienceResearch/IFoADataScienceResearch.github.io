@@ -18,7 +18,7 @@ This is a first of a two part series in the data processing phase of our NLP pip
 ## Step 1: Reading in the data
 The first step is to read in the the raw tweets data that has been hydrated using a Twitter API. Two minor processing steps are performed to substitute ' and - from the tweets. A sample output from DF_tweets_train$text_clean is shown below.
 
-```html
+```r
 DF_tweets_train <-  read_excel(paste0(path_dir, "\\tweets_train.xlsx"))
 text_processed_train <- DF_tweets_train$text_clean
 
@@ -71,7 +71,7 @@ An example of a DTM is shown below, with the corresponding column names.
 
 This is the base data structure that will be used as input in the modelling stage, after a transformation with TF-IDF in the next step. DTMs are often stored as a sparse matrix object, which is a matrix in which most of the elements are zero. This is a more efficient data structure compared to using standard dense-matrix structure, requireing less storage. [<a href="https://en.wikipedia.org/wiki/Sparse_matrix">1</a>].
 
-```html
+```r
 ## Vectorisation - transform list of tokens into vector space
 vectorizer <- vocab_vectorizer(pruned_vocab)
 
