@@ -102,7 +102,7 @@ This final step is to compute TF-IDF from the DTM in step 3. TF-IDF consists of 
 
 The higher the score, the more relevant that word would be in our dataset for that particular tweet.
 
-At this stage, we would have a matrix of TF-IDF scores (column) for each tweet (row) that we can then use as input when we train our model in the next step.
+At this point, we would have a matrix of TF-IDF scores (column) for each tweet (row) that we can then use as input when we train our model in the next step.
 
 ```r
 ## fit the TF-IDF to the train data
