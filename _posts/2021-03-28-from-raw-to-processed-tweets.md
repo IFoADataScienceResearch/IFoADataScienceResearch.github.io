@@ -115,4 +115,6 @@ dtm_test_tfidf  <- transform(dtm_test_tfidf, tfidf)
 
 <img src="/assets/images/NLP/dtm_test_tfidf.PNG" style="width: auto; height: auto">
 
+For more information on the steps above, please refer to <a href="https://cran.r-project.org/web/packages/text2vec/vignettes/text-vectorization.html">here.</a>
+{: .notice}
 
