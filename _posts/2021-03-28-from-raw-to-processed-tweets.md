@@ -29,15 +29,19 @@ text_processed_train <- gsub("-", "", text_processed_train)
 <img src="/assets/images/NLP/df_tweets_train.PNG" style="width: auto; height: auto">
 
 ## Step 2: Pruning the vocabulary
+Prior to pruning the vocabulary, we need to prepare an iterator object which can be used as input into create_vocabulary(). Here, we also apply to preprocessor "tolower", converting all letters to lowercase as well as tokenize our tweets by word. This breaks up the tweets into individual words. Other possible  include "space_tokenizer" or "stem_tokenizer". More details can be found in the text2vec RDocumentation <a href="https://www.rdocumentation.org/packages/text2vec/versions/0.6/topics/itoken">here</a>.
 
-```html
+```r
 it_train <- itoken(text_processed_train, 
                    preprocessor = tolower, 
                    tokenizer =  word_tokenizer,
                    n_chunks = 10,
                    progressbar = FALSE
 )
+```
 
+
+```r
 stop_words = c("i")
 vocab <- create_vocabulary(it_train,
                            ngram = c(1,1),
