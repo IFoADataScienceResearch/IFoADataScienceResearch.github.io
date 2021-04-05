@@ -50,7 +50,6 @@ def normalize(text):
 
     return text
 
-
 def clean(text):
     """
     Cleanse tweets by converting to lower case, remove stop words, lemmatize, normalise and remove
@@ -60,7 +59,6 @@ def clean(text):
     Returns:
         text {str} -- Cleansed tweets
     """
-
     # lower case
     text = text.lower()
     text = re.sub(r'’', "'", text)  # clean apostrophes
