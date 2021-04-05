@@ -84,7 +84,7 @@ def clean(text):
     return text
 ```
 
-Finally, we can read in the raw tweets dataset that has been hydrated using a Twitter API. Two minor additional processing steps are performed to substitute "'" and "-" from the tweets. 
+Finally, we can read in the raw tweets that has now been cleansed. Two minor additional processing steps are performed to substitute "'" and "-" from the tweets. 
 
 A sample output from DF_tweets_train$text_clean is shown below.
 
