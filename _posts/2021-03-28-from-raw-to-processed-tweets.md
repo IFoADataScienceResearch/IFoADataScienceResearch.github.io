@@ -15,8 +15,80 @@ tags:
 This is part of a series of posts that aim to explain in greater detail the NLP pipeline supporting the twitter sentiment analysis performed <a href="https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/">here.</a>
 {: .notice}
 
-## Step 1: Reading in the data
-The first step is to read in the raw tweets dataset that has been hydrated using a Twitter API. Two minor processing steps are performed to substitute "'" and "-" from the tweets. A sample output from DF_tweets_train$text_clean is shown below.
+## Step 1: Tweets pre-processing and reading in the data
+Before the tweets can be used, we have to perform a few critical pre-processing steps:
+1) Normalization, where we reduce randomness in the text by normalising irrelevant expressions, such as numbers, usernames and URL;
+2) Removing stop words such as "to", "the" and "my"; and
+3) Lemmatization, where we reduce a word to its most meaningful base form.
+
+These steps are summarised below in another python notebook.
+
+```python
+stopwords = ['to', 'the', 'my', 'and', 'is', 'it', 'for', 'in', 'of', 'im', 'on', 'i',
+            'me', 'so', 'that', 'just', 'with', 'be', 'at', 'a', 'i', 'its', 'this', 'was']
+
+def normalize(text):
+    """
+    Normalize tweets to reduce randomness in text
+    Arguments:
+        text {str} -- Extracted "dirty" tweets
+    Returns:
+        text {str} -- Normalized tweets
+    """
+    text = re.sub(emoji.get_emoji_regexp(), r"", text)  # remove emojis
+    text = re.sub(r'[0-9]+', 'NUMBER', text)  # remove numbers
+    text = re.sub(r'@[A-Za-z0-9_]+', 'USER', text)  # remove @ username
+    text = re.sub(r'https://[A-Za-z0-9./]+', 'URL', text)  # remove HTML
+    text = re.sub(r'http://[A-Za-z0-9./]+', 'URL', text)  # remove HTML
+    text = re.sub(r'\n', ' ', text)  # remove new line breaks
+    text = re.sub(r'(.)\1+', r'\1\1', text)  # remove repeated characters beyond 2 letters
+
+    text = "".join([char for char in text if char not in string.punctuation])  # remove punctuation
+
+    text = text.strip()
+    text = re.sub(' +', ' ', text)  # remove additional blank spaces
+
+    return text
+
+
+def clean(text):
+    """
+    Cleanse tweets by converting to lower case, remove stop words, lemmatize, normalise and remove
+    empty items
+    Arguments:
+        text {str} -- Extracted "dirty" tweets
+    Returns:
+        text {str} -- Cleansed tweets
+    """
+
+    # lower case
+    text = text.lower()
+    text = re.sub(r'’', "'", text)  # clean apostrophes
+
+    # tokenize
+    text = tweet_tokenizer.tokenize(text)
+
+    # Remove stop words
+    text = [t for t in text if t not in stopwords]  # remove stopwords
+
+    # Lemmatization
+    text = [lemmatizer.lemmatize(x) for x in text]
+
+    # Normalization
+    text = [normalize(x) for x in text]
+
+    # Remove empty items
+    text = [x for x in text if x]
+
+    # De-tokenize and convert back into string
+    text = TreebankWordDetokenizer().detokenize(text)
+
+    return text
+```
+
+Finally, we can read in the raw tweets dataset that has been hydrated using a Twitter API. Two minor additional processing steps are performed to substitute "'" and "-" from the tweets. 
+
+A sample output from DF_tweets_train$text_clean is shown below.
 
 ```r
 DF_tweets_train <-  read_excel(paste0(path_dir, "\\tweets_train.xlsx"))
