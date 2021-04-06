@@ -17,9 +17,9 @@ This is part of a series of posts that aim to explain in greater detail the NLP 
 
 ## Step 1: Tweets pre-processing and reading in the data
 Before the tweets can be used, we have to perform a few critical pre-processing steps:
-1) Normalization, where we reduce randomness in the text by normalising irrelevant expressions, such as numbers, usernames and URL;
-2) Removing stop words such as "to", "the" and "my"; and
-3) Lemmatization, where we reduce a word to its most meaningful base form.
+1. Normalization, where we reduce randomness in the text by normalising irrelevant expressions, such as numbers, usernames and URL;
+2. Removing stop words such as "to", "the" and "my"; and
+3. Lemmatization, where we reduce a word to its most meaningful base form.
 
 These steps are summarised below in another python notebook.
 
