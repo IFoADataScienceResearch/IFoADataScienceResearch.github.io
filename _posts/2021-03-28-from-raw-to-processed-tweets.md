@@ -170,7 +170,7 @@ dim(dtm_train) ##7000x6141
 ## Step 4: Term Frequency Inverse Document Frequency (TF-IDF)
 This final step is to compute TF-IDF from the DTM in step 3. TF-IDF consists of two metrics:
 1. Term frequency of a word in a document (or tweet). For example, the word "and" appeared a cumulative 2520 times in our dataset.
-2. Inverse document frequency of a word across all documents (or tweets). For example, the word "and" appeared in 1948 tweetes our of 7000 tweets.
+2. Inverse document frequency of a word across all documents (or tweets). For example, the word "and" appeared in 1948 tweets our of 7000 tweets.
 
 The higher the score, the more relevant that word would be in our dataset for that particular tweet.
 
