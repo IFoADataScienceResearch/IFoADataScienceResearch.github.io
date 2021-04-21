@@ -1,5 +1,5 @@
 ---
-permalink: /resources/
+permalink: /xxx/
 layout: splash
 title: "Resources"
 header:
