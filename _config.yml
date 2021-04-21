@@ -89,9 +89,6 @@ footer:
     - label: "Members"
       icon: "fas fa-user-friends"
       url: /members/
-    - label: "Resources"
-      icon: "fas fa-info"
-      url: /resources/
     - label: "About"
       icon: "far fa-question-circle"
       url: /about/
