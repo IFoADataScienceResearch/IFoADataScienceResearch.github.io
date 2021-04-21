@@ -12,11 +12,11 @@ author_profile: false
 1. <a href="https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/certificate-data-science">Institute and Faculty of Actuaries (IFoA) and Southampton Data Science Academy - Certificate in Data Science</a>
 
 
-2.	IFoA – Data Science and Lifelong Learning
- https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/data-science
+2.	<a href =" https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/data-science">IFoA – Data Science and Lifelong Learning</a>
 
-3.	IFoA – General Insurance Machine Learning in Reserving working party
-https://institute-and-faculty-of-actuaries.github.io/mlr-blog/
+
+3.	<a href="https://institute-and-faculty-of-actuaries.github.io/mlr-blog/">IFoA – General Insurance Machine Learning in Reserving working party</a>
+
 
 4.	Swiss Association of Actuaries – Actuarial Data Science tutorials and courses
 https://www.actuarialdatascience.org/ADS-Tutorials/
