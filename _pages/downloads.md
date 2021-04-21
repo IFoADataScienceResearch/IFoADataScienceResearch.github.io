@@ -47,6 +47,8 @@ author_profile: false
 8.	<a href="https://www.actuaries.org.sg/big_data"> Singapore Actuarial Society – Data Analytics</a>
 9.	<a href="https://www.actuaries.org/IAA/IAA/Task_Force/Big_Data_Task_Force.aspx?WebsiteKey=ff59269c-4928-4369-a169-03e74a6bd8ca&CommitteeTabs=3#CommitteeTabs">International Actuarial Association – Big Data Task Force</a>
 
+## Other resources
+
 ### Actuarial Publications
 1. <a href="https://www.theactuary.com/categories/topics/data-science">The Actuary magazine IFoA – Data Science topics</a>
 2. <a href="https://theactuarymagazine.org/category/innovation-technology/">The Actuary magazine SOA</a>
