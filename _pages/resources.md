@@ -35,4 +35,15 @@ author_profile: false
 
 9.	<a href="https://www.actuaries.org/IAA/IAA/Task_Force/Big_Data_Task_Force.aspx?WebsiteKey=ff59269c-4928-4369-a169-03e74a6bd8ca&CommitteeTabs=3#CommitteeTabs">International Actuarial Association – Big Data Task Force</a>
 
+### Actuarial Publications
+1. <a href"https://www.theactuary.com/categories/topics/data-science">The Actuary magazine IFoA – Data Science topics</a>
+2. <a href="https://theactuarymagazine.org/category/innovation-technology/">The Actuary magazine SOA</a>
+3. <a href="https://www.cambridge.org/core/journals/annals-of-actuarial-science">Annals of Actuarial Science</a>
+
+### Books and Publications
+1. <a href="http://faculty.marshall.usc.edu/gareth-james/">(*) An Introduction to Statistical Learning</a>
+2. <a href="https://web.stanford.edu/~hastie/ElemStatLearn//">(*) The Elements of Statistical Learning</a>
+
+### Courses
+1. <a href="https://www.coursera.org/learn/machine-learning">(*) Andrew Ng’s Machine Learning Course</a>
 
