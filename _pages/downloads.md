@@ -24,6 +24,10 @@ author_profile: false
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/downloads/fedlearnpaper.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Federated%20Learning%20for%20Privacy-Preserving%20Data%20Access.pdf" download>Federated Learning for Privacy-Preserving Data Access</a> <br> 
 <small> Federated learning is a pioneering privacy-preserving data technology and also a new machine learning model trained on distributed data sets. This paper discusses federated learning as a solution for privacy-preserving data access and distributed machine learning applied to distributed data sets. It also presents a privacy-preserving federated learning infrastructure.  </small> 
