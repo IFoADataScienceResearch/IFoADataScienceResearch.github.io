@@ -75,12 +75,6 @@ twitter-nav:
     children:
       - title: "Data science - How actuaries can optimize usage of data science techniques within their sectors"
         url: https://www.actuaries.org.uk/learn-develop/attend-event/data-science-how-actuaries-can-optimize-usage-data-science-techniques-within-their-sectors
-  - title: "Publications"
-    children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
   - title: "Blog Posts"
     children:
       - title: "Insurance and social media: Keyboard Warriors"
