@@ -7,7 +7,7 @@ header:
 author_profile: false
 ---
 
-## Downloads
+# Downloads
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/downloads/datavis.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Data%20Visualisation%20in%20Insurance.pdf" download>Data Visualisation in Insurance</a> <br> 
@@ -35,11 +35,11 @@ author_profile: false
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/IFoA%20COVID%20Twitter%20Analysis_02072020.pdf" download>Twitter Sentiment Analysis: What does Social Media tell us about coronavirus concerns in the UK?</a> <br> 
 <small> In this work, we consider the problem of classifying sentiment of UK Twitter messages on COVID-19 using Natural Language Processing (NLP) and supervised Machine Learning techniques.  </small> 
 
-## Other resources
+# Other resources
 
 (*) Highly Recommmended
 
-### Data Science in Actuarial Institutes and Societies
+## Data Science in Actuarial Institutes and Societies
 
 1. <a href="https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/certificate-data-science">Institute and Faculty of Actuaries (IFoA) and Southampton Data Science Academy - Certificate in Data Science</a>
 2.	<a href=" https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/data-science">IFoA – Data Science and Lifelong Learning</a>
@@ -51,16 +51,16 @@ author_profile: false
 8.	<a href="https://www.actuaries.org.sg/big_data"> Singapore Actuarial Society – Data Analytics</a>
 9.	<a href="https://www.actuaries.org/IAA/IAA/Task_Force/Big_Data_Task_Force.aspx?WebsiteKey=ff59269c-4928-4369-a169-03e74a6bd8ca&CommitteeTabs=3#CommitteeTabs">International Actuarial Association – Big Data Task Force</a>
 
-### Actuarial Publications
+## Actuarial Publications
 1. <a href="https://www.theactuary.com/categories/topics/data-science">The Actuary magazine IFoA – Data Science topics</a>
 2. <a href="https://theactuarymagazine.org/category/innovation-technology/">The Actuary magazine SOA</a>
 3. <a href="https://www.cambridge.org/core/journals/annals-of-actuarial-science">Annals of Actuarial Science</a>
 
-### Books and Publications
+## Books and Publications
 1. <a href="http://faculty.marshall.usc.edu/gareth-james/">(*) An Introduction to Statistical Learning</a>
 2. <a href="https://web.stanford.edu/~hastie/ElemStatLearn//">(*) The Elements of Statistical Learning</a>
 
-### Courses
+## Courses
 1. <a href="https://www.coursera.org/learn/machine-learning">(*) Andrew Ng’s Machine Learning Course</a>
 2. <a href="https://www.coursera.org/">Coursera</a>
 3. <a href="https://www.edx.org/">EdX</a>
@@ -68,12 +68,12 @@ author_profile: false
 5. <a href="https://www.udemy.com/">Udemy</a>
 6. <a href="http://bigdatauniversity.com/">Big Data University</a>
 
-### Websites
+## Websites
 1. <a href="https://www.kaggle.com/">Kaggle</a>
 2. <a href="http://www.kdnuggets.com/">KDnuggets</a>
 3. <a href="https://towardsdatascience.com/">Towards data science</a>
 
-### Data Sources
+## Data Sources
 1. <a href="https://www.mortality.org/">The Human Mortality Database</a>
 2. <a href="https://www.actuaries.org.uk/documents/ifoa-mortality-data-directory-version-1">Mortality Data Directory, by the Mortality Research Steering Committee (MRSC) and IFoA</a>
 3. <a href="https://www.ons.gov.uk/">Office for National Statistics</a>
