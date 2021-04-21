@@ -40,3 +40,10 @@ author_profile: false
 1. <a href="https://www.kaggle.com/">Kaggle</a>
 2. <a href="http://www.kdnuggets.com/">KDnuggets</a>
 3. <a href="https://towardsdatascience.com/">Towards data science</a>
+
+### Data Sources
+1. <a href="https://www.mortality.org/">The Human Mortality Database</a>
+2. <a href="https://www.actuaries.org.uk/documents/ifoa-mortality-data-directory-version-1">Mortality Data Directory, by the Mortality Research Steering Committee (MRSC) and IFoA</a>
+3. <a href="https://www.ons.gov.uk/">Office for National Statistics</a>
+4. <a href="http://cas.uqam.ca/">CASdatasets package: a collection of insurance datasets</a>
+5. <a href="https://registry.opendata.aws/">Amazon: Open Data on AWS</a>
