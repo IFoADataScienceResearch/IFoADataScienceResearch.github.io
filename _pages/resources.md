@@ -24,10 +24,6 @@ author_profile: false
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/downloads/fedlearnpaper.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Federated%20Learning%20for%20Privacy-Preserving%20Data%20Access.pdf" download>Federated Learning for Privacy-Preserving Data Access</a> <br> 
 <small> Federated learning is a pioneering privacy-preserving data technology and also a new machine learning model trained on distributed data sets. This paper discusses federated learning as a solution for privacy-preserving data access and distributed machine learning applied to distributed data sets. It also presents a privacy-preserving federated learning infrastructure.  </small> 
@@ -38,6 +34,17 @@ author_profile: false
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/downloads/twittersentimentanalysis.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/IFoA%20COVID%20Twitter%20Analysis_02072020.pdf" download>Twitter Sentiment Analysis: What does Social Media tell us about coronavirus concerns in the UK?</a> <br> 
 <small> In this work, we consider the problem of classifying sentiment of UK Twitter messages on COVID-19 using Natural Language Processing (NLP) and supervised Machine Learning techniques.  </small> 
+<br>
+<br>
+<br>
+<br>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/downloads/guideforethicalds.PNG){: .align-left}{: width="300" } 
+<a href="https://www.actuaries.org.uk/system/files/field/document/An%20Ethical%20Charter%20for%20Date%20Science%20WEB%20FINAL.PDF" download>A Guide for Ethical Data Science (RSS and IFoA)</a> <br> 
+<small> The Royal Statistical Society and the Institute and Faculty of Actuaries have worked together to jointly produce an ethical framework for their members and practitioners working in the field of data science. Created with practitioners in mind, this guide seeks to provide practical support to members on ethical practice. Structured around our five core ethical themes, the guide provides examples of common ethical challenges in the field and how they could be applied.  </small> 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
