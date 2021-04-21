@@ -35,6 +35,8 @@ author_profile: false
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/IFoA%20COVID%20Twitter%20Analysis_02072020.pdf" download>Twitter Sentiment Analysis: What does Social Media tell us about coronavirus concerns in the UK?</a> <br> 
 <small> In this work, we consider the problem of classifying sentiment of UK Twitter messages on COVID-19 using Natural Language Processing (NLP) and supervised Machine Learning techniques.  </small> 
 
+## Other resources
+
 (*) Highly Recommmended
 
 ### Data Science in Actuarial Institutes and Societies
@@ -48,8 +50,6 @@ author_profile: false
 7.	<a href="https://www.actuaries.asn.au/microsites/actuaries-in-data-analytics/knowledge"> Actuaries Institute of Australia </a>
 8.	<a href="https://www.actuaries.org.sg/big_data"> Singapore Actuarial Society – Data Analytics</a>
 9.	<a href="https://www.actuaries.org/IAA/IAA/Task_Force/Big_Data_Task_Force.aspx?WebsiteKey=ff59269c-4928-4369-a169-03e74a6bd8ca&CommitteeTabs=3#CommitteeTabs">International Actuarial Association – Big Data Task Force</a>
-
-## Other resources
 
 ### Actuarial Publications
 1. <a href="https://www.theactuary.com/categories/topics/data-science">The Actuary magazine IFoA – Data Science topics</a>
