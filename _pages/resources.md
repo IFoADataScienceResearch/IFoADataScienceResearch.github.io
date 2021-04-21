@@ -14,7 +14,7 @@ author_profile: false
 1. <a href="https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/certificate-data-science">Institute and Faculty of Actuaries (IFoA) and Southampton Data Science Academy - Certificate in Data Science</a>
 2.	<a href=" https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/data-science">IFoA – Data Science and Lifelong Learning</a>
 3.	<a href="https://institute-and-faculty-of-actuaries.github.io/mlr-blog/">IFoA – General Insurance Machine Learning in Reserving working party</a>
-4.	<a href="https://www.actuarialdatascience.org/ADS-Tutorials/">Swiss Association of Actuaries – Actuarial Data Science tutorials and courses>/a>
+4.	<a href="https://www.actuarialdatascience.org/ADS-Tutorials/">Swiss Association of Actuaries – Actuarial Data Science tutorials and courses</a>
 5.	<a href="https://thecasinstitute.org/professional-education/predictive-analytics/">iCAS – Predictive Analytics and Data Science</a>
 6.	<a href="https://www.soa.org/sections/technology/technology-data-analytics-resources/">Society of Actuaries – Data Analytics Resources</a>
 7.	<a href="https://www.actuaries.asn.au/microsites/actuaries-in-data-analytics/knowledge"> Actuaries Institute of Australia </a>
