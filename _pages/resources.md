@@ -46,4 +46,9 @@ author_profile: false
 
 ### Courses
 1. <a href="https://www.coursera.org/learn/machine-learning">(*) Andrew Ng’s Machine Learning Course</a>
+2. <a href="https://www.coursera.org/">Coursera</a>
+3. <a href="https://www.edx.org/">EdX</a>
+4. <a href="https://www.udacity.com/">Udacity</a>
+5. <a href="https://www.udemy.com/">Udemy</a>
+6. <a href="http://bigdatauniversity.com/">Big Data University</a>
 
