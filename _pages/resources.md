@@ -7,6 +7,8 @@ header:
 author_profile: false
 ---
 
+(*) Highly Recommmended
+
 ### Data Science in Actuarial Institutes and Societies
 
 1. <a href="https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/certificate-data-science">Institute and Faculty of Actuaries (IFoA) and Southampton Data Science Academy - Certificate in Data Science</a>
