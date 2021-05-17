@@ -43,7 +43,7 @@ include:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: G-JLMEVQDH5G
+    tracking_id: UA-197152676-1
     anonymize_ip: false # default
     
 # Exclude from processing.
