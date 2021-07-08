@@ -47,14 +47,10 @@ about-nav:
         url: https://ifoadatascienceresearch.github.io/blog/pieces-of-the-technology-puzzle/
         
 super-nav:
-  - title: "Publications"
-    children:
-      - title: "Child Page A1"
-        url: /
   - title: "Blog Posts"
     children:
-      - title: "Placeholder"
-        url: /
+      - title: "Supervised learning techniques in claims frequency modelling"
+        url: https://ifoadatascienceresearch.github.io/blog/supervised-learning-techniques-in-claims-frequency/
         
 federated-nav:
   - title: "Events"
