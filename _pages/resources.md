@@ -3,7 +3,7 @@ permalink: /resources/
 layout: splash
 title: "Download the latest materials here"
 header:
-  overlay_image: /assets/images/splash-image/splash-home.jpg
+  overlay_image: /assets/images/splash-image/splash-code.jpg
 author_profile: false
 toc: true
 ---
