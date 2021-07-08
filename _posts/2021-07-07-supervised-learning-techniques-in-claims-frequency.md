@@ -17,6 +17,7 @@ Originally published by The Actuary, July 2021. © The Institute and Faculty of 
 {: .notice}
 
 <b> Neptune Jin shares the Data Science Research Working Party’s work looking at the merits of different supervised learning techniques for claim frequency modelling. </b>
+
 Using historic data to estimate future claims is a central part of actuarial work, and accurate predictions are essential for risk management. With the development of data science, machine learning techniques have become readily available for improved prediction performance.
 
 Supervised learning models, where algorithms are trained on a labelled dataset to solve classification or regression problems, have wide applications in the insurance industry. Many apply one or more algorithms to boost performance for different purposes – one of which is the prediction of future claim frequencies of policies.
