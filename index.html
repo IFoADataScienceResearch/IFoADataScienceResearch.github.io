@@ -15,21 +15,30 @@ header:
 excerpt: > 
     The IFoA Data Science Research Section meets regularly to research and develop data science techniques in actuarial applications. <br />
 
-feature_row_right:
+feature_row_right1:
 
-  - image_path: /assets/images/cover/actuarymagazinefeb2021.png
-    title: "A little bird told me..."
-    excerpt: "John Ng and Melanie Zhang discuss how they analysed Twitter sentiment relating to COVID-19 and insurance – and how insurers could use such analysis to uncover insights pertinent to public interest and the insurance industry.<br><small>Originally published by The Actuary, February 2021. © The Institute and Faculty of Actuaries.</small>"
-    url: "https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/"
+  - image_path: /assets/images/cover/actuarymagazinejul2021.png
+    title: "Supervised learning techniques in claims frequency modelling"
+    excerpt: "Read on as Neptune Jin shares the Data Science Research Working Party’s work looking at the merits of different supervised learning techniques for claim frequency modelling</small>"
+    url: "https://ifoadatascienceresearch.github.io/blog/supervised-learning-techniques-in-claims-frequency/"
     btn_class: "btn--primary"
     btn_label: "Read More"
-    
+
 feature_row_left:
 
   - image_path: /assets/images/cover/actuarymagazinemar2021.jpg
     title: "Insurance: Collaboration without compromise"
     excerpt: "Learn more as Małgorzata Śmietanka introduces the opportunities for federated learning and privacy-preserving data access in insurance. <br><small>Originally published by The Actuary, March 2021. © The Institute and Faculty of Actuaries.</small>"
     url: "https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/"
+    btn_class: "btn--primary"
+    btn_label: "Read More"
+
+feature_row_right2:
+
+  - image_path: /assets/images/cover/actuarymagazinefeb2021.png
+    title: "A little bird told me..."
+    excerpt: "John Ng and Melanie Zhang discuss how they analysed Twitter sentiment relating to COVID-19 and insurance – and how insurers could use such analysis to uncover insights pertinent to public interest and the insurance industry.<br><small>Originally published by The Actuary, February 2021. © The Institute and Faculty of Actuaries.</small>"
+    url: "https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/"
     btn_class: "btn--primary"
     btn_label: "Read More"
 
@@ -60,6 +69,7 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+{% include feature_row id="feature_row_right1" type="left" %}
 {% include feature_row id="feature_row_left" type="left" %}
-{% include feature_row id="feature_row_right" type="right" %}
+{% include feature_row id="feature_row_right2" type="right" %}
 {% include feature_row %}
