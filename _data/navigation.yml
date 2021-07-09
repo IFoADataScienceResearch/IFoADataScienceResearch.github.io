@@ -23,10 +23,12 @@ about-nav:
     children:
       - title: "Federated Learning for Privacy-Preserving Data Access"
         url: https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Federated%20Learning%20for%20Privacy-Preserving%20Data%20Access.pdf
-  - title: "Risk Modelling"
+  - title: "Supervised Learning"
     children:
       - title: "Home"
-        url: https://ifoadatascienceresearch.github.io/risk-modelling/
+        url: https://ifoadatascienceresearch.github.io/supervised-learning/
+      - title: "Supervised learning techniques in claims frequency modelling"
+        url: https://ifoadatascienceresearch.github.io/blog/supervised-learning-techniques-in-claims-frequency/
   - title: "Twitter Sentiment"
     children:
       - title: "Home"
