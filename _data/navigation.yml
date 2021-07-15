@@ -35,6 +35,8 @@ about-nav:
         url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
       - title: "Insurance and social media: Keyboard Warriors"
         url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
+      - title: "From raw to processed tweets"
+        url: https://ifoadatascienceresearch.github.io/blog/from-raw-to-processed-tweets/
   - title: "Federated Learning"
     children:
       - title: "Home"
@@ -77,6 +79,8 @@ twitter-nav:
     children:
       - title: "Insurance and social media: Keyboard Warriors"
         url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
+      - title: "From raw to processed tweets"
+        url: https://ifoadatascienceresearch.github.io/blog/from-raw-to-processed-tweets/
         
 tech-nav:
   - title: "Blog Posts"  
