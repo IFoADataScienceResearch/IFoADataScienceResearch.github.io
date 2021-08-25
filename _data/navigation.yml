@@ -3,10 +3,12 @@ main:
     sublinks:
       - title: "Supervised Learning"
         url: https://ifoadatascienceresearch.github.io/supervised-learning/
-      - title: "NLP"
-        url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
       - title: "Federated Learning"
         url: https://ifoadatascienceresearch.github.io/federated-learning/
+      - title: "NLP"
+        url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
+      - title: "Unsupervised Learning"
+        url: https://ifoadatascienceresearch.github.io/unsupervised-learning/
       - title: "Technology"
         url: https://ifoadatascienceresearch.github.io/technology/
   - title: "Events"
