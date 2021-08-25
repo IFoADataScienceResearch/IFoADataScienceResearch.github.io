@@ -51,6 +51,7 @@ Bonus-malus – There is very little exposure above 120, but a slight increase i
 The exploratory analysis is used to decide which feature requires engineering. In the case study, this takes the form of binning, capping and logarithmic transformations.
 
 <b> Baseline model </b>
+<br>
 Claims counts observed during the one accounting year of the French motor insurance portfolio show a typical claims count distribution, as shown in Figure 4. This makes the Poisson generalised linear model (GLM) an obvious choice as a baseline model.
 
 However, it is worth noting that ClaimNb (observed number of claims) is highly skewed on zeros and quite sparse beyond value two. To account for this skewness, a traditional Poisson GLM is built alongside a zero-inflated Poisson (ZIP) model.
