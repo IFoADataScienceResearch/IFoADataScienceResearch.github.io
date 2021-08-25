@@ -63,6 +63,7 @@ However, the performance of the ZIP model did not show material improvement in t
 For simplicity we use RMSE as the metric of performance for the rest of the model illustrations, but the problem of excessive zero values could call for separate research into a proper solution. 
 
 <b> Supervised learning models </b>
+<br>
 Categorical variables are one-hot encoded, and numerical ones standardised using a minimum-maximum scalar before each algorithm is fitted. For a fair comparison, all models are fitted to the same transformed dataset.
 
 <b> Tree-based models </b>
@@ -124,6 +125,7 @@ Light GBM – Max depth, learning rate, Lambda (L1 regularisation), number of es
 With a straightforward fit of these models using the chosen optimised hyperparameters, the RMSE shown in Table 3 was generated under each model.
 
 <b> Neural networks </b>
+<br>
 Neural networks are machine learning algorithms inspired by neuroplasticity models of the human brain. The structure of a feed-forward neural network resembles a layered cobweb with a series of input nodes on the left (input layer) that contain information from raw data. The output neuron nodes on the right (output layer) are the target we want to predict. A deep learning network would have one or more hidden layers of nodes in between to identify patterns and register interactions.
 
 The hidden layers are the key component that allow neural networks to account for extremely complicated interactions. Each node in a hidden layer represents the aggregate information from raw data; the more nodes we have, the more relationships we are likely to capture.  
@@ -147,6 +149,7 @@ The learning rate represents the size of each update of weights. By comparison, 
 Many more experiments can be done to fine-tune neural networks, including but not limited to using different optimisers or hidden layers, differing the number of nodes, and changing associated activation functions. Neural networks are very flexible models, and it is important to be mindful about overfitting when adjusting them to suit customised purposes.
 
 <b> Naive bayes </b>
+<br>
 Finally, a naive Bayes Bernoulli formula was used as a prediction of frequency. Naive Bayes has been shown to be a good estimator for imbalanced probabilistic problems.
 
 The classifier is limited to binary outcomes, so prediction of more than one claim is lacking. The testing data RMSE turned out to be 0.2502, which is not ideal. We also tried to bucket all non-zero claim frequencies together to create a binary label, but the performance returned was worse, so it was dropped.
@@ -156,6 +159,7 @@ While naive Bayes has delivered many strongly performing models in use cases suc
 Thanks to the IFoA Data Science Research Section’s supervised learning workstream. Team members: Neptune Jin (lead), Usenthini Rajasekar, Jonathan Bowden, Tom Lambert, Hemant Rupani.
 
 <b> Results </b>
+<br>
 A table of comparison between the baseline model and the strongest candidate from each genre of supervised learning algorithms crowned GBM as the best model, followed by the neural network as the runner-up. Apart from naive Bayes models, all others outperformed the basic Poisson GLM in predicting the claim frequencies.
 
 This study shows the possible applications of a large variety of supervised learning techniques in general insurance. While some experiments outperformed others, in this example there was by no means a one-size-fits-all recipe. Actuarial professionals are encouraged to expand their toolkits and be ready to pick up the best fitting algorithms.
