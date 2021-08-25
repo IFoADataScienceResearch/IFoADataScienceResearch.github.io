@@ -30,14 +30,15 @@ Currently we have eight workstreams:
 ## Team
 
 Chair: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
-Federated Learning workstream lead: <a href href="https://www.linkedin.com/in/ma%C5%82gorzata-%C5%9Bmietanka-a1963a112/"> Malgorzata Smietanka </a> <br>
-Supervised Learning workstream lead: <a href href="https://www.linkedin.com/in/neptune-jin-0a1aba93/"> Neptune Jin </a> <br>
-NLP workstream lead: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
-Unsupervised Learning workstream lead: <a href href="https://www.linkedin.com/in/thomaslambert11/?originalSubdomain=ca"> Tom Lambert </a> <br>
-Autoencoder workstream lead: <a href href="https://www.linkedin.com/in/pieter-knox/"> Pieter Knox </a> <br>
-Explainable Artificial Intelligence (XAI) and model interpretability lead: <a href href="https://www.linkedin.com/in/jonathan-bowden-22433b27/"> Jonathan Bowden </a> <br>
-Visualisation lead: <a href href="https://www.linkedin.com/in/eilish-bouse-655194b2/"> Eilish Bouse </a> <br>
-Webmaster and contents lead: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
+Academic Chair of Statistical Learning in Actuarial Application WP: <a href="https://www.lse.ac.uk/Statistics/People/Dr-George-Tzougas"> A. Professor George Tzougas </a> <br>
+Chair of Federated Learning WP: <a href href="https://www.linkedin.com/in/ma%C5%82gorzata-%C5%9Bmietanka-a1963a112/"> Malgorzata Smietanka </a> <br>
+Chair of Supervised Learning WP: <a href href="https://www.linkedin.com/in/neptune-jin-0a1aba93/"> Neptune Jin </a> <br>
+Chair of Natural Language Processing (NLP) WP: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
+Chair of Unsupervised Learning WP: <a href href="https://www.linkedin.com/in/thomaslambert11/?originalSubdomain=ca"> Tom Lambert </a> <br>
+Chair of Deep Learning WP: <a href href="https://www.linkedin.com/in/pieter-knox/"> Pieter Knox </a> <br>
+Chair of Explainable Artificial Intelligence (XAI) WP: <a href href="https://www.linkedin.com/in/jonathan-bowden-22433b27/"> Jonathan Bowden </a> <br>
+Chair of Data Visualisation WP: <a href href="https://www.linkedin.com/in/eilish-bouse-655194b2/"> Eilish Bouse </a> <br>
+Chair of Data Science Contents and Webpage WP: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
 
 
 ## Disclaimer
