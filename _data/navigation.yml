@@ -1,5 +1,5 @@
 main:
-  - title: "Workstreams"
+  - title: "Working Parties"
     sublinks:
       - title: "Supervised Learning"
         url: https://ifoadatascienceresearch.github.io/supervised-learning/
