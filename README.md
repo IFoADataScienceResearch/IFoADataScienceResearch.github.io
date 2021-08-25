@@ -1,7 +1,7 @@
 # IFoA Data Science Research
-Web page of IFoA Data Science Research workstream
+Web page of IFoA Data Science Research Section
 
-The IFoA Data Science Research Section, part of the Institute and Faculty of Actuaries’ Data Science Working Party, consists of an international group of actuaries , data scientists and academics meeting regularly to research and develop data science techniques in actuarial applications.
+The IFoA Data Science Research Section is an international research community, consisting of actuaries, data scientists, statisticians and academics meeting regularly to research and develop data science techniques in actuarial and insurance applications. We organised and disseminate our works through research working parties.
 
 # Disclaimer
 The views expressed on this site are those of invited contributors and not necessarily those of the Institute and Faculty of Actuaries. The Institute and Faculty of Actuaries do not endorse any of the views stated, nor any claims or representations made in this publication and accept no responsibility or liability to any person for loss or damage suffered as a consequence of their placing reliance upon any view, claim or representation made in this publication.
