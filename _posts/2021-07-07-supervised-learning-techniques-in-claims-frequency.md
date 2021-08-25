@@ -27,6 +27,7 @@ We looked at some of the commonly used supervised learning algorithms – includ
 <img src="/assets/images/supervised-learning-techniques/Figure-1.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
 <b> Exploratory data analysis </b>
+<br>
 We first explored the claims frequency (observed claims/exposure) and total exposure (length of policy) by feature, with those showing potential predictive capabilities summarised in Figure 1, Figure 2 and Figure 3. The features are:
 <ul>
   <li>
@@ -67,6 +68,7 @@ For simplicity we use RMSE as the metric of performance for the rest of the mode
 Categorical variables are one-hot encoded, and numerical ones standardised using a minimum-maximum scalar before each algorithm is fitted. For a fair comparison, all models are fitted to the same transformed dataset.
 
 <b> Tree-based models </b>
+<br>
 Decision trees form the basis of several models in machine learning. At their simplest, a single tree can be used to predict the value of a single variable; this is known as a regression tree, where the predicted outcome can be considered a real number. A random forest model is a form of ensemble learning method where several trees are combined to generate a predicted value. This prediction is an average of the regression trees in the model. The trees in a random forest tend to be weaker learners than a decision tree on its own. However, this weaker learning and averaging effect generally provides a prediction that is more accurate on unseen data than the prediction provided by a single decision tree.
 
 We trained a decision tree and a random forest to predict the ClaimNb in our dataset. The scikit-learn Python library is used here, specifically the tree regressor and random forest regressor models.
@@ -82,6 +84,7 @@ The grid search is a very time-consuming exercise to run. Table 2 only shows the
 Before grid searching, a fair bit of overfitting was shown on the model; this was no longer present after the tuning. This shows the importance of identifying the proper parameters in getting models that generalise well.
 
 <b> Gradient boosting machines </b>
+<br>
 GBMs cover a wide variety of algorithms, but only a handful of off-the-shelf models are commonly used. These have become well known within data science fields as they tend to outperform traditional GLM approaches, although they can be susceptible to overfitting.
 
 Gradient boosting derives a strong learner out of a series of weak learners through iteration. It starts with an imperfect model that gives relatively weak predictions (typically a decision tree) and takes the errors/pseudo-residuals back to ‘teach’ the model to be stronger. The updated model gets stronger through an iterative process until it is optimised to produce highly accurate results.
