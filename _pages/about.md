@@ -9,23 +9,25 @@ sidebar:
   nav: about-nav
 ---
 
-The IFoA Data Science Research Section consists of an international group of actuaries, data scientists, statisticians and academics meeting regularly to research and develop data science techniques in actuarial and insurance applications.
+The IFoA Data Science Research Section is an international research community, consisting of actuaries, data scientists, statisticians and academics meeting regularly to research and develop data science techniques in actuarial and insurance applications. We organised and disseminate our works through research working parties.
 
 We aim to achieve this by:
 
-1. Identify interesting actuarial data science research problems and data sets
-2. Conducting research and case studies, including but not limited to pricing, underwriting, capital modelling, mortality, morbidity, fraud, customer behaviour and automation
-3. Publishing data science case studies and insights
+1. Identifying interesting actuarial data science research problems and data sets
+2. Conducting research and case studies, including but not limited to pricing, underwriting, capital modelling, mortality, morbidity, fraud, customer behaviour, privacy and technology
+3. Publishing data science case studies and papers, via The Actuary magazine, journals, webinars, web blogs, LinkedIn and conferences
 
-Currently we have eight workstreams:
-1. Supervised Learning
-2. Federated Learning
-3. Natural Language Processing (NLP)
-4. Unsupervised Learning
-5. Autoencoder
-6. Explainable Artificial Intelligence (XAI) and model interpretability
-7. Visualisation
-8. Contents and website
+Currently we have 10 working parties:
+1. Supervised Learning Working Party
+2. Federated Learning Working Party
+3. Natural Language Processing (NLP) Working Party
+4. Unsupervised Learning Working Party
+5. Deep Learning Working Party
+6. Explainable Artificial Intelligence (XAI) Working Party
+7. Data Visualisation Working Party
+8. Data Science Contents and Webpage Working Party
+9. Statistical Learning in Actuarial Application Working Party
+10. Data Analytics in e-commerce insurance Working Party
 
 ## Team
 
@@ -38,8 +40,8 @@ Chair of Unsupervised Learning WP: <a href href="https://www.linkedin.com/in/tho
 Chair of Deep Learning WP: <a href href="https://www.linkedin.com/in/pieter-knox/"> Pieter Knox </a> <br>
 Chair of Explainable Artificial Intelligence (XAI) WP: <a href href="https://www.linkedin.com/in/jonathan-bowden-22433b27/"> Jonathan Bowden </a> <br>
 Chair of Data Visualisation WP: <a href href="https://www.linkedin.com/in/eilish-bouse-655194b2/"> Eilish Bouse </a> <br>
+Chair of Data Analytics in e-commerce insurance Working Party: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
 Chair of Data Science Contents and Webpage WP: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
-
 
 ## Disclaimer
 The views expressed on this site are those of invited contributors and not necessarily those of the Institute and Faculty of Actuaries. The Institute and Faculty of Actuaries do not endorse any of the views stated, nor any claims or representations made in this publication and accept no responsibility or liability to any person for loss or damage suffered as a consequence of their placing reliance upon any view, claim or representation made in this publication. 
