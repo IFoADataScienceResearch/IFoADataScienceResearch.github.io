@@ -18,15 +18,15 @@ We aim to achieve this by:
 3. Publishing data science case studies and papers, via The Actuary magazine, journals, webinars, web blogs, LinkedIn and conferences
 
 Currently we have 10 working parties:
-1. Supervised Learning Working Party
+1. Statistical Learning in Actuarial Application Working Party
 2. Federated Learning Working Party
-3. Natural Language Processing (NLP) Working Party
-4. Unsupervised Learning Working Party
-5. Deep Learning Working Party
-6. Explainable Artificial Intelligence (XAI) Working Party
-7. Data Visualisation Working Party
-8. Data Science Contents and Webpage Working Party
-9. Statistical Learning in Actuarial Application Working Party
+3. Supervised Learning Working Party
+4. Natural Language Processing (NLP) Working Party
+5. Unsupervised Learning Working Party
+6. Deep Learning Working Party
+7. Explainable Artificial Intelligence (XAI) Working Party
+8. Data Visualisation Working Party
+9. Data Science Contents and Webpage Working Party
 10. Data Analytics in e-commerce insurance Working Party
 
 ## Team
