@@ -9,6 +9,16 @@ main:
         url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
       - title: "Unsupervised Learning"
         url: https://ifoadatascienceresearch.github.io/unsupervised-learning/
+      - title: "Deep Learning"
+        url: https://ifoadatascienceresearch.github.io/deep-learning/
+      - title: "Explainable AI"
+        url: https://ifoadatascienceresearch.github.io/explainable-ai/
+      - title: "Data Visualisation"
+        url: https://ifoadatascienceresearch.github.io/data-visualisation/
+      - title: "Statistical Learning in Actuarial Application"
+        url: https://ifoadatascienceresearch.github.io/statistical-learning/
+      - title: "e-commerce Insurance"
+        url: https://ifoadatascienceresearch.github.io/e-commerce-insurance/
       - title: "Technology"
         url: https://ifoadatascienceresearch.github.io/technology/
   - title: "Events"
