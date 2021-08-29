@@ -91,9 +91,3 @@ twitter-nav:
         url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
       - title: "From raw to processed tweets"
         url: https://ifoadatascienceresearch.github.io/blog/from-raw-to-processed-tweets/
-        
-tech-nav:
-  - title: "Blog Posts"  
-    children:
-      - title: "Pieces of the technology puzzle"
-        url: https://ifoadatascienceresearch.github.io/blog/pieces-of-the-technology-puzzle/
