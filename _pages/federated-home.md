@@ -18,7 +18,7 @@ sidebar:
 
 ## Members
 
-1. Małgorzata Śmietanka (Lead)
+1. Małgorzata Śmietanka (Chair)
 2. Claudio Giancaterino 
 3. Dylan Liew
 4. Arshad Khan
