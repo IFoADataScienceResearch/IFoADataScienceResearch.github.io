@@ -1,7 +1,7 @@
 ---
 permalink: /data-visualisation/
 classes: wide
-title: "Data Visualisation Workstream"
+title: "Data Visualisation Working Party"
 author_profile: false
 toc: true
 sidebar:
