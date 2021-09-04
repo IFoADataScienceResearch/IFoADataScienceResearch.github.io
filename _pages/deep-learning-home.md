@@ -12,5 +12,5 @@ sidebar:
 ## Aims
 Applications of Neural Tangent Kernels in Kernel Dimension Reduction (NTK in KDR)
 
-## 
+
 
