@@ -1,7 +1,7 @@
 ---
 permalink: /federated-learning/
 classes: wide
-title: "Federated Learning Workstream"
+title: "Federated Learning Working Party"
 author_profile: false
 toc: true
 sidebar:
@@ -10,9 +10,11 @@ sidebar:
 ---
 
 ## Aims 
-1.	Provide a documentation of case study on the value of Federated Learning and how it could be applied in actuarial work
-2.	Comparing performances of global model, individual agent model and federated learning model
-3.	Proof of Concept on PySyft and PyTorch
+1.	Broaden the knowledge of Privacy Preserving ML methods and their application in insurance industry
+2.	Popularize the FL ML
+3.	Increase awareness of the industry on how the technology might change the way insurance works
+4.	Understand potential difficulties and risks in adopting FL technology in insurance. Try to address those issues
+5.	Understand when it is worth to collaborate and when companies should rely on their own data
 
 ## Members
 
