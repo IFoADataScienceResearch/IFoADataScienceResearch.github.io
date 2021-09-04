@@ -13,7 +13,7 @@ sidebar:
 Experiment with methods including feature engineering and data management to improve supervised learning model prediction accuracies.
 
 ## Members
-1. Neptune Jin (Lead) 
+1. Neptune Jin (Chair) 
 2. Tom Lambert
 3. Jonathan Bowden 
 4. Usenthini Rajasekar 
