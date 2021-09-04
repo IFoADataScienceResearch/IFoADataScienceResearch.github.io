@@ -10,7 +10,7 @@ sidebar:
 ---
 
 ## Aims
-We explore different methods for claim frequency modelling to find the best method. We are currently working on an explicit motor third-party liability insurance data set to compare the performance of different modelling methods, and aim to find the best to deliver a case study.
+Experiment with methods including feature engineering and data management to improve supervised learning model prediction accuracies.
 
 ## Members
 1. Neptune Jin (Lead) 
