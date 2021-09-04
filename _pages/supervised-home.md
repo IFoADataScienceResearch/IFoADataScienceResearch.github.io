@@ -1,7 +1,7 @@
 ---
 permalink: /supervised-learning/
 classes: wide
-title: "Supervised Learning Workstream"
+title: "Supervised Learning Working Party"
 author_profile: false
 toc: true
 sidebar:
