@@ -1,7 +1,7 @@
 ---
 permalink: /twitter-sentiment/
 classes: wide
-title: "Natural Language Processing Workstream"
+title: "Natural Language Processing Working Party"
 author_profile: false
 toc: true
 sidebar:
@@ -10,14 +10,11 @@ sidebar:
 ---
 
 ## Aims
-1.	Produce a case study on classifying Twitter messages on COVID-19 and other topics using NLP and supervised machine learning techniques
-2.	Deep learning models
-3.	Sentiment analysis
-4.	Insights on insurance and insurers
-5.	Topical analysis
+Demonstrate NLP techniques through the research of Sentiment Analysis using Twitter data
+
 
 ## Members
-1. John Ng (Lead)
+1. John Ng (Chair)
 2. Melanie Zhang
 3. Arshad Khan
 4. Claudio Giancaterino
