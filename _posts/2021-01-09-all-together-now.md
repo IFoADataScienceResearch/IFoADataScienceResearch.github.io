@@ -86,9 +86,44 @@ However, since each company’s data is different, this update would lead to bia
 <br>
 and <img src="https://latex.codecogs.com/svg.image?\mu&space;_{t}^{g}" title="\mu _{t}^{g}" /> represents the average of local gradients.   
 </li>
+
+<li> The central body then, on its own server, calculates: <br>
+<img src="https://latex.codecogs.com/svg.image?\theta&space;_{t}^{shared}&space;-&space;\eta&space;^{shared}&space;\times&space;\mu&space;_{t}^{g}&space;=&space;\theta&space;_{t&plus;1}^{shared}" title="\theta _{t}^{shared} - \eta ^{shared} \times \mu _{t}^{g} = \theta _{t+1}^{shared}" />  
   
+</li> 
   
+<li> This is then broadcast and sent out so that each Company¡ at time t + 1 receives <img src="https://latex.codecogs.com/svg.image?\theta&space;_{t&plus;1}^{shared}&space;" title="\theta _{t+1}^{shared} " />. Each <img src="https://latex.codecogs.com/svg.image?\theta&space;_{t&plus;1}^{shared}&space;" title="\theta _{t+1}^{shared} " /> now receives new parameters that are calculated for them using a richer dataset. Therefore, their models generalise better against unseen data based on global parameters, compared to using <img src="https://latex.codecogs.com/svg.image?\theta&space;_{t&plus;1,&space;i}^{local}&space;" title="\theta _{t+1, i}^{local} " /> in step 5.  
+</li>
 </ol>
+
+Steps 2 to 8 are then repeated several times, with each  keeping its data stored locally, the central body receiving updated gradients and companies in the network receiving their <img src="https://latex.codecogs.com/svg.image?\theta&space;_{t&plus;1}^{shared}&space;" title="\theta _{t+1}^{shared} " /> updates after each loop.
+
+<b> Adding security </b>
+<br>
+While the centralised body only receives the model gradients, rather than the underlying data, this is still sensitive information that could be valuable to competitors. Companies could theoretically infer their competitors’ model errors and compare them with the size of their own errors (which ultimately relate to model parameters), using this information to gain a competitive advantage through knowing whether they have fewer or more claims than peers. Imagine if, when using simpler methods such as GLMs, everyone used the same distribution, link function and so on – the model coefficients would directly relate to the underlying data being fitted.
+
+We therefore still need controls to make sure the centralised body is unable to identify individual participants, and that each participant’s model errors are secure. Even in the absence of collusion, we would still run the risk of a security breach via hacking or leaking.
+
+These controls can be easily achieved, since the centralised body does not need to know which companies have which gradient; its main task is to compute the average of all the gradients, and it can do this without knowing the link between the company names and the data subsets. To implement this, an extension to PyTorch is needed, PySyft; this adds the required functionality for secure federated learning. PySyft uses modulo arithmetic, prime numbers, random noise and secure multiparty computation to mask where gradients are being sent from. When you send your gradient to the body, they cannot tell if it’s yours or your competitor’s – like using a VPN to mask an IP address, but without the need for a VPN provider.
+
+Adding this final layer of encryption makes the entire process truly secure and encapsulates the main idea of federated learning – the model is taken to the data, not the other way around. Not even the raw model gradients leave the company. The effect is that companies train one global model through collaboration. Once the model is initialised and the model architecture defined, the participating companies train the global model locally and send back the gradients. The centralised body broadcasts model updates and the training process is repeated. 
+
+<b> The results </b>
+<br>
+This ‘secret sharing’ step adds significant computation time to model building, and does introduce some noise. However, we can see that it significantly beats our initial partially trained model, and comes close to the ideal (Figure 4).
+
+<img src="/assets/images/federated-learning/All-together-now_The-results_Figure-4_0.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+
+<b> Federated learning in insurance </b>
+<br>
+Federated learning allows insurance companies to exploit large amounts of multi-line data. While we considered 10 competitors joining forces here, the same principles could be applied to a large multinational that wanted to combine and utilise internal data – for example, mixing data from different business lines such as health and life, or building a shared model using experience from local sites. Regulators might benefit from federated learning in building more accurate diagnostic models, for example where sensitive medical health records are involved.
+
+Federated learning could also help unlock the promise of wearables, the Internet of Things, autonomous vehicles and even telematics. Although revolutionary, these innovations still rely on a slow and expensive data gathering stage before being sent to the insurer, where it is cleaned further. Federated learning removes this by keeping all the data stored locally and deploying the model to the user. This could allow for incredibly rapid and dynamic consumer pricing, where not only are prices better aligned to risk, but they are also aligned fast.
+
+Federated learning is likely to become the key technology that allows the training of AI models on multiple (distributed) data sources. Insurance companies might see the application of federated learning technology both in collaboration with third parties and in internal data management (to control data access within the organisation).
+
+With federated learning it’s possible to build better predictive models that respect privacy, and introduce a new paradigm in which the model is brought to the data, rather than the data to the model.
+
 <b> Małgorzata Śmietanka </b> is a PhD researcher in computer science at UCL <br>
 <b> Dylan Liew </b> is a qualified pricing actuary at Bupa Global <br>
 <b> Claudio Giorgio Giancaterino </b> is an actuary and a data science enthusiast
