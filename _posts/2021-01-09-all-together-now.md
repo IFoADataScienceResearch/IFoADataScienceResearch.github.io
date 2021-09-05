@@ -91,7 +91,8 @@ However, since each company’s data is different, this update would lead to bia
 and <img src="https://latex.codecogs.com/svg.image?\mu&space;_{t}^{g}" title="\mu _{t}^{g}" /> represents the average of local gradients.   
 </li>
 
-<li> The central body then, on its own server, calculates: <br>
+<li> The central body then, on its own server, calculates: 
+<br><br>
 <img src="https://latex.codecogs.com/svg.image?\theta&space;_{t}^{shared}&space;-&space;\eta&space;^{shared}&space;\times&space;\mu&space;_{t}^{g}&space;=&space;\theta&space;_{t&plus;1}^{shared}" title="\theta _{t}^{shared} - \eta ^{shared} \times \mu _{t}^{g} = \theta _{t+1}^{shared}" />  
   
 </li> 
