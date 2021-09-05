@@ -12,5 +12,6 @@ sidebar:
 ## Aims
 Applications of Neural Tangent Kernels in Kernel Dimension Reduction (NTK in KDR)
 
-
-
+## Members
+1.  Pieter Knox (Chair) 
+2.  Arijit Das
