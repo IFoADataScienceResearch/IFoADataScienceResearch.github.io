@@ -134,7 +134,7 @@ With federated learning it’s possible to build better predictive models that r
 
 <b> Małgorzata Śmietanka </b> is a PhD researcher in computer science at UCL <br>
 <b> Dylan Liew </b> is a qualified pricing actuary at Bupa Global <br>
-<b> Claudio Giorgio Giancaterino </b> is an actuary and a data science enthusiast
+<b> Claudio Giancaterino </b> is an actuary and a data science enthusiast
 
 
 
