@@ -12,8 +12,19 @@ sidebar:
 ## Aims
 Investigate tools and packages available to perform data visualisation and produce outputs that conform to best practice in the area. 
 
-
-
+## Members
+1.  Eilish Bouse (Chair)
+2.  Afzaal Ahmed
+3.  Graham O'Conner
+4.  Mark Cooper
+5.  Alexis Iglauer
+6.  Usenthini Rajasekar
+7.  Mohammed S. Raza.  
+8.  Mohamed Elsheemy
+9.  Eduardo Eugenio Medina
+10. Shi An Teh
+11. Neptune Jin
+12. Aditi Saraff
 
 
 
