@@ -16,7 +16,7 @@ Originally published by The Actuary, July 2021. © The Institute and Faculty of 
 <a href="https://www.theactuary.com/2021/07/02/supervised-learning-techniques-claims-frequency-modelling"> Click here to read the original article</a>.
 {: .notice}
 
-<b> Neptune Jin shares the Data Science Research Working Party’s work looking at the merits of different supervised learning techniques for claim frequency modelling. </b>
+<b> Neptune Jin shares the Data Science Research Section’s work looking at the merits of different supervised learning techniques for claim frequency modelling. </b>
 
 Using historic data to estimate future claims is a central part of actuarial work, and accurate predictions are essential for risk management. With the development of data science, machine learning techniques have become readily available for improved prediction performance.
 
