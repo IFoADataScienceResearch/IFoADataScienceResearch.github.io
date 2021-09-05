@@ -73,9 +73,9 @@ We then perform the following training steps:
 <img src="https://latex.codecogs.com/svg.image?\theta_{t}&space;-&space;\eta&space;\times&space;&space;g_{i,&space;t}&space;=&space;\theta&space;_{t&plus;1}" title="\theta_{t} - \eta \times g_{i, t} = \theta _{t+1}" />
 <br>
 Note that, at this point, every company has the same estimate of the global model at time <img src="https://latex.codecogs.com/svg.image?t,&space;\theta&space;_{t}" title="t, \theta _{t}" />, and they also have the same learning rate <img src="https://latex.codecogs.com/svg.image?\eta&space;" title="\eta " />. These are shared variables that were mutually agreed. The only difference is that each company has different errors or residuals due to the different data or experiences on their books, which means different gradients <img src="https://latex.codecogs.com/svg.image?g_{i,&space;t}" title="g_{i, t}" />. Without using the federated learning protocol, Company¡ would then update its parameters as follows:
-
+<br>
 <img src="https://latex.codecogs.com/svg.image?\theta_{shared}^{t}&space;-&space;\eta&space;^{shared}&space;\times&space;g_{i,&space;t}&space;=&space;\theta&space;_{t&plus;1,&space;i}^{local}" title="\theta_{shared}^{t} - \eta ^{shared} \times g_{i, t} = \theta _{t+1, i}^{local}" />
-
+<br>
 Where <img src="https://latex.codecogs.com/svg.image?g_{i,&space;t}&space;=&space;\triangledown&space;&space;L(\theta&space;_{t}^{shared},&space;D_{i})" title="g_{i, t} = \triangledown L(\theta _{t}^{shared}, D_{i})" /> represents a local gradient of Company¡ with a loss function run on D¡, which is  Company¡ -th data. We have added shared and local superscripts to learning rate and model parameters to specify when variables are company-specific.
 
 However, since each company’s data is different, this update would lead to biased estimated model parameter updates. Some companies will have gradients that are too small, and some will have gradients that are too big. </li>
