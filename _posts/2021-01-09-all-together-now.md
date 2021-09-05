@@ -62,21 +62,23 @@ However, sending sensitive claims experience externally is not ideal. There may 
 An alternative is to share model parameters, rather than data, using federated learning. The steps in the model training pipeline (Figure 3) are as follows:
 <ol>
 <li> Initialisation step: All companies in the network agree on the same initial starting set of parameters, hyperparameters (such as learning rate <img src="https://latex.codecogs.com/svg.image?\eta&space;" title="\eta " />), loss function (L), and model architecture. Companies initialise the global model and define starting value of model parameters <img src="https://latex.codecogs.com/svg.image?\theta&space;_{0}^{shared}" title="\theta _{0}^{shared}" />. </li>
-
+<br>
 We then perform the following training steps:
-
+<br>
 <li> Every company ¡ ​stores a local copy of this industry shared model. We denote any variables unique to them using subscript ¡ . Any variables shared by all the companies in the network are denoted by superscript shared. </li>
 <li> Each Company¡ tests this shared model against its historic experience by comparing the model’s predicted number of claims against the actual number of claims. </li>
-<li> Using the mutually agreed loss function L,Company¡  calculates model errors or residuals on its data – call it . The size and sign of these errors inform each Company¡ whether this shared initial model’s parameters are too big or small and need to be updated. Importantly,  has not sent any data or output externally at this point. </li>
-<li> Rather than having each Company¡  use its error¡ to directly update its parameters, it is typical in machine learning to use the gradient with respect to some error cost function (such as sum of squares, Poisson deviance, and so on). The gradient measures how the output of this function changes with respect to changes in input. </li>
-
+<li> Using the mutually agreed loss function L, Company¡  calculates model errors or residuals on its data – call it . The size and sign of these errors inform each Company¡ whether this shared initial model’s parameters are too big or small and need to be updated. Importantly,  has not sent any data or output externally at this point. </li>
+<li> Rather than having each Company¡  use its error¡ to directly update its parameters, it is typical in machine learning to use the gradient with respect to some error cost function (such as sum of squares, Poisson deviance, and so on). The gradient measures how the output of this function changes with respect to changes in input. Gradient descent is implemented via:</li>
+<br>
+<img src="https://latex.codecogs.com/svg.image?\theta_{t}&space;-&space;\eta&space;\times&space;&space;g_{i,&space;t}&space;=&space;\theta&space;_{t&plus;1}" title="\theta_{t} - \eta \times g_{i, t} = \theta _{t+1}" />
+<br>
 </ol>
 
 
 
 
-<b> Małgorzata Śmietanka </b> is a PhD researcher in computer science at UCL
-<b> Dylan Liew </b> is a qualified pricing actuary at Bupa Global
+<b> Małgorzata Śmietanka </b> is a PhD researcher in computer science at UCL <br>
+<b> Dylan Liew </b> is a qualified pricing actuary at Bupa Global <br>
 <b> Claudio Giorgio Giancaterino </b> is an actuary and a data science enthusiast
 
 
