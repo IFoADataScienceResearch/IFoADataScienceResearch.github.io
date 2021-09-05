@@ -10,9 +10,8 @@ sidebar:
 ---
 
 ## Aims
-Explore interesting open source e-commerce data sets and discuss how data analytics techniques can be used for actuarial applications, including risk selection (for life and GI products), identifying insurance opportunities and market segmentation. 
-
-Investigate the intersection of machine learning and traditional actuarial techniques in e-commerce data, especially in the area of insurance product pricing and loss management
+1. Explore interesting open source e-commerce data sets and discuss how data analytics techniques can be used for actuarial applications, including risk selection (for life and GI products), identifying insurance opportunities and market segmentation.
+2. Investigate the intersection of machine learning and traditional actuarial techniques in e-commerce data, especially in the area of insurance product pricing and loss management
 
 ## Members
 1. Zack Chan (Chair) 
