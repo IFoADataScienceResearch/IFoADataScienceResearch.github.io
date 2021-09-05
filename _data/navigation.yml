@@ -5,7 +5,7 @@ main:
         url: https://ifoadatascienceresearch.github.io/supervised-learning/
       - title: "Federated Learning"
         url: https://ifoadatascienceresearch.github.io/federated-learning/
-      - title: "NLP"
+      - title: "Natural Language Processing"
         url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
       - title: "Unsupervised Learning"
         url: https://ifoadatascienceresearch.github.io/unsupervised-learning/
