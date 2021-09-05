@@ -15,7 +15,7 @@ sidebar:
 
 ## Members
 1.  Jonathan Bowden (Chair) 
-2.  Dylan Liew 
+2.  Dylan Liew (Deputy Chair)
 3.  Karol Gawlowski
 4.  Dhairaya
 5.  Michael Storozhev
