@@ -28,6 +28,7 @@ This article demonstrates how to fit a claims frequency model when the underlyin
 
 <b> The sample data </b>
 <br>
+<br>
 We used the ‘freMTPL2freq’ French third-party motor claims available on OpenML. This dataset contains the number of claims made on 678,013 car insurance policies, along with various features that are commonly used in underwriting, such as vehicle age, driver age and region. We considered a typical actuarial problem: predicting the number of claims.
 
 Typically, a single insurer will not have access to all datapoints if these represent the entire industry. We therefore assumed that there were 10 insurers in the market and split the data equally among them. The question was how to build an accurate model for the entire dataset with access to only 10% of the population.
@@ -51,6 +52,7 @@ In comparison, if we have all of the data and not just 10%, this model yields pr
 
 <b> Collaboration with competitors </b>
 <br>
+<br>
 The alternative would be working with competitors to overcome this insufficient data problem, perhaps using a centralised trusted body to pool data. This is not unfamiliar territory to insurers – think of sending mortality experience to the CMI to produce life tables, or using guidance from a reinsurance company that has the experience of many players in the market. Similarly, a collaboratively trained model could guide a company’s local model.
 
 However, sending sensitive claims experience externally is not ideal. There may be no suitable centralised bodies that have the ability and capacity to perform calculations at speed before the experience is no longer relevant. Perhaps, due to funding arrangements, there are practical issues in setting such a body up. Or there may be issues around trust, data security and data privacy requirements.
@@ -70,21 +72,21 @@ We then perform the following training steps:
 <li> Each Company¡ tests this shared model against its historic experience by comparing the model’s predicted number of claims against the actual number of claims. </li>
 <li> Using the mutually agreed loss function L, Company¡  calculates model errors or residuals on its data – call it . The size and sign of these errors inform each Company¡ whether this shared initial model’s parameters are too big or small and need to be updated. Importantly,  has not sent any data or output externally at this point. </li>
 <li> Rather than having each Company¡  use its error¡ to directly update its parameters, it is typical in machine learning to use the gradient with respect to some error cost function (such as sum of squares, Poisson deviance, and so on). The gradient measures how the output of this function changes with respect to changes in input. Gradient descent is implemented via:
-<br>
+<br><br>
 <img src="https://latex.codecogs.com/svg.image?\theta_{t}&space;-&space;\eta&space;\times&space;&space;g_{i,&space;t}&space;=&space;\theta&space;_{t&plus;1}" title="\theta_{t} - \eta \times g_{i, t} = \theta _{t+1}" />
-<br>
+<br><br>
 Note that, at this point, every company has the same estimate of the global model at time <img src="https://latex.codecogs.com/svg.image?t,&space;\theta&space;_{t}" title="t, \theta _{t}" />, and they also have the same learning rate <img src="https://latex.codecogs.com/svg.image?\eta&space;" title="\eta " />. These are shared variables that were mutually agreed. The only difference is that each company has different errors or residuals due to the different data or experiences on their books, which means different gradients <img src="https://latex.codecogs.com/svg.image?g_{i,&space;t}" title="g_{i, t}" />. Without using the federated learning protocol, Company¡ would then update its parameters as follows:
-<br>
+<br><br>
 <img src="https://latex.codecogs.com/svg.image?\theta_{shared}^{t}&space;-&space;\eta&space;^{shared}&space;\times&space;g_{i,&space;t}&space;=&space;\theta&space;_{t&plus;1,&space;i}^{local}" title="\theta_{shared}^{t} - \eta ^{shared} \times g_{i, t} = \theta _{t+1, i}^{local}" />
-<br>
+<br><br>
 Where <img src="https://latex.codecogs.com/svg.image?g_{i,&space;t}&space;=&space;\triangledown&space;&space;L(\theta&space;_{t}^{shared},&space;D_{i})" title="g_{i, t} = \triangledown L(\theta _{t}^{shared}, D_{i})" /> represents a local gradient of Company¡ with a loss function run on D¡, which is  Company¡ -th data. We have added shared and local superscripts to learning rate and model parameters to specify when variables are company-specific.
 
 However, since each company’s data is different, this update would lead to biased estimated model parameter updates. Some companies will have gradients that are too small, and some will have gradients that are too big. </li>
 
 <li> Instead, each  Company¡ sends its <img src="https://latex.codecogs.com/svg.image?g_{i,&space;t}" title="g_{i, t}" /> (not its data) to the central body, which calculates the industry average gradient. Assuming that there are <img src="https://latex.codecogs.com/svg.image?\eta&space;" title="\eta " /> companies, this would be:
-<br>
+<br><br>
 <img src="https://latex.codecogs.com/svg.image?\frac{1}{n}&space;\sum_{i=1}^{n}&space;g_{i,&space;t}&space;=&space;\mu&space;_{t}^{g}" title="\frac{1}{n} \sum_{i=1}^{n} g_{i, t} = \mu _{t}^{g}" />
-<br>
+<br><br>
 and <img src="https://latex.codecogs.com/svg.image?\mu&space;_{t}^{g}" title="\mu _{t}^{g}" /> represents the average of local gradients.   
 </li>
 
@@ -111,11 +113,13 @@ Adding this final layer of encryption makes the entire process truly secure and 
 
 <b> The results </b>
 <br>
+<br>
 This ‘secret sharing’ step adds significant computation time to model building, and does introduce some noise. However, we can see that it significantly beats our initial partially trained model, and comes close to the ideal (Figure 4).
 
 <img src="/assets/images/federated-learning/All-together-now_The-results_Figure-4_0.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
 <b> Federated learning in insurance </b>
+<br>
 <br>
 Federated learning allows insurance companies to exploit large amounts of multi-line data. While we considered 10 competitors joining forces here, the same principles could be applied to a large multinational that wanted to combine and utilise internal data – for example, mixing data from different business lines such as health and life, or building a shared model using experience from local sites. Regulators might benefit from federated learning in building more accurate diagnostic models, for example where sensitive medical health records are involved.
 
