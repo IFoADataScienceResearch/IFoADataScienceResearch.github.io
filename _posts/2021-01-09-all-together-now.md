@@ -65,18 +65,30 @@ An alternative is to share model parameters, rather than data, using federated l
 <br>
 We then perform the following training steps:
 <br>
-<li> Every company ¡ ​stores a local copy of this industry shared model. We denote any variables unique to them using subscript ¡ . Any variables shared by all the companies in the network are denoted by superscript shared. </li>
+<li> Every company¡ stores a local copy of this industry shared model. We denote any variables unique to them using subscript ¡ . Any variables shared by all the companies in the network are denoted by superscript shared. </li>
 <li> Each Company¡ tests this shared model against its historic experience by comparing the model’s predicted number of claims against the actual number of claims. </li>
 <li> Using the mutually agreed loss function L, Company¡  calculates model errors or residuals on its data – call it . The size and sign of these errors inform each Company¡ whether this shared initial model’s parameters are too big or small and need to be updated. Importantly,  has not sent any data or output externally at this point. </li>
-<li> Rather than having each Company¡  use its error¡ to directly update its parameters, it is typical in machine learning to use the gradient with respect to some error cost function (such as sum of squares, Poisson deviance, and so on). The gradient measures how the output of this function changes with respect to changes in input. Gradient descent is implemented via:</li>
+<li> Rather than having each Company¡  use its error¡ to directly update its parameters, it is typical in machine learning to use the gradient with respect to some error cost function (such as sum of squares, Poisson deviance, and so on). The gradient measures how the output of this function changes with respect to changes in input. Gradient descent is implemented via:
 <br>
 <img src="https://latex.codecogs.com/svg.image?\theta_{t}&space;-&space;\eta&space;\times&space;&space;g_{i,&space;t}&space;=&space;\theta&space;_{t&plus;1}" title="\theta_{t} - \eta \times g_{i, t} = \theta _{t+1}" />
 <br>
-</ol>
-
 Note that, at this point, every company has the same estimate of the global model at time <img src="https://latex.codecogs.com/svg.image?t,&space;\theta&space;_{t}" title="t, \theta _{t}" />, and they also have the same learning rate <img src="https://latex.codecogs.com/svg.image?\eta&space;" title="\eta " />. These are shared variables that were mutually agreed. The only difference is that each company has different errors or residuals due to the different data or experiences on their books, which means different gradients <img src="https://latex.codecogs.com/svg.image?g_{i,&space;t}" title="g_{i, t}" />. Without using the federated learning protocol, Company¡ would then update its parameters as follows:
 
+<img src="https://latex.codecogs.com/svg.image?\theta_{shared}^{t}&space;-&space;\eta&space;^{shared}&space;\times&space;g_{i,&space;t}&space;=&space;\theta&space;_{t&plus;1,&space;i}^{local}" title="\theta_{shared}^{t} - \eta ^{shared} \times g_{i, t} = \theta _{t+1, i}^{local}" />
 
+Where <img src="https://latex.codecogs.com/svg.image?g_{i,&space;t}&space;=&space;\triangledown&space;&space;L(\theta&space;_{t}^{shared},&space;D_{i})" title="g_{i, t} = \triangledown L(\theta _{t}^{shared}, D_{i})" /> represents a local gradient of Company¡ with a loss function run on D¡, which is  Company¡ -th data. We have added shared and local superscripts to learning rate and model parameters to specify when variables are company-specific.
+
+However, since each company’s data is different, this update would lead to biased estimated model parameter updates. Some companies will have gradients that are too small, and some will have gradients that are too big. </li>
+
+<li> Instead, each  Company¡ sends its <img src="https://latex.codecogs.com/svg.image?g_{i,&space;t}" title="g_{i, t}" /> (not its data) to the central body, which calculates the industry average gradient. Assuming that there are <img src="https://latex.codecogs.com/svg.image?\eta&space;" title="\eta " /> companies, this would be:
+<br>
+<img src="https://latex.codecogs.com/svg.image?\frac{1}{n}&space;\sum_{i=1}^{n}&space;g_{i,&space;t}&space;=&space;\mu&space;_{t}^{g}" title="\frac{1}{n} \sum_{i=1}^{n} g_{i, t} = \mu _{t}^{g}" />
+<br>
+and <img src="https://latex.codecogs.com/svg.image?\mu&space;_{t}^{g}" title="\mu _{t}^{g}" /> represents the average of local gradients.   
+</li>
+  
+  
+</ol>
 <b> Małgorzata Śmietanka </b> is a PhD researcher in computer science at UCL <br>
 <b> Dylan Liew </b> is a qualified pricing actuary at Bupa Global <br>
 <b> Claudio Giorgio Giancaterino </b> is an actuary and a data science enthusiast
