@@ -3,9 +3,9 @@ title: "From raw to processed tweets"
 author_profile: false 
 classes: wide
 comments: true
-#sidebar:
-#  - title: "John Ng"
-#    image: /assets/images/bio/john.jfif
+sidebar:
+  - title: "Zack Chan"
+    image: /assets/images/bio/zack.PNG
 categories:
   - Blog
 tags:
