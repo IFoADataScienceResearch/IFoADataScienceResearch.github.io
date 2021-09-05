@@ -15,4 +15,4 @@ sidebar:
 
 ## Members
 1. Zack Chan (Chair) 
-2. Xin Yung Lee
+2. Xin Yung Lee (Deputy Chair)
