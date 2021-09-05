@@ -35,6 +35,7 @@ Typically, a single insurer will not have access to all datapoints if these repr
 
 <b> Start with a simple model </b>
 <br>
+<br>
 We built a neural network in PyTorch, but only training on 10% of the data. In practice, insurers might first try a GLM before going into neural networks, but it can be shown that GLMs are special cases of neural networks, and PyTorch could also be used to build a ‘traditional’ Poisson GLM.
 
 While this model’s input data was small, we robustly trained it to make the scenario realistic:
