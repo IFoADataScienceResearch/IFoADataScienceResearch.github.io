@@ -39,14 +39,6 @@ about-nav:
         url: https://ifoadatascienceresearch.github.io/supervised-learning/
       - title: "Supervised learning techniques in claims frequency modelling"
         url: https://ifoadatascienceresearch.github.io/blog/supervised-learning-techniques-in-claims-frequency/
-  - title: "Twitter Sentiment"
-    children:
-      - title: "Home"
-        url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
-      - title: "Insurance and social media: Keyboard Warriors"
-        url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
-      - title: "From raw to processed tweets"
-        url: https://ifoadatascienceresearch.github.io/blog/from-raw-to-processed-tweets/
   - title: "Federated Learning"
     children:
       - title: "Home"
@@ -55,10 +47,14 @@ about-nav:
         url: https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/
       - title: "All together now: modelling claims using federated learning"
         url: https://ifoadatascienceresearch.github.io/blog/all-together-now/
-  - title: "Data Visualisation"
+  - title: "Twitter Sentiment"
     children:
       - title: "Home"
-        url: https://ifoadatascienceresearch.github.io/data-visualisation/
+        url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
+      - title: "Insurance and social media: Keyboard Warriors"
+        url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
+      - title: "From raw to processed tweets"
+        url: https://ifoadatascienceresearch.github.io/blog/from-raw-to-processed-tweets/
   - title: "Unsupervised Learning"
     children:
       - title: "Home"
@@ -71,6 +67,10 @@ about-nav:
     children:
       - title: "Home"
         url: https://ifoadatascienceresearch.github.io/explainable-ai/
+  - title: "Data Visualisation"
+    children:
+      - title: "Home"
+        url: https://ifoadatascienceresearch.github.io/data-visualisation/
   - title: "Statistical Learning in Actuarial Application"
     children:
       - title: "Home"
