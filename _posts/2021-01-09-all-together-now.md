@@ -61,7 +61,7 @@ However, sending sensitive claims experience externally is not ideal. There may 
 <br>
 An alternative is to share model parameters, rather than data, using federated learning. The steps in the model training pipeline (Figure 3) are as follows:
 <ol>
-<li> Initialisation step: All companies in the network agree on the same initial starting set of parameters, hyperparameters (such as learning rate <img src="https://latex.codecogs.com/svg.image?\eta&space;" title="\eta " />), loss function (L), and model architecture. Companies initialise the global model and define starting value of model parameters. </li>
+<li> Initialisation step: All companies in the network agree on the same initial starting set of parameters, hyperparameters (such as learning rate <img src="https://latex.codecogs.com/svg.image?\eta&space;" title="\eta " />), loss function (L), and model architecture. Companies initialise the global model and define starting value of model parameters <img src="https://latex.codecogs.com/svg.image?\theta&space;_{0}^{shared}" title="\theta _{0}^{shared}" />. </li>
 
 We then perform the following training steps:
 
