@@ -49,7 +49,7 @@ This is a rigorous model pipeline, akin to what a data scientist might do in pra
 
 In comparison, if we have all of the data and not just 10%, this model yields predictions that are significantly closer to the actual test frequency (Figure 2).
 
-<img src="/assets/images/federated-learning/All-together-now_Figure-1-2_0.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images/federated-learning/All-together-now_Figure-1-2_0.jpg" style="width: auto; height: auto;max-width: 1000px;max-height: 1000px">
 
 <b> Collaboration with competitors </b>
 <br>
