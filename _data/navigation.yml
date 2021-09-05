@@ -53,6 +53,8 @@ about-nav:
         url: https://ifoadatascienceresearch.github.io/federated-learning/
       - title: "Insurance: Collaboration without compromise"
         url: https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/
+      - title: "All together now: modelling claims using federated learning"
+        url: https://ifoadatascienceresearch.github.io/blog/all-together-now/
   - title: "Data Visualisation"
     children:
       - title: "Home"
@@ -77,6 +79,8 @@ federated-nav:
     children:
       - title: "Insurance: Collaboration without compromise"
         url: https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/
+      - title: "All together now: modelling claims using federated learning"
+        url: https://ifoadatascienceresearch.github.io/blog/all-together-now/
         
 twitter-nav:
   - title: "Events"
