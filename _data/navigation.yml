@@ -59,6 +59,28 @@ about-nav:
     children:
       - title: "Home"
         url: https://ifoadatascienceresearch.github.io/data-visualisation/
+  - title: "Unsupervised Learning"
+    children:
+      - title: "Home"
+        url: https://ifoadatascienceresearch.github.io/unsupervised-learning/
+  - title: "Deep Learning"
+    children:
+      - title: "Home"
+        url: https://ifoadatascienceresearch.github.io/deep-learning/
+  - title: "Explainable AI"
+    children:
+      - title: "Home"
+        url: https://ifoadatascienceresearch.github.io/explainable-ai/
+  - title: "Statistical Learning in Actuarial Application"
+    children:
+      - title: "Home"
+        url: https://ifoadatascienceresearch.github.io/statistical-learning/
+  - title: "Data Analytics in e-commerce"
+    children:
+      - title: "Home"
+        url: https://ifoadatascienceresearch.github.io/e-commerce-insurance/
+        
+        
         
 super-nav:
   - title: "Blog Posts"
