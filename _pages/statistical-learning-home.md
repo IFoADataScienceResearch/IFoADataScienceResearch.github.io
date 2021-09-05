@@ -13,4 +13,4 @@ sidebar:
 Construct highly flexible hybrid NNs - actuarial models to capture the characteristics of complex data (such as telematics)
 
 ## Members
-1. A. Prof. George Tzougas (Chair) 
+1. Associate Professor George Tzougas (Chair) 
