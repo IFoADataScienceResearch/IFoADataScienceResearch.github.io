@@ -32,7 +32,7 @@ Currently we have 10 working parties:
 ## Team
 
 Chair: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
-Academic Chair of Statistical Learning in Actuarial Application WP: <a href="https://www.lse.ac.uk/Statistics/People/Dr-George-Tzougas"> A. Professor George Tzougas </a> <br>
+Academic Chair of Statistical Learning in Actuarial Application WP: <a href="https://www.lse.ac.uk/Statistics/People/Dr-George-Tzougas"> Associate Professor George Tzougas </a> <br>
 Chair of Federated Learning WP: <a href href="https://www.linkedin.com/in/ma%C5%82gorzata-%C5%9Bmietanka-a1963a112/"> Malgorzata Smietanka </a> <br>
 Chair of Supervised Learning WP: <a href href="https://www.linkedin.com/in/neptune-jin-0a1aba93/"> Neptune Jin </a> <br>
 Chair of Natural Language Processing (NLP) WP: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
