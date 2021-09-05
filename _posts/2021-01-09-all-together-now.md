@@ -58,7 +58,7 @@ The alternative would be working with competitors to overcome this insufficient 
 
 However, sending sensitive claims experience externally is not ideal. There may be no suitable centralised bodies that have the ability and capacity to perform calculations at speed before the experience is no longer relevant. Perhaps, due to funding arrangements, there are practical issues in setting such a body up. Or there may be issues around trust, data security and data privacy requirements.
 
-<img src="/assets/images/federated-learning/All-together-now_Figure-3.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images/federated-learning/All-together-now_Figure-3.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 <b> Pooling model parameters instead of data </b>
 <br>
