@@ -61,6 +61,7 @@ However, sending sensitive claims experience externally is not ideal. There may 
 
 <b> Pooling model parameters instead of data </b>
 <br>
+<br>
 An alternative is to share model parameters, rather than data, using federated learning. The steps in the model training pipeline (Figure 3) are as follows:
 <ol>
 <li> Initialisation step: All companies in the network agree on the same initial starting set of parameters, hyperparameters (such as learning rate <img src="https://latex.codecogs.com/svg.image?\eta&space;" title="\eta " />), loss function (L), and model architecture. Companies initialise the global model and define starting value of model parameters <img src="https://latex.codecogs.com/svg.image?\theta&space;_{0}^{shared}" title="\theta _{0}^{shared}" />. </li>
@@ -102,6 +103,7 @@ and <img src="https://latex.codecogs.com/svg.image?\mu&space;_{t}^{g}" title="\m
 Steps 2 to 8 are then repeated several times, with each  keeping its data stored locally, the central body receiving updated gradients and companies in the network receiving their <img src="https://latex.codecogs.com/svg.image?\theta&space;_{t&plus;1}^{shared}&space;" title="\theta _{t+1}^{shared} " /> updates after each loop.
 
 <b> Adding security </b>
+<br>
 <br>
 While the centralised body only receives the model gradients, rather than the underlying data, this is still sensitive information that could be valuable to competitors. Companies could theoretically infer their competitors’ model errors and compare them with the size of their own errors (which ultimately relate to model parameters), using this information to gain a competitive advantage through knowing whether they have fewer or more claims than peers. Imagine if, when using simpler methods such as GLMs, everyone used the same distribution, link function and so on – the model coefficients would directly relate to the underlying data being fitted.
 
