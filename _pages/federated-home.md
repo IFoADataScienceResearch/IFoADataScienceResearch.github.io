@@ -10,10 +10,10 @@ sidebar:
 ---
 
 ## Aims 
-1.	Broaden the knowledge of Privacy Preserving ML methods and their application in insurance industry
-2.	Popularize the FL ML
+1.	Broaden knowledge of Privacy Preserving ML methods and their application in insurance industry
+2.	Popularize Federated Learning Machine LEarning techniques
 3.	Increase awareness of the industry on how the technology might change the way insurance works
-4.	Understand potential difficulties and risks in adopting FL technology in insurance. Try to address those issues
+4.	Understand potential difficulties and risks in adopting FL technology in insurance and attempt to address those issues
 5.	Understand when it is worth to collaborate and when companies should rely on their own data
 
 ## Members
