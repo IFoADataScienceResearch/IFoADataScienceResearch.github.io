@@ -6,7 +6,7 @@ comments: true
 sidebar:
   - title: "Małgorzata Śmietanka"
   - title: "Dylan Liew"
-  - title: "Claudio Giorgio Giancaterino"
+  - title: "Claudio Giancaterino"
 categories:
   - Blog
 tags:
