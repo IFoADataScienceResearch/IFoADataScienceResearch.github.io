@@ -14,7 +14,7 @@ Investigate tools and packages available to perform data visualisation and produ
 
 ## Members
 1.  Eilish Bouse (Chair)
-2.  Afzaal Ahmed
+2.  Neptune Jin (Deputy Chair)
 3.  Graham O'Conner
 4.  Mark Cooper
 5.  Alexis Iglauer
@@ -23,7 +23,7 @@ Investigate tools and packages available to perform data visualisation and produ
 8.  Mohamed Elsheemy
 9.  Eduardo Eugenio Medina
 10. Shi An Teh
-11. Neptune Jin
+11. Afzaal Ahmed
 12. Aditi Saraff
 
 
