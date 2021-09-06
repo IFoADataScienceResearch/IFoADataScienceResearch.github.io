@@ -17,7 +17,7 @@ Investigate tools and packages available to perform data visualisation and produ
 2.  Neptune Jin (Deputy Chair)
 3.  Graham O'Conner
 4.  Mark Cooper
-5.  Alexis Iglauer
+5.  Paul Wee
 6.  Usenthini Rajasekar
 7.  Mohammed S. Raza.  
 8.  Mohamed Elsheemy
