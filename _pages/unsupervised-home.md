@@ -9,9 +9,12 @@ sidebar:
   nav: unsupervised-nav
 ---
 
-
+## Aims
+1. Climate change - Time series of severe weather events, clustering on geographic location
+2. Covid - Clustering/ segmentation geographically, intersect of multiple data sets
 
 ## Members
+
 1.  Tom Lambert (Chair) 
 2.  Nikolay Yankov
 3.  Stewart Stanton
