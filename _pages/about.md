@@ -4,6 +4,9 @@ classes: wide
 title: "About"
 author_profile: false
 toc: true
+sidebar:
+  title: "Site Navigation"
+  nav: about-nav
 ---
 
 The IFoA Data Science Research Section is an international research community, consisting of actuaries, data scientists, statisticians and academics meeting regularly to research and develop data science techniques in actuarial and insurance applications. We organised and disseminate our works through research working parties.
