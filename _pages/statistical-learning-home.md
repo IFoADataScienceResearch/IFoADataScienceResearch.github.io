@@ -11,12 +11,13 @@ sidebar:
 
 ## Aims
 Our aim is to construct highly flexible actuarial models such as:
-• finite mixture regression models for the number and the costs of claims; 
-•	univariate and multivariate regression models with varying dispersion and shape for claim frequencies and severities;
-•	copula based models with regression structures on the mean, dispersion and dependence parameters for different claim types and their associated claim counts and costs; 
-•	first-order integer valued autoregressive INAR(1) regression models with varying dispersion for time series of claim counts;
-•	neural network embeddings of the aforementioned models which are able to capture the stylized characteristics of structured, semi-structured and unstructured insurance data.
-
+<ul>
+<li> finite mixture regression models for the number and the costs of claims; </li>
+<li> univariate and multivariate regression models with varying dispersion and shape for claim frequencies and severities; </li>
+<li> copula based models with regression structures on the mean, dispersion and dependence parameters for different claim types and their associated claim counts and costs; </li>
+<li> first-order integer valued autoregressive INAR(1) regression models with varying dispersion for time series of claim counts; </li>
+<li> neural network embeddings of the aforementioned models which are able to capture the stylized characteristics of structured, semi-structured and unstructured insurance data. </li>
+</ul>
 
 ## Members
 1. George Tzougas (Chair). Associate Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University, Edinburgh.
