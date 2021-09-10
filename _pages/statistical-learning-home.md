@@ -10,7 +10,18 @@ sidebar:
 ---
 
 ## Aims
-Construct highly flexible hybrid NNs - actuarial models to capture the characteristics of complex data (such as telematics)
+Our aim is to construct highly flexible actuarial models such as:
+• finite mixture regression models for the number and the costs of claims; 
+•	univariate and multivariate regression models with varying dispersion and shape for claim frequencies and severities;
+•	copula based models with regression structures on the mean, dispersion and dependence parameters for different claim types and their associated claim counts and costs; 
+•	first-order integer valued autoregressive INAR(1) regression models with varying dispersion for time series of claim counts;
+•	neural network embeddings of the aforementioned models which are able to capture the stylized characteristics of structured, semi-structured and unstructured insurance data.
+
 
 ## Members
-1. Associate Professor George Tzougas (Chair) 
+1. George Tzougas (Chair). Associate Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University, Edinburgh.
+2. Dimitris Karlis. Professor, Dept of Statistics, Athens University of Economics and Business.
+3. Tsz Chai Fung. Assistant Professor · Georgia State University - J. Mack Robinson College of Business.
+4. Himchan Jeong. Assistant Professor of Statistics and Actuarial Science, Simon Fraser University.
+5. Dionisios Sotiropoulos.  Assistant Professor at the Department of Computer Science at the University of Piraeus.
+
