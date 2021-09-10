@@ -1,7 +1,7 @@
 ---
 permalink: /statistical-learning/
 classes: wide
-title: "Statistical Learning in Actuarial Applications Working Party"
+title: "Statistical Learning in Actuarial Applications WP"
 author_profile: false
 toc: true
 sidebar:
