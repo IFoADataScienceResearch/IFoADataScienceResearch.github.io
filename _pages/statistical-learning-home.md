@@ -25,3 +25,5 @@ Our aim is to construct highly flexible actuarial models such as:
 3. <b> Himchan Jeong</b>. Assistant Professor of Statistics and Actuarial Science, Simon Fraser University.
 4. <b> Dimitris Karlis</b>. Professor, Dept of Statistics, Athens University of Economics and Business.
 5. <b> Dionisios Sotiropoulos</b>.  Assistant Professor at the Department of Computer Science at the University of Piraeus.
+
+## Conference
