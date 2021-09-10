@@ -9,7 +9,13 @@ toc: true
 ---
 
 # Downloads
-
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/downloads/predictive.PNG){: .align-left}{: width="300" } 
+<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/FL_predictive_maintenance.pdf" download>Application of federated learning in predictive maintenance to predict remaining useful life</a> <br> 
+<small> Learn more as Zack applies two open-source federated learning packages - FATE and dc_federated to predict failure of turbofan engines. </small> 
+<br>
+<br>
+<br>
+<br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/downloads/eea-conference.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/E0260_Abstract_e-Conference_Ng.pdf" download>NLP and ML in Social Media Opinion Mining</a> <br> 
 <small> Learn more as John introduces NLP and Machine Learning Techniques in social media opinion mining to uncover insights
