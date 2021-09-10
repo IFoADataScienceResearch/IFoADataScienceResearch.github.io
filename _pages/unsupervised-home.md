@@ -23,5 +23,5 @@ sidebar:
 6.  Debashish Dey
 7.  Jasvir Grewal
 8.  Biren Dhir
-9.  Xin Yung
+9.  Xin Yung Lee
 10. Deepanjali Talwar
