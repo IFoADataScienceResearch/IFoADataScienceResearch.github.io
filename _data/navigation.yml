@@ -82,8 +82,7 @@ about-nav:
       - title: "Home"
         url: https://ifoadatascienceresearch.github.io/e-commerce-insurance/
         
-        
-        
+       
 super-nav:
   - title: "Blog Posts"
     children:
@@ -99,6 +98,8 @@ federated-nav:
     children:
       - title: "Federated Learning for Privacy-Preserving Data Access"
         url: https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Federated%20Learning%20for%20Privacy-Preserving%20Data%20Access.pdf
+      - title: "Application of federated learning in predictive maintenance to predict remaining useful life"
+        url: https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/FL_predictive_maintenance.pdf
   - title: "Blog Posts"
     children:
       - title: "Insurance: Collaboration without compromise"
