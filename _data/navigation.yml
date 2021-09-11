@@ -73,7 +73,7 @@ about-nav:
     children:
       - title: "Home"
         url: https://ifoadatascienceresearch.github.io/data-visualisation/
-  - title: "Statistical Learning in Actuarial Application"
+  - title: "Statistical Learning in Actuarial Applications"
     children:
       - title: "Home"
         url: https://ifoadatascienceresearch.github.io/statistical-learning/
