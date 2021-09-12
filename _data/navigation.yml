@@ -6,7 +6,7 @@ main:
       - title: "Federated Learning"
         url: https://ifoadatascienceresearch.github.io/federated-learning/
       - title: "Natural Language Processing"
-        url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
+        url: https://ifoadatascienceresearch.github.io/nlp/
       - title: "Unsupervised Learning"
         url: https://ifoadatascienceresearch.github.io/unsupervised-learning/
       - title: "Deep Learning"
@@ -84,7 +84,7 @@ federated-nav:
       - title: "All together now: modelling claims using federated learning"
         url: https://ifoadatascienceresearch.github.io/blog/all-together-now/
         
-twitter-nav:
+nlp-nav:
   - title: "Events"
     children:
       - title: "Data science - How actuaries can optimize usage of data science techniques within their sectors"
