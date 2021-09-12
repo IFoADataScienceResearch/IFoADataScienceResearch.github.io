@@ -55,7 +55,7 @@ The traditional ML model involves gathering raw data together (for example in th
 
 By definition, federated learning aims to build a joint ML model based on data located at multiple sites. The concept was proposed by Google in 2016 in the context of privacy-preserving multiple mobile device model training. Google’s work concentrates on mobile devices model optimisation, where data is distributed over an extremely large number of nodes (Figure 1).
 
-<img src="/assets/images/federated-learning/figure1.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/insurance-collaboration/figure1.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 There are two processes in federated machine learning: i) model training and ii) model inference. In the process of model training, anonymised information can be exchanged between parties but the sensitive raw data cannot. The exchange does not reveal any protected private portions of the data at each site. The trained model can reside at one party or be shared among multiple parties. 
 
@@ -63,7 +63,7 @@ At the model inference stage, the model is applied to a new data instance. Using
 
 One way to classify federated learning is according to how data is partitioned among nodes contributing to the global model. These classifications include horizontal federated learning, vertical federated learning and federated transfer learning (Figure 2, overleaf).
 
-<img src="/assets/images/federated-learning/figure2.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/insurance-collaboration/figure2.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 <b> Horizontal federated learning (HFL) </b>
 
