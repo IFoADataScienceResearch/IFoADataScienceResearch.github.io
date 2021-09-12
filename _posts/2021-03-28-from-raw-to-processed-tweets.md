@@ -15,6 +15,8 @@ tags:
 This is part of a series of posts that aim to explain in greater detail the NLP pipeline supporting the twitter sentiment analysis performed <a href="https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/">here.</a>
 {: .notice}
 
+<img src="/assets/images/NLP/preprocessing_v2.png" style="width: auto; height: auto">
+
 ## Step 1: Tweets pre-processing and reading in the data
 Before the tweets can be used, we have to perform a few critical pre-processing steps:
 1. Normalization, where we reduce randomness in the text by normalising irrelevant expressions, such as numbers, usernames and URL;
