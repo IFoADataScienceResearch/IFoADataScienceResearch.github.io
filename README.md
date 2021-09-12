@@ -9,6 +9,9 @@ We aim to achieve this by:
 2. Conducting research and case studies, including but not limited to pricing, underwriting, capital modelling, mortality, morbidity, fraud, customer behaviour, privacy and technology
 3. Publishing data science case studies and papers, via The Actuary magazine, journals, webinars, web blogs, LinkedIn and conferences
 
+# Contact us
+If you have any questions about the IFoA Data Science Research Section, please contact <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> or the Professional Communities Team (professional.communities@actuaries.org.uk)
+
 # Disclaimer
 The views expressed on this site are those of invited contributors and not necessarily those of the Institute and Faculty of Actuaries. The Institute and Faculty of Actuaries do not endorse any of the views stated, nor any claims or representations made in this publication and accept no responsibility or liability to any person for loss or damage suffered as a consequence of their placing reliance upon any view, claim or representation made in this publication.
 
