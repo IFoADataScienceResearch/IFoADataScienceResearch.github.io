@@ -29,34 +29,24 @@ main:
     url: /about/
 
 about-nav:
-  - title: "Publications"
+  - title: "General"
     children:
-      - title: "Federated Learning for Privacy-Preserving Data Access"
-        url: https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Federated%20Learning%20for%20Privacy-Preserving%20Data%20Access.pdf
-      - title: "Application of federated learning in predictive maintenance to predict remaining useful life"
-        url: https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/FL_predictive_maintenance.pdf
+      - title: "Posts"
+        url: https://ifoadatascienceresearch.github.io/posts/
+      - title: "Members"
+        url: https://ifoadatascienceresearch.github.io/members/
   - title: "Supervised Learning"
     children:
       - title: "Home"
         url: https://ifoadatascienceresearch.github.io/supervised-learning/
-      - title: "Supervised learning techniques in claims frequency modelling"
-        url: https://ifoadatascienceresearch.github.io/blog/supervised-learning-techniques-in-claims-frequency/
   - title: "Federated Learning"
     children:
       - title: "Home"
         url: https://ifoadatascienceresearch.github.io/federated-learning/
-      - title: "Insurance: Collaboration without compromise"
-        url: https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/
-      - title: "All together now: modelling claims using federated learning"
-        url: https://ifoadatascienceresearch.github.io/blog/all-together-now/
   - title: "Twitter Sentiment"
     children:
       - title: "Home"
         url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
-      - title: "Insurance and social media: Keyboard Warriors"
-        url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
-      - title: "From raw to processed tweets"
-        url: https://ifoadatascienceresearch.github.io/blog/from-raw-to-processed-tweets/
   - title: "Unsupervised Learning"
     children:
       - title: "Home"
