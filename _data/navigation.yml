@@ -35,43 +35,26 @@ about-nav:
         url: https://ifoadatascienceresearch.github.io/posts/
       - title: "Members"
         url: https://ifoadatascienceresearch.github.io/members/
-  - title: "Supervised Learning"
+  - title: "Working Parties"
     children:
-      - title: "Home"
+      - title: "Supervised Learning"
         url: https://ifoadatascienceresearch.github.io/supervised-learning/
-  - title: "Federated Learning"
-    children:
-      - title: "Home"
+      - title: "Federated Learning"
         url: https://ifoadatascienceresearch.github.io/federated-learning/
-  - title: "Twitter Sentiment"
-    children:
-      - title: "Home"
+      - title: "Twitter Sentiment"
         url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
-  - title: "Unsupervised Learning"
-    children:
-      - title: "Home"
+      - title: "Unsupervised Learning"
         url: https://ifoadatascienceresearch.github.io/unsupervised-learning/
-  - title: "Deep Learning"
-    children:
-      - title: "Home"
+      - title: "Deep Learning"
         url: https://ifoadatascienceresearch.github.io/deep-learning/
-  - title: "Explainable AI"
-    children:
-      - title: "Home"
+      - title: "Explainable AI"
         url: https://ifoadatascienceresearch.github.io/explainable-ai/
-  - title: "Data Visualisation"
-    children:
-      - title: "Home"
+      - title: "Data Visualisation"
         url: https://ifoadatascienceresearch.github.io/data-visualisation/
-  - title: "Statistical Learning in Actuarial Applications"
-    children:
-      - title: "Home"
+      - title: "Statistical Learning in Actuarial Applications"
         url: https://ifoadatascienceresearch.github.io/statistical-learning/
-  - title: "Data Analytics in e-commerce"
-    children:
-      - title: "Home"
+      - title: "Data Analytics in e-commerce"
         url: https://ifoadatascienceresearch.github.io/e-commerce-insurance/
-        
        
 super-nav:
   - title: "Blog Posts"
