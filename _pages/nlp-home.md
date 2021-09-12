@@ -1,12 +1,12 @@
 ---
-permalink: /twitter-sentiment/
+permalink: /nlp/
 classes: wide
 title: "Natural Language Processing Working Party"
 author_profile: false
 toc: true
 sidebar:
   title: "Content"
-  nav: twitter-nav
+  nav: nlp-nav
 ---
 
 ## Aims
