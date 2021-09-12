@@ -15,7 +15,7 @@ tags:
 This is part of a series of posts that aim to explain in greater detail the NLP pipeline supporting the twitter sentiment analysis performed <a href="https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/">here.</a>
 {: .notice}
 
-<img src="/assets/images/NLP/preprocessing_v2.png" style="width: auto; height: auto">
+<img src="/assets/images_for_posts/raw_to_processed/preprocessing_v2.png" style="width: auto; height: auto">
 
 ## Step 1: Tweets pre-processing and reading in the data
 Before the tweets can be used, we have to perform a few critical pre-processing steps:
@@ -98,8 +98,8 @@ text_processed_train <- DF_tweets_train$text_clean
 text_processed_train <- gsub("'", "", text_processed_train)
 text_processed_train <- gsub("-", "", text_processed_train)
 ```
-<a href="/assets/images/NLP/df_tweets_train.PNG">
-<img src="/assets/images/NLP/df_tweets_train.PNG" style="width: auto; height: auto" >
+<a href="/assets/images_for_posts/raw_to_processed/df_tweets_train.PNG">
+<img src="/assets/images_for_posts/raw_to_processed/df_tweets_train.PNG" style="width: auto; height: auto" >
 </a>
 
 ## Step 2: Pruning the vocabulary
@@ -124,7 +124,7 @@ vocab <- create_vocabulary(it_train,
                            stopwords = stop_words
 ) ## 14492
 ```
-<img src="/assets/images/NLP/vocab.PNG" style="width: auto; height: auto">
+<img src="/assets/images_for_posts/raw_to_processed/vocab.PNG" style="width: auto; height: auto">
 
 We then pruned the entire list of vocabulary using prune_vocabulary() which filters the input vocabulary and throws out very frequent and very infrequent terms. More details can be found in the text2vec RDocumentation <a href="https://www.rdocumentation.org/packages/text2vec/versions/0.6/topics/prune_vocabulary">here</a>.
 
@@ -146,7 +146,7 @@ pruned_vocab <- prune_vocabulary(vocab,
                                  vocab_term_max = nrow(vocab)
 ) ## 6144
 ```
-<img src="/assets/images/NLP/saved x-validation.PNG" style="width: auto; height: auto">
+<img src="/assets/images_for_posts/raw_to_processed/saved x-validation.PNG" style="width: auto; height: auto">
 
 ## Step 3: Creating a Document Term Matrix (DTM)
 A DTM describes the frequency of terms that occur in a collection of documents (defined as individual tweets in our case). This is represented in a matrix form where
@@ -156,8 +156,8 @@ A DTM describes the frequency of terms that occur in a collection of documents (
 
 An example of a DTM is shown below, with the corresponding column names.
 
-<img src="/assets/images/NLP/dtm_fold_train.PNG" style="width: auto; height: auto">
-<img src="/assets/images/NLP/colnames_dtm.PNG" style="width: auto; height: auto">
+<img src="/assets/images_for_posts/raw_to_processed/dtm_fold_train.PNG" style="width: auto; height: auto">
+<img src="/assets/images_for_posts/raw_to_processed/colnames_dtm.PNG" style="width: auto; height: auto">
 
 This is the base data structure which will be used as input in the modelling stage, after a transformation with TF-IDF in the next step. DTMs are often stored as a sparse matrix object, which is a matrix in which most of the elements are zero. This is a more efficient data structure compared to using standard dense-matrix structure, requiring less storage [<a href="https://en.wikipedia.org/wiki/Sparse_matrix">1</a>].
 
@@ -190,7 +190,7 @@ dtm_test_tfidf  <- create_dtm(it_test, vectorizer)
 dtm_test_tfidf  <- transform(dtm_test_tfidf, tfidf)
 ```
 
-<img src="/assets/images/NLP/dtm_test_tfidf.PNG" style="width: auto; height: auto">
+<img src="/assets/images_for_posts/raw_to_processed/dtm_test_tfidf.PNG" style="width: auto; height: auto">
 
 For more information on the steps above, please refer to <a href="https://cran.r-project.org/web/packages/text2vec/vignettes/text-vectorization.html">here.</a>
 {: .notice}
