@@ -33,6 +33,10 @@ about-nav:
     children:
       - title: "Posts"
         url: https://ifoadatascienceresearch.github.io/posts/
+      - title: "Resources"
+        url: https://ifoadatascienceresearch.github.io/resources/
+      - title: "Events"
+        url: https://ifoadatascienceresearch.github.io/events/   
       - title: "Members"
         url: https://ifoadatascienceresearch.github.io/members/
   - title: "Working Parties"
