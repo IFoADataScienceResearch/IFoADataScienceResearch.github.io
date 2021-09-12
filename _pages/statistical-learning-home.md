@@ -27,5 +27,3 @@ Our aim is to construct highly flexible actuarial models such as:
 5. <b> Aristidis Nikoloulopoulos </b>, Associate Professor in Statistics, School of Computing Sciences University of East Anglia
 6. <b> Dionisios Sotiropoulos </b>,  Assistant Professor, Dept of Computer Science at the University of Piraeus
 7. <b> George Streftaris </b>,  Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University, Edinburgh
-
-## Conference
