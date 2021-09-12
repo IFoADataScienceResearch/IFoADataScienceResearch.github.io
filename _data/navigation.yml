@@ -46,7 +46,7 @@ about-nav:
       - title: "Federated Learning"
         url: https://ifoadatascienceresearch.github.io/federated-learning/
       - title: "Natural Language Processing"
-        url: https://ifoadatascienceresearch.github.io/twitter-sentiment/
+        url: https://ifoadatascienceresearch.github.io/nlp/
       - title: "Unsupervised Learning"
         url: https://ifoadatascienceresearch.github.io/unsupervised-learning/
       - title: "Deep Learning"
