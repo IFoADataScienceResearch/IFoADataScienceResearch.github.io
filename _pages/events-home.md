@@ -15,7 +15,7 @@ feature_row_left:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/risk-home.jpg
+  - image_path: /assets/images_for_wp/risk-home.jpg
     alt: "IFoA Asia Conference 2020"
     title: "IFoA Asia Conference 2020"
     excerpt: "7th to 25th September 2020"
@@ -23,7 +23,7 @@ feature_row_left:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/twitter-home.jpg
+  - image_path: /assets/images_for_wp/twitter-home.jpg
     alt: "Twitter Sentiment Analysis: What does Social Media tell us about coronavirus concerns in the UK?"
     title: "Twitter Sentiment Analysis: What does Social Media tell us about coronavirus concerns in the UK?"
     excerpt: "24th July 2020"
