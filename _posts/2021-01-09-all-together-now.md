@@ -49,7 +49,7 @@ This is a rigorous model pipeline, akin to what a data scientist might do in pra
 
 In comparison, if we have all of the data and not just 10%, this model yields predictions that are significantly closer to the actual test frequency (Figure 2).
 
-<img src="/assets/images/federated-learning/All-together-now_Figure-1-2_0.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/all-together-now/All-together-now_Figure-1-2_0.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 <b> Collaboration with competitors </b>
 <br>
@@ -58,7 +58,7 @@ The alternative would be working with competitors to overcome this insufficient 
 
 However, sending sensitive claims experience externally is not ideal. There may be no suitable centralised bodies that have the ability and capacity to perform calculations at speed before the experience is no longer relevant. Perhaps, due to funding arrangements, there are practical issues in setting such a body up. Or there may be issues around trust, data security and data privacy requirements.
 
-<img src="/assets/images/federated-learning/All-together-now_Figure-3.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/all-together-now/All-together-now_Figure-3.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 <b> Pooling model parameters instead of data </b>
 <br>
@@ -120,7 +120,7 @@ Adding this final layer of encryption makes the entire process truly secure and 
 <br>
 This ‘secret sharing’ step adds significant computation time to model building, and does introduce some noise. However, we can see that it significantly beats our initial partially trained model, and comes close to the ideal (Figure 4).
 
-<img src="/assets/images/federated-learning/All-together-now_The-results_Figure-4_0.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images_for_posts/all-together-now/All-together-now_The-results_Figure-4_0.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
 <b> Federated learning in insurance </b>
 <br>
