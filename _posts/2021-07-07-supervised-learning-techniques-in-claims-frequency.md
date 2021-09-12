@@ -24,7 +24,7 @@ Supervised learning models, where algorithms are trained on a labelled dataset t
 
 We looked at some of the commonly used supervised learning algorithms – including decision tree, random forest, gradient boosted machine (GBM), neural network and naive Bayes models – and compared their performance when predicting the number of claims for a subset (10% of data, referred to as test or out-of-sample data) of French motor insurance policies (with 90% of data being used for training). We also explored ways to improve performance respectively, showcasing the details and features of each application.
 
-<img src="/assets/images/supervised-learning-techniques/Figure-1.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images_for_posts/supervised-learning-techniques/Figure-1.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
 <b> Exploratory data analysis </b>
 <br>
@@ -44,9 +44,9 @@ Bonus-malus – There is very little exposure above 120, but a slight increase i
 
 </ul>
 
-<img src="/assets/images/supervised-learning-techniques/Figure-2.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images_for_posts/supervised-learning-techniques/Figure-2.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
-<img src="/assets/images/supervised-learning-techniques/Figure-3.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images_for_posts/supervised-learning-techniques/Figure-3.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
 The exploratory analysis is used to decide which feature requires engineering. In the case study, this takes the form of binning, capping and logarithmic transformations.
 
@@ -56,7 +56,7 @@ Claims counts observed during the one accounting year of the French motor insura
 
 However, it is worth noting that ClaimNb (observed number of claims) is highly skewed on zeros and quite sparse beyond value two. To account for this skewness, a traditional Poisson GLM is built alongside a zero-inflated Poisson (ZIP) model.
 
-<img src="/assets/images/supervised-learning-techniques/Figure-4.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images_for_posts/supervised-learning-techniques/Figure-4.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
 The ZIP model is a variation of the Poisson GLM commonly used for datasets with excessive zeros. It assumes there are two processes determining the counts: the first determines if a claim occurs or not; if it does, the second determines the number of claims driven by the Poisson probability mass function. 
 
@@ -74,7 +74,7 @@ Decision trees form the basis of several models in machine learning. At their si
 
 We trained a decision tree and a random forest to predict the ClaimNb in our dataset. The scikit-learn Python library is used here, specifically the tree regressor and random forest regressor models.
 
-<img src="/assets/images/supervised-learning-techniques/Figure-5.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images_for_posts/supervised-learning-techniques/Figure-5.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
 Fitting these models with default hyperparameters, we generated the RMSE seen in Table 1. As expected, the random forest model outperforms the decision tree model on out-of-sample data, demonstrating the strength of ensemble learning when generalising to unseen data.
 
@@ -108,7 +108,7 @@ SKLearnGBM
 
 </ul>
 
-<img src="/assets/images/supervised-learning-techniques/Tables-1-3.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images_for_posts/supervised-learning-techniques/Tables-1-3.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
 Initially, these models were trained to the dataset with default hyperparameters. It became clear that SKLearnGBM did not generate competitive results, so this model was dropped.
 
@@ -138,7 +138,7 @@ Forward propagation happens when a neural network makes predictions from data, g
 
 Apart from input nodes, neuron nodes in hidden and output layers are essentially the result of dot products from nodes in previous layers multiplying their corresponding weights, linking the next layer. Therefore, a proper set of weighting values is vital to improve prediction accuracy.
 
-<img src="/assets/images/supervised-learning-techniques/Table-4.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images_for_posts/supervised-learning-techniques/Table-4.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
 Backward propagation is used to optimise the weights for a given loss function. As the name suggests, it goes in the opposite direction to the forward propagation, starting from the prediction on the right and going all the way back to the input nodes on the left, calculating the gradients of the loss function based on error terms at each node. It then proposes an updated version of weights using gradient descent to minimise a given loss function. The algorithm then takes the updated weights and forward propagates again to achieve a new prediction, hopefully giving a smaller prediction error. Then the neural network backwards propagates to make yet another update for the weights. This iteration goes repeatedly over a complete set of data (‘epochs’) until the optimisation cannot be improved any further and the final prediction is achieved.
 
@@ -146,7 +146,7 @@ Off-the-shelf deep learning packages such as Keras are available in Python to ex
 
 To optimise the model performance, we can experiment and search for the best learning rate, as can be seen in Table 4.
 
-<img src="/assets/images/supervised-learning-techniques/Table-5.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
+<img src="/assets/images_for_posts/supervised-learning-techniques/Table-5.jpg" style="width: auto; height: auto;max-width: 500px;max-height: 500px">
 
 The learning rate represents the size of each update of weights. By comparison, the prediction performance keeps improving as the learning rate increases up to 0.001, then starts to drop a little when the learning rate grows beyond 0.01. This shows that the size of the update is too small to make a meaningful improvement when the learning rate is smaller than 0.001, but too large and leaps over the optimal point when it is larger than 0.001.
 
