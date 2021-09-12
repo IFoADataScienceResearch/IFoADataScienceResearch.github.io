@@ -46,8 +46,8 @@ For each dataset, we explored a variety of machine learning algorithms and encod
 
 Based on results in Table 1, run-time and simplicity, our final selected model is regularised logistic regression with TF-IDF encoding trained on the enriched dataset. This achieved a 0.859 AUC. Fine-tuning machine learning models on a COVID-19-specific Twitter dataset can significantly outperform open-source tools.
 
-<img src="/assets/images/keyboard-warriors/figure1.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
-<img src="/assets/images/keyboard-warriors/table1.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/keyboard-warriors/figure1.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/keyboard-warriors/table1.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 <b> Step 3: Sentiment analysis </b>
 
@@ -59,7 +59,7 @@ Figure 2 compares 20 of the most popular topics during the first wave versus dur
 
 The UK’s NHS was a frequent topic during the first wave, but not during subsequent months. It was associated with the positive sentiment resulting from the ‘clap for carers’ initiative, but there were dips in sentiment relating to fears over shortages of hospital beds and personal protective equipment. Discussion of ‘vaccines’, ‘school’ and ‘masks’ were relatively uncommon during the first wave but subsequently became mainstream.
 
-<img src="/assets/images/keyboard-warriors/figure2.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/keyboard-warriors/figure2.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 <b> Sentiment analysis and overall trend </b>
 
@@ -69,7 +69,7 @@ The granularity of text data enables us to perform deeper topical analysis by an
 
 Figure 5 shows that the sentiment on government was low during the first wave, but improved and hovered around neutral from April to November. These trends are broadly consistent with University College London’s COVID-19 social study, a panel study of more than 70,000 respondents conducted via online weekly surveys. Sentiment analysis of social media could be a cost-effective tool for analysing the evolution of public opinion; traditional surveys can suffer from lower coverage and time lags. However, there are potential biases relating to the demographics of social media users as compared to the wider population.
 
-<img src="/assets/images/keyboard-warriors/figure34.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/keyboard-warriors/figure34.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 <b> Sentiment on insurance and insurers </b>
 
@@ -77,7 +77,7 @@ Figure 6 shows a large peak in February due to an increase in tweets about trave
 
 Many insurers are perceived negatively due to COVID-19-related claims and losses, business interruption, event cancellation, legal disputes, mismanagement of funds, and dividend cuts. Conversely, NFU Mutual, Admiral, Vitality and Cigna are examples of insurers with favourable sentiment thanks to their customer service, motor policy refunds and financial resilience. It is encouraging to see positivity towards customer service and insurer advice on mental health, exercise and workplace culture – these actions could be emulated by other insurers for the good of society.
 
-<img src="/assets/images/keyboard-warriors/figure56.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/keyboard-warriors/figure56.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 <b> Sentiment analysis in the insurance industry </b>
 
