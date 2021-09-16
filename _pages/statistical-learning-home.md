@@ -21,9 +21,10 @@ Our aim is to construct highly flexible actuarial models such as:
 
 ## Members
 1. <b> George Tzougas (Chair) </b>, Associate Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University, Edinburgh
-2. <b> Tsz Chai Fung</b>, Assistant Professor, Georgia State University - J. Mack Robinson College of Business
+2. <b> Tsz Chai Fung</b>, Assistant Professor, J. Mack Robinson College of Business, Georgia State University 
 3. <b> Himchan Jeong</b>, Assistant Professor of Statistics and Actuarial Science, Simon Fraser University
 4. <b> Dimitris Karlis</b>. Professor, Dept of Statistics, Athens University of Economics and Business
 5. <b> Aristidis Nikoloulopoulos </b>, Associate Professor in Statistics, School of Computing Sciences University of East Anglia
 6. <b> Dionisios Sotiropoulos </b>,  Assistant Professor, Dept of Computer Science at the University of Piraeus
 7. <b> George Streftaris </b>,  Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University, Edinburgh
+8. <b> Spyridon Vrontos </b>, Senior Lecturer in Actuarial Science, Dept of Mathematical Sciences, University of Essex
