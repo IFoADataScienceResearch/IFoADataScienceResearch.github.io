@@ -11,8 +11,9 @@ categories:
 tags:
   - Federated Learning
 ---
-In this post, we would explore how to split a dataset for the purpose of federated learning. Federated learning is applicable when there are multiple independent workers with isolated pools of private data. These pools of federated data can take the form of either a horizontal or vertical data set. A federated data set is said to be horizontal if the individually distributed data sets have homogeneous feature space as shown in the figure below. This means that uniquely
-identiﬁable data points across each pool share the same features. A precursor to simulating and testing a horizontal federated learning model is therefore access to multiple sets of data with the same feature space across unique samples.
+In this post, we would explore how to split a dataset for the purpose of federated learning. Federated learning is applicable when there are multiple independent workers with isolated pools of private data. These pools of federated data can take the form of either a horizontal or vertical data set. A federated data set is said to be horizontal if the individually distributed data sets have homogeneous feature space as shown in the figure below. 
+
+This means that uniquely identiﬁable data points across each pool share the same features. A precursor to simulating and testing a horizontal federated learning model is therefore access to multiple sets of data with the same feature space across unique samples.
 
 <img src="/assets/images_for_posts/splitting-dataset/Overview of FL-Horizontal.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
