@@ -19,7 +19,9 @@ identiﬁable data points across each pool share the same features. A precursor 
 <b> Introduction to turbofan engine dataset </b>
 
 This post relies primarily on the turbofan engine degradation simulation data set produced by Saxena et al., originally used as data in the 2008 Prognostics and Health Management (PHM) data competition. This data was generated using
-the Commercial Modular Aero-Propulsion System Simulation (C-MAPSS) tool, which is an engine simulation software used to simulate large commercial turbofan engine with 90,000 lb of thrust. Four data sets are provided from this simulation, each representing a number of engines simulated under different combination of operating conditions and fault modes. For example, data set FD001 contains 100 engines simulated at sea level with only one possible failure event (HPC degradation) while data set FD004 contains 248 engines simulated under six different operating conditions with 2 unique failure event (HPC degradation and Fan degradation).
+the Commercial Modular Aero-Propulsion System Simulation (C-MAPSS) tool, which is an engine simulation software used to simulate large commercial turbofan engine with 90,000 lb of thrust. 
+
+Four data sets are provided from this simulation, each representing a number of engines simulated under different combination of operating conditions and fault modes. For example, data set FD001 contains 100 engines simulated at sea level with only one possible failure event (HPC degradation) while data set FD004 contains 248 engines simulated under six different operating conditions with 2 unique failure event (HPC degradation and Fan degradation).
 
 <img src="/assets/images_for_posts/splitting-dataset/summaryofdata.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
