@@ -29,7 +29,7 @@ Each data set is made up of a training and test subsets. Engines in the training
 
 <b> Dynamic Time Warping </b>
 
-The technique chosen to perform this split is time series hierarchical clustering using Dynamic Time Warping (DTW) as the distance metric [<a href="https://towardsdatascience.com/how-to-apply-hierarchical-clustering-to-time-series-a5fe2a7d8447">1/a>]. DTW performs a pairwise comparison of data points in two time series to derive the extent of similarity (or difference) between each sequence. It can be applied to time series of varying length but aligned in terms of time, as is the case in FD001. The result of the clustering is shown in the figure below where each of the 100 engines are allocated to a cluster.
+The technique chosen to perform this split is time series hierarchical clustering using Dynamic Time Warping (DTW) as the distance metric [<a href="https://towardsdatascience.com/how-to-apply-hierarchical-clustering-to-time-series-a5fe2a7d8447">1</a>]. DTW performs a pairwise comparison of data points in two time series to derive the extent of similarity (or difference) between each sequence. It can be applied to time series of varying length but aligned in terms of time, as is the case in FD001. The result of the clustering is shown in the figure below where each of the 100 engines are allocated to a cluster.
 
 <img src="/assets/images_for_posts/splitting-dataset/dendrogram_3.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
