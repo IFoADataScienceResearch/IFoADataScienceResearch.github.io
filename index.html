@@ -79,6 +79,96 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+ <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img class="first-slide" src="assets/images_for_events/dsevent.jpg" alt="First slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <div class="col-md-8">
+                <h2>JAX 2015 Award</h2>
+                <h3>Industry Awards!</h3>
+                <hr/>
+                <p>Netflix is honored to receive the Jury's choice award for Innovation at
+                  <a href="http://jaxenter.com/jax-awards-winners-announced-at-jax-2015-conference-116358.html">JAX 2015 conference</a>.<p>
+                <p>We would like to thank all of those who contribute to the Netflix open source community including our Netflix developers, all external contributors,
+                  and our active user base.</p>
+                <p>Netflix Open Source won the JAX Special Jury Award.  Jury member Neal Ford was quoted as saying "that architecture is
+                  cool again, that it can be used as a business differentiator, and when done right it is a huge advantage. Netflix showed the power of internalizing
+                  DevOps into their architecture; all architectures will do this in the future."</p>
+              </div>
+              <div class="col-md-4">
+                <div class="carousel-image">
+                  <img src="assets/images_for_events/dsevent.jpg" alt="First Slide Image" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="second-slide" src="images/slider-bg-2.jpg" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <div class="col-md-8">
+                <h2>Getting Started</h2>
+                <h3>How can you get started quickly?</h3>
+                <hr/>
+                <p>For the simple approach, try out our <a href="http://techblog.netflix.com/2014/11/zerotodocker-easy-way-to-evaluate.html">ZeroToDocker</a>
+                  container images. After downloading the images, you can be up and running NetflixOSS in just a few minutes.</p>
+                <p>After you've tackled that, check out the <a href="https://github.com/aspyker/acmeair-netflix">IBM ACME Air</a>
+                  and <a href="https://github.com/cfregly/fluxcapacitor/wiki">Flux Capacitor</a> apps, and the
+                  <a href="https://github.com/Netflix-Skunkworks/zerotocloud">Zero-to-Cloud workshop.</a></p>
+                <p>See these <a href="http://answersforaws.com/resources/netflixoss/cloudformation/">CloudFormation templates</a>
+                  on Answers For AWS for use of NetflixOSS through CloudFormation.</p>
+              </div>
+              <div class="col-md-4">
+                <div class="carousel-image">
+                  <img src="assets/images_for_events/dsevent.jpg" alt="Second Slide Image" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="third-slide" src="assets/images_for_events/dsevent.jpg" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <div class="col-md-8">
+                <h2>Our Team</h2>
+                <h3>Want to work on this technology?</h3>
+                <hr/>
+                <p>If you are looking to have a large impact at a growing company and work with a high performance team - start here. Work with talented colleagues on hard problems that affect millions of customers.</p>
+    	        <p>At Netflix we value high performance, freedom and responsibility. We don't focus on rules, processes or procedures. We are candid and transparent and seek excellence in everything that we do.</p>
+	            <p>We tackle problems others have not been able to solve. We license great content, build systems at scale and use data to push the business forward. We connect people with movies and television globally.</p>
+                <p>Check out our <a href="https://jobs.netflix.com/">jobs</a> page for current openings.</p>
+              </div>
+              <div class="col-md-4">
+                <div class="carousel-image">
+                  <img src="assets/images_for_events/dsevent.jpg" alt="Third Slide Image" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div><!-- /.carousel -->
+
 <p style="font-size:30px;font-family:arial"><b>Featured articles of the month</b></p>
 {% include feature_row id="feature_row_1" type="left" %}
 {% include feature_row id="feature_row_2" type="left" %}
