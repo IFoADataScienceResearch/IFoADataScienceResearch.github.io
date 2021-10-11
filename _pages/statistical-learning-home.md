@@ -23,11 +23,13 @@ Our aim is to construct highly flexible actuarial models such as:
 1. <b> George Tzougas (Chair) </b>, Associate Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University, Edinburgh
 2. <b> Enrique Calderin</b>, Senior Lecturer, Centre for Actuarial Studies, Unversity of Melbourne
 3. <b> Angelos Dassios</b>, Professor, Dept of Statistics, London School of Economics and Political Science 
-4. <b> Tsz Chai Fung</b>, Assistant Professor, J. Mack Robinson College of Business, Georgia State University 
-5. <b> Montserrat Guillén</b>, Chair Professor, Dept of Econometrics, University of Barcelona
-6. <b> Himchan Jeong</b>, Assistant Professor of Statistics and Actuarial Science, Simon Fraser University
-7. <b> Dimitris Karlis</b>. Professor, Dept of Statistics, Athens University of Economics and Business
-8. <b> Aristidis Nikoloulopoulos </b>, Associate Professor in Statistics, School of Computing Sciences University of East Anglia
-9. <b> Dionisios Sotiropoulos </b>,  Assistant Professor, Dept of Computer Science at the University of Piraeus
-10. <b> George Streftaris </b>,  Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University, Edinburgh
-11. <b> Spyridon Vrontos </b>, Senior Lecturer in Actuarial Science, Dept of Mathematical Sciences, University of Essex
+4. <b> Emilio Gómez-Déniz</b>, Professor in Department of Quantitative Methods in Economics and Management of the University of Las Palmas de Gran Canaria
+5. <b> Tsz Chai Fung</b>, Assistant Professor, J. Mack Robinson College of Business, Georgia State University 
+6. <b> Montserrat Guillén</b>, Chair Professor, Dept of Econometrics, University of Barcelona
+7. <b> Himchan Jeong</b>, Assistant Professor of Statistics and Actuarial Science, Simon Fraser University
+8. <b> Dimitris Karlis</b>. Professor, Dept of Statistics, Athens University of Economics and Business
+9. <b> Aristidis Nikoloulopoulos </b>, Associate Professor in Statistics, School of Computing Sciences University of East Anglia
+10. <b> José Maria Sarabia</b>,  Professor of Statistics and Operations Research and Full Professor of Quantitative Methods in CUNEF Universidad, Madrid Spain
+11. <b> Dionisios Sotiropoulos</b>,  Assistant Professor, Dept of Computer Science at the University of Piraeus
+12. <b> George Streftaris</b>,  Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University, Edinburgh
+13. <b> Spyridon Vrontos</b>, Senior Lecturer in Actuarial Science, Dept of Mathematical Sciences, University of Essex
