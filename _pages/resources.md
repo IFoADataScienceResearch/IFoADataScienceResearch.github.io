@@ -11,7 +11,7 @@ toc: true
 # Downloads
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/sept_2021_sharing_session.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/September%202021%20-%20IFoA%20Knowledge%20Sharing%20Session.pdf" download> Federated Learning: Collaboration with no compromise </a> <br> 
-<small> Read more about the application of federated learning to predict claims frequency as shared by the Federated Learning WP in the September 2021 Data Science Research Section monthly learning session. </small> 
+<small> Read more about the application of federated learning to predict claims frequency as shared by the Federated Learning WP in the September 2021 Data Science Research Section monthly sharing session. </small> 
 <br>
 <br>
 <br>
