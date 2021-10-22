@@ -1,5 +1,5 @@
 images: 
-  - image: assets/images_for_events/dsevent.jpg
-  - image: assets/images_for_events/dsevent.jpg
-  - image: assets/images_for_events/dsevent.jpg
-  - image: assets/images_for_events/eaa-conference.PNG
+  - image: /assets/images_for_events/dsevent.jpg
+  - image: /assets/images_for_events/dsevent.jpg
+  - image: /assets/images_for_events/dsevent.jpg
+  - image: /assets/images_for_events/eaa-conference.PNG
