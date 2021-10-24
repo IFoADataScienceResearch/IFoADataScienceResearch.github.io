@@ -42,5 +42,6 @@ feature_row_left:
 
 ---
 
+<p style="font-size:30px;font-family:arial"><b>External Events</b></p>
 {% include feature_row id="feature_row_left" type="left" %}
 
