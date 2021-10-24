@@ -4,6 +4,7 @@ layout: splash
 title: "Current and Past Events"
 header:
   overlay_image: /assets/images/splash-image/splash-home.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
 feature_row_left:
 
