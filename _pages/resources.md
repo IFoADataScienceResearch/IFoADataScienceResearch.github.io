@@ -4,6 +4,7 @@ layout: splash
 title: "Download the latest materials here"
 header:
   overlay_image: /assets/images/splash-image/splash-code.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: false
 toc: true
 ---
