@@ -31,7 +31,7 @@ Our aim is to construct highly flexible actuarial models such as:
 8. <b> Himchan Jeong</b>, Assistant Professor of Statistics and Actuarial Science, Simon Fraser University
 9. <b> Dimitris Karlis</b>. Professor, Dept of Statistics, Athens University of Economics and Business
 10. <b> Aristidis Nikoloulopoulos </b>, Associate Professor in Statistics, School of Computing Sciences, University of East Anglia
-11. <b> Rosalba Radice </b>, Reader in Statistics Bayes Business School, City, University of London
+11. <b> Rosalba Radice </b>, Reader in Statistics, Bayes Business School, City, University of London
 12. <b> José Maria Sarabia</b>,  Professor of Statistics and Operations Research and Full Professor of Quantitative Methods, CUNEF Universidad
 13. <b> Dionisios Sotiropoulos</b>,  Assistant Professor, Dept of Computer Science, University of Piraeus
 14. <b> George Streftaris</b>,  Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University
