@@ -30,3 +30,5 @@ Embedded insurance has historically played a leading role offline, such as packa
 * telemedicine and teleconsultation services such as Babylon and Push Doctor
 
 These sites continue to capture more and more offline traffic and represents a fundamental shift to how insurance can be sold with increased relevance and affinity to a specific audience. 
+
+## What is the relevance of data science to embedded insurance?
