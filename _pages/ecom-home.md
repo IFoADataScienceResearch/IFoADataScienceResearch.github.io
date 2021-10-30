@@ -32,9 +32,16 @@ Embedded insurance has historically played a leading role offline, such as packa
 These sites continue to capture more and more offline traffic and represents a fundamental shift to how insurance can be sold with increased relevance and affinity to a specific audience. 
 
 ## What is the relevance of data science to embedded insurance?
-The various services mentioned above capture a significant amount of information from its users. This is necessary in order to provide a good user experience and more importantly to provide to offer basic functionality to its users. Uber for example, collects data to monitor traffic conditions and driver's avilability [<a href="https://www.linkedin.com/pulse/amazing-ways-uber-using-big-data-analytics-bernard-marr/">2</a>] in order to estimate the optimal fare for riders. Amazon trawls through its data to provide purchase recommendations to drive sales.
+The various services mentioned above capture a significant amount of information from its users. This is necessary in order to provide a good user experience and more importantly to provide to offer basic functionality to its users. 
+
+Uber for example, collects data to monitor traffic conditions and driver's avilability [<a href="https://www.linkedin.com/pulse/amazing-ways-uber-using-big-data-analytics-bernard-marr/">2</a>] in order to estimate the optimal fare for riders. Amazon trawls through its data to provide purchase recommendations to drive sales.
 
 The same data mentioned can also be utilised to price car insurance, assess users' risk and recommend embedded insurance to users of these services. Examples include:
 
-* 
+* Adjusting the premium loading of insurance offered to buyers of different risk
+* Assess the insurance needs of buyers' based on purchase history and recommend relevant products
+* Customising insurance at an individual level according to buyers' risk profile
+* Real time emedding of appropriate insurance based on weather [<a href="https://www.droplet.sg/#/">1</a>]
+
+Traditional actuarial techniques can then evolve to complement the influx of real time data to enable more accurate estimates. Innovative products can also be borne out of data based on actual needs instead of the usual cookie-cutter products. 
 
