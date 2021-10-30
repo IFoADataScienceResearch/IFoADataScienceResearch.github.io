@@ -41,7 +41,7 @@ The same data mentioned can also be utilised to price car insurance, assess user
 * Adjusting the premium loading of insurance offered to buyers of different risk
 * Assess the insurance needs of buyers' based on purchase history and recommend relevant products
 * Customising insurance at an individual level according to buyers' risk profile
-* Real time emedding of appropriate insurance based on weather [<a href="https://www.droplet.sg/#/">1</a>]
+* Real time emedding of appropriate insurance based on weather [<a href="https://www.droplet.sg/#/">3</a>]
 
 Traditional actuarial techniques can then evolve to complement the influx of real time data to enable more accurate estimates. Innovative products can also be borne out of data based on actual needs instead of the usual cookie-cutter products. 
 
