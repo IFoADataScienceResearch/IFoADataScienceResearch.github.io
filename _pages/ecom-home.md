@@ -17,3 +17,4 @@ sidebar:
 1. Zack Chan (Chair) 
 2. Xin Yung Lee (Deputy Chair)
 3. Michael Gibson
+4. Niharika Anthwal
