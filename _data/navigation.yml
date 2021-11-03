@@ -18,7 +18,7 @@ main:
       - title: "Statistical Learning in Actuarial Applications"
         url: https://ifoadatascienceresearch.github.io/statistical-learning/
       - title: "Data Analytics in Embedded Insurance"
-        url: https://ifoadatascienceresearch.github.io/e-commerce-insurance/
+        url: https://ifoadatascienceresearch.github.io/embedded-insurance/
   - title: "Events"
     url: /events/
   - title: "Articles"
@@ -106,4 +106,4 @@ deeplearning-nav:
 
 statistical-nav:
 
-ecommerce-nav:
+embedded-nav:
