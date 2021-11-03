@@ -1,12 +1,12 @@
 ---
-permalink: /e-commerce-insurance/
+permalink: /embedded-insurance/
 classes: wide
-title: "Data Analytics in e-commerce Insurance Working Party"
+title: "Data Analytics in Embedded Insurance Working Party"
 author_profile: false
 toc: true
 sidebar:
   title: "Content"
-  nav: ecommerce-nav
+  nav: embedded-nav
 ---
 
 ## Aims
