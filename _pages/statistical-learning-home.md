@@ -30,10 +30,11 @@ Our aim is to construct highly flexible actuarial models such as:
 7. <b> Montserrat Guillén</b>, Chair Professor, Dept of Econometrics, University of Barcelona
 8. <b> Himchan Jeong</b>, Assistant Professor of Statistics and Actuarial Science, Simon Fraser University
 9. <b> Dimitris Karlis</b>. Professor, Dept of Statistics, Athens University of Economics and Business
-10. <b> Aristidis Nikoloulopoulos </b>, Associate Professor in Statistics, School of Computing Sciences, University of East Anglia
-11. <b> Rosalba Radice </b>, Reader in Statistics, Bayes Business School, City, University of London
-12. <b> José Maria Sarabia</b>,  Professor of Statistics and Operations Research and Full Professor of Quantitative Methods, CUNEF Universidad
-13. <b> Dionisios Sotiropoulos</b>,  Assistant Professor, Dept of Computer Science, University of Piraeus
-14. <b> George Streftaris</b>,  Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University
-15. <b> Andreas Tsanakas </b>, Professor, Risk Management, Bayes Business School, City, University of London 
-16. <b> Spyridon Vrontos</b>, Senior Lecturer in Actuarial Science, Dept of Mathematical Sciences, University of Essex
+10. <b> Giampiero Marra</b>. Professor of Statistics, Dept of Statistical Science at University College London
+11. <b> Aristidis Nikoloulopoulos </b>, Associate Professor in Statistics, School of Computing Sciences, University of East Anglia
+12. <b> Rosalba Radice </b>, Reader in Statistics, Bayes Business School, City, University of London
+13. <b> José Maria Sarabia</b>,  Professor of Statistics and Operations Research and Full Professor of Quantitative Methods, CUNEF Universidad
+14. <b> Dionisios Sotiropoulos</b>,  Assistant Professor, Dept of Computer Science, University of Piraeus
+15. <b> George Streftaris</b>,  Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University
+16. <b> Andreas Tsanakas </b>, Professor, Risk Management, Bayes Business School, City, University of London 
+17. <b> Spyridon Vrontos</b>, Senior Lecturer in Actuarial Science, Dept of Mathematical Sciences, University of Essex
