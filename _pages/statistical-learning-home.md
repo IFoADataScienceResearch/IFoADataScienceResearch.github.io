@@ -40,3 +40,9 @@ Our aim is to construct highly flexible actuarial models such as:
 17. <b> Andreas Tsanakas </b>, Professor, Risk Management, Bayes Business School, City, University of London 
 18. <b> Spyridon Vrontos</b>, Senior Lecturer in Actuarial Science, Dept of Mathematical Sciences, University of Essex
 19. <b> Mario V. Wüthrich</b>, Professor for Actuarial Science, Dept of Mathematics at ETH
+
+## Research Papers
+1. <a href="https://ifoadatascienceresearch.github.io/blog/multivariate-mixed-NB/"> The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking </a>
+2. <a href="https://ifoadatascienceresearch.github.io/blog/first-order-binomial/"> A first-order binomial-mixed Poisson integer-valued autoregressive model with serially dependent innovations </a>
+3. <a href="https://ifoadatascienceresearch.github.io/blog/bivariate-mixed-poisson/"> Bivariate Mixed Poisson Regression Models with Varying Dispersion </a>
+
