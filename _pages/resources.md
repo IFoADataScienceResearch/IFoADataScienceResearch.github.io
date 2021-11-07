@@ -10,6 +10,27 @@ toc: true
 ---
 
 # Downloads
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking.PNG){: .align-left}{: width="300" } 
+<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/The%20multivariate%20mixed%20Negative%20Binomial%20regression%20model%20with%20an%20application%20to%20insurance%20a%20posteriori%20ratemaking.pdf" download>The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking</a> <br> 
+<small> This paper is concerned with introducing a family of multivariate mixed Negative Binomial regression models in the context of a posteriori ratemaking.  </small> 
+<br>
+<br>
+<br>
+<br>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/A first order binomial mixed Poisson integer valued autoregressive model with serially dependent innovations.PNG){: .align-left}{: width="300" } 
+<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/A%20first%20order%20binomial%20mixed%20Poisson%20integer%20valued%20autoregressive%20model%20with%20serially%20dependent%20innovations.pdf.pdf" download>A first order binomial mixed Poisson integer valued autoregressive model with serially dependent innovations</a> <br> 
+<small> This paper is motivated by the extended Poisson INAR(1), which allows innovations to be serially dependent, develops a new family of binomial-mixed Poisson INAR(1) (BMP INAR(1)) processes by adding a mixed Poisson component to the innovations of the classical Poisson INAR(1) process.  </small> 
+<br>
+<br>
+<br>
+<br>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/Bivariate Mixed Poisson Regression Models with Varying Dispersion.PNG){: .align-left}{: width="300" } 
+<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Bivariate%20Mixed%20Poisson%20Regression%20Models%20with%20Varying%20Dispersion.pdf.pdf" download>Bivariate Mixed Poisson Regression Models with Varying Dispersion</a> <br> 
+<small> The main purpose of this article is to present a new class of bivariate mixed Poisson regression models with varying dispersion that offers sufficient flexibility for accommodating  overdispersion and accounting for the positive correlation between the number of claims from third-party liability bodily injury and property damage.  </small> 
+<br>
+<br>
+<br>
+<br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/sept_2021_sharing_session.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/September%202021%20-%20IFoA%20Knowledge%20Sharing%20Session.pdf" download> Federated Learning: Collaboration with no compromise </a> <br> 
 <small> Read more about the application of federated learning to predict claims frequency as shared by the Federated Learning WP in the September 2021 Data Science Research Section monthly sharing session. </small> 
