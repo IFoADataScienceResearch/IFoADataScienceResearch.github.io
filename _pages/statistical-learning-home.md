@@ -27,22 +27,24 @@ Our aim is to construct highly flexible actuarial models such as:
 1. <b> George Tzougas (Chair) </b>, Associate Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University
 2. <b> Lluís Bermúdez i Morata </b>, Professor Dept de Matemàtica Econòmica, Financera i Actuarial, Universitat de Barcelona
 3. <b> Enrique Calderin</b>, Senior Lecturer, Centre for Actuarial Studies, Unversity of Melbourne
-4. <b> Angelos Dassios</b>, Professor, Dept of Statistics, London School of Economics and Political Science 
-5. <b> Tsz Chai Fung</b>, Assistant Professor, J. Mack Robinson College of Business, Georgia State University 
-6. <b> Emilio Gómez-Déniz</b>, Professor in Dept of Quantitative Methods in Economics and Management, University of Las Palmas de Gran Canaria
-7. <b> Montserrat Guillén</b>, Chair Professor, Dept of Econometrics, University of Barcelona
-8. <b> Himchan Jeong</b>, Assistant Professor of Statistics and Actuarial Science, Simon Fraser University
-9. <b> Dimitris Karlis</b>. Professor, Dept of Statistics, Athens University of Economics and Business
-10. <b> Giampiero Marra</b>. Professor of Statistics, Dept of Statistical Science at University College London
-11. <b> Michael Merz </b> Professor Dr, Faculty of Business Administration Hamburger Business School, Universität Hamburg
-12. <b> Aristidis Nikoloulopoulos </b>, Associate Professor in Statistics, School of Computing Sciences, University of East Anglia
-13. <b> Rosalba Radice </b>, Reader in Statistics, Bayes Business School, City, University of London
-14. <b> José Maria Sarabia</b>,  Professor of Statistics and Operations Research and Full Professor of Quantitative Methods, CUNEF Universidad
-15. <b> Dionisios Sotiropoulos</b>,  Assistant Professor, Dept of Computer Science, University of Piraeus
-16. <b> George Streftaris</b>,  Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University
-17. <b> Andreas Tsanakas </b>, Professor, Risk Management, Bayes Business School, City, University of London 
-18. <b> Spyridon Vrontos</b>, Senior Lecturer in Actuarial Science, Dept of Mathematical Sciences, University of Essex
-19. <b> Mario V. Wüthrich</b>, Professor for Actuarial Science, Dept of Mathematics at ETH
+4. <b> Dimitris Christopoulos</b>, Professor, School of Social Sciences, Edinburgh Business School 
+5. <b> Angelos Dassios</b>, Professor, Dept of Statistics, London School of Economics and Political Science 
+6. <b> Tsz Chai Fung</b>, Assistant Professor, J. Mack Robinson College of Business, Georgia State University 
+7. <b> Emilio Gómez-Déniz</b>, Professor in Dept of Quantitative Methods in Economics and Management, University of Las Palmas de Gran Canaria
+8. <b> Montserrat Guillén</b>, Chair Professor, Dept of Econometrics, University of Barcelona
+9. <b> Himchan Jeong</b>, Assistant Professor of Statistics and Actuarial Science, Simon Fraser University
+10. <b> Dimitris Karlis</b>. Professor, Dept of Statistics, Athens University of Economics and Business
+11. <b> Giampiero Marra</b>. Professor of Statistics, Dept of Statistical Science at University College London
+12. <b> Michael Merz </b> Professor Dr, Faculty of Business Administration Hamburger Business School, Universität Hamburg
+13. <b> Aristidis Nikoloulopoulos </b>, Associate Professor in Statistics, School of Computing Sciences, University of East Anglia
+14. <b> Rosalba Radice </b>, Reader in Statistics, Bayes Business School, City, University of London
+15. <b> José Maria Sarabia</b>,  Professor of Statistics and Operations Research and Full Professor of Quantitative Methods, CUNEF Universidad
+16. <b> Dionisios Sotiropoulos</b>,  Assistant Professor, Dept of Computer Science, University of Piraeus
+17. <b> George Streftaris</b>,  Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University
+18. <b> Andreas Tsanakas </b>, Professor, Risk Management, Bayes Business School, City, University of London 
+19. <b> Spyridon Vrontos</b>, Senior Lecturer in Actuarial Science, Dept of Mathematical Sciences, University of Essex
+20. <b> Mario V. Wüthrich</b>, Professor for Actuarial Science, Dept of Mathematics at ETH
+21. <b> Gareth W. Peters </b>, Janet & Ian Duncan Endowed Chair of Actuarial Science, Chair Professor of Statistics for Risk and Insurance, Dept of Statistics & Applied Probability, University of California Santa Barbara
 
 ## Research Papers
 1. <a href="https://ifoadatascienceresearch.github.io/blog/multivariate-mixed-NB/"> The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking </a>
