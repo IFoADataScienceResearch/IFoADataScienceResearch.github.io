@@ -16,8 +16,11 @@ Our aim is to construct highly flexible actuarial models such as:
 <li> univariate and multivariate regression models with varying dispersion and shape for claim frequencies and severities; </li>
 <li> copula based models with regression structures on the mean, dispersion and dependence parameters for different claim types and their associated claim counts and costs; </li>
 <li> dependence modelling in risk management and sensitivity analysis; </li>
-<li> first-order integer valued autoregressive INAR(1) regression models with varying dispersion for time series of claim counts; and </li>
-<li> neural network embeddings of the aforementioned models which are able to capture the stylized characteristics of structured, semi-structured and unstructured insurance data. </li>
+<li> first-order integer valued autoregressive INAR(1) regression models with varying dispersion for time series of claim counts; </li>
+<li> neural network embeddings of the aforementioned models which are able to capture the stylized characteristics of structured, semi-structured and unstructured insurance data; </li>
+<li> Classification of green bonds using statistical learning methods and decarbonization; </li>  
+<li> Gaussian process spatial-temporal regression models; and </li>
+<li> Heavy tails and Extremes in spatial and temporal settings. </li>  
 </ul>
 
 ## Members
@@ -45,4 +48,5 @@ Our aim is to construct highly flexible actuarial models such as:
 1. <a href="https://ifoadatascienceresearch.github.io/blog/multivariate-mixed-NB/"> The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking </a>
 2. <a href="https://ifoadatascienceresearch.github.io/blog/first-order-binomial/"> A first-order binomial-mixed Poisson integer-valued autoregressive model with serially dependent innovations </a>
 3. <a href="https://ifoadatascienceresearch.github.io/blog/bivariate-mixed-poisson/"> Bivariate Mixed Poisson Regression Models with Varying Dispersion </a>
+
 
