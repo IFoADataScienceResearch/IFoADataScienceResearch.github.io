@@ -35,7 +35,7 @@ Our aim is to construct highly flexible actuarial models such as:
 9. <b> Himchan Jeong</b>, Assistant Professor of Statistics and Actuarial Science, Simon Fraser University
 10. <b> Dimitris Karlis</b>, Professor, Dept of Statistics, Athens University of Economics and Business
 11. <b> Giampiero Marra</b>, Professor of Statistics, Dept of Statistical Science at University College London
-12. <b> Michael Merz</b> Professor Dr, Faculty of Business Administration Hamburger Business School, Universität Hamburg
+12. <b> Michael Merz</b>, Professor, Faculty of Business Administration Hamburger Business School, Universität Hamburg
 13. <b> Aristidis Nikoloulopoulos </b>, Associate Professor in Statistics, School of Computing Sciences, University of East Anglia
 14. <b> Gareth Peters</b>, Janet & Ian Duncan Endowed Chair of Actuarial Science, Chair Professor of Statistics for Risk and Insurance, Dept of Statistics & Applied Probability, University of California Santa Barbara
 15. <b> Rosalba Radice</b>, Reader in Statistics, Bayes Business School, City, University of London
