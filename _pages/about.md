@@ -33,7 +33,7 @@ The IFoA Data Science Research Section consists of 10 working parties:
 
 Chair of Research Section: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
 Deputy Chair of Research Section: <a href="https://www.linkedin.com/in/aiglauer/?originalSubdomain=ch"> Alexis Iglauer </a> <br>
-Academic Chair of Statistical Learning in Actuarial Applications WP: <a href="https://www.lse.ac.uk/Statistics/People/Dr-George-Tzougas"> Associate Professor George Tzougas </a> <br>
+Academic Chair of Statistical Learning in Actuarial Applications WP: <a href="https://researchportal.hw.ac.uk/en/persons/george-tzougas"> Associate Professor George Tzougas </a> <br>
 Chair of Federated Learning WP: <a href href="https://www.linkedin.com/in/ma%C5%82gorzata-%C5%9Bmietanka-a1963a112/"> Malgorzata Smietanka </a> <br>
 Chair of Supervised Learning WP: <a href href="https://www.linkedin.com/in/neptune-jin-0a1aba93/"> Neptune Jin </a> <br>
 Chair of Natural Language Processing (NLP) WP: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
