@@ -32,21 +32,21 @@ toc: true
 <br>
 <br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/sept_2021_sharing_session.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/September%202021%20-%20IFoA%20Knowledge%20Sharing%20Session.pdf" download> Federated Learning: Collaboration with no compromise </a> <br> 
+<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/knowledge_sharing/September%202021%20-%20IFoA%20Knowledge%20Sharing%20Session.pdf" download> Federated Learning: Collaboration with no compromise </a> <br> 
 <small> Read more about the application of federated learning to predict claims frequency as shared by the Federated Learning WP in the September 2021 Data Science Research Section monthly sharing session. </small> 
 <br>
 <br>
 <br>
 <br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/predictive.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/FL_predictive_maintenance.pdf" download>Application of federated learning in predictive maintenance to predict remaining useful life</a> <br> 
+<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/FL_predictive_maintenance.pdf" download>Application of federated learning in predictive maintenance to predict remaining useful life</a> <br> 
 <small> Learn more as Zack applied two open-source federated learning packages - FATE and dc_federated - to predict failure of turbofan engines. </small> 
 <br>
 <br>
 <br>
 <br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/eea-conference.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/E0260_Abstract_e-Conference_Ng.pdf" download>NLP and ML in Social Media Opinion Mining</a> <br> 
+<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/E0260_Abstract_e-Conference_Ng.pdf" download>NLP and ML in Social Media Opinion Mining</a> <br> 
 <small> Learn more as John introduces NLP and Machine Learning Techniques in social media opinion mining to uncover insights
 pertinent to public interest and the insurance industry. </small> 
 <br>
