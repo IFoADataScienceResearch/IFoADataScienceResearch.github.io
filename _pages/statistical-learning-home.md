@@ -45,6 +45,7 @@ Our aim is to construct highly flexible actuarial models such as:
 19. <b> Andreas Tsanakas</b>, Professor, Risk Management, Bayes Business School, City, University of London 
 20. <b> Spyridon Vrontos</b>, Senior Lecturer in Actuarial Science, Dept of Mathematical Sciences, University of Essex
 21. <b> Mario V. Wüthrich</b>, Professor for Actuarial Science, Dept of Mathematics at ETH
+22. <b> Xueyuan Wu </b>, Associate Professor, Centre for actuarial studies, Dept of Economics, The University of Melbourne
 
 ## Research Papers
 1. <a href="https://ifoadatascienceresearch.github.io/blog/multivariate-mixed-NB/"> The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking </a>
