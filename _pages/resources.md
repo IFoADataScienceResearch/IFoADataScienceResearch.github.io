@@ -103,6 +103,7 @@ pertinent to public interest and the insurance industry. </small>
 7.	<a href="https://www.actuaries.asn.au/microsites/actuaries-in-data-analytics/knowledge"> Actuaries Institute of Australia </a>
 8.	<a href="https://www.actuaries.org.sg/big_data"> Singapore Actuarial Society – Data Analytics</a>
 9.	<a href="https://www.actuaries.org/IAA/IAA/Task_Force/Big_Data_Task_Force.aspx?WebsiteKey=ff59269c-4928-4369-a169-03e74a6bd8ca&CommitteeTabs=3#CommitteeTabs">International Actuarial Association – Big Data Task Force</a>
+10.	<a href="https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications">Deep Learning with Actuarial Applications in R</a>
 
 ## Actuarial Publications
 1. <a href="https://www.theactuary.com/categories/topics/data-science">The Actuary magazine IFoA – Data Science topics</a>
