@@ -57,8 +57,8 @@ about-nav:
         url: https://ifoadatascienceresearch.github.io/data-visualisation/
       - title: "Statistical Learning in Actuarial Applications"
         url: https://ifoadatascienceresearch.github.io/statistical-learning/
-      - title: "Data Analytics in e-commerce"
-        url: https://ifoadatascienceresearch.github.io/e-commerce-insurance/
+      - title: "Data Analytics in Embedded Insurance"
+        url: https://ifoadatascienceresearch.github.io/embedded-insurance/
        
 super-nav:
   - title: "Blog Posts"
