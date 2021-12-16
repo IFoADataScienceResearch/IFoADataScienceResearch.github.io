@@ -10,4 +10,4 @@ tags:
   - Data visualisation
 ---
 
-<iframe src="https://ifoa-dataviz-python.herokuapp.com/" height=5220 width=1500 frameBorder="0"></iframe>
+<iframe src="https://ifoa-dataviz-python.herokuapp.com/" height=1250 width=500 frameBorder="0"></iframe>
