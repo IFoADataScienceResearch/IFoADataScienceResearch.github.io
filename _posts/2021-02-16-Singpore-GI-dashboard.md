@@ -11,4 +11,4 @@ tags:
   - Data visualisation
 ---
 
-<iframe src="https://dash-app-form-6.herokuapp.com/" height=5220 width=1500 frameBorder="0"></iframe>
+<iframe src="https://dash-app-form-6.herokuapp.com/" height=5220 width=1400 frameBorder="0"></iframe>
