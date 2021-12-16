@@ -3,6 +3,8 @@ title: "Python Visualisation Dashboard"
 author_profile: false 
 classes: wide
 comments: true
+sidebar:
+  - title: "Afzaal Ahmed"
 categories:
   - Blog
 tags:
