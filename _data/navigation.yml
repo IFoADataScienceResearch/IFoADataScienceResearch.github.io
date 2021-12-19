@@ -97,6 +97,12 @@ nlp-nav:
         url: https://ifoadatascienceresearch.github.io/blog/from-raw-to-processed-tweets/
         
 vis-nav:
+  - title: "Blog Posts"
+    children:
+      - title: "Python Visualisation Dashboard"
+        url: https://ifoadatascienceresearch.github.io/blog/python-dashboard/
+      - title: "Singapore GI Market Dashboard"
+        url: https://ifoadatascienceresearch.github.io/blog/Singpore-GI-dashboard/
 
 xai-nav:
 
