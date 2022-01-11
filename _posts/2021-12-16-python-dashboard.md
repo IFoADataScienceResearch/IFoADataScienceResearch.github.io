@@ -11,4 +11,4 @@ tags:
   - Data visualisation
 ---
 
-<iframe src="https://ifoa-dataviz-python.herokuapp.com/" height=1900 width=800 frameBorder="0"></iframe>
+<iframe src="https://ifoa-dataviz-python.herokuapp.com/" height=3000 width=800 frameBorder="0"></iframe>
