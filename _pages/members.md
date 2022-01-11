@@ -22,4 +22,6 @@ Małgorzata Śmietanka is PhD researcher in the UCL Computer Science Department,
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/claudio.jpg){: .align-left}{: width="200" } Claudio Giancaterino <br> <small> Claudio Giancaterino is an actuary  and a data science enthusiast in his free time. He likes to participate in hackathon competitions, and is delighted to attend projects about data science topics. </small>
 <hr>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/zack.PNG){: .align-left}{: width="200" } Zack Chan <br> <small> Zack is a qualified actuary and currently studying Computing Science at Imperial College London. He has a wide range of experience in general insurance reserving, capital and risk management, having worked in Singapore and more recently in the UK. </small>
+<hr>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/afzaal-ahmed.jpg){: .align-left}{: width="200" } Afzaal Ahmed <br> <small> Afzaal is a qualified Actuary with experience primarily within life insurance consulting, where he specialised in modelling and transaction engagements. In recent years he has been involved in the technology space where he specialised in the development and sale of web applications directly to end-users. Afzaal is passionate about solution development within the field of data analysis. </small>
 
