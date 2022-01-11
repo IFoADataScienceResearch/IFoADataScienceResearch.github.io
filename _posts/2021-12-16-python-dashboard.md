@@ -5,6 +5,7 @@ classes: wide
 comments: true
 sidebar:
   - title: "Afzaal Ahmed"
+    image: /assets/images/bio/afzaal-ahmed.jpg
 categories:
   - Blog
 tags:
