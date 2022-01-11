@@ -6,6 +6,9 @@ comments: true
 sidebar:
   - title: "Afzaal Ahmed"
     image: /assets/images/bio/afzaal-ahmed.jpg
+  - label: "Linkedln"
+    icon: "fa-linkedin"
+    url: "https://www.linkedin.com/in/afzaalahmeduk/"
 categories:
   - Blog
 tags:
