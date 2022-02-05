@@ -8,6 +8,14 @@ header:
 
 feature_row_left:
 
+  - image_path: /assets/images_for_resources/fairness in ML.PNG
+    alt: "Differential Privacy and Fairness in Machine Learning"
+    title: "Differential Privacy and Fairness in Machine Learning"
+    excerpt: "1st February 2022"
+    url: "https://www.youtube.com/watch?v=0RMokFBXdEM"
+    btn_class: "btn--primary"
+    btn_label: "Watch now"
+
   - image_path: /assets/images_for_events/eaa-conference.PNG
     alt: "EAA e-Conference on Data Science & Data Ethics"
     title: "EAA e-Conference on Data Science & Data Ethics"
