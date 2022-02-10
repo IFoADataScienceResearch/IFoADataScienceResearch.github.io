@@ -113,3 +113,7 @@ deeplearning-nav:
 statistical-nav:
 
 embedded-nav:
+  - title: "Blog Posts"
+    children:
+      - title: "Applying Analytics in Embedded Insurance"
+      
