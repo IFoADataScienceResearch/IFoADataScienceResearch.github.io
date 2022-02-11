@@ -8,7 +8,7 @@ sidebar:
 categories:
   - Blog
 tags:
-  - Analytics in Embedded Insurance
+  - Embedded Insurance
 ---
 <b> Introduction </b>
 <br>
