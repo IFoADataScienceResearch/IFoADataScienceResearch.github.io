@@ -117,7 +117,7 @@ This refers to the protection in the event that something happens to the item sh
 
 </ul>
 
-We will be extracting relevant features (e.g., fast delivery, excellent product, low quality) from customer reviews. In accordance with these features, we will assign clusters using K-means text clustering. This will help us identify the cluster for products that started showing problems soon after the purchase and for which customers were not satisfied and complained regarding their poor or low quality. Post this we will estimate the chance that the product lies in the chosen cluster and is suitable for product protection insurance plans. 
+We will be extracting relevant features (e.g., fast delivery, excellent product, low quality) from customer reviews. In accordance with these features, we will assign clusters using K-means text clustering. This will help us identify the cluster for products that started showing problems soon after the purchase and for which customers were not satisfied and complained regarding their poor or low quality. Post this, we will estimate the chance that the product lies in the chosen cluster and is suitable for product protection insurance plans. 
 <br>
 
 <b> Next Steps </b>
