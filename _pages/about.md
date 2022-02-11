@@ -41,7 +41,7 @@ Chair of Unsupervised Learning WP: Debashish Dey <br>
 Chair of Deep Learning WP: <a href href="https://www.linkedin.com/in/pieter-knox/"> Pieter Knox </a> <br>
 Chair of Explainable Artificial Intelligence (XAI) WP: <a href href="https://www.linkedin.com/in/jonathan-bowden-22433b27/"> Jonathan Bowden </a> <br>
 Chair of Data Visualisation WP: <a href href="https://www.linkedin.com/in/eilish-bouse-655194b2/"> Eilish Bouse </a> <br>
-Chair of Data Analytics in embedded insurance WP: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
+Chair of Data Analytics in Embedded Insurance WP: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
 Chair of Data Science Contents and Webpage WP: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
 
 ## Contact us
