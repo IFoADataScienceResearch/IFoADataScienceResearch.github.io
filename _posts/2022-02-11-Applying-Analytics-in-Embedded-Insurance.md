@@ -40,7 +40,7 @@ Fuss free underwriting and claims process
 
 </ul>
 
-We have seen Embedded Insurance products already being offered by major technology companies. For example, Uber introduced motor insurance for rideshare drivers and delivery people [<a href="https://www.uber.com/us/en/drive/insurance//">2</a>]. Amazon has also started offering third-party sellers product liability insurance [<a href="https://www.insurancebusinessmag.com/us/news/specialty-insurance/amazon-reveals-massive-insurance-partnership-301827.aspx">3</a>] and contents insurance [<a href="https://www.reuters.com/world/uk/amazon-start-offering-insurance-uk-businesses-broker-2021-09-27/">4</a>] in the UK. More famously, Tesla has also started hiring actuaries as it seeks to build insurance offerings into its vehicle ecosystem.
+We have seen Embedded Insurance products already being offered by major technology companies. For example, Uber introduced motor insurance for rideshare drivers and delivery people [<a href="https://www.uber.com/us/en/drive/insurance/">2</a>]. Amazon has also started offering third-party sellers product liability insurance [<a href="https://www.insurancebusinessmag.com/us/news/specialty-insurance/amazon-reveals-massive-insurance-partnership-301827.aspx">3</a>] and contents insurance [<a href="https://www.reuters.com/world/uk/amazon-start-offering-insurance-uk-businesses-broker-2021-09-27/">4</a>] in the UK. More famously, Tesla has also started hiring actuaries as it seeks to build insurance offerings into its vehicle ecosystem.
 
 <b> Data Analytics in Embedded Insurance </b>
 <br>
