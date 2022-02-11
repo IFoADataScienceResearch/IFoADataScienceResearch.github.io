@@ -15,7 +15,7 @@ sidebar:
 
 ## Members
 
-1.  Debs Dey (Chair) 
+1.  Debashish Dey (Chair) 
 2.  Nikolay Yankov
 3.  Stewart Stanton
 4.  Joanne Chong
