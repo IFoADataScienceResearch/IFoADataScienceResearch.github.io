@@ -24,7 +24,7 @@ The IFoA Data Science Research Section consists of 10 working parties:
 4. Natural Language Processing (NLP) Working Party
 5. Unsupervised Learning Working Party
 6. Deep Learning Working Party
-7. Explainable Artificial Intelligence (XAI) Working Party
+7. Explainable Artificial Intelligence (xAI) Working Party
 8. Data Visualisation Working Party
 9. Data Analytics in Embedded Insurance Working Party
 10. Data Science Contents and Webpage Working Party
