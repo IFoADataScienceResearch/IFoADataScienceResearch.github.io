@@ -102,9 +102,8 @@ To study product protection, we used the Olist dataset, which has customer revie
 <img src="/assets/images_for_posts/Embedded Insurance/05Product Protection.png" style="width: auto; height: auto">
 
 As also seen above, some customers review comments suggested that there were some products that became faulty soon after purchase. Product protection can be considered an umbrella term and can include various types of service contracts. We are considering the following protection plans for the products on Olist ecommerce platform:
-  </li>
-
-<li>
+<ul>
+  <li>
 Extended warranty
 <br>
 It offers protection against accelerated wear and tear and generally covers repairs, damage, and lack of functionality for a specified duration. It usually begins when the  manufacturer's warranty expires.
@@ -114,9 +113,9 @@ It offers protection against accelerated wear and tear and generally covers repa
 Protection plans
 <br>
 This refers to the protection in the event that something happens to the item shortly after the purchase from specified damages or accidents or because of poor quality
-
+<br>
 We will be extracting relevant features (e.g., fast delivery, excellent product, low quality) from customer reviews. In accordance with these features, we will assign clusters using K-means text clustering. This will help us identify the cluster for products that started showing problems soon after the purchase and for which customers were not satisfied and complained regarding their poor or low quality. Post this we will estimate the chance that the product lies in the chosen cluster and is suitable for product protection insurance plans. 
-
+<br>
 <b> Next Steps </b>
 <br>
 Our working party’s next steps is to:
