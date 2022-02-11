@@ -4,9 +4,7 @@ author_profile: false
 classes: wide
 comments: true
 sidebar:
-  - title: "Zack Chan"
-  - title: "Xin Yung Lee"
-  - title: "Niharika Anthwal"
+  - title: "Data Analytics in Embedded Insurance WP"
 categories:
   - Blog
 tags:
