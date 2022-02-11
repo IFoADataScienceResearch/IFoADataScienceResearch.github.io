@@ -37,7 +37,7 @@ Academic Chair of Statistical Learning in Actuarial Applications WP: <a href="ht
 Chair of Federated Learning WP: <a href href="https://www.linkedin.com/in/ma%C5%82gorzata-%C5%9Bmietanka-a1963a112/"> Malgorzata Smietanka </a> <br>
 Chair of Supervised Learning WP: <a href href="https://www.linkedin.com/in/neptune-jin-0a1aba93/"> Neptune Jin </a> <br>
 Chair of Natural Language Processing (NLP) WP: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
-Chair of Unsupervised Learning WP: Debashish Dey
+Chair of Unsupervised Learning WP: Debashish Dey <br>
 Chair of Deep Learning WP: <a href href="https://www.linkedin.com/in/pieter-knox/"> Pieter Knox </a> <br>
 Chair of Explainable Artificial Intelligence (XAI) WP: <a href href="https://www.linkedin.com/in/jonathan-bowden-22433b27/"> Jonathan Bowden </a> <br>
 Chair of Data Visualisation WP: <a href href="https://www.linkedin.com/in/eilish-bouse-655194b2/"> Eilish Bouse </a> <br>
