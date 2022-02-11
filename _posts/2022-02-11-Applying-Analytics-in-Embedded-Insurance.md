@@ -48,7 +48,7 @@ As a first step, we have identified three key insurance products that can be rec
 <b> Pre-purchase - Bills Insurance <b>
 Bills insurance is an insurance protection for buyers on the Olist platform that covers buyers’ outstanding bills payment in the event of loss of income due to accident or death. Based on an initial exploratory data analysis, we found that 76% of payments are made with a credit card in Brazil. Of this, 16% of total payments are made with more than 5 instalments.
 
-<img src="/assets/images_for_posts/Embedded Insurance/03Bills Insurance.png" style="width: auto; height: auto">
+<img src="/assets/images_for_posts/Embedded Insurance/03 Bills Insurance.png" style="width: auto; height: auto">
 
 Hence, we believe that bills protection has a high affinity in the pre-purchase journey for Olist buyers, particularly those purchasing high value products with a high number of instalments.
 
