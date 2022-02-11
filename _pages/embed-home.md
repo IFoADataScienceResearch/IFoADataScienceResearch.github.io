@@ -16,8 +16,8 @@ sidebar:
 ## Members
 1. Zack Chan (Chair) 
 2. Xin Yung Lee (Deputy Chair)
-3. Michael Gibson
-4. Niharika Anthwal
+3. Niharika Anthwal
+4. Michael Gibson
 
 ## What is embedded insurance?
 Embedded insurance refers to the act of introducing relevant insurance coverage or protection during a customer's purchase journey of another product or service [<a href="https://www.mapfre.com/en/insights/innovation/embedded-insurance/">1</a>]. The insurance itself is not the main product being purchased but serves to provide the customer with a stronger value proposition in the form of protection and peace of mind.
