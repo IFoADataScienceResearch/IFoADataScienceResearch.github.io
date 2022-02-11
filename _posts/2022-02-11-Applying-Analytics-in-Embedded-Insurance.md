@@ -49,15 +49,12 @@ The emergence of Embedded Insurance is without a doubt the next evolution in the
   <li>
 Using e-commerce shoppers’ purchase behaviour to estimate their lifestyle and needs to introduce and price relevant insurance
   </li>
-
 <li>
 Adjust motor insurance premium loadings according to detailed driving habits collected through in-car sensors
   </li>
-
 <li>
 Real time on-demand pricing of insurance risk based on drivers’ location and length of time spent on road 
 </li>
-
 </ul>
 
 <img src="/assets/images_for_posts/Embedded Insurance/01The Olist dataset.png" style="width: auto; height: auto">
@@ -105,20 +102,30 @@ To study product protection, we used the Olist dataset, which has customer revie
 <img src="/assets/images_for_posts/Embedded Insurance/05Product Protection.png" style="width: auto; height: auto">
 
 As also seen above, some customers review comments suggested that there were some products that became faulty soon after purchase. Product protection can be considered an umbrella term and can include various types of service contracts. We are considering the following protection plans for the products on Olist ecommerce platform:
+  </li>
 
-  ●	Extended warranty
-  <br>
-    It offers protection against accelerated wear and tear and generally covers repairs, damage, and lack of functionality for a specified duration. It usually begins when the  manufacturer's warranty expires.
-  
-  ●	Protection plans
-  <br>
-    This refers to the protection in the event that something happens to the item shortly after the purchase from specified damages or accidents or because of poor quality
+<li>
+Extended warranty
+<br>
+It offers protection against accelerated wear and tear and generally covers repairs, damage, and lack of functionality for a specified duration. It usually begins when the  manufacturer's warranty expires.
+  </li>
+
+<li>  
+Protection plans
+<br>
+This refers to the protection in the event that something happens to the item shortly after the purchase from specified damages or accidents or because of poor quality
 
 We will be extracting relevant features (e.g., fast delivery, excellent product, low quality) from customer reviews. In accordance with these features, we will assign clusters using K-means text clustering. This will help us identify the cluster for products that started showing problems soon after the purchase and for which customers were not satisfied and complained regarding their poor or low quality. Post this we will estimate the chance that the product lies in the chosen cluster and is suitable for product protection insurance plans. 
 
 <b> Next Steps </b>
 <br>
 Our working party’s next steps is to:
-  ●	Optimise the recommender algorithm to improve relevance for shoppers
-  ●	Propose a pricing mechanism for each of these products with affordability as a key consideration
-  ●	Recommend future research angles from an actuarial analytics perspective
+<ul>
+  <li>
+Optimise the recommender algorithm to improve relevance for shoppers
+  </li>
+<li>
+Propose a pricing mechanism for each of these products with affordability as a key consideration
+  </li>
+<li>
+Recommend future research angles from an actuarial analytics perspective
