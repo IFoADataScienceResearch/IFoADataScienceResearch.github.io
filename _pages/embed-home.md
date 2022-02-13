@@ -19,6 +19,7 @@ sidebar:
 3. Niharika Anthwal
 4. Michael Gibson
 
+
 <b> What is Embedded Insurance? </b>
 <br>
 The term Embedded Insurance refers to the act of introducing relevant insurance coverage or protection during a customer’s purchase journey of another product or service [<a href="https://www.mapfre.com/en/insights/innovation/embedded-insurance//">1</a>]. Customers here can refer to a provider and/or consumer of service of an online platform, such as a driver and a passenger. While other definitions of Embedded Insurance may exist, characteristics of embedded insurance common across these definitions include:
