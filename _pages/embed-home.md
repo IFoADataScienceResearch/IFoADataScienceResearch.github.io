@@ -19,29 +19,41 @@ sidebar:
 3. Niharika Anthwal
 4. Michael Gibson
 
-## What is embedded insurance?
-Embedded insurance refers to the act of introducing relevant insurance coverage or protection during a customer's purchase journey of another product or service [<a href="https://www.mapfre.com/en/insights/innovation/embedded-insurance/">1</a>]. The insurance itself is not the main product being purchased but serves to provide the customer with a stronger value proposition in the form of protection and peace of mind.
+<b> What is Embedded Insurance? </b>
+<br>
+The term Embedded Insurance refers to the act of introducing relevant insurance coverage or protection during a customer’s purchase journey of another product or service [<a href="https://www.mapfre.com/en/insights/innovation/embedded-insurance//">1</a>]. Customers here can refer to a provider and/or consumer of service of an online platform, such as a driver and a passenger. While other definitions of Embedded Insurance may exist, characteristics of embedded insurance common across these definitions include:
+<ul>
+  <li>
+Use of personalised data to provide relevant insurance coverage and premium
+  </li>
 
-Embedded insurance has historically played a leading role offline, such as packaging car insurance with new car purchases, mortagage insurance with home loans and extended warranty with electronics. However, the pandemic has driven many of these activities online across different sectors. This includes:
+<li>
+Offering of insurance at a relevant point in time during a user’s purchase journey
+  </li>
 
-* e-commerce sites such as Amazon
-* ride hailing services such as Uber
-* digital financial services such as Monzo and and Revolut
-* telemedicine and teleconsultation services such as Babylon and Push Doctor
+<li>
+Affordable and bite-sized premium
+  </li>
 
-These sites continue to capture more and more offline traffic and represents a fundamental shift to how insurance can be sold with increased relevance and affinity to a specific audience. 
+<li>
+Fuss free underwriting and claims process
+</li>
 
-## What is the relevance of data science to embedded insurance?
-The various services mentioned above capture a significant amount of information from its users. This is necessary in order to provide a good user experience and more importantly to provide to offer basic functionality to its users. 
+</ul>
+ 
 
-Uber for example, collects data to monitor traffic conditions and driver's availability [<a href="https://www.linkedin.com/pulse/amazing-ways-uber-using-big-data-analytics-bernard-marr/">2</a>] in order to estimate the optimal fare for riders. Amazon trawls through its data to provide purchase recommendations to drive sales.
-
-The same data mentioned can also be utilised to price car insurance, assess users' risk and recommend embedded insurance to users of these services. Examples include:
-
-* Adjusting the premium loading of insurance offered to buyers of different risk
-* Assess the insurance needs of buyers' based on purchase history and recommend relevant products
-* Customising insurance at an individual level according to buyers' risk profile
-* Real time emedding of appropriate insurance based on weather [<a href="https://www.droplet.sg/#/">3</a>]
-
-Traditional actuarial techniques can then evolve to complement the influx of real time data to enable more accurate estimates. Innovative products can also be borne out of data based on actual needs instead of the usual cookie-cutter products. 
+<b> Data Analytics in Embedded Insurance </b>
+<br>
+The emergence of Embedded Insurance is without a doubt the next evolution in the insurance industry. However, traditional actuarial analytics methodology such as pricing and risk management are still slow to adopt and leverage the large volume of alternative data collected. Examples include:
+<ul>
+  <li>
+Using e-commerce shoppers’ purchase behaviour to estimate their lifestyle and needs to introduce and price relevant insurance
+  </li>
+<li>
+Adjust motor insurance premium loadings according to detailed driving habits collected through in-car sensors
+  </li>
+<li>
+Real time on-demand pricing of insurance risk based on drivers’ location and length of time spent on road 
+</li>
+</ul> 
 
