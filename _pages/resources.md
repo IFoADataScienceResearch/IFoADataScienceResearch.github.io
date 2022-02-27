@@ -7,39 +7,9 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: false
 toc: true
-
-
-feature_row_horizontal_1:
-
-  - image_path: /assets/images_for_resources/fairness in ML.PNG
-    alt: "Differential Privacy and Fairness in Machine Learning"
-    title: "Differential Privacy and Fairness in Machine Learning"
-    excerpt: "Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset"
-    url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf"
-    btn_class: "btn--primary"
-    btn_label: "Download"
-
-  - image_path: /assets/images_for_resources/multivariate zero-modified.PNG
-    alt: "Multivariate zero-modified hurdle models in insurance"
-    title: "Multivariate zero-modified hurdle models in insurance"
-    excerpt: "This paper focuses on Type I multivariate zero truncation and the ﬁrst case of multivariate zero inﬂation by employing the multivariate hurdle model to study the aforementioned multivariate zero modiﬁcation phenomena."
-    url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Multivariate%20zero-modified%20hurdle%20models%20in%20insurance.pdf"
-    btn_class: "btn--primary"
-    btn_label: "Download"
-
-  - image_path: /assets/images_for_resources/The multivariate mixed Negative Binomial.png
-    alt: "The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking"
-    title: "The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking"
-    excerpt: "This paper is concerned with introducing a family of multivariate mixed Negative Binomial regression models in the context of a posteriori ratemaking."
-    url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/The%20multivariate%20mixed%20Negative%20Binomial%20regression%20model%20with%20an%20application%20to%20insurance%20a%20posteriori%20ratemaking.pdf"
-    btn_class: "btn--primary"
-    btn_label: "Download"
 ---
 
 # Downloads
-{% include feature_row_horizontal_1 %}
-
-
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/fairness in ML.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf" download>Differential Privacy and Fairness in Machine Learning</a> <br> 
 <small> Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset </small> 
