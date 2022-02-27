@@ -20,7 +20,7 @@ feature_row_left:
     alt: "Multivariate zero-modiﬁed hurdle models in insurance"
     title: "Multivariate zero-modiﬁed hurdle models in insurance"
     excerpt: "28th January 2022"
-    url: "https://www.youtube.com/watch?v=0RMokFBXdEM"
+    url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Multivariate%20zero-modified%20hurdle%20models%20in%20insurance.pdf"
     btn_class: "btn--primary"
     btn_label: "Read now"
 
