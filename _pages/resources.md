@@ -38,30 +38,6 @@ feature_row:
 # Downloads
 {% include feature_row %}
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/fairness in ML.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf" download>Differential Privacy and Fairness in Machine Learning</a> <br> 
-<small> Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset </small> 
-<br>
-<br>
-<br>
-<br>
-<br>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/multivariate zero-modified.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Multivariate%20zero-modified%20hurdle%20models%20in%20insurance.pdf" download>Multivariate zero-modified hurdle models in insurance</a> <br> 
-<small> This paper focuses on Type I multivariate zero truncation and the ﬁrst case of multivariate zero inﬂation by employing the multivariate hurdle model to study the aforemen-
-tioned multivariate zero modiﬁcation phenomena </small> 
-<br>
-<br>
-<br>
-<br>
-<br>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/The multivariate mixed Negative Binomial.png){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/The%20multivariate%20mixed%20Negative%20Binomial%20regression%20model%20with%20an%20application%20to%20insurance%20a%20posteriori%20ratemaking.pdf" download>The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking</a> <br> 
-<small> This paper is concerned with introducing a family of multivariate mixed Negative Binomial regression models in the context of a posteriori ratemaking.  </small> 
-<br>
-<br>
-<br>
-<br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/binomial mixed Poisson.png){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/A%20first%20order%20binomial%20mixed%20Poisson%20integer%20valued%20autoregressive%20model%20with%20serially%20dependent%20innovations.pdf" download>A first order binomial mixed Poisson integer valued autoregressive model with serially dependent innovations</a> <br> 
 <small> This paper is motivated by the extended Poisson INAR(1), which allows innovations to be serially dependent, develops a new family of binomial-mixed Poisson INAR(1) (BMP INAR(1)) processes by adding a mixed Poisson component to the innovations of the classical Poisson INAR(1) process.  </small> 
