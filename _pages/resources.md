@@ -7,9 +7,40 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: false
 toc: true
+
+
+feature_row_horizontal_1:
+
+  - image_path: /assets/images_for_resources/fairness in ML.PNG
+    alt: "Differential Privacy and Fairness in Machine Learning"
+    title: "Differential Privacy and Fairness in Machine Learning"
+    excerpt: "Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset"
+    url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+  - image_path: /assets/images_for_resources/fairness in ML.PNG
+    alt: "Differential Privacy and Fairness in Machine Learning"
+    title: "Differential Privacy and Fairness in Machine Learning"
+    excerpt: "Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset"
+    url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+  - image_path: /assets/images_for_resources/fairness in ML.PNG
+    alt: "Differential Privacy and Fairness in Machine Learning"
+    title: "Differential Privacy and Fairness in Machine Learning"
+    excerpt: "Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset"
+    url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 # Downloads
+{% include feature_row_horizontal_1 %}
+
+
+
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/fairness in ML.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf" download>Differential Privacy and Fairness in Machine Learning</a> <br> 
 <small> Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset </small> 
