@@ -16,6 +16,14 @@ feature_row_left:
     btn_class: "btn--primary"
     btn_label: "Watch now"
 
+  - image_path: /assets/images_for_events/multivariate zero-modified.PNG
+    alt: "Multivariate zero-modiﬁed hurdle models in insurance"
+    title: "Multivariate zero-modiﬁed hurdle models in insurance"
+    excerpt: "28th January 2022"
+    url: "https://www.youtube.com/watch?v=0RMokFBXdEM"
+    btn_class: "btn--primary"
+    btn_label: "Read now"
+
   - image_path: /assets/images_for_events/eaa-conference.PNG
     alt: "EAA e-Conference on Data Science & Data Ethics"
     title: "EAA e-Conference on Data Science & Data Ethics"
