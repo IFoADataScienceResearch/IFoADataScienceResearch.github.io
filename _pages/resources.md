@@ -27,8 +27,8 @@ feature_row:
     btn_label: "Download"
 
   - image_path: /assets/images_for_resources/The multivariate mixed Negative Binomial.png
-    alt: "The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking"
-    title: "The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking"
+    alt: "The multivariate mixed Negative Binomial regression model"
+    title: "The multivariate mixed Negative Binomial regression model"
     excerpt: "This paper is concerned with introducing a family of multivariate mixed Negative Binomial regression models in the context of a posteriori ratemaking."
     url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/The%20multivariate%20mixed%20Negative%20Binomial%20regression%20model%20with%20an%20application%20to%20insurance%20a%20posteriori%20ratemaking.pdf"
     btn_class: "btn--primary"
