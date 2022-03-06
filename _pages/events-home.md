@@ -8,6 +8,14 @@ header:
 
 feature_row_left:
 
+  - image_path: /assets/images_for_events/multivariate-claim-count.PNG
+    alt: "Multivariate claim count regression model with varying dispersion and dependence parameters"
+    title: "Multivariate claim count regression model with varying dispersion and dependence parameters"
+    excerpt: "22nd February 2022"
+    url: "https://www.youtube.com/watch?v=K0URbeLdKAw"
+    btn_class: "btn--primary"
+    btn_label: "Watch now"
+
   - image_path: /assets/images_for_resources/fairness in ML.PNG
     alt: "Differential Privacy and Fairness in Machine Learning"
     title: "Differential Privacy and Fairness in Machine Learning"
