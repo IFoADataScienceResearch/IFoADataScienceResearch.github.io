@@ -43,7 +43,7 @@ Let’s consider a game (or model) that only uses x1. Perhaps, in this case, £2
 <br>
 Suppose we extend this logic to all possible combinations of parameters the model could use – {x1, x2, x3}, {x2, x3}, {x3}, …. and so on – and then in every possible combination we work out the impact of adding each variable to the prediction (Figure 1).
 
-<img src="/assets/images_for_posts/All clear: Shapley values/02.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/All clear: Shapley values/02.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 We then consider what each variable has added, on average, to the prediction across all possible scenarios. As Figure 1 shows, the contribution of x1 is<br>
 <img src="/assets/images_for_posts/All clear: Shapley values/07.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
@@ -72,7 +72,8 @@ In the ‘medium’ case, when a variable is added to a model which contains hal
 
 SHAP also addresses how to make a prediction when a variable is excluded from the model. Recall that we are trying to explain how a model works. Consider a scenario where the model is missing variable x1. If we rebuild the model without x1, it is no longer the model we’re trying to explain. We need to make sure the model is fixed under every scenario. However, if we build the model with x1, it will need some value for x1 to produce a prediction. Most models cannot take null or missing input. SHAP instead uses a ‘background’ dataset to mimic x1 being missing from the dataset, similar to imputing its value.
 
-<img src="/assets/images_for_posts/All clear: Shapley values/04.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/All clear: Shapley values/04a.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/All clear: Shapley values/04b.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 <img src="/assets/images_for_posts/All clear: Shapley values/05.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
@@ -119,6 +120,7 @@ This method is agnostic to the model being linear, non-linear, GLM, GBM, NN or h
 Combining the above with other explainable artificial intelligence techniques, such as partial dependency or accumulated local effects plots, could spell the end of GLM. Advanced machine learning techniques can be used with confidence and without fear that the output can’t be explained or understood, and will allow actuaries to adapt to the brave new world of artificial intelligence.
 <br>
 Github repo: <a href="https://github.com/karol-gawlowski/ifoa_shap"> github.com/karol-gawlowski/ifoa_sha</a>
+<br>
 <br>
 <br>
 <b> Karol Gawlowski </b> is a senior actuarial analyst at AXA XL London <br>
