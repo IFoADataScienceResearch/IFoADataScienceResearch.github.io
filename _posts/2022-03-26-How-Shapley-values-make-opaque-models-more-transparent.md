@@ -75,13 +75,13 @@ SHAP also addresses how to make a prediction when a variable is excluded from th
 <img src="/assets/images_for_posts/all-clear-shapley-values/04a.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 <img src="/assets/images_for_posts/all-clear-shapley-values/04b.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
-<img src="/assets/images_for_posts/All clear: Shapley values/05.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/all-clear-shapley-values/05.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 If SHAP is required to predict the number of claims without x1, it will first take random samples from x1 with replacement (bootstrapping) – say, 1,000 times. For each of these 1,000 random samples, SHAP is then attached to the same values for x2 and x3 – effectively creating 1,000 new synthetic datapoints (where x2 and x3remain the same but x1 varies). It then uses the model in question and predicts the number of claims for the 1,000 synthetic datapoints – let us call them y0, …. , y1,000.
 
 The average of y0, …. , y1,000 is computed and said to represent what the model predicts when x1 is missing. x1 is treated as behaving almost like a random white noise variable. Notice that this introduces another stochastic element to SHAP, which means results may vary with runs.
 
-<img src="/assets/images_for_posts/All clear: Shapley values/06.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/all-clear-shapley-values/06.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 SHAP thus assumes that all features are independent, because the missing features are drawn without varying the features present in the model. In Table 1, x2 and x3 remain fixed for all random values of x1. But what if there is some collinearity and dependency structure between the variables? The synthetic datapoints such as (0,1,2) in the first row may be impossible to observe in the real world, which could lead to model errors in SHAP’s approximation of Shapley values.
 
