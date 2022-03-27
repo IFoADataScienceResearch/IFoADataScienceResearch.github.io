@@ -20,7 +20,7 @@ Originally published by The Actuary, March 2022. © The Institute and Faculty of
 
 <b> Karol Gawlowksi, Christian Richard and Dylan Liew show how Shapley values can be used to make opaque models more transparent. </b>
 
-<img src="/assets/images_for_posts/All clear: Shapley values/01.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/all-clear-shapley-values/01.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 
 It is becoming evident that actuaries will need to embrace and adapt to the age of machine learning. Techniques such as gradient boosting machines (GBM) and neural networks (NN) have been shown to outperform ‘traditional’ generalised linear models (GLMs), but seem to require a trade-off in terms of the model output’s explainability. With actuaries operating under strict frameworks, it is unsurprising that many prefer to use less powerful but more explainable models.
@@ -43,10 +43,10 @@ Let’s consider a game (or model) that only uses x1. Perhaps, in this case, £2
 <br>
 Suppose we extend this logic to all possible combinations of parameters the model could use – {x1, x2, x3}, {x2, x3}, {x3}, …. and so on – and then in every possible combination we work out the impact of adding each variable to the prediction (Figure 1).
 
-<img src="/assets/images_for_posts/All clear: Shapley values/02.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/all-clear-shapley-values/02.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 We then consider what each variable has added, on average, to the prediction across all possible scenarios. As Figure 1 shows, the contribution of x1 is<br>
-<img src="/assets/images_for_posts/All clear: Shapley values/07.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/all-clear-shapley-values/07.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 while the contributions of x2 and x3 are £4.25 and -£1.50 respectively.<br>
 Why go to all this effort? It can be shown that such an allocation is unique in satisfying several desirable properties all at once:
@@ -68,12 +68,12 @@ The example in Figure 1 has only three variables and can be calculated exhaustiv
 
 SHAP prioritises models with very few or very many features, and tends to disregard models with a ‘medium’ amount of features. The idea is that when a model contains very few features (close to 0), adding a new one can tell you a lot about its ‘direct contribution’. However, this is in the absence of other features, so these models tell you little about its interaction effects. Conversely, if a model has, say, p – 1 features, adding the last remaining variable tells you little about its direct contribution but a lot about its interaction contribution, because it is interacting with all possible variables.
 
-In the ‘medium’ case, when a variable is added to a model which contains half its features, it is hard to unpick its direct contribution because it is interacting with<img src="/assets/images_for_posts/All clear: Shapley values/03.png" style="width: auto; height: auto;max-width: 50px;max-height: 50px">other features. It is also hard to unpick its interaction effects, because the model is still missing  <img src="/assets/images_for_posts/All clear: Shapley values/03.png" style="width: auto; height: auto;max-width: 50px;max-height: 50px">features. However, SHAP does include a small random sample of some of these models, introducing a stochastic element to its allocations.
+In the ‘medium’ case, when a variable is added to a model which contains half its features, it is hard to unpick its direct contribution because it is interacting with<img src="/assets/images_for_posts/all-clear-shapley-values/03.png" style="width: auto; height: auto;max-width: 50px;max-height: 50px">other features. It is also hard to unpick its interaction effects, because the model is still missing  <img src="/assets/images_for_posts/all-clear-shapley-values/03.png" style="width: auto; height: auto;max-width: 50px;max-height: 50px">features. However, SHAP does include a small random sample of some of these models, introducing a stochastic element to its allocations.
 
 SHAP also addresses how to make a prediction when a variable is excluded from the model. Recall that we are trying to explain how a model works. Consider a scenario where the model is missing variable x1. If we rebuild the model without x1, it is no longer the model we’re trying to explain. We need to make sure the model is fixed under every scenario. However, if we build the model with x1, it will need some value for x1 to produce a prediction. Most models cannot take null or missing input. SHAP instead uses a ‘background’ dataset to mimic x1 being missing from the dataset, similar to imputing its value.
 
-<img src="/assets/images_for_posts/All clear: Shapley values/04a.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
-<img src="/assets/images_for_posts/All clear: Shapley values/04b.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/all-clear-shapley-values/04a.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/all-clear-shapley-values/04b.jpg" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 <img src="/assets/images_for_posts/All clear: Shapley values/05.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
