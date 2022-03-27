@@ -120,7 +120,8 @@ This method is agnostic to the model being linear, non-linear, GLM, GBM, NN or h
 Combining the above with other explainable artificial intelligence techniques, such as partial dependency or accumulated local effects plots, could spell the end of GLM. Advanced machine learning techniques can be used with confidence and without fear that the output can’t be explained or understood, and will allow actuaries to adapt to the brave new world of artificial intelligence.
 <br>
 Github repo: <a href="https://github.com/karol-gawlowski/ifoa_shap"> github.com/karol-gawlowski/ifoa_sha</a>
-
+<br>
+<br>
 <b> Karol Gawlowski </b> is a senior actuarial analyst at AXA XL London <br>
 <b> Christian Richard </b> is a life actuary at Zurich International <br>
 <b> Dylan Liew </b> is the deputy chair of the IFoA’s Explainable Artificial Intelligence Working Party and a data science actuary at Bupa
