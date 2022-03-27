@@ -95,11 +95,13 @@ This shows us that x3has a negative but small impact in producing the predicted 
 
 Suppose we want to explain the predictions of a large portfolio of policies. We could produce separate waterfall charts to examine each of them one by one, but we may miss some big picture effects, and it would take an unfeasible amount of time to review each chart.
 To fit all points on the same graph, SHAP:
+<br>
 <ol>
 <li> Replaces bars with dots (so there’s no overlap with the points) </li>
 <li> Removes the mean model prediction for convenience </li>
 <li> Rotates the graph by 90° </li>
-<br>
+</li>
+</ol>
 <br>
 It also colours the points based on their underlying input value.
 
