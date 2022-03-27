@@ -45,7 +45,7 @@ Suppose we extend this logic to all possible combinations of parameters the mode
 
 <img src="/assets/images_for_posts/All clear: Shapley values/02.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
-We then consider what each variable has added, on average, to the prediction across all possible scenarios. As Figure 1 shows, the contribution of x1 is
+We then consider what each variable has added, on average, to the prediction across all possible scenarios. As Figure 1 shows, the contribution of x1 is<br>
 <img src="/assets/images_for_posts/All clear: Shapley values/07.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 while the contributions of x2 and x3 are £4.25 and -£1.50 respectively.
