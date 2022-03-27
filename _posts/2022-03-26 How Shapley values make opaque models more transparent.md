@@ -47,6 +47,7 @@ Suppose we extend this logic to all possible combinations of parameters the mode
 
 We then consider what each variable has added, on average, to the prediction across all possible scenarios. As Figure 1 shows, the contribution of x1 is
 (£3.50 + £3.50 + £2.00 + £10.50 + £12.00 + £12.00) = £7.25
+<br>
                        6
 
 while the contributions of x2 and x3 are £4.25 and -£1.50 respectively.
@@ -75,7 +76,7 @@ SHAP also addresses how to make a prediction when a variable is excluded from th
 
 <img src="/assets/images_for_posts/All clear: Shapley values/04.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
-<img src="/assets/images_for_posts/All clear: Shapley values /05.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/All clear: Shapley values/05.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 If SHAP is required to predict the number of claims without x1, it will first take random samples from x1 with replacement (bootstrapping) – say, 1,000 times. For each of these 1,000 random samples, SHAP is then attached to the same values for x2 and x3 – effectively creating 1,000 new synthetic datapoints (where x2 and x3remain the same but x1 varies). It then uses the model in question and predicts the number of claims for the 1,000 synthetic datapoints – let us call them y0, …. , y1,000.
 
