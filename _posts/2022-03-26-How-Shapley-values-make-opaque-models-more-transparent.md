@@ -110,7 +110,8 @@ If we add in two more hypothetical policies (say, d2 and d3), the graph might lo
 We can infer that x1 seems to drive the predictions up the most – not only for d1 but also for d2 and d3. x2 appears to be second most significant, and x3 doesn’t seem to affect the predictions much.
 
 From the colours, we can see not only that x1 drives up the claims in the model, but also that the lower its value, the higher the predictions. Perhaps the factor is something like policy excess?  
-<br><br>
+<br>
+<br>
 <br>
 <b> Bringing clarity </b>
 <br>
@@ -118,6 +119,7 @@ From the colours, we can see not only that x1 drives up the claims in the model,
 This method is agnostic to the model being linear, non-linear, GLM, GBM, NN or having any particular form – the same methodology can be applied. SHAP’s ability to consistently unpick and understand any type of model is what makes it so powerful. While there are some limitations and assumptions, it still provides us with model-agnostic universally explainable models that allow actuaries to stop sacrificing model accuracy for interpretability.
 
 Combining the above with other explainable artificial intelligence techniques, such as partial dependency or accumulated local effects plots, could spell the end of GLM. Advanced machine learning techniques can be used with confidence and without fear that the output can’t be explained or understood, and will allow actuaries to adapt to the brave new world of artificial intelligence.
+<br>
 <br>
 Github repo: <a href="https://github.com/karol-gawlowski/ifoa_shap"> github.com/karol-gawlowski/ifoa_sha</a>
 <br>
