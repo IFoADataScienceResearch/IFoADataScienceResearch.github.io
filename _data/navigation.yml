@@ -105,7 +105,11 @@ vis-nav:
         url: https://ifoadatascienceresearch.github.io/blog/Singpore-GI-dashboard/
 
 xai-nav:
-
+  - title: "Blog Posts"
+    children:
+      - title: "All clear: How Shapley values make opaque models more transparent"
+        url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
+        
 unsupervised-nav:
 
 deeplearning-nav:
