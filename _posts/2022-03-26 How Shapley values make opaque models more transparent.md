@@ -117,6 +117,7 @@ From the colours, we can see not only that x1 drives up the claims in the model,
 This method is agnostic to the model being linear, non-linear, GLM, GBM, NN or having any particular form – the same methodology can be applied. SHAP’s ability to consistently unpick and understand any type of model is what makes it so powerful. While there are some limitations and assumptions, it still provides us with model-agnostic universally explainable models that allow actuaries to stop sacrificing model accuracy for interpretability.
 
 Combining the above with other explainable artificial intelligence techniques, such as partial dependency or accumulated local effects plots, could spell the end of GLM. Advanced machine learning techniques can be used with confidence and without fear that the output can’t be explained or understood, and will allow actuaries to adapt to the brave new world of artificial intelligence.
+<br>
 Github repo: <a href="https://github.com/karol-gawlowski/ifoa_shap"> github.com/karol-gawlowski/ifoa_sha</a>
 
 <b> Karol Gawlowski </b> is a senior actuarial analyst at AXA XL London <br>
