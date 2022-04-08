@@ -10,18 +10,12 @@ sidebar:
 ---
 
 ## Aims
-1. Climate change - Time series of severe weather events, clustering on geographic location
-2. Covid - Clustering/ segmentation geographically, intersect of multiple data sets
+1. Look at Unsupervised Techniques and Actuarial.  Current subject: climate change - actuarial impact (low level and high level)
+
 
 ## Members
 
 1.  Debashish Dey (Chair) 
-2.  Nikolay Yankov
-3.  Stewart Stanton
-4.  Joanne Chong
-5.  Valentine Chisango
-6.  Debashish Dey
-7.  Jasvir Grewal
-8.  Biren Dhir
-9.  Xin Yung Lee
-10. Deepanjali Talwar
+2.  Nikolay Yankov (Vice)
+3.  Valentine Chisango
+4. Deepanjali Talwar
