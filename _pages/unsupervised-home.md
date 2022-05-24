@@ -21,5 +21,4 @@ sidebar:
 4.  Deepanjali Talwar
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/binomial mixed Poisson.png){: .align-left}{: width="300" } A first order binomial mixed Poisson integer valued autoregressive model with serially dependent innovations 
-This paper is motivated by the extended Poisson INAR(1), which allows innovations to be serially dependent, develops a new family of binomial-mixed Poisson INAR(1) (BMP INAR(1)) processes by adding a mixed Poisson component to the innovations of the classical Poisson INAR(1) process. 
+![Book logo](/assets/images_for_resources/binomial mixed Poisson.png)
