@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/about/
 classes: wide
-title: "Unsupervised Learning Working Party"
+title: "Unsupervised Learning Working Party - About"
 author_profile: false
 toc: false
 sidebar:
