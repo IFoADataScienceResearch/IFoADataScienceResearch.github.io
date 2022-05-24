@@ -3,9 +3,9 @@ permalink: /unsupervised-learning/
 classes: wide
 title: "Unsupervised Learning Working Party"
 author_profile: false
-toc: true
+toc: false
 sidebar:
-  title: "Content"
+  title: "Unsupervised Learning"
   nav: unsupervised-nav
 ---
 
