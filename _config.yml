@@ -127,7 +127,7 @@ defaults:
       
   # _pages/Unsupervised/
   - scope:
-      path: "_pages/_Unsupervised"
+      path: "_pages/Unsupervised"
       type: pages
     values:
       layout: single
