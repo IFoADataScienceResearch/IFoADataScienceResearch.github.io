@@ -21,5 +21,14 @@ sidebar:
 4.  Deepanjali Talwar
 
 
-<div class="github-card" data-github="d" data-width="400" data-height="" data-theme="medium"></div>
+<div class="github-card" data-github="debsdey" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+<div class="github-card" data-github="yankovn" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+<div class="github-card" data-github="DeeTalwar" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+<div class="github-card" data-github="ValentineChisango" data-width="400" data-height="" data-theme="medium"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
