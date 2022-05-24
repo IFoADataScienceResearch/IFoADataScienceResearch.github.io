@@ -21,4 +21,5 @@ sidebar:
 4.  Deepanjali Talwar
 
 
-![Book logo](/assets/images_for_resources/binomial mixed Poisson.png)
+<div class="github-card" data-github="d" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
