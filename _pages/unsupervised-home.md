@@ -22,3 +22,7 @@ sidebar:
 
 
 /assets/images/splash-image/splash-code.jpg
+
+<p align="center">
+  <img src="/assets/images/splash-image/splash-code.jpg" width="350" title="hover text">
+</p>
