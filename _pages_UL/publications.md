@@ -14,10 +14,4 @@ sidebar:
 
 
 
-Welcome to the main Github Page site for the IFoA Unsupervised Learning Working Party.  
-
-The aim of this volunteer Working Party is to promote the understanding of Unsupervised Learning techniques within the actuarial profession. 
-
-Please browse the links under the contents navigation on the left for useful pages.  
-
-Do let us know if you would like to be involved and have any suggestions, both for this site and for research areas.
+This page is still under construction.
