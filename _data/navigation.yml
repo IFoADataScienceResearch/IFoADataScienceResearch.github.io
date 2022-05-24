@@ -112,17 +112,16 @@ xai-nav:
         
 unsupervised-nav:
   - title: "Homepage"
-    url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
+    url: https://ifoadatascienceresearch.github.io/unsupervised-learning/
   - title: "Publications"
-    url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
+    url: https://ifoadatascienceresearch.github.io/unsupervised-learning/publications/
   - title: "Tutorials"
-    url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
+    url: https://ifoadatascienceresearch.github.io/unsupervised-learning/tutorials/
   - title: "Members"
-    url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
+    url: https://ifoadatascienceresearch.github.io/unsupervised-learning/members/
   - title: "About"
-    url: https://ifoadatascienceresearch.github.io/unsupervised-learning/About/
+    url: https://ifoadatascienceresearch.github.io/unsupervised-learning/about/
 
-        
 deeplearning-nav:
 
 statistical-nav:
