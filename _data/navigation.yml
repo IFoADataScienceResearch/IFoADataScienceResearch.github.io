@@ -111,7 +111,19 @@ xai-nav:
         url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
         
 unsupervised-nav:
-
+- title: "Publications"
+    children:
+      - title: "All clear: How Shapley values make opaque models more transparent"
+        url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
+- title: "Help files"
+    children:
+      - title: "All clear: How Shapley values make opaque models more transparent"
+        url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
+- title: "About"
+    children:
+      - title: "All clear: How Shapley values make opaque models more transparent"
+        url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
+        
 deeplearning-nav:
 
 statistical-nav:
