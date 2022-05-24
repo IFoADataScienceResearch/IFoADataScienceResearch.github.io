@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/members/
 classes: wide
-title: "Unsupervised Learning Working Party"
+title: "Unsupervised Learning Working Party - Members"
 author_profile: false
 toc: false
 sidebar:
@@ -14,10 +14,11 @@ sidebar:
 
 
 
-Welcome to the main Github Page site for the IFoA Unsupervised Learning Working Party.  
+Below are the current members of the Working Party:
 
-The aim of this volunteer Working Party is to promote the understanding of Unsupervised Learning techniques within the actuarial profession. 
+1.  Debashish Dey (Chair) 
+2.  Nikolay Yankov (Vice)
+3.  Valentine Chisango
+4.  Deepanjali Talwar 
 
-Please browse the links under the contents navigation on the left for useful pages.  
-
-Do let us know if you would like to be involved and have any suggestions, both for this site and for research areas.
+Do feel free to contact us directly at XXXX.
