@@ -12,13 +12,19 @@ sidebar:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_home.jpg){: .align-left}
 
-## Aims
-- To promote understanding of Unsupervised Learning techniques
+## Background
+Welcome to the main Github Page site for the IFoA Unsupervised Learning techniques.  The aim of this party is to promote the
 
 
-## Members
+## Main
+
+The aim of this volunteer Working Party is to promote the understanding of Unsupervised Learning techniques within the actuarial profession. 
 
 1.  Debashish Dey (Chair) 
 2.  Nikolay Yankov (Vice)
 3.  Valentine Chisango
 4.  Deepanjali Talwar 
+
+## Further links
+
+Please browse the links under the contents navigation on the left for useful pages.
