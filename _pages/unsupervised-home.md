@@ -18,4 +18,7 @@ sidebar:
 1.  Debashish Dey (Chair) 
 2.  Nikolay Yankov (Vice)
 3.  Valentine Chisango
-4. Deepanjali Talwar
+4.  Deepanjali Talwar
+
+
+/assets/images/splash-image/splash-code.jpg
