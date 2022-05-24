@@ -9,7 +9,7 @@ sidebar:
   nav: unsupervised-nav
 ---
 
-<img src="/assets/images_for_wp/UL_home.jpg" alt="Puzzle" width=100% height="200">
+<img src="/assets/images_for_wp/UL_home.jpg" alt="https://unsplash.com/photos/3y1zF4hIPCg" width=100% height="200">
 
 ## Aims
 - To promote understanding of Unsupervised Learning techniques
