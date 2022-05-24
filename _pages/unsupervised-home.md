@@ -10,7 +10,7 @@ sidebar:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_home.jpg){: .align-left}{: width="200")
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_home.jpg){: .align-left}
 
 ## Aims
 - To promote understanding of Unsupervised Learning techniques
