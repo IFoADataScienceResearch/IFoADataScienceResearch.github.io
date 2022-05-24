@@ -5,7 +5,7 @@ title: "Unsupervised Learning Working Party"
 author_profile: false
 toc: false
 sidebar:
-  title: "Unsupervised Learning"
+  title: "Contents"
   nav: unsupervised-nav
 ---
 
