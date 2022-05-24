@@ -1,5 +1,5 @@
 ---
-permalink: /unsupervised-learning/About/
+permalink: /unsupervised-learning/about/
 classes: wide
 title: "Unsupervised Learning Working Party"
 author_profile: false
@@ -10,7 +10,7 @@ sidebar:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_home.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_about.jpg){: .align-left}
 
 
 
