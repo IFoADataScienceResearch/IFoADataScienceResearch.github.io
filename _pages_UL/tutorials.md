@@ -18,25 +18,27 @@ Please find below a list of tutorials which cover topics covering Unsupervised L
 
 ## Machine Learning - Background
 
-| Entry number  | Icon          |Link          |Description                    |
-| ------------- | ------------- |------------- |-------------------------------|
-| 1             |               |Link          |Description                    |
-| 2             |               |Link          |Description                    |
-| 3             |               |Link          |Description                    |
-| 4             |               |Link          |Description                    |
-| 5             |               |Link          |Description                    |
+| Entry number  | Icon          |Link                          |Description                    |
+| ------------- | ------------- |----------------------------- |-------------------------------|
+| 1             |:computer:     |What is Machine Learning?     |Description                    |
+| 2             |:computer:     |Unsupervised background       |Description                    |
+| 3             |               |Comparison versus Supervised  |Description                    |
+| 4             |               |Real world applications       |Description                    |
+| 5             |               |Actuarial applications        |Description                    |
 
-## Unsupervised Techniques
-1. Topic 1
-2. Topic 2
-3. Topic 3
-4. Topic 4
-5. Topic 5
+## Overview of Unsupervised Approaches
+| Entry number  | Icon          |Link                          |Description                    |
+| ------------- | ------------- |----------------------------- |-------------------------------|
+| 1             |               |Clustering                    |Description                    |
+| 2             |               |Association rules             |Description                    |
+| 3             |               |Dimensionality reduction      |Description                    |
 
-## Coding
-1. Topic 1
-2. Topic 2
-3. Topic 3
-4. Topic 4
-5. Topic 5
-
+## Unsupervised networks
+| Entry number  | Icon          |Link                          |Description                    |
+| ------------- | ------------- |----------------------------- |-------------------------------|
+| 1             |               |Hopfield                      |Description                    |
+| 2             |               |Boltzmann                     |Description                    |
+| 3             |               |RBM                           |Description                    |
+| 4             |               |Stacked Boltzmann             |Description                    |
+| 5             |               |Helmholtz                     |Description                    |
+| 6             |               |Autoencoder                   |Description                    |
