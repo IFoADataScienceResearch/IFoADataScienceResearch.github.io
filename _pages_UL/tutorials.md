@@ -44,3 +44,14 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 4    | :computer:    |Stacked Boltzmann             |Description                    |
 | 5    | :computer:    |Helmholtz                     |Description                    |
 | 6    | :computer:    |Autoencoder                   |Description                    |
+
+## 04: Coding
+
+| Entry|               |Link                          |Description                    |
+| -----| ------------- |----------------------------- |-------------------------------|
+| 1    | :computer:    |Python                        |Description                    |
+| 2    | :computer:    |Numpy                         |Description                    |
+| 3    | :computer:    |Pandas                        |Description                    |
+| 4    | :computer:    |Tensorflow                    |Description                    |
+| 5    | :computer:    |Keras                         |Description                    |
+| 6    | :computer:    |SciKit                        |Description                    |
