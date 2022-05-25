@@ -20,10 +20,10 @@ Please find below a list of tutorials which cover topics covering Unsupervised L
 
 | Entry number  | Icon          |Link                          |Description                    |
 | ------------- | ------------- |----------------------------- |-------------------------------|
-| 1             |:computer:     |What is Machine Learning?     |Description                    |
+| 1             |:computer:     |What is Machine Learning?     |Background to Machine Learning |
 | 2             |:computer:     |Unsupervised background       |Description                    |
-| 3             |               |Comparison versus Supervised  |Description                    |
-| 4             |               |Real world applications       |Description                    |
+| 3             |               |Comparison versus Supervised  |A brief overview comparison between unsupervised vs other techniques e.g. supervised               |
+| 4             |               |Real world applications       |Examples of where Unsupervised Learning is used in the real world|
 | 5             |               |Actuarial applications        |Description                    |
 
 ## Overview of Unsupervised Approaches
