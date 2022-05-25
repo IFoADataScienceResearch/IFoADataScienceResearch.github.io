@@ -14,7 +14,7 @@ sidebar:
 
 
 
-Please find below a list of tutorials which cover topics covering Unsupervised Learning teachniques, including technical background and coding approaches.
+Please find below a list of tutorials which cover topics on Unsupervised Learning teachniques, including technical background and coding approaches.
 
 ## Machine Learning - Background
 
