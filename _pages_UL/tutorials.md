@@ -16,7 +16,7 @@ sidebar:
 
 Please find below a list of tutorials which cover topics on Unsupervised Learning teachniques, including technical background and coding approaches.
 
-## Machine Learning - Background
+## 01: Machine Learning - Background
 
 | Entry|               |Link                          |Description                    |
 | ---- | ------------- |----------------------------- |-------------------------------|
@@ -26,7 +26,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 4    |:computer:     |Real world applications       |Examples of where Unsupervised Learning is used in the real world|
 | 5    |:computer:     |Actuarial applications        |Examples of where Unsupervised Learning can be used in the actuarial industry|
 
-## Overview of Unsupervised Approaches
+## 02: Overview of Unsupervised Approaches
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
@@ -34,7 +34,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 2    | :computer:    |Association rules             |Description                    |
 | 3    | :computer:    |Dimensionality reduction      |Description                    |
 
-## Unsupervised networks
+## 03: Unsupervised networks
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
