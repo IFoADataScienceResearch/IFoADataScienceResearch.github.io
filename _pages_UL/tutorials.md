@@ -18,27 +18,29 @@ Please find below a list of tutorials which cover topics covering Unsupervised L
 
 ## Machine Learning - Background
 
-| Entry number  | Icon          |Link                          |Description                    |
-| ------------- | ------------- |----------------------------- |-------------------------------|
-| 1             |:computer:     |What is Machine Learning?     |Background to Machine Learning |
-| 2             |:computer:     |Unsupervised background       |An overview of what Unsupervised Learning is about |
-| 3             |:computer:     |Comparison vs Supervised      |A brief overview comparison between unsupervised vs other techniques e.g. supervised|
-| 4             |:computer:     |Real world applications       |Examples of where Unsupervised Learning is used in the real world|
-| 5             |:computer:     |Actuarial applications        |Examples of where Unsupervised Learning can be used in the actuarial industry|
+| Entry|               |Link                          |Description                    |
+| ---- | ------------- |----------------------------- |-------------------------------|
+| 1    |:computer:     |What is Machine Learning?     |Background to Machine Learning |
+| 2    |:computer:     |Unsupervised background       |An overview of what Unsupervised Learning is about |
+| 3    |:computer:     |Comparison vs Supervised      |A brief overview comparison between unsupervised vs other techniques e.g. supervised|
+| 4    |:computer:     |Real world applications       |Examples of where Unsupervised Learning is used in the real world|
+| 5    |:computer:     |Actuarial applications        |Examples of where Unsupervised Learning can be used in the actuarial industry|
 
 ## Overview of Unsupervised Approaches
-| Entry number  | Icon          |Link                          |Description                    |
-| ------------- | ------------- |----------------------------- |-------------------------------|
-| 1             |               |Clustering                    |Description                    |
-| 2             |               |Association rules             |Description                    |
-| 3             |               |Dimensionality reduction      |Description                    |
+
+| Entry|               |Link                          |Description                    |
+| -----| ------------- |----------------------------- |-------------------------------|
+| 1    | :computer:    |Clustering                    |Description                    |
+| 2    | :computer:    |Association rules             |Description                    |
+| 3    | :computer:    |Dimensionality reduction      |Description                    |
 
 ## Unsupervised networks
-| Entry number  | Icon          |Link                          |Description                    |
-| ------------- | ------------- |----------------------------- |-------------------------------|
-| 1             |               |Hopfield                      |Description                    |
-| 2             |               |Boltzmann                     |Description                    |
-| 3             |               |RBM                           |Description                    |
-| 4             |               |Stacked Boltzmann             |Description                    |
-| 5             |               |Helmholtz                     |Description                    |
-| 6             |               |Autoencoder                   |Description                    |
+
+| Entry|               |Link                          |Description                    |
+| -----| ------------- |----------------------------- |-------------------------------|
+| 1    | :computer:    |Hopfield                      |Description                    |
+| 2    | :computer:    |Boltzmann                     |Description                    |
+| 3    | :computer:    |RBM                           |Description                    |
+| 4    | :computer:    |Stacked Boltzmann             |Description                    |
+| 5    | :computer:    |Helmholtz                     |Description                    |
+| 6    | :computer:    |Autoencoder                   |Description                    |
