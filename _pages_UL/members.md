@@ -16,9 +16,12 @@ sidebar:
 
 Below are the current members of the Working Party:
 
-1.  Debashish Dey (Chair) 
-2.  Nikolay Yankov (Vice)
-3.  Valentine Chisango
-4.  Deepanjali Talwar 
+|      |               |Name                          |Position                       |LinkedIn                      |
+| ---- | ------------- |----------------------------- |-------------------------------|------------------------------|
+| 1    |:computer:     |Debashish Dey                 |Chair                          |Link                          |
+| 2    |:computer:     |Nikolay Yankov                |Vice                           |Link                          |
+| 3    |:computer:     |Valentine Chisango            |Member                         |Link                          |
+| 4    |:computer:     |Deepanjali Talwar             |Member                         |Link                          |
+
 
 Do feel free to contact us directly at XXXX.
