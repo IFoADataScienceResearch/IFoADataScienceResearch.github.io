@@ -10,7 +10,7 @@ toc: true
 
 feature_row:
 
-  - image_path: /assets/images_for_resources/fairness in ML.PNG
+  - image_path: /assets/images_for_resources/EM Estimation.PNG
     alt: "EM Estimation for the Bivariate Mixed Exponential Regression Model"
     title: "EM Estimation for the Bivariate Mixed Exponential Regression Model"
     excerpt: "In this paper, we present a new family of bivariate mixed exponential regression models for taking into account the positive correlation between the cost of claims from motor third party liability bodily injury and property damage in a versatile manner."
