@@ -11,10 +11,10 @@ toc: true
 feature_row:
 
   - image_path: /assets/images_for_resources/fairness in ML.PNG
-    alt: "Differential Privacy and Fairness in Machine Learning"
-    title: "Differential Privacy and Fairness in Machine Learning"
-    excerpt: "Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset"
-    url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf"
+    alt: "EM Estimation for the Bivariate Mixed Exponential Regression Model"
+    title: "EM Estimation for the Bivariate Mixed Exponential Regression Model"
+    excerpt: "In this paper, we present a new family of bivariate mixed exponential regression models for taking into account the positive correlation between the cost of claims from motor third party liability bodily injury and property damage in a versatile manner."
+    url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/EM%20Estimation%20for%20the%20Bivariate%20Mixed%20ER%20Model.pdf"
     btn_class: "btn--primary"
     btn_label: "Download"
 
@@ -38,6 +38,13 @@ feature_row:
 # Downloads
 {% include feature_row %}
 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/fairness in ML.PNG){: .align-left}{: width="300" } 
+<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf" download>EM Estimation for the Bivariate Mixed Exponential Regression Model</a> <br> 
+<small> Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset </small> 
+<br>
+<br>
+<br>
+<br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/binomial mixed Poisson.png){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/A%20first%20order%20binomial%20mixed%20Poisson%20integer%20valued%20autoregressive%20model%20with%20serially%20dependent%20innovations.pdf" download>A first order binomial mixed Poisson integer valued autoregressive model with serially dependent innovations</a> <br> 
 <small> This paper is motivated by the extended Poisson INAR(1), which allows innovations to be serially dependent, develops a new family of binomial-mixed Poisson INAR(1) (BMP INAR(1)) processes by adding a mixed Poisson component to the innovations of the classical Poisson INAR(1) process.  </small> 
