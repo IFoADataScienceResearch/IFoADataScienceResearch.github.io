@@ -13,7 +13,10 @@ sidebar:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
 
 
-##Overview / Background
+##Background
+As with other industries, the actuarial profession is also incorporating Machine Learning ideas, directly and indirectly, as well as exploring areas where these tools can be integrated.
+
+Below are examples of areas which Machine Learning can be used.
 
 ##Main
 
