@@ -27,7 +27,7 @@ Amazon Alexa or Google Home uses Machine Learning to interpret speech commands t
 * Travel <br />
 Google Maps for example can interpret a large volume of data via Machine Learning techniques to suggest alternative quicker routes whilst driving.
 
-* Communication
+* Communication  <br />
 Email messages and smart phones now give suggested responses when they notice certain text triggers.
 
 * Chat bots <br />
