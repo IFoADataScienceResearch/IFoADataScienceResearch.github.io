@@ -1,7 +1,7 @@
 ---
-permalink: /unsupervised-learning/about/
+permalink: /unsupervised-learning/tutorial_template/
 classes: wide
-title: "Unsupervised Learning Working Party - About"
+title: "Tutorial: Template"
 author_profile: false
 toc: false
 sidebar:
