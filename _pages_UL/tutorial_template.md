@@ -13,12 +13,12 @@ sidebar:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
 
 
-##Overview / Background
+<h3>Overview / Background</h3>
 
-##Main
+<h3>Main</h3>
 
-##Examples
+<h3>Examples</h3>
 
-##Conclusion
+<h3>Conclusion</h3>
 
-##Further reading / Links
+<h3>Further reading / Links</h3>
