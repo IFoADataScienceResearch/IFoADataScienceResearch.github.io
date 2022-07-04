@@ -10,8 +10,15 @@ sidebar:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_about.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
 
 
+Overview / Background
 
-The IFoA Unsupervised Learning Working Party was formed in September 2021.  The aim of this volunteer Working Party is to promote the understanding of Unsupervised Learning techniques within the actuarial profession. 
+##Main
+
+##Examples
+
+##Conclusion
+
+##Further reading / Links
