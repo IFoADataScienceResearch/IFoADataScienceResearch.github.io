@@ -18,9 +18,9 @@ As with other industries, the actuarial profession is also incorporating Machine
 
 Below are examples of areas which Machine Learning can be used.
 
-<h3>Main</h3>
+<h3>Examples - Machine Learning</h3>
 
-<h3>Examples</h3>
+<h3>Examples - Unsupervised Learning</h3>
 
 <h3>Conclusion</h3>
 
