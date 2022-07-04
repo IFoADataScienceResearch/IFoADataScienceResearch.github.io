@@ -18,7 +18,7 @@ Machine Learning is becoming prominent in our day-to-day lives.  We probably are
 
 <h3>Examples - Machine Learning</h3>
 
-* Image recongition <br />
+* Image recognition <br />
 Social media apps such as Facebook use Machine Learning to give suggestions for "tagging" people in photos.
 
 * Speech recognition <br />
