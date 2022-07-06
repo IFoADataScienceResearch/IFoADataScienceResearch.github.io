@@ -20,9 +20,9 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | ---- | ------------- |----------------------------- |-------------------------------|
-| 1    |:computer:     |What is Machine Learning?     |Background to Machine Learning |
-| 2    |:computer:     |Unsupervised background       |An overview of what Unsupervised Learning is about |
-| 3    |:computer:     |Comparison vs Supervised      |A brief overview comparison between unsupervised vs other techniques e.g. supervised|
+| 1    |:computer:     |[What is Machine Learning?](/unsupervised-learning/tutorial_whatIsML/)     |Background to Machine Learning |
+| 2    |:computer:     |[Unsupervised background](/unsupervised-learning/tutorial_ULbackground/)       |An overview of what Unsupervised Learning is about |
+| 3    |:computer:     |]Comparison vs Supervised](/unsupervised-learning/tutorial_comparison/)      |A brief overview comparison between unsupervised vs other techniques e.g. supervised|
 | 4    |:computer:     |[Real world applications](/unsupervised-learning/tutorial_realApplications/)|Examples of where machine learning is used in the real world|
 | 5    |:computer:     |[Actuarial applications](/unsupervised-learning/tutorial_actuarialApplications/)        |Examples of current and potential use in the actuarial industry|
 
