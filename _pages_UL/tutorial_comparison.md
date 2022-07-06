@@ -1,7 +1,7 @@
 ---
-permalink: /unsupervised-learning/tutorial_template/
+permalink: /unsupervised-learning/tutorial_comparison/
 classes: wide
-title: "Tutorial: Template"
+title: "Tutorial: Comparison between Supervised and Unsupervised Learning"
 author_profile: false
 toc: false
 sidebar:
