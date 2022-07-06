@@ -1,7 +1,7 @@
 ---
-permalink: /unsupervised-learning/tutorial_template/
+permalink: /unsupervised-learning/tutorial_ULbackground/
 classes: wide
-title: "Tutorial: Template"
+title: "Tutorial: Unsupervised Learning background"
 author_profile: false
 toc: false
 sidebar:
