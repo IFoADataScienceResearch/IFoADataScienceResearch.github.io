@@ -39,4 +39,4 @@ The selection of machine learning algorithm depends on the data available and th
 <h3>Conclusion</h3>
 
 <h3>Further reading </h3>
-Evaluation machine learning models: https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/
+Evaluation machine learning models: [Evaluating Machine Learning book](https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)
