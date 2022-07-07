@@ -34,7 +34,7 @@ The three major machine learning algorithms are as follows:
 <h3>Machine learning algorithm – Selection process</h3>
 The selection of machine learning algorithm depends on the data available and the question we want to ask.
 
-
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial_MachineLearning.jpg){: .align-left}
 
 <h3>Conclusion</h3>
 
