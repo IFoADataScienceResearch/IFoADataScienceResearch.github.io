@@ -13,7 +13,7 @@ sidebar:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
 
 
-<h3>Background</h3>
+<h3>Introduction</h3>
 In some instances, labeled data is unavailable or costly to obtain. The true labels may even be unknown. In these cases, and those when labeled data is unnecessary for the task at hand, unsupervised learning is often the machine learning technique of choice. Unsupervised learning is a branch of machine learning that works with unlabelled data and finds the patterns within the data. The data is typically structured data, text, or images. The models in this branch are primarily used to cluster, i.e. group, data and perform exploratory data analysis.
 
 <h3>Use cases</h3>
