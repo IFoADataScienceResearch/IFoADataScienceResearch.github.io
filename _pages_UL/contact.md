@@ -27,9 +27,9 @@ Please contact us via the form below.
           <div class="form-group">
             <label for="exampleFormControlSelect1">Favourite Platform</label>
             <select class="form-control" id="exampleFormControlSelect1" name="platform" required="required">
-              <option>Github</option>
-              <option>Gitlab</option>
-              <option>Bitbucket</option>
+              <option>General query</option>
+              <option>Research proposal</option>
+              <option>Volunteer work</option>
             </select>
           </div>
           <hr>
