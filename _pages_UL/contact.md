@@ -1,8 +1,20 @@
+
 ---
-layout: page
-title: Contact
-permalink: /contact/
+permalink: /unsupervised-learning/contact/
+classes: wide
+title: "Contact us"
+author_profile: false
+toc: false
+sidebar:
+  title: "Contents"
+  nav: unsupervised-nav
 ---
+
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
+
+<h3>Contact form</h3>
+Please contact us via the form below.
 
 <form accept-charset="UTF-8" action="https://getform.io/{YOUR_UNIQUE_FORM_ENDPOINT}" method="POST" enctype="multipart/form-data" target="_blank">
           <div class="form-group">
