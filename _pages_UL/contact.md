@@ -29,7 +29,7 @@ Please contact us via the form below.
             <input type="text" name="name" class="form-control" id="exampleMessage" placeholder="Enter your message here" required="required" rows = "6">
           </div>
           <div class="form-group">
-            <label for="exampleFormControlSelect1">Favourite Platform</label>
+            <label for="exampleFormControlSelect1">Category</label>
             <select class="form-control" id="exampleFormControlSelect1" name="platform" required="required">
               <option>General query</option>
               <option>Research proposal</option>
