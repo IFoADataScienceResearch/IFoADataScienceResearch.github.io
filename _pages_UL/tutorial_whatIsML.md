@@ -14,7 +14,7 @@ sidebar:
 
 
 <h3>Overview / Background</h3>
-Machine Learning is filtering into several industries and our daily lives.  [TO CONTINUE]
+Arificial Intelligence and Machine Learning is gaining popularity and use in our daily lives and filtering into industries including the actuarial profession.
 
 <h3>What is Machine Learning?</h3>
 
