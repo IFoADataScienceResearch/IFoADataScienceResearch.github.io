@@ -24,4 +24,4 @@ Below are the current members of the Working Party:
 | 4    |:computer:     |Deepanjali Talwar             |Member                         |Link                          |
 
 
-Do feel free to contact us via the below.
+Do feel free to contact us via [here](/unsupervised-learning/contact/)  
