@@ -28,7 +28,7 @@ Please contact us via the form below.
             <label for="exampleMessage">Message</label>
               <textarea id="message" name="message" rows="4" cols="50">
                   Please enter your message here.
-              </textarea>>
+              </textarea>
           </div>
           <div class="form-group">
             <label for="exampleFormControlSelect1">Category</label>
