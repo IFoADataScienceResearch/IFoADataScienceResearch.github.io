@@ -1,5 +1,8 @@
-// 'Source is from https://html.form.guide/contact-form/php-email-contact-form/
+
 <?php 
+
+// 'Source is from https://html.form.guide/contact-form/php-email-contact-form/
+
 $errors = '';
 $myemail = 'debsdey@hotmail.com';//<-----Put Your email address here.
 if(empty($_POST['name'])  || 
