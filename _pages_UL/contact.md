@@ -15,7 +15,7 @@ sidebar:
 <h3>Contact form</h3>
 Please contact us via the form below.
 
-<form accept-charset="UTF-8" action="contact-form-handler.php" enctype="multipart/form-data" target="_blank">
+<form accept-charset="UTF-8" action="mailto:debsdey@hotmail.com" enctype="multipart/form-data" target="_blank">
           <div class="form-group">
             <label for="exampleInputEmail1" required="required">Email address</label>
             <input type="email" name="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter your email address"  required="required">
