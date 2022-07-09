@@ -19,8 +19,6 @@ As with other industries, the actuarial profession is also incorporating Machine
 Below are examples of areas which Machine Learning could be used.
 
 <h3>Examples - Machine Learning</h3>
-* Fraud Detection
-Machine Learning could be used to detect outliers for claims and hence detect fraudulent claims.
 
 * Create a predictive model
 For example, we can use Machine Learning techniques to "train" and "automate" a model for prediction, which could reduce time in set-up if there was a large number of data points in question compared to more traditional / manual techniques.
@@ -31,8 +29,5 @@ For example, we can use Machine Learning techniques to come up with a trend.
 
 <h3>Examples - Unsupervised Learning</h3>
 
-POSITIVES??? NEGATIVES??
-
-<h3>Conclusion</h3>
-
-<h3>Further reading / Links</h3>
+* Fraud Detection
+Machine Learning could be used to detect outliers for claims and hence detect fraudulent claims.
