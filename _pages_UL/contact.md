@@ -25,7 +25,7 @@ Please contact us via the form below.
             <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
           </div>
         <div class="form-group">
-            <label for="exampleMessage">Name</label>
+            <label for="exampleMessage">Message</label>
             <input type="text" name="name" class="form-control" id="exampleMessage" placeholder="Enter your message here" required="required" rows = "6">
           </div>
           <div class="form-group">
