@@ -14,11 +14,13 @@ sidebar:
 
 
 <h3>Overview / Background</h3>
-Arificial Intelligence and Machine Learning is gaining popularity and use in our daily lives and filtering into industries including the actuarial profession.
+Arificial Intelligence and Machine Learning is gaining popularity and use in our daily lives and filtering into industries including the actuarial profession.  
+
+<span style="color:red">AI vs ML vs Deep Learning</span>.
 
 <h3>What is Machine Learning?</h3>
 
-’’The field of machine learning is concerned with the question of how to construct computer programs that automatically improve with experience”.  – Tom Mitchell: Machine learning 1st Edition (1997)
+’’The field of machine learning is concerned with the question of how to construct computer programs that automatically improve with experience.” -  <i>Tom Mitchell, Machine learning 1st Edition (1997) </i>.
 
 Machine learning is a sub-category of artificial intelligence that refers to the process by which computers develop pattern recognition, or the ability to continuously learn from and predictions based on data, then adjust without being specifically programmed to do so. 
 
