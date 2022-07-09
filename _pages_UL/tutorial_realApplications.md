@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_realApplications/
 classes: wide
-title: "Tutorial: Examples of Real World Applications"
+title: "Tutorial: Examples of Real-World Applications"
 author_profile: false
 toc: false
 sidebar:
@@ -14,30 +14,30 @@ sidebar:
 
 
 <h3>Background</h3>
-Machine Learning is becoming prominent in our day-to-day lives.  We probably are unaware that Machine Learning is being used by businesses and enterprises to simplify tasks and bring a wider service to us as a user.  Below are some real-world examples of where Machine Learning is being used. 
+Machine Learning is becoming prominent in our day-to-day lives.  We probably are unaware that machine learning is being used by businesses and enterprises to simplify tasks and bring a wider service to us as a user.  Below are some real-world examples of where machine learning is being used. 
 
 <h3>Examples - Machine Learning</h3>
 
 * Image recognition <br />
-Social media apps such as Facebook use Machine Learning to give suggestions for "tagging" people in photos.
+Social media apps such as Facebook use machine learning to give suggestions for "tagging" people in photos.
 
 * Speech recognition <br />
-Amazon Alexa or Google Home uses Machine Learning to interpret speech commands to produce search results or take instruction.
+Amazon Alexa or Google Home uses machine learning to interpret speech commands to produce search results or take instruction.
 
 * Travel <br />
-Google Maps for example can interpret a large volume of data via Machine Learning techniques to suggest alternative quicker routes whilst driving.
+Google Maps for example can interpret a large volume of data via machine learning techniques to suggest alternative quicker routes whilst driving.
 
 * Communication  <br />
-Email messages and smart phones now give suggested responses when they notice certain text triggers.
+Email messages and smart phones now give suggested responses when they notice certain text "triggers".
 
 * Chat bots <br />
-More companies and services are provided online.  Given the volume of potential traffic, chat bots can be used to automate responses, minimising the need of human interaction with the aim of hopefully addressing the user's queries efficiently and quickly.
+More services are being provided via online platforms.  Given the volume of potential traffic, chat bots can be used to automate responses, minimising the need of human interaction with the aim of hopefully addressing the user's queries efficiently and quickly.
 
-<h3>Examples - Unsupervised Learning</h3>
+<h3>Examples - Unsupervised Learning for Businesses</h3>
 
-POSITIVES?? NEGATIVES?
+* Customer Segmentation <br />
+Unsupervised learning techniques can be used to group or segment different customers, for example to understand customer behavour and hence build different business strategies.
 
+* Association rules <br />
+When I search or buy something from Amazon, the next time I log in, Amazon recommends related products or show related adverts based on my search or puchase history.
 
-<h3>Conclusion</h3>
-
-<h3>Further reading / Links</h3>
