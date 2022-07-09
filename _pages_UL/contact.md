@@ -18,11 +18,11 @@ Please contact us via the form below.
 <form accept-charset="UTF-8" action="contact-form-handler.php" enctype="multipart/form-data" target="_blank">
           <div class="form-group">
             <label for="exampleInputEmail1" required="required">Email address</label>
-            <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email address"  required="required">
+            <input type="email" name="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter your email address"  required="required">
           </div>
           <div class="form-group">
             <label for="exampleInputName">Name</label>
-            <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
+            <input type="text" name="name" class="form-control" id="name" placeholder="Enter your name" required="required">
           </div>
         <div class="form-group">
             <label for="exampleMessage">Message</label>
@@ -39,7 +39,7 @@ Please contact us via the form below.
           <hr>
           <div class="form-group mt-3">
             <label class="mr-2">Upload any attachment</label>
-            <input type="file" name="file">
+            <input type="file" name="file" id="file">
           </div>
           <hr>
           <button type="submit" class="btn btn-primary">Submit</button>
