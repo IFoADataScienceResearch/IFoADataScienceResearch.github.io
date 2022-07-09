@@ -11,15 +11,14 @@ $email_address = $_POST['email'];
 $message = $_POST['message']; 
 $attachment = $_POST['file']; 
 
-<?php
-function_alert("name");
-function_alert("email");
-function_alert("message");
+function_alert($name);
+function_alert($email_address);
+function_alert($message);
 
 function function_alert($msg) {
     echo "<script type='text/javascript'>alert('$msg');</script>";
 }
-?>
+
 
 if( empty($errors))
 {
