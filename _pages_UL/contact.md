@@ -26,7 +26,7 @@ Please contact us via the form below.
           </div>
         <div class="form-group">
             <label for="exampleMessage">Message</label>
-            <input type="text" name="name" class="form-control" id="exampleMessage" placeholder="Enter your message here" required="required" rows = "6">
+            <input type="text" name="name" class="form-control" id="exampleMessage" placeholder="Enter your message here" required="required" rows = "6" columns = "40">
           </div>
           <div class="form-group">
             <label for="exampleFormControlSelect1">Category</label>
