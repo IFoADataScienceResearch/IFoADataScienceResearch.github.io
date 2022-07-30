@@ -1,5 +1,5 @@
 ---
-permalink: /unsupervised-learning/tutorial_template/
+permalink: /unsupervised-learning/tutorial_association_rules/
 classes: wide
 title: "Tutorial: Template"
 author_profile: false
