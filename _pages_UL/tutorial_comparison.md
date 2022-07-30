@@ -21,7 +21,7 @@ sidebar:
 | -------------------------------- | ------------------------------ | ------------------------------ |
 | Input data                       | Labelled                       | Unlabelled                     |
 | Has feedback mechanism?          | Yes                            | No                             |
-| Use                              | Prediction                     | Classificati                   |
+| Use                              | Prediction                     | Classification                 |
 | Category                         | Supervised                     | Unsupervised                   |
 
 
@@ -29,7 +29,7 @@ sidebar:
 
 |                                  | Supervised                     | Unsupervised                   |
 | -------------------------------- | ------------------------------ | ------------------------------ |
-| Example algorithms               | Labelled                       | Unlabelled                     |
+| Example algorithms               | Decision Trees, Support Vector Machine, Logisitc Regression   | k-means, a-priori, hierarchical clustering                     |
 
 
 <h3>Further reading / Links</h3>
