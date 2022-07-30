@@ -21,12 +21,16 @@ sidebar:
 | -------------------------------- | ------------------------------ | ------------------------------ |
 | Input data                       | Labelled                       | Unlabelled                     |
 | Has feedback mechanism?          | Yes                            | No                             |
-| Category                         | Supervised                     | Unsupervised                   |
+| Use                              | Prediction                     | Classificati                   |
 | Category                         | Supervised                     | Unsupervised                   |
 
 
 <h3>Examples</h3>
 
-<h3>Conclusion</h3>
+|                                  | Supervised                     | Unsupervised                   |
+| -------------------------------- | ------------------------------ | ------------------------------ |
+| Example algorithms               | Labelled                       | Unlabelled                     |
+
 
 <h3>Further reading / Links</h3>
+[IBM article](https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning)
