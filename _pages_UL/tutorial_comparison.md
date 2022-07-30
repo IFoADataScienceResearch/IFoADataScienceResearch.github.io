@@ -28,9 +28,11 @@ sidebar:
 
 <h3>Examples</h3>
 
-|                                  | Supervised                     | Unsupervised                   |
+| Example algorithms               | Supervised                     | Unsupervised                   |
 | -------------------------------- | ------------------------------ | ------------------------------ |
-| Example algorithms               | decision trees, support vector machine, logisitc regression   | k-means, a-priori, hierarchical clustering                     |
+| Example 1                        | decision trees                 | k-means                        |
+| Example 2                        | support vector machine         | a-priori                       |
+| Example 3                        | logisitc regression            | hierarchical clustering        |
 
 
 <h3>Further reading / Links</h3>
