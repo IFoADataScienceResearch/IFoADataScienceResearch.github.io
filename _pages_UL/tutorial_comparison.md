@@ -17,12 +17,13 @@ sidebar:
 
 <h3>Main</h3>
 
-| Category                         | Supervised                     | Unsupervised                   |
-| -------------------------------- | ------------------------------ | ------------------------------ |
-| Input data                       | Labelled                       | Unlabelled                     |
-| Has feedback mechanism?          | Yes                            | No                             |
-| Use                              | Prediction                     | Classification                 |
-| Category                         | Supervised                     | Unsupervised                   |
+| Category                         | Supervised                       | Unsupervised                     |
+| -------------------------------- | -------------------------------- | -------------------------------- |
+| Input data                       | Labelled                         | Unlabelled                       |
+| Classification of data           | Data is classified based on data | Assigns properties based on data |
+| Has feedback mechanism?          | Yes                              | No                               |
+| Use                              | Prediction                       | Classification                   |
+| Other                            | Known number of classes          | Unkown number of classes         |
 
 
 <h3>Examples</h3>
