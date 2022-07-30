@@ -14,6 +14,9 @@ sidebar:
 
 
 <h3>Overview / Background</h3>
+Withing Artificial Intelligence (AI) and Machine Learning, Supervised and Unsupervised Learning are 2 fundamental approaches.  Below we compare these 2 approaches.
+
+<b>Reinforced Learning??</b>
 
 <h3>Main</h3>
 
