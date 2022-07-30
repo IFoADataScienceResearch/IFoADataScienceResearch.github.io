@@ -20,7 +20,7 @@ sidebar:
 | Category                         | Supervised                     | Unsupervised                   |
 | -------------------------------- | ------------------------------ | ------------------------------ |
 | Input data                       | Labelled                       | Unlabelled                     |
-| Category                         | Supervised                     | Unsupervised                   |
+| Has feedback mechanism?          | Yes                            | No                             |
 | Category                         | Supervised                     | Unsupervised                   |
 | Category                         | Supervised                     | Unsupervised                   |
 
