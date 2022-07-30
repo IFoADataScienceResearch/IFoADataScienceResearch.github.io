@@ -1,7 +1,7 @@
 ---
-permalink: /unsupervised-learning/tutorial_template/
+permalink: /unsupervised-learning/tutorial_clustering/
 classes: wide
-title: "Tutorial: Template"
+title: "Tutorial: Clustering"
 author_profile: false
 toc: false
 sidebar:
