@@ -1,7 +1,7 @@
 ---
-permalink: /unsupervised-learning/tutorial_template/
+permalink: /unsupervised-learning/tutorial_dimensionality_reduction/
 classes: wide
-title: "Tutorial: Template"
+title: "Tutorial: Dimensionality Reduction"
 author_profile: false
 toc: false
 sidebar:
