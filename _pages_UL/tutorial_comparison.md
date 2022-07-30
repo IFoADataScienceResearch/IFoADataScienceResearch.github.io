@@ -17,6 +17,13 @@ sidebar:
 
 <h3>Main</h3>
 
+|Category                         |Supervised                     |Unsupervised                   |
+|Input data                       |Labelled                       |Unlabelled                     |
+|Category                         |Supervised                     |Unsupervised                   |
+|Category                         |Supervised                     |Unsupervised                   |
+|Category                         |Supervised                     |Unsupervised                   |
+
+
 <h3>Examples</h3>
 
 <h3>Conclusion</h3>
