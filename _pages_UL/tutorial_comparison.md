@@ -45,6 +45,7 @@ Withing Artificial Intelligence (AI) and Machine Learning, Supervised and Unsupe
 | Example 2                        | support vector machine         | a-priori                       | TBC                         |  TBC                        |
 | Example 3                        | logisitc regression            | hierarchical clustering        |  TBC                        |  TBC                        |
 
+<h3>Challenges using each approach</h3>
 
 <h3>Further reading / Links</h3>
 [IBM article](https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning)
