@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_comparison/
 classes: wide
-title: "Tutorial: Comparison between Supervised and Unsupervised Learning"
+title: "Tutorial: Comparison between Supervised, Unsupervised, Reinforced and Semi-Supervised Learning"
 author_profile: false
 toc: false
 sidebar:
@@ -16,26 +16,27 @@ sidebar:
 <h3>Overview / Background</h3>
 Withing Artificial Intelligence (AI) and Machine Learning, Supervised and Unsupervised Learning are 2 fundamental approaches.  Below we compare these 2 approaches.
 
-<br><b>Mention Reinforced Learning??</b></br>
+<br><b>Mention Reinforced Learning??</b>
+<br><b>Mention Semi-Supervised Learning??</b>
 
 <h3>Main</h3>
 
-| Category                         | Supervised                       | Unsupervised                     |
-| -------------------------------- | -------------------------------- | -------------------------------- |
-| Input data                       | Labelled                         | Unlabelled                       |
-| Classification of data           | Data is classified based on data | Assigns properties based on data |
-| Has feedback mechanism?          | Yes                              | No                               |
-| Use                              | Prediction                       | Classification                   |
-| Other                            | Known number of classes          | Unkown number of classes         |
+| Category                         | Supervised                       | Unsupervised                     | Semi-supervised                  | Reinforced                     |
+| -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| Input data                       | Labelled                         | Unlabelled                       | TBC                       |TBC                       |
+| Classification of data           | Data is classified based on data | Assigns properties based on data |TBC                       |TBC                       |
+| Has feedback mechanism?          | Yes                              | No                               |TBC                       |TBC                       |
+| Use                              | Prediction                       | Classification                   |TBC                       |TBC                       |
+| Other                            | Known number of classes          | Unkown number of classes         |TBC                       |TBC                       |
 
 
 <h3>Examples</h3>
 
-| Example algorithms               | Supervised                     | Unsupervised                   |
-| -------------------------------- | ------------------------------ | ------------------------------ |
-| Example 1                        | decision trees                 | k-means                        |
-| Example 2                        | support vector machine         | a-priori                       |
-| Example 3                        | logisitc regression            | hierarchical clustering        |
+| Example algorithms               | Supervised                     | Unsupervised                   | Semi-supervised                   | Reinforced  |
+| -------------------------------- | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
+| Example 1                        | decision trees                 | k-means                        |  TBC                        |  TBC                        |
+| Example 2                        | support vector machine         | a-priori                       | TBC                         |  TBC                        |
+| Example 3                        | logisitc regression            | hierarchical clustering        |  TBC                        |  TBC                        |
 
 
 <h3>Further reading / Links</h3>
