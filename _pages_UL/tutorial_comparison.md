@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_comparison/
 classes: wide
-title: "Tutorial: Comparison between Supervised, Unsupervised, Reinforced and Semi-Supervised Learning"
+title: "Tutorial: Supervised vs Unsupervised vs Semi-Supervised vs Reinforced Learning"
 author_profile: false
 toc: false
 sidebar:
