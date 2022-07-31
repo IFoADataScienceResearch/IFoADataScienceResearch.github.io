@@ -39,5 +39,12 @@ Withing Artificial Intelligence (AI) and Machine Learning, Supervised and Unsupe
 | Example 3                        | logisitc regression            | hierarchical clustering        |  TBC                        |  TBC                        |
 
 
+| Example uses                     | Supervised                     | Unsupervised                   | Semi-supervised                   | Reinforced  |
+| -------------------------------- | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
+| Example 1                        | decision trees                 | k-means                        |  TBC                        |  TBC                        |
+| Example 2                        | support vector machine         | a-priori                       | TBC                         |  TBC                        |
+| Example 3                        | logisitc regression            | hierarchical clustering        |  TBC                        |  TBC                        |
+
+
 <h3>Further reading / Links</h3>
 [IBM article](https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning)
