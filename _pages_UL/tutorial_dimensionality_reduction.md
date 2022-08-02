@@ -13,12 +13,17 @@ sidebar:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
 
 
-<h3>Overview / Background</h3>
+<h3>Background</h3>
+Dimensional reduction is a common unsupervised learning approach.  It reduces the number of features (input variables) to a manageable size.  Sometimes the number of input variables is too high or addes little value to the model.  Further, more features make the modelling more complex - sometimes unncessarily complex.  Hence,<i>dimensional reduction</i> addresses this issue.
 
 <h3>Main</h3>
+
+We. It is commonly used in the preprocessing data stage, and there are a few different dimensionality reduction methods that can be used, such as:
+
 
 <h3>Examples</h3>
 
 <h3>Conclusion</h3>
 
 <h3>Further reading / Links</h3>
+[IBM Cloud Hub](https://www.ibm.com/cloud/learn/unsupervised-learning)
