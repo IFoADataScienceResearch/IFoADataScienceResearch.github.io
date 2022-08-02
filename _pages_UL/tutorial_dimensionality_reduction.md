@@ -19,17 +19,17 @@ sidebar:
 <h3>Main</h3>
 <i>Dimensional reduction</i> is commonly used during the stage of preprocessing data stage.  The following are examples of <i>dimensional reduction</i> methods (found e.g. via scikit-learn) are:
 
-- Decomposition algorithms
--- Principal Component Analysis
--- Kernel Principal Component Analysis
--- Non-Negative Matrix Factorization 
--- Singular Value Decomposition 
-- Manifold learning algorithms
--- t-Distributed Stochastic Neighbor Embedding
--- Spectral Embedding
--- Locally Linear Embedding
-- Discriminant Analysis
--- Linear Discriminant Analysis
+1. Decomposition algorithms
+- Principal Component Analysis
+- Kernel Principal Component Analysis
+- Non-Negative Matrix Factorization 
+- Singular Value Decomposition 
+2. Manifold learning algorithms
+- t-Distributed Stochastic Neighbor Embedding
+- Spectral Embedding
+- Locally Linear Embedding
+3. Discriminant Analysis
+- Linear Discriminant Analysis
 
 <h3>Advantages and Disadvatanges</h3>
 
