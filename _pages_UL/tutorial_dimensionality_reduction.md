@@ -19,6 +19,7 @@ sidebar:
 <h3>Main</h3>
 <i>Dimensional reduction</i> is commonly used during the stage of preprocessing data stage.  The following are examples of <i>dimensional reduction</i> methods (found e.g. via scikit-learn) are:
 
+
 1. Decomposition algorithms
 - Principal Component Analysis
 - Kernel Principal Component Analysis
