@@ -14,13 +14,22 @@ sidebar:
 
 
 <h3>Background</h3>
-<i>Dimensional reduction</i> is a common unsupervised learning approach.  It reduces the number of features (input variables) to a manageable size, whilst ensuring that the remaining data is meaningful.  Sometimes the number of input variables is too high or addes little value to the model.  Further, more features make the modelling more complex - sometimes unncessarily complex.  Hence, <i>dimensional reduction</i> addresses this issue.
+<i>Dimensional reduction</i> is a common unsupervised learning approach.  It reduces the number of features (input variables) to a manageable size, whilst ensuring that the remaining data is meaningful.  Sometimes the number of input variables is too high or adds little value to the model.  Further, more features make the modelling more complex - sometimes unncessarily complex.  Hence, <i>dimensional reduction</i> addresses this issue.
 
 <h3>Main</h3>
-<i>Dimensional reduction</i> is commonly used during the stage of preprocessing data stage.  The following are examples of <i>dimensional reduction</i> methods:
+<i>Dimensional reduction</i> is commonly used during the stage of preprocessing data stage.  The following are examples of <i>dimensional reduction</i> methods (found e.g. via scikit-learn) are:
 
-
-
+- Decomposition algorithms
+-- Principal Component Analysis
+-- Kernel Principal Component Analysis
+-- Non-Negative Matrix Factorization 
+-- Singular Value Decomposition 
+- Manifold learning algorithms
+-- t-Distributed Stochastic Neighbor Embedding
+-- Spectral Embedding
+-- Locally Linear Embedding
+- Discriminant Analysis
+-- Linear Discriminant Analysis
 
 <h3>Advantages and Disadvatanges</h3>
 
