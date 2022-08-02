@@ -32,6 +32,8 @@ sidebar:
 3. Discriminant Analysis
 - Linear Discriminant Analysis
 
+Autoencoders??
+
 <h3>Advantages and Disadvatanges</h3>
 
 Some advantages of dimensionality reduction include:
