@@ -33,6 +33,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 1    | :computer:    |[Clustering](/unsupervised-learning/tutorial_clustering/)                                    |Description                    |
 | 2    | :computer:    |[Association rules](/unsupervised-learning/tutorial_association_rules/)                      |Description                    |
 | 3    | :computer:    |[Dimensionality reduction](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Description                    |
+| 4    | :computer:    |[Dimensionality reduction](/unsupervised-learning/tutorial_neuralNetworks/)        |Description                    |
 
 ## 03: Unsupervised networks
 
