@@ -1,5 +1,5 @@
 ---
-permalink: /unsupervised-learning/tutorials/
+permalink: /unsupervised-learning/tags/
 classes: wide
 title: "Unsupervised Learning Working Party - Tutorials"
 author_profile: false
