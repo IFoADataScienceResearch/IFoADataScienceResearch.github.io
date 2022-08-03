@@ -7,7 +7,8 @@ toc: true
 sidebar:
   title: "Contents"
   nav: unsupervised-nav
-tags: jekyll blog github-page
+category: Dev
+tags: [web, jekyll]
 ---
 
 
