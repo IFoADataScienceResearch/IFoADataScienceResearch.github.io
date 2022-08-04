@@ -132,6 +132,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      read_time: true
 
 category_archive:
   type: liquid
