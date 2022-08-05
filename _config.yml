@@ -128,7 +128,7 @@ defaults:
   # _pages_UL
   - scope:
       path: "_pages_UL"
-      type: pages
+      type: posts
     values:
       layout: single
       author_profile: false
