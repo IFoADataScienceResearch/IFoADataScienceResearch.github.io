@@ -7,6 +7,10 @@ toc: false
 sidebar:
   title: "Contents"
   nav: unsupervised-nav
+categories:
+  - Main
+tags:
+  - Unsupervised Learning
 ---
 
 
