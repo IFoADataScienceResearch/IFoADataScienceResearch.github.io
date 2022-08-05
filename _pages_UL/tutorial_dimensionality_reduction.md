@@ -21,7 +21,7 @@ tags:
 <i>Dimensional reduction</i> is a common unsupervised learning approach.  It reduces the number of features (input variables) to a manageable size, whilst ensuring that the remaining data is meaningful.  Sometimes the number of input variables is too high or adds little value to the model.  Further, more features make the modelling more complex - sometimes unncessarily complex.  Hence, <i>dimensional reduction</i> addresses this issue.
 
 <h3>Main</h3>
-<i>Dimensional reduction</i> is commonly used during the stage of preprocessing data stage.  The following are examples of <i>dimensional reduction</i> methods (found e.g. via scikit-learn) are:
+<i>Dimensional reduction</i> is commonly used during the stage of preprocessing data stage.  The following are examples of <i>dimensional reduction</i> methods (found e.g. via [scikit-learn](https://scikit-learn.org/)) are:
 
 
 1. Decomposition algorithms
