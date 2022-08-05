@@ -1,3 +1,5 @@
+#Source https://github.com/jekyll/jekyll/issues/6291
+
 module Jekyll
 
   # The list of pages and posts for each tag
