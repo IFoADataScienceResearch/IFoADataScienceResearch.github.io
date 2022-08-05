@@ -6,7 +6,7 @@ module Jekyll
   class TagsGenerator < Generator
 
     def generate(site)
-      tags_html_page = site.pages.detect { |page| page.name == 'tags.html' }
+      tags_html_page = site.pages.detect { |page| page.name == 'tags' }
       tags_html_page.data['all_tags'] = prepend_page_tags_to_post_tags(site)
     end
 
