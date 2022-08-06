@@ -9,9 +9,12 @@ sidebar:
   - title: "Dylan Liew"
 categories:
   - Blog
+  - Tutorial
 tags:
   - Actuary Magazine
   - Explainable AI
+  - Unsupervised Learning
+  - Neural Networks
 ---
 
 Originally published by The Actuary, March 2022. © The Institute and Faculty of Actuaries. <br>
