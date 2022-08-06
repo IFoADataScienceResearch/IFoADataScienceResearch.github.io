@@ -49,12 +49,12 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :microscope:  |[Hopfield](/unsupervised-learning/tutorial_hopfield/)                      |Description                    |
-| 2    | :microscope:  |Boltzmann                     |Description                    |
+| 1    | :microscope:  |[Hopfield](/unsupervised-learning/tutorial_hopfield/)                      |Overview of Hopfield Networks               |
+| 2    | :microscope:  |[Boltzmann](/unsupervised-learning/tutorial_boltzmann/)                    |Overview of Boltzmann Machines              |
 | 3    | :microscope:  |RBM                           |Description                    |
 | 4    | :microscope:  |Stacked Boltzmann             |Description                    |
 | 5    | :microscope:  |Helmholtz                     |Description                    |
-| 6    | :microscope:  |[Autoencoders](/unsupervised-learning/tutorial_autoencoders/)                      |Description                    |
+| 6    | :microscope:  |[Autoencoders](/unsupervised-learning/tutorial_autoencoders/)              |Overview of Autoencoders                    |
 
 ## 05: Coding
 
@@ -63,7 +63,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 1    | :milky_way:  |Python                        |Introduction to coding in Python                    |
 | 2    | :milky_way:  |Numpy                         |Introduction to Numpy library                    |
 | 3    | :milky_way:  |Pandas                        |Introduction to Pandas library                    |
-| 4    | :milky_way:  |Tensorflow                    |Introduction to Tensorflow framework                    |
+| 4    | :milky_way:  |Tensorflow                    |Introduction to Tensorflow library                    |
 | 5    | :milky_way:  |Keras                         |Introduction to Keras library                    |
 | 6    | :milky_way:  |SciKit                        |Introduction to SciKit library                     |
 | 7    | :milky_way:  |IDEs                          |Introduction to exmaple IDEs e.g. Colab, Visual Studio Code|
