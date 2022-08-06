@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_actuarialApplications/
 classes: wide
-title: "Tutorial: Examples of Potential Actuarial Applications"
+title: "Examples of Potential Actuarial Applications"
 author_profile: false
 toc: false
 sidebar:
