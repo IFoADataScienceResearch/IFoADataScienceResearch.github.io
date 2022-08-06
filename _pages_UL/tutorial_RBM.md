@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_RBM/
 classes: wide
-title: "Tutorial: Restricted Boltzmann Machine"
+title: "Tutorial: Restricted Boltzmann Machines"
 author_profile: false
 toc: false
 sidebar:
