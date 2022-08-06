@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_ULbackground/
 classes: wide
-title: "Tutorial: Unsupervised Learning background"
+title: "Unsupervised Learning background"
 author_profile: false
 toc: false
 sidebar:
