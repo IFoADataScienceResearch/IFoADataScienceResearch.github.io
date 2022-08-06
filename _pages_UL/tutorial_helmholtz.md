@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_helmholtz.md/
 classes: wide
-title: "Tutorial: Helmholtz"
+title: "Tutorial: Helmholtz machines"
 author_profile: false
 toc: false
 sidebar:
