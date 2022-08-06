@@ -1,11 +1,12 @@
 ---
-title: " All clear: How Shapley values make opaque models more transparent"
+title: " All clear: How Shapley values make opaque models more transparents"
 author_profile: false 
 classes: wide
 comments: true
 sidebar:
-  title: "Contents"
-  nav: unsupervised-nav
+  - title: "Karol Gawlowski"
+  - title: "Christian Richard"
+  - title: "Dylan Liew"
 categories:
   - Blog
 tags:
