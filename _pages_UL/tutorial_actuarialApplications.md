@@ -25,7 +25,7 @@ Below are examples of areas which Machine Learning could be used.
 
 <h3>Examples - Machine Learning</h3>
 
-* Create a predictive model <img src="https://img.icons8.com/ios-filled/50/000000/bullish.png"/>
+* Create a predictive model <img src="https://img.icons8.com/ios-filled/30/000000/bullish.png"/>
 
 For example, we can use Machine Learning techniques to "train" and "automate" a model for prediction, which could reduce time in set-up if there was a large number of data points in question compared to more traditional / manual techniques.
 
