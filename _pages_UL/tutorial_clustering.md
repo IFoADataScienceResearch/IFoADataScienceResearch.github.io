@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_clustering/
 classes: wide
-title: "Tutorial: Clustering"
+title: "Clustering"
 author_profile: false
 toc: false
 sidebar:
