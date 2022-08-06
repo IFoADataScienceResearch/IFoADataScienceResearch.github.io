@@ -34,9 +34,9 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :bar_chart:    |[Clustering](/unsupervised-learning/tutorial_clustering/)                                    |Description                    |
-| 2    | :bar_chart:   |[Association rules](/unsupervised-learning/tutorial_association_rules/)                      |Description                    |
-| 3    | :bar_chart:   |[Dimensionality reduction](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Description                    |
+| 1    | :bar_chart:    |[Clustering](/unsupervised-learning/tutorial_clustering/)                                   |Overview of clustering techniques and applications                    |
+| 2    | :bar_chart:   |[Association rules](/unsupervised-learning/tutorial_association_rules/)                      |Overview of association rules techniques and applications                    |
+| 3    | :bar_chart:   |[Dimensionality reduction](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of dimensionality reduction techniques and applications                    |
 
 
 ## 03: Neural networks
