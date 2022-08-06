@@ -37,9 +37,15 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 1    | :computer:    |[Clustering](/unsupervised-learning/tutorial_clustering/)                                    |Description                    |
 | 2    | :computer:    |[Association rules](/unsupervised-learning/tutorial_association_rules/)                      |Description                    |
 | 3    | :computer:    |[Dimensionality reduction](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Description                    |
-| 4    | :computer:    |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Description                    |
 
-## 03: Unsupervised networks
+
+## 03: Neural networks
+
+| Entry|               |Link                          |Description                    |
+| -----| ------------- |----------------------------- |-------------------------------|
+| 1    | :computer:    |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Description                    |
+
+## 04: Unsupervised networks
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
@@ -50,7 +56,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 5    | :computer:    |Helmholtz                     |Description                    |
 | 6    | :computer:    |Autoencoder                   |Description                    |
 
-## 04: Coding
+## 05: Coding
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
@@ -60,3 +66,4 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 4    | :computer:    |Tensorflow                    |Description                    |
 | 5    | :computer:    |Keras                         |Description                    |
 | 6    | :computer:    |SciKit                        |Description                    |
+| 7    | :computer:    |IDEs                          |Overview of Colab, Anaconda, Visual Studio Code|
