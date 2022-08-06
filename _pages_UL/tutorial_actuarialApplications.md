@@ -25,17 +25,19 @@ Below are examples of areas which Machine Learning could be used.
 
 <h3>Examples - Machine Learning</h3>
 
-* Create a predictive model
+* Create a predictive model <img src="https://img.icons8.com/ios-filled/50/000000/bullish.png"/>
 
 For example, we can use Machine Learning techniques to "train" and "automate" a model for prediction, which could reduce time in set-up if there was a large number of data points in question compared to more traditional / manual techniques.
 
-* Create an assumptions
+* Create an assumptions <img src="https://img.icons8.com/ios-glyphs/30/000000/low-price.png"/>
 
 For example, we can use Machine Learning techniques to come up with a trend.
 
 
 <h3>Examples - Unsupervised Learning</h3>
 
-* Fraud Detection
+* Fraud Detection <img src="https://img.icons8.com/ios-glyphs/30/000000/fraud.png"/>
 
 Machine Learning could be used to detect outliers for claims and hence detect fraudulent claims.
+
+&copy; Icons by [Icons8](https://icons8.com)
