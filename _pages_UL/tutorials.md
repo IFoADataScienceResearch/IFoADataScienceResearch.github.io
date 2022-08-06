@@ -54,7 +54,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 3    | :computer:    |RBM                           |Description                    |
 | 4    | :computer:    |Stacked Boltzmann             |Description                    |
 | 5    | :computer:    |Helmholtz                     |Description                    |
-| 6    | :computer:    |Autoencoder                   |Description                    |
+| 6    | :computer:    |[Autoencoders]((/unsupervised-learning/tutorial_autoencoders/)                      |Description                    |
 
 ## 05: Coding
 
