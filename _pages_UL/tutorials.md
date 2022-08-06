@@ -43,7 +43,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :computer:    |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Description                    |
+| 1    | :unlock:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Description                    |
 
 ## 04: Unsupervised networks
 
