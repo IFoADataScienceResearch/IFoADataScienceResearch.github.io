@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_boltzmann/
 classes: wide
-title: "Tutorial: Boltzmann Machine"
+title: "Tutorial: Boltzmann machines"
 author_profile: false
 toc: false
 sidebar:
