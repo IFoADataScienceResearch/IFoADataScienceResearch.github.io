@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_hopfield/
 classes: wide
-title: "Tutorial: Hopfield networks"
+title: "Hopfield networks"
 author_profile: false
 toc: false
 sidebar:
