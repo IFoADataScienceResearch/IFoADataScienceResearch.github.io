@@ -49,12 +49,12 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :computer:    |[Hopfield](/unsupervised-learning/tutorial_hopfield/)                      |Description                    |
-| 2    | :computer:    |Boltzmann                     |Description                    |
-| 3    | :computer:    |RBM                           |Description                    |
-| 4    | :computer:    |Stacked Boltzmann             |Description                    |
-| 5    | :computer:    |Helmholtz                     |Description                    |
-| 6    | :computer:    |[Autoencoders](/unsupervised-learning/tutorial_autoencoders/)                      |Description                    |
+| 1    | :microscope:  |[Hopfield](/unsupervised-learning/tutorial_hopfield/)                      |Description                    |
+| 2    | :microscope:  |Boltzmann                     |Description                    |
+| 3    | :microscope:  |RBM                           |Description                    |
+| 4    | :microscope:  |Stacked Boltzmann             |Description                    |
+| 5    | :microscope:  |Helmholtz                     |Description                    |
+| 6    | :microscope:  |[Autoencoders](/unsupervised-learning/tutorial_autoencoders/)                      |Description                    |
 
 ## 05: Coding
 
