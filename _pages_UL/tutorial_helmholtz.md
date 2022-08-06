@@ -1,5 +1,5 @@
 ---
-permalink: /unsupervised-learning/tutorial_helmholtz.md/
+permalink: /unsupervised-learning/tutorial_helmholtz/
 classes: wide
 title: "Tutorial: Helmholtz machines"
 author_profile: false
