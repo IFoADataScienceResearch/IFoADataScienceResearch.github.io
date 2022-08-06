@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_realApplications/
 classes: wide
-title: "Tutorial: Examples of Real-World Applications"
+title: "Examples of Real-World Applications"
 author_profile: false
 toc: false
 sidebar:
