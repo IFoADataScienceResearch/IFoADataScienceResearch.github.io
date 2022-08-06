@@ -60,10 +60,10 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :milky_way:  |Python                        |Description                    |
-| 2    | :milky_way:  |Numpy                         |Description                    |
-| 3    | :milky_way:  |Pandas                        |Description                    |
-| 4    | :milky_way:  |Tensorflow                    |Description                    |
-| 5    | :milky_way:  |Keras                         |Description                    |
-| 6    | :milky_way:  |SciKit                        |Description                    |
-| 7    | :milky_way:  |IDEs                          |Overview of Colab, Anaconda, Visual Studio Code|
+| 1    | :milky_way:  |Python                        |Introduction to coding in Python                    |
+| 2    | :milky_way:  |Numpy                         |Introduction to Numpy library                    |
+| 3    | :milky_way:  |Pandas                        |Introduction to Pandas library                    |
+| 4    | :milky_way:  |Tensorflow                    |Introduction to Tensorflow framework                    |
+| 5    | :milky_way:  |Keras                         |Introduction to Keras library                    |
+| 6    | :milky_way:  |SciKit                        |Introduction to SciKit library                     |
+| 7    | :milky_way:  |IDEs                          |Introduction to exmaple IDEs e.g. Colab, Visual Studio Code|
