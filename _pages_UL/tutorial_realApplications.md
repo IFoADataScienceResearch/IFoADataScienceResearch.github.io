@@ -22,11 +22,11 @@ Machine Learning is becoming prominent in our day-to-day lives.  We probably are
 
 <h3>Examples - Machine Learning</h3>
 
-* Image recognition <img src="https://img.icons8.com/ios-glyphs/30/000000/voice-presentation--v1.png"/> <br /> 
+* Image recognition <img src="https://img.icons8.com/wired/64/000000/small-smile.png"/> <br /> 
 Social media apps such as Facebook use machine learning to give suggestions for "tagging" people in photos.
 
 
-* Speech recognition <br />
+* Speech recognition <img src="https://img.icons8.com/ios-glyphs/30/000000/voice-presentation--v1.png"/> <br />
 Amazon Alexa or Google Home uses machine learning to interpret speech commands to produce search results or take instruction.
 
 * Travel <br />
