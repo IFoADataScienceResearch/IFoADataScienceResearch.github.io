@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_whatIsML/
 classes: wide
-title: "Tutorial: What is Machine Learning?"
+title: "What is Machine Learning?"
 author_profile: false
 toc: false
 sidebar:
