@@ -49,7 +49,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :computer:    |Hopfield                      |Description                    |
+| 1    | :computer:    |[Hopfield](/unsupervised-learning/tutorial_hopfield/)                      |Description                    |
 | 2    | :computer:    |Boltzmann                     |Description                    |
 | 3    | :computer:    |RBM                           |Description                    |
 | 4    | :computer:    |Stacked Boltzmann             |Description                    |
