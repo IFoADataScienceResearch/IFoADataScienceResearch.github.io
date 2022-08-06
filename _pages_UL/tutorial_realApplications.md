@@ -35,7 +35,7 @@ Google Maps for example can interpret a large volume of data via machine learnin
 * Communication <img src="https://img.icons8.com/wired/30/000000/communication.png"/> <br />
 Email messages and smart phones now give suggested responses when they notice certain text "triggers".
 
-* Chat bots <img src="https://img.icons8.com/wired/30/000000/communication.png"/> <br />
+* Chat bots <img src="https://img.icons8.com/ios-filled/30/000000/talk-male.png"/> <br />
 More services are being provided via online platforms.  Given the volume of potential traffic, chat bots can be used to automate responses, minimising the need of human interaction with the aim of hopefully addressing the user's queries efficiently and quickly.
 
 <h3>Examples - Unsupervised Learning for Businesses</h3>
