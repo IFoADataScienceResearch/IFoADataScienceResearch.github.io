@@ -36,7 +36,7 @@ tags:
 3. Discriminant Analysis
 - Linear Discriminant Analysis
 
-Autoencoders??
+Autoencoders are a type of unsupervised neural network which compresses input data to lower dimension before reconstructing the input back.
 
 <h3>Advantages and Disadvatanges</h3>
 
@@ -45,7 +45,7 @@ Some advantages of dimensionality reduction include:
 - Reduces the amount of data required and hence storage space.
 - It may produce a more efficient learning algorithm model.
 - It may remove "surplus" information.
-- It tackles the curse of dimensionality  ???
+- It tackles the "curse of dimensionality"
 
 Disadvantages of dimensionality reduction:
 
