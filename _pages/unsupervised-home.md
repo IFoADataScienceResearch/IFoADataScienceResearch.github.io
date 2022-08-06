@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/
 classes: wide
-title: "Unsupervised Learning Working Party - Homepage"
+title: "IFoA Unsupervised Learning Working Party"
 author_profile: false
 toc: false
 sidebar:
