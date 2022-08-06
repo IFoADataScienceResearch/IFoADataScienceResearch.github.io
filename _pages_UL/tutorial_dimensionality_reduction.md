@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_dimensionality_reduction/
 classes: wide
-title: "Tutorial: Dimensionality Reduction"
+title: "Dimensionality Reduction"
 author_profile: false
 toc: false
 sidebar:
