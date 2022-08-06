@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/publications/
 classes: wide
-title: "Unsupervised Learning Working Party"
+title: "Unsupervised Learning Working Party - Publications"
 author_profile: false
 toc: false
 sidebar:
