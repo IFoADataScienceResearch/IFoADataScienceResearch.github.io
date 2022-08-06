@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_neuralNetworks/
 classes: wide
-title: "Tutorial: Neural Networks"
+title: "Neural Networks"
 author_profile: false
 toc: false
 sidebar:
