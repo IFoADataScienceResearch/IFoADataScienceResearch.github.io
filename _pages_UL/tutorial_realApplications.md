@@ -29,20 +29,20 @@ Social media apps such as Facebook use machine learning to give suggestions for 
 * Speech recognition <img src="https://img.icons8.com/ios-glyphs/30/000000/voice-presentation--v1.png"/> <br />
 Amazon Alexa or Google Home uses machine learning to interpret speech commands to produce search results or take instruction.
 
-* Travel <br />
+* Travel <img src="https://img.icons8.com/wired/64/000000/airport.png"/> <br />
 Google Maps for example can interpret a large volume of data via machine learning techniques to suggest alternative quicker routes whilst driving.
 
-* Communication  <br />
+* Communication <img src="https://img.icons8.com/wired/64/000000/communication.png"/> <br />
 Email messages and smart phones now give suggested responses when they notice certain text "triggers".
 
-* Chat bots <br />
+* Chat bots <img src="https://img.icons8.com/wired/64/000000/communication.png"/> <br />
 More services are being provided via online platforms.  Given the volume of potential traffic, chat bots can be used to automate responses, minimising the need of human interaction with the aim of hopefully addressing the user's queries efficiently and quickly.
 
 <h3>Examples - Unsupervised Learning for Businesses</h3>
 
-* Customer Segmentation <br />
+* Customer Segmentation <img src="https://img.icons8.com/wired/64/000000/crowd.png"/> <br />
 Unsupervised learning techniques can be used to group or segment different customers, for example to understand customer behavour and hence build different business strategies.
 
-* Association rules <br />
+* Association rules <img src="https://img.icons8.com/small/30/000000/reseller.png"/> <br />
 When I search or buy something from Amazon, the next time I log in, Amazon recommends related products or show related adverts based on my search or puchase history.
 
