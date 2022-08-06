@@ -36,7 +36,7 @@ tags:
 3. Discriminant Analysis
 - Linear Discriminant Analysis
 
-Autoencoders are a type of unsupervised neural network which compresses input data to lower dimension before reconstructing the input back.
+[Autoencoders](/unsupervised-learning/tutorial_autoencoders/) are a type of unsupervised neural network which compresses input data to lower dimension before reconstructing the input back.
 
 <h3>Advantages and Disadvatanges</h3>
 
