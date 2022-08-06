@@ -46,3 +46,4 @@ Unsupervised learning techniques can be used to group or segment different custo
 * Association rules <img src="https://img.icons8.com/small/30/000000/reseller.png"/> <br />
 When I search or buy something from Amazon, the next time I log in, Amazon recommends related products or show related adverts based on my search or puchase history.
 
+&copy; Icons by [Icons8](https://icons8.com/)
