@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_stackedBoltzmann/
 classes: wide
-title: "Tutorial: Stacked Boltzmann machines"
+title: "Stacked Boltzmann machines"
 author_profile: false
 toc: false
 sidebar:
