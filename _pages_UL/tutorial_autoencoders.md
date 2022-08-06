@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_autoencoders/
 classes: wide
-title: "Tutorial: Autoencoders"
+title: "Autoencoders"
 author_profile: false
 toc: false
 sidebar:
