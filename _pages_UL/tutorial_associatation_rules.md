@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_association_rules/
 classes: wide
-title: "Tutorial: Association Rules"
+title: "Association Rules"
 author_profile: false
 toc: false
 sidebar:
