@@ -1,4 +1,5 @@
 ---
+permalink: /unsupervised-learning/test/
 title: " All clear: How Shapley values make opaque models more transparents"
 author_profile: false 
 classes: wide
