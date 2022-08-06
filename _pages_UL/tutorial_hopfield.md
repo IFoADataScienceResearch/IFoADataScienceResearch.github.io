@@ -22,5 +22,5 @@ sidebar:
 <h3>Conclusion</h3>
 
 <h3>Further reading / Links</h3>
-<b> Neural networks and physical systems with emergent collective computational abilities. </b> by <i>J J Hopfield</i>
+- <i> Neural networks and physical systems with emergent collective computational abilities.</i> by J J Hopfield
 [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/)
