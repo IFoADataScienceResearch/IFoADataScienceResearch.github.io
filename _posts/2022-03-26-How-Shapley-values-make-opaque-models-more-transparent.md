@@ -4,9 +4,8 @@ author_profile: false
 classes: wide
 comments: true
 sidebar:
-  - title: "Karol Gawlowski"
-  - title: "Christian Richard"
-  - title: "Dylan Liew"
+  title: "Contents"
+  nav: unsupervised-nav
 categories:
   - Blog
 tags:
