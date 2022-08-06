@@ -51,9 +51,9 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | -----| ------------- |----------------------------- |-------------------------------|
 | 1    | :microscope:  |[Hopfield](/unsupervised-learning/tutorial_hopfield/)                      |Overview of Hopfield networks               |
 | 2    | :microscope:  |[Boltzmann](/unsupervised-learning/tutorial_boltzmann/)                    |Overview of Boltzmann machines              |
-| 3    | :microscope:  |[RBM](/unsupervised-learning/tutorial_RBM/)                                |Overview of restricted Boltzmann machines   |
+| 3    | :microscope:  |[RBM](/unsupervised-learning/tutorial_restrictedBoltzmann/)                |Overview of restricted Boltzmann machines   |
 | 4    | :microscope:  |[Stacked Boltzmann](/unsupervised-learning/tutorial_stackedBoltzmann/)     |Overview of stacked    Boltzmann machines   |
-| 5    | :microscope:  |[Helmholtz](/unsupervised-learning/tutorial_helmholtz/)                     |Overview of Helmholtz machines             |
+| 5    | :microscope:  |[Helmholtz](/unsupervised-learning/tutorial_helmholtz/)                    |Overview of Helmholtz machines             |
 | 6    | :microscope:  |[Autoencoders](/unsupervised-learning/tutorial_autoencoders/)              |Overview of Autoencoders                    |
 
 ## 05: Coding
