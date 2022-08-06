@@ -8,7 +8,7 @@ sidebar:
   - title: "Christian Richard"
   - title: "Dylan Liew"
 categories:
-  - Tutorial
+  - Blog
 tags:
   - Unsupervised Learning
 ---
