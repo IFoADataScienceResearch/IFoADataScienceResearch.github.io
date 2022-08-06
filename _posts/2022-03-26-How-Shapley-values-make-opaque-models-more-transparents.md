@@ -4,15 +4,11 @@ author_profile: false
 classes: wide
 comments: true
 sidebar:
-  - title: "Karol Gawlowski"
-  - title: "Christian Richard"
-  - title: "Dylan Liew"
+  title: "Contents"
+  nav: unsupervised-nav
 categories:
-  - Blog
   - Tutorial
 tags:
-  - Actuary Magazine
-  - Explainable AI
   - Unsupervised Learning
   - Neural Networks
 ---
