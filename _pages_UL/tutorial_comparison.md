@@ -45,11 +45,11 @@ Below is a basic comparison table of the different approaches with a few example
 
 | Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                     |
 | ------------------------------ | ----------------------- | ------------------------------------ | --------------------------------- |
-| decision trees                 | k-means                 |  generative adversial networks       |  Q-learning                       |
-| support vector machine         | a-priori                |  self-trained Naïve Bayes classifier |  model-based value estimation     |
-| logistic regression            | hierarchical clustering |  low-density separation              |  Policy optimization              |
-| logistic regression            | hierarchical clustering |  Laplacian regulation                |  State-Action-Reward-State-Action |
-| logistic regression            | hierarchical clustering |  heuristic approaches                |  Deep Q Network                   |
+| Decision trees                 | K-means                 |  Generative adversial networks       |  Q-learning                       |
+| Support Vector Machine         | A-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation     |
+| Linear regression              | Hierarchical clustering |  Low-density separation              |  Policy optimization              |
+| Logistic regression            | K Nearest Neighbours    |  Laplacian regulation                |  State-Action-Reward-State-Action |
+| Naive Bayes                    | Principal Component Analysis |  Heuristic approaches                |  Deep Q Network                   |
 
 <h3>Example uses of each approach</h3>
 Below is a basic comparison table of the different approaches with a few example uses:
