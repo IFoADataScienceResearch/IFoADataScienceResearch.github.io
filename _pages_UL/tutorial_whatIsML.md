@@ -21,7 +21,7 @@ tags:
 
 
 <h3>Introduction</h3>
-Arificial intelligence (AI) and machine learning is gaining popularity and use in our daily lives and filtering into industries including the actuarial profession.  They are opening up doors and convenience to our day-to-day lives.  The potential scope for improvement to existing actuarial processes and existing business solutions seems boundless. <img src="https://img.icons8.com/color/100/000000/artificial-intelligence.png"/>{: .align-right}
+Arificial intelligence (AI) and machine learning is gaining popularity and use in our daily lives and filtering into industries including the actuarial profession.  They are opening up doors and convenience to our day-to-day lives.  The potential scope for improvement to existing actuarial processes and existing business solutions seems boundless. <img src="https://img.icons8.com/color/100/000000/artificial-intelligence.png" style="float:right"/>
 
 <h3>Overview of AI, Machine Learning & Deep Learning</h3>
 
@@ -56,3 +56,4 @@ The selection of machine learning algorithm depends on the data available and th
 <h3>Further reading </h3>
 - Evaluation machine learning models: [Evaluating Machine Learning book](https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)<br />
 
+&copy;Icons from [Icons8](https://icons8.com/)
