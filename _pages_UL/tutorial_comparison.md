@@ -36,11 +36,12 @@ Withing Artificial Intelligence (AI) and Machine Learning, Supervised and Unsupe
 
 <h3>Example algorithms</h3>
 Below is a basic comparison table of the different approaches with a few example algorithms:
-| Comparison table     | Supervised                     | Unsupervised           | Semi-supervised                      | Reinforced                    |
-| -------------------- | ------------------------------ | ---------------------- | ------------------------------------ | ----------------------------- |
-| Example 1            | decision trees                 | k-means                |  Generative adversial networks       |  Q-learning                   |
-| Example 2            | support vector machine         | a-priori               |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
-| Example 3            | logisitc regression            | hierarchical clustering|  TBC                                 |  TBC                          |
+
+| Comparison table     | Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
+| -------------------- | ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
+| Example 1            | decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
+| Example 2            | support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
+| Example 3            | logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
 
 <h3>Example uses</h3>
 Below is a basic comparison table of the different approaches with a few example uses:
