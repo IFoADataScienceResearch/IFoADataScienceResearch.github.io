@@ -25,7 +25,9 @@ Arificial intelligence (AI) and machine learning is gaining popularity and use i
 
 The below schematic gives an overview of the relationship between artificial intelligence, machine learning and deep learning:
 
-<span style="color:red">AI vs ML vs Deep Learning</span>.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_VennDiagram_AIvsMLvsDL.jpg){: .align-left}
+
+<span style="color:red">Explain AI vs ML vs Deep Learning</span>.
 
 <h3>What is Machine Learning?</h3>
 
