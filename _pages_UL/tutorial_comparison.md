@@ -21,8 +21,8 @@ tags:
 Supervised, unsupervised learning, semi-supervised and reinforced learning are 4 fundamental approaches of machine learning:
 --  <br /> <b>Supervised Learning</b> Builds a model based labelled data.
 --  <br /><b>Unsupervised Learning</b> Builds a model based on a unlabelled data.
---  <br /><b>Semi-Supervised Learning</b> Builds a model based on a mix of labelled and unlabelled data.
---  <br /><b>Reinforcement Learning</b> Based on a system of rewards and punishments, seeing maximum reward.
+--  <br /><b>Semi-Supervised Learning</b> Builds a model based on a mix of labelled and unlabelled data.  This sits between supervised and unsupervised learning approaches.
+--  <br /><b>Reinforcement Learning</b> This is a feedback-based learning method, based on a system of rewards and punishments for correct and incorrect actions respectively.  The aim is for the "learning agent" to receive maximum reward and hence improve its performance.
 
 
 
@@ -30,7 +30,7 @@ Supervised, unsupervised learning, semi-supervised and reinforced learning are 4
 
 | Category                         | Supervised                       | Unsupervised                     | Semi-supervised                  | Reinforcement                     |
 | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
-| Input data                       | Labelled                         | Unlabelled                       | TBC                       |TBC                       |
+| Input data                       | All data is labelled             | All data is unlabelled           | Small proposed of the data is labelled; Majority is unlabelled                       |TBC                       |
 | Classification of data           | Data is classified based on data | Assigns properties based on data |TBC                       |TBC                       |
 | Has feedback mechanism?          | Yes                              | No                               |TBC                       |TBC                       |
 | Use                              | Prediction                       | Classification                   |TBC                       |TBC                       |
@@ -40,20 +40,21 @@ Supervised, unsupervised learning, semi-supervised and reinforced learning are 4
 <h3>Example algorithms under each approach</h3>
 Below is a basic comparison table of the different approaches with a few example algorithms:
 
-| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                    |
+| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                 |
 | ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
-| decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
-| support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
-| logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
+| decision trees                 | k-means                 |  generative adversial networks       |  Q-learning                   |
+| support vector machine         | a-priori                |  self-trained Naïve Bayes classifier |  model-based value estimation |
+| logistic regression            | hierarchical clustering |  low-density separation              |  TBC                          |
+| logistic regression            | hierarchical clustering |  Laplacian regulation                |  TBC                          |
+| logistic regression            | hierarchical clustering |  heuristic approaches                |  TBC                          |
 
 <h3>Example uses of each approach</h3>
 Below is a basic comparison table of the different approaches with a few example uses:
 
-| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                    |
-| ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
-| decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
-| support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
-| logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
+| Supervised                          | Unsupervised                 | Semi-supervised                      | Reinforcement                  |
+| ----------------------------------- | ---------------------------- | ------------------------------------ | ------------------------------ |
+| Image recognition                   | Customer segmentation        |  Text document classifier            |  Playing games e.g. chess game |
+| Market prediction e.g. house prices | Anomaly e.g. fraud detection |  Speech analysis                     |  Self-driving cars             |
 
 <h3>Challenges using each approach</h3>
 
