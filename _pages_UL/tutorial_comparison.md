@@ -43,13 +43,13 @@ Supervised, unsupervised learning, semi-supervised and reinforced learning are 4
 <h3>Example algorithms under each approach</h3>
 Below is a basic comparison table of the different approaches with a few example algorithms:
 
-| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                 |
-| ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
-| decision trees                 | k-means                 |  generative adversial networks       |  Q-learning                   |
-| support vector machine         | a-priori                |  self-trained Naïve Bayes classifier |  model-based value estimation |
-| logistic regression            | hierarchical clustering |  low-density separation              |  TBC                          |
-| logistic regression            | hierarchical clustering |  Laplacian regulation                |  TBC                          |
-| logistic regression            | hierarchical clustering |  heuristic approaches                |  TBC                          |
+| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                     |
+| ------------------------------ | ----------------------- | ------------------------------------ | --------------------------------- |
+| decision trees                 | k-means                 |  generative adversial networks       |  Q-learning                       |
+| support vector machine         | a-priori                |  self-trained Naïve Bayes classifier |  model-based value estimation     |
+| logistic regression            | hierarchical clustering |  low-density separation              |  Policy optimization              |
+| logistic regression            | hierarchical clustering |  Laplacian regulation                |  State-Action-Reward-State-Action |
+| logistic regression            | hierarchical clustering |  heuristic approaches                |  Deep Q Network                   |
 
 <h3>Example uses of each approach</h3>
 Below is a basic comparison table of the different approaches with a few example uses:
@@ -61,11 +61,11 @@ Below is a basic comparison table of the different approaches with a few example
 
 <h3>Challenges using each approach</h3>
 
-| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                    |
-| ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
-| decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
-| support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
-| logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
+| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                                  |
+| ------------------------------ | ----------------------- | ------------------------------------ | ---------------------------------------------- |
+| decision trees                 | k-means                 |  Generative adversial networks       |  Choosing reward structures wisely             |
+| support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Fast learing given small samples              |
+| logisitc regression            | hierarchical clustering |  TBC                                 |  Not preferable for learning "simple problems" |
 
 <h3>Further reading / Links</h3>
 
