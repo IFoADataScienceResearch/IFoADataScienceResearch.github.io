@@ -38,9 +38,9 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 2    | :bar_chart:   |[Association rules](/unsupervised-learning/tutorial_association_rules/)                      |Overview of association rules techniques and applications                    |
 | 3    | :bar_chart:   |[Dimensionality reduction](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of dimensionality reduction techniques and applications                    |
 
-## 03: Unsupervised Approaches Revisited - Dimensional Reduction
+## 03: Unsupervised Approaches Revisited - Clustering
 
-## 04: Unsupervised Approaches Revisited - Dimensional Reduction
+## 04: Unsupervised Approaches Revisited - Association Rules
 
 ## 05: Unsupervised Approaches Revisited - Dimensional Reduction
 
@@ -60,16 +60,16 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :genie:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)   |Introduction to neural networks and applications within data science                    |
-| 2    | :genie:      |[Perceptron](/unsupervised-learning/tutorial_neuralNetworks/)        |Overview of Perceptron                    |
-| 3    | :genie:      |[Feed forward neural network](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of feed forward neural network                    |
-| 4    | :genie:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
-| 5    | :genie:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
-| 6    | :genie:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
-| 7    | :genie:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
-| 8    | :genie:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
-| 9    | :genie:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
-| 10   | :genie:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 1    | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)               |Introduction to neural networks          |
+| 2    | :mage_man:      |[Perceptron](/unsupervised-learning/tutorial_neuralNetworks/)                    |Overview of perceptrons                  |
+| 3    | :mage_man:      |[Feed forward neural network](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of feed-forward neural networks |
+| 4    | :mage_man:      |[Multilayer perceptron](/unsupervised-learning/tutorial_neuralNetworks/)         |Overview of multi-layer perceptrons  |
+| 5    | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 6    | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 7    | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 8    | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 9    | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 10   | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
 
 
 ## 07: Unsupervised networks
