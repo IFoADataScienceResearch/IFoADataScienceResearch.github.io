@@ -38,14 +38,37 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 2    | :bar_chart:   |[Association rules](/unsupervised-learning/tutorial_association_rules/)                      |Overview of association rules techniques and applications                    |
 | 3    | :bar_chart:   |[Dimensionality reduction](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of dimensionality reduction techniques and applications                    |
 
+## 03: Unsupervised Approaches Revisited - Dimensional Reductionality
 
-## 03: Neural networks
+| Entry|               |Link                          |Description                    |
+| -----| ------------- |----------------------------- |-------------------------------|
+| 1    | :unlock:      |[Principal Component Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
+| 2    | :unlock:      |[Kernel Principal Component Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
+| 3    | :unlock:      |[Non-Negative Matrix Factorization](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
+| 4    | :unlock:      |[Singular Value Decomposition](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
+| 5    | :unlock:      |[t-Distributed Stochastic Neighbor Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
+| 6    | :unlock:      |[Spectral Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
+| 7    | :unlock:      |[Locally Linear Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
+| 8    | :unlock:      |[Linear Discriminant Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
+
+
+## 04: Neural networks
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
 | 1    | :unlock:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 2    | :unlock:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 3    | :unlock:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 4    | :unlock:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 5    | :unlock:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 6    | :unlock:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 7    | :unlock:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 8    | :unlock:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 9    | :unlock:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 10    | :unlock:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
 
-## 04: Unsupervised networks
+
+## 05: Unsupervised networks
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
@@ -56,7 +79,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 5    | :microscope:  |[Helmholtz](/unsupervised-learning/tutorial_helmholtz/)                    |Overview of Helmholtz machines             |
 | 6    | :microscope:  |[Autoencoders](/unsupervised-learning/tutorial_autoencoders/)              |Overview of Autoencoders                    |
 
-## 05: Coding
+## 06: Coding
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
