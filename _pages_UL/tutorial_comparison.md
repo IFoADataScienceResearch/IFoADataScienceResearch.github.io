@@ -33,11 +33,10 @@ Supervised, unsupervised learning, semi-supervised and reinforced learning are 4
 
 | Category                         | Supervised                       | Unsupervised                     | Semi-supervised                  | Reinforcement                     |
 | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
-| Input data                       | All data is labelled             | All data is unlabelled           | Small proposed of the data is labelled; Majority is unlabelled                       |TBC                       |
-| Classification of data           | Data is classified based on data | Assigns properties based on data |TBC                       |TBC                       |
-| Has feedback mechanism?          | Yes                              | No                               |TBC                       |TBC                       |
-| Use                              | Prediction                       | Classification                   |TBC                       |TBC                       |
-| Other                            | Known number of classes          | Unkown number of classes         |TBC                       |TBC                       |
+| Input data                       | All data is labelled             | All data is unlabelled           | Small proposed of the data is labelled; Majority is unlabelled                       | No predefined data                       |
+| Training?          | External supervision                              | No supervision                               |TBC                       | No supervision |
+| Use                              | Prediction                       | Classification                   |TBC                       |Reward-based                       |
+
 
 
 <h3>Example algorithms under each approach</h3>
@@ -65,7 +64,7 @@ Below is a basic comparison table of the different approaches with a few example
 | ------------------------------ | ----------------------- | ------------------------------------ | ---------------------------------------------- |
 | Pre-processing of data may be time consuming                 | More time required by user e.g. for interpretation                 |  Complex iterative process      |  Choosing reward structures wisely             |
 | Cannot give "unkown" information as per unsupervised learning         | May result in less accurate predictions compared to supervised learning                |  Self-trained Naïve Bayes classifier |  Fast learing given small samples              |
-| Cannot handle "complex tasks"            | Computationally more complex that supervised learning |  TBC                                 |  Not preferable for learning "simple problems" |
+| Cannot handle "complex tasks"            | Computationally more complex that supervised learning |  Cannot handle more "complex tasks"                                 |  Not preferable for learning "simple problems" |
 
 <h3>Further reading / Links</h3>
 
