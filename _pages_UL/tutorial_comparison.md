@@ -33,9 +33,11 @@ Supervised, unsupervised learning, semi-supervised and reinforced learning are 4
 
 | Category                         | Supervised                       | Unsupervised                     | Semi-supervised                  | Reinforcement                     |
 | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
-| Input data                       | All data is labelled             | All data is unlabelled           | Small proposed of the data is labelled; Majority is unlabelled                       | No predefined data                       |
+| Input data                       | All data is labelled             | All data is unlabelled           | Partially labelled               | No predefined data                       |
 | Training?          | External supervision                              | No supervision                               |    TBC                   | No supervision |
 | Use                              | Calculate outcomes                       | Discover underlying patterns                   |TBC                       | Learn a series of outcomes                       |
+| Computational complexity      | Simple                      | Complex                   | Depends                       | ??                       |
+| Accuracy      | Higher                      | Lesser                   | Lesser                       | ??                       |
 
 
 
