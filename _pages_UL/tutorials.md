@@ -40,6 +40,10 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 ## 03: Unsupervised Approaches Revisited - Dimensional Reduction
 
+## 04: Unsupervised Approaches Revisited - Dimensional Reduction
+
+## 05: Unsupervised Approaches Revisited - Dimensional Reduction
+
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
 | 1    | :unlock:      |[Principal Component Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of Principal Component Analysis                    |
@@ -52,7 +56,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 8    | :unlock:      |[Linear Discriminant Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)    |Overview of Linear Discriminant Analysis                |
 
 
-## 04: Neural networks
+## 06: Neural networks
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
@@ -68,7 +72,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 10   | :genie:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
 
 
-## 05: Unsupervised networks
+## 07: Unsupervised networks
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
@@ -79,7 +83,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 5    | :microscope:  |[Helmholtz](/unsupervised-learning/tutorial_helmholtz/)                    |Overview of Helmholtz machines             |
 | 6    | :microscope:  |[Autoencoders](/unsupervised-learning/tutorial_autoencoders/)              |Overview of Autoencoders                    |
 
-## 06: Coding
+## 08: Coding
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
