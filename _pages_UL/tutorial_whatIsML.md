@@ -18,7 +18,7 @@ tags:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
 
 
-<h3>Background</h3>
+<h3>Introduction</h3>
 Arificial intelligence and machine learning is gaining popularity and use in our daily lives and filtering into industries including the actuarial profession.  They are opening up doors and convenience to our day-to-day lives.  
 
 The below schematic gives an overview of the relationship between artificial intelligence, machine learning and deep learning:
