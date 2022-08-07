@@ -17,7 +17,7 @@ tags:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
 
 
-<h3>Overview / Background</h3>
+<h3>Introdution</h3>
 Withing Artificial Intelligence (AI) and Machine Learning, Supervised and Unsupervised Learning are 2 fundamental approaches.  Below we compare these 2 approaches.
 
 <br><b>Mention Reinforced Learning??</b>
@@ -34,16 +34,16 @@ Withing Artificial Intelligence (AI) and Machine Learning, Supervised and Unsupe
 | Other                            | Known number of classes          | Unkown number of classes         |TBC                       |TBC                       |
 
 
-<h3>Examples</h3>
+<h3>Example algorithms</h3>
 
-| Example algorithms               | Supervised                     | Unsupervised                   | Semi-supervised                   | Reinforced  |
+| Comparison of example algorithms | Supervised                     | Unsupervised                   | Semi-supervised                   | Reinforced  |
 | -------------------------------- | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
 | Example 1                        | decision trees                 | k-means                        |  TBC                        |  TBC                        |
 | Example 2                        | support vector machine         | a-priori                       | TBC                         |  TBC                        |
 | Example 3                        | logisitc regression            | hierarchical clustering        |  TBC                        |  TBC                        |
 
-
-| Example uses                     | Supervised                     | Unsupervised                   | Semi-supervised                   | Reinforced  |
+<h3>Example uses</h3>
+| Comparison of example uses       | Supervised                     | Unsupervised                   | Semi-supervised                   | Reinforced  |
 | -------------------------------- | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
 | Example 1                        | decision trees                 | k-means                        |  TBC                        |  TBC                        |
 | Example 2                        | support vector machine         | a-priori                       | TBC                         |  TBC                        |
