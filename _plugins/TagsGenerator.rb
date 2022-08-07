@@ -35,8 +35,7 @@ module Jekyll
         end
       end
       
-      tags = all_tags
-      return tags
+      return all_tags
     end
   end
 end
