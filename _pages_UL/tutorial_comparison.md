@@ -63,9 +63,9 @@ Below is a basic comparison table of the different approaches with a few example
 
 | Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                                  |
 | ------------------------------ | ----------------------- | ------------------------------------ | ---------------------------------------------- |
-| decision trees                 | k-means                 |  Generative adversial networks       |  Choosing reward structures wisely             |
-| support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Fast learing given small samples              |
-| logisitc regression            | hierarchical clustering |  TBC                                 |  Not preferable for learning "simple problems" |
+| Pre-processing of data may be time consuming                 | k-means                 |  Generative adversial networks       |  Choosing reward structures wisely             |
+| Cannot give "unkown" information as per unsupervised learning         | a-priori                |  Self-trained Naïve Bayes classifier |  Fast learing given small samples              |
+| Cannot handle "complex tasks"            | hierarchical clustering |  TBC                                 |  Not preferable for learning "simple problems" |
 
 <h3>Further reading / Links</h3>
 
