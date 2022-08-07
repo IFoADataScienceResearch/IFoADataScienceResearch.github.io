@@ -11,6 +11,9 @@ categories:
   - Tutorial
 tags:
   - Unsupervised Learning
+  - Supervised Learning
+  - Semi-supervised Learning
+  - Reinforcement Learning
 ---
 
 
