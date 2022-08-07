@@ -19,7 +19,9 @@ tags:
 
 
 <h3>Overview / Background</h3>
-Arificial Intelligence and Machine Learning is gaining popularity and use in our daily lives and filtering into industries including the actuarial profession.  They are opening up doors and convenience to our day-to-day lives.  
+Arificial intelligence and machine learning is gaining popularity and use in our daily lives and filtering into industries including the actuarial profession.  They are opening up doors and convenience to our day-to-day lives.  
+
+The below schematic gives an overview of the relationship between artificial intelligence, machine learning and deep learning:
 
 <span style="color:red">AI vs ML vs Deep Learning</span>.
 
