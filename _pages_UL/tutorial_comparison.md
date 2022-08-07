@@ -21,11 +21,11 @@ tags:
 
 
 <h3>Introduction</h3>
-Supervised, unsupervised learning, semi-supervised and reinforced learning are 4 fundamental approaches of machine learning:
---  <br /> <b>Supervised Learning</b> Builds a model based labelled data.
---  <br /><b>Unsupervised Learning</b> Builds a model based on a unlabelled data.
---  <br /><b>Semi-Supervised Learning</b> Builds a model based on a mix of labelled and unlabelled data.  This sits between supervised and unsupervised learning approaches.
---  <br /><b>Reinforcement Learning</b> This is a feedback-based learning method, based on a system of rewards and punishments for correct and incorrect actions respectively.  The aim is for the "learning agent" to receive maximum reward and hence improve its performance.
+Supervised, unsupervised learning, semi-supervised and reinforced learning are 4 fundamental approaches of machine learning: <br />
+-  <b>Supervised Learning</b> Builds a model based labelled data.<br />
+-  <b>Unsupervised Learning</b> Builds a model based on a unlabelled data. <br />
+-  <b>Semi-Supervised Learning</b> Builds a model based on a mix of labelled and unlabelled data.  This sits between supervised and unsupervised learning approaches.<br />
+-  <b>Reinforcement Learning</b> This is a feedback-based learning method, based on a system of rewards and punishments for correct and incorrect actions respectively.  The aim is for the "learning agent" to receive maximum reward and hence improve its performance.<br />
 
 
 
