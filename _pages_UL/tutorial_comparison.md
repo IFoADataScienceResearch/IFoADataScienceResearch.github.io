@@ -19,10 +19,11 @@ tags:
 
 <h3>Introduction</h3>
 Supervised, unsupervised learning, semi-supervised and reinforced learning are 4 fundamental approaches of machine learning:
--  <br /> <b>Supervised Learning</b> 
--  <br /><b>Unsupervised Learning</b>
--  <br /><b>Reinforced Learning</b>
--  <br /><b>Semi-Supervised Learning</b>
+--  <br /> <b>Supervised Learning</b> 
+--  <br /><b>Unsupervised Learning</b>
+--  <br /><b>Semi-Supervised Learning</b>
+--  <br /><b>Reinforced Learning</b>
+
 
 
 <h3>Overview comparison between these methods</h3>
