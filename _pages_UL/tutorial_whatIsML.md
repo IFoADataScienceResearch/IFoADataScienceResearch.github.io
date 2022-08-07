@@ -12,6 +12,8 @@ categories:
 tags:
   - Unsupervised Learning
   - Machine Learning
+  - AI
+  - Deep Learning
 ---
 
 
