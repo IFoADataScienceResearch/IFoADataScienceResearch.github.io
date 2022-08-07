@@ -40,28 +40,28 @@ Supervised, unsupervised learning, semi-supervised and reinforced learning are 4
 <h3>Example algorithms under each approach</h3>
 Below is a basic comparison table of the different approaches with a few example algorithms:
 
-| Comparison table     | Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
-| -------------------- | ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
-| Example 1            | decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
-| Example 2            | support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
-| Example 3            | logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
+| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
+| ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
+| decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
+| support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
+| logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
 
 <h3>Example uses of each approach</h3>
 Below is a basic comparison table of the different approaches with a few example uses:
 
-| Comparison table     | Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
-| -------------------- | ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
-| Example 1            | decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
-| Example 2            | support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
-| Example 3            | logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
+| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
+| ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
+| decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
+| support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
+| logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
 
 <h3>Challenges using each approach</h3>
 
-| Comparison table     | Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
-| -------------------- | ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
-| Example 1            | decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
-| Example 2            | support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
-| Example 3            | logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
+| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
+| ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
+| decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
+| support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
+| logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
 
 <h3>Further reading / Links</h3>
 
