@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorial_comparison/
 classes: wide
-title: "Comparison of Supervised, Unsupervised, Semi-Supervised and Reinforced "
+title: "Comparison of Supervised, Unsupervised, Semi-Supervised and Reinforcement "
 author_profile: false
 toc: false
 sidebar:
@@ -19,16 +19,16 @@ tags:
 
 <h3>Introduction</h3>
 Supervised, unsupervised learning, semi-supervised and reinforced learning are 4 fundamental approaches of machine learning:
---  <br /> <b>Supervised Learning</b> 
---  <br /><b>Unsupervised Learning</b>
---  <br /><b>Semi-Supervised Learning</b>
---  <br /><b>Reinforced Learning</b>
+--  <br /> <b>Supervised Learning</b> Builds a model based labelled data.
+--  <br /><b>Unsupervised Learning</b> Builds a model based on a unlabelled data.
+--  <br /><b>Semi-Supervised Learning</b> Builds a model based on a mix of labelled and unlabelled data.
+--  <br /><b>Reinforcement Learning</b> Based on a system of rewards and punishments, seeing maximum reward.
 
 
 
 <h3>Overview comparison between these methods</h3>
 
-| Category                         | Supervised                       | Unsupervised                     | Semi-supervised                  | Reinforced                     |
+| Category                         | Supervised                       | Unsupervised                     | Semi-supervised                  | Reinforcement                     |
 | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
 | Input data                       | Labelled                         | Unlabelled                       | TBC                       |TBC                       |
 | Classification of data           | Data is classified based on data | Assigns properties based on data |TBC                       |TBC                       |
@@ -40,7 +40,7 @@ Supervised, unsupervised learning, semi-supervised and reinforced learning are 4
 <h3>Example algorithms under each approach</h3>
 Below is a basic comparison table of the different approaches with a few example algorithms:
 
-| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
+| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                    |
 | ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
 | decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
 | support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
@@ -49,7 +49,7 @@ Below is a basic comparison table of the different approaches with a few example
 <h3>Example uses of each approach</h3>
 Below is a basic comparison table of the different approaches with a few example uses:
 
-| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
+| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                    |
 | ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
 | decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
 | support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
@@ -57,7 +57,7 @@ Below is a basic comparison table of the different approaches with a few example
 
 <h3>Challenges using each approach</h3>
 
-| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
+| Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                    |
 | ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
 | decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
 | support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
