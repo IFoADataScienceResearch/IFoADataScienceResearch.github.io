@@ -60,16 +60,16 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :electron:    |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)               |Introduction to neural networks          |
-| 2    | :electron:    |[Perceptron](/unsupervised-learning/tutorial_neuralNetworks/)                    |Overview of perceptrons                  |
-| 3    | :electron:    |[Feed forward neural network](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of feed-forward neural networks |
-| 4    | :electron:    |[Multilayer perceptron](/unsupervised-learning/tutorial_neuralNetworks/)         |Overview of multi-layer perceptrons      |
-| 5    | :electron:    |[Convolutional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)  |Overview of convolutional neural networks|
-| 6    | :electron:    |[Radial Basis Functional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)    |Overview of radial basis functional neural networks |
-| 7    | :electron:    |[Recurrent Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)      |Overview of recurrent neural network |
-| 8    | :electron:    |[LSTM](/unsupervised-learning/tutorial_neuralNetworks/)                          |Overview of "long-term short memory" |
-| 9    | :electron:    |[Sequence to Sequence Models](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of sequence-to-sequence models   |
-| 10   | :electron:    |[Modular neural network](/unsupervised-learning/tutorial_neuralNetworks/)        |Overview of modular neural network |
+| 1    | :fireworks:    |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)               |Introduction to neural networks          |
+| 2    | :fireworks:    |[Perceptron](/unsupervised-learning/tutorial_neuralNetworks/)                    |Overview of perceptrons                  |
+| 3    | :fireworks:    |[Feed forward neural network](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of feed-forward neural networks |
+| 4    | :fireworks:    |[Multilayer perceptron](/unsupervised-learning/tutorial_neuralNetworks/)         |Overview of multi-layer perceptrons      |
+| 5    | :fireworks:   |[Convolutional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)  |Overview of convolutional neural networks|
+| 6    | :fireworks:    |[Radial Basis Functional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)    |Overview of radial basis functional neural networks |
+| 7    | :fireworks:    |[Recurrent Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)      |Overview of recurrent neural network |
+| 8    | :fireworks:    |[LSTM](/unsupervised-learning/tutorial_neuralNetworks/)                          |Overview of "long-term short memory" |
+| 9    | :fireworks:    |[Sequence to Sequence Models](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of sequence-to-sequence models   |
+| 10   | :fireworks:    |[Modular neural network](/unsupervised-learning/tutorial_neuralNetworks/)        |Overview of modular neural network |
 
 
 ## 07: Unsupervised networks
@@ -79,8 +79,8 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 1    | :microscope:  |[Hopfield](/unsupervised-learning/tutorial_hopfield/)                      |Overview of Hopfield networks               |
 | 2    | :microscope:  |[Boltzmann](/unsupervised-learning/tutorial_boltzmann/)                    |Overview of Boltzmann machines              |
 | 3    | :microscope:  |[RBM](/unsupervised-learning/tutorial_restrictedBoltzmann/)                |Overview of restricted Boltzmann machines   |
-| 4    | :microscope:  |[Stacked Boltzmann](/unsupervised-learning/tutorial_stackedBoltzmann/)     |Overview of stacked    Boltzmann machines   |
-| 5    | :microscope:  |[Helmholtz](/unsupervised-learning/tutorial_helmholtz/)                    |Overview of Helmholtz machines             |
+| 4    | :microscope:  |[Stacked Boltzmann](/unsupervised-learning/tutorial_stackedBoltzmann/)     |Overview of stacked Boltzmann machines      |
+| 5    | :microscope:  |[Helmholtz](/unsupervised-learning/tutorial_helmholtz/)                    |Overview of Helmholtz machines              |
 | 6    | :microscope:  |[Autoencoders](/unsupervised-learning/tutorial_autoencoders/)              |Overview of Autoencoders                    |
 
 ## 08: Coding
