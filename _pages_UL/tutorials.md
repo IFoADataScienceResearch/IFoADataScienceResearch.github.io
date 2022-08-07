@@ -38,18 +38,18 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 2    | :bar_chart:   |[Association rules](/unsupervised-learning/tutorial_association_rules/)                      |Overview of association rules techniques and applications                    |
 | 3    | :bar_chart:   |[Dimensionality reduction](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of dimensionality reduction techniques and applications                    |
 
-## 03: Unsupervised Approaches Revisited - Dimensional Reductionality
+## 03: Unsupervised Approaches Revisited - Dimensional Reduction
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :unlock:      |[Principal Component Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
-| 2    | :unlock:      |[Kernel Principal Component Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
-| 3    | :unlock:      |[Non-Negative Matrix Factorization](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
-| 4    | :unlock:      |[Singular Value Decomposition](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
-| 5    | :unlock:      |[t-Distributed Stochastic Neighbor Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
-| 6    | :unlock:      |[Spectral Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
-| 7    | :unlock:      |[Locally Linear Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
-| 8    | :unlock:      |[Linear Discriminant Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Introduction to neural networks and applications within data science                    |
+| 1    | :unlock:      |[Principal Component Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of Principal Component Analysis                    |
+| 2    | :unlock:      |[Kernel Principal Component Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/) |Overview of Kernel Principal Component Analysis          |
+| 3    | :unlock:      |[Non-Negative Matrix Factorization](/unsupervised-learning/tutorial_dimensionality_reduction/)   |Overview of Non-Negative Matrix Factorization               |
+| 4    | :unlock:      |[Singular Value Decomposition](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of Singular Value Decomposition               |
+| 5    | :unlock:      |[t-Distributed Stochastic Neighbour Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of t-Distributed Stochastic Neighbour Embedding                    |
+| 6    | :unlock:      |[Spectral Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)              |Overview of Spectral Embedding                    |
+| 7    | :unlock:      |[Locally Linear Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of Locally Linear Embedding                   |
+| 8    | :unlock:      |[Linear Discriminant Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)    |Overview of Linear Discriminant Analysis                |
 
 
 ## 04: Neural networks
