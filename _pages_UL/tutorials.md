@@ -60,16 +60,16 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)               |Introduction to neural networks          |
-| 2    | :mage_man:      |[Perceptron](/unsupervised-learning/tutorial_neuralNetworks/)                    |Overview of perceptrons                  |
-| 3    | :mage_man:      |[Feed forward neural network](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of feed-forward neural networks |
-| 4    | :mage_man:      |[Multilayer perceptron](/unsupervised-learning/tutorial_neuralNetworks/)         |Overview of multi-layer perceptrons      |
-| 5    | :mage_man:      |[Convolutional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)  |Overview of convolutional neural networks|
-| 6    | :mage_man:      |[Radial Basis Functional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)    |Overview of radial basis functional neural networks |
-| 7    | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
-| 8    | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
-| 9    | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
-| 10   | :mage_man:      |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)        |Introduction to neural networks and applications within data science                    |
+| 1    | :electron:    |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)               |Introduction to neural networks          |
+| 2    | :electron:    |[Perceptron](/unsupervised-learning/tutorial_neuralNetworks/)                    |Overview of perceptrons                  |
+| 3    | :electron:    |[Feed forward neural network](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of feed-forward neural networks |
+| 4    | :electron:    |[Multilayer perceptron](/unsupervised-learning/tutorial_neuralNetworks/)         |Overview of multi-layer perceptrons      |
+| 5    | :electron:    |[Convolutional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)  |Overview of convolutional neural networks|
+| 6    | :electron:    |[Radial Basis Functional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)    |Overview of radial basis functional neural networks |
+| 7    | :electron:    |[Recurrent Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)      |Overview of recurrent neural network |
+| 8    | :electron:    |[LSTM](/unsupervised-learning/tutorial_neuralNetworks/)                          |Overview of "long-term short memory" |
+| 9    | :electron:    |[Sequence to Sequence Models](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of sequence-to-sequence models   |
+| 10   | :electron:    |[Modular neural network](/unsupervised-learning/tutorial_neuralNetworks/)        |Overview of modular neural network |
 
 
 ## 07: Unsupervised networks
