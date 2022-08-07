@@ -32,7 +32,7 @@ The below schematic gives an overview of the relationship between artificial int
 Machine learning is a sub-category of artificial intelligence and refers to the process by which computers develop pattern recognition, or the ability to continuously learn from and predictions based on data, then adjust without being specifically programmed to do so. 
 
 There are two types of problems that machine learning can solve:
-*	<b>Regression analysis:</b> The problem we are trying to solve is if we can predict a "response variable" [<span style="color:red">EXPLAIN</span>] based on a "predictor variable" [<span style="color:red">EXPLAIN</span>], for example, predicting a house price from the square metres of the house; and 
+*	<b>Regression analysis:</b> The problem we are trying to solve is if we can predict a "response variable" (i.e. observed outputs) based on a "predictor variable" (i.e. adjustable input) , for example, predicting a house price from the square metres of the house; and 
 *	<b>Classification:</b> The problem we are trying to solve is if we can determine what a particular instance belongs to, for example, is a particular email spam or not.
 
 The three major machine learning algorithms are as follows:
