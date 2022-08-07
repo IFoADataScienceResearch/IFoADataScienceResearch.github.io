@@ -65,7 +65,7 @@ Below is a basic comparison table of the different approaches with a few example
 | Supervised                     | Unsupervised            | Semi-supervised                      | Reinforcement                                  |
 | ------------------------------ | ----------------------- | ------------------------------------ | ---------------------------------------------- |
 | Pre-processing of data may be time consuming                 | More time required by user e.g. for interpretation                 |  Complex iterative process      |  Choosing reward structures wisely             |
-| Cannot give "unkown" information as per unsupervised learning         | May result in less accurate predictions compared to supervised learning                |  Self-trained Naïve Bayes classifier |  Fast learing given small samples              |
+| Cannot give "unkown" information as per unsupervised learning         | May result in less accurate predictions compared to supervised learning                | Not as accurate as supervised learning |  Fast learing given small samples              |
 | Cannot handle "complex tasks"            | Computationally more complex that supervised learning |  Cannot handle more "complex tasks"                                 |  Not preferable for learning "simple problems" |
 
 <h3>Further reading / Links</h3>
