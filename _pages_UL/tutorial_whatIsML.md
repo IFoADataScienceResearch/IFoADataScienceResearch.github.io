@@ -52,6 +52,6 @@ The selection of machine learning algorithm depends on the data available and th
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial_MachineLearning.jpg){: .align-left}
 
 <h3>Further reading </h3>
-- Evaluation machine learning models: [Evaluating Machine Learning book](https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)
-- [IBM Cloud Learn Hub](https://www.ibm.com/cloud/learn/machine-learning)
+- Evaluation machine learning models: [Evaluating Machine Learning book](https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)<br />
+- [IBM Cloud Learn Hub](https://www.ibm.com/cloud/learn/machine-learning)<br />
 - [Microsoft Azure}(https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-machine-learning-platform)
