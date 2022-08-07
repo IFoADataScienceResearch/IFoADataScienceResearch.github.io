@@ -17,7 +17,7 @@ tags:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
 
 
-<h3>Introdution</h3>
+<h3>Introduction</h3>
 Withing Artificial Intelligence (AI) and Machine Learning, Supervised and Unsupervised Learning are 2 fundamental approaches.  Below we compare these 2 approaches.
 
 <br><b>Mention Reinforced Learning??</b>
@@ -36,17 +36,17 @@ Withing Artificial Intelligence (AI) and Machine Learning, Supervised and Unsupe
 
 <h3>Example algorithms</h3>
 
-| Comparison of example algorithms | Supervised                     | Unsupervised                   | Semi-supervised                   | Reinforced  |
+| Comparison of example algorithms       | Supervised                     | Unsupervised                   | Semi-supervised                | Reinforced  |
 | -------------------------------- | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
-| Example 1                        | decision trees                 | k-means                        |  TBC                        |  TBC                        |
-| Example 2                        | support vector machine         | a-priori                       | TBC                         |  TBC                        |
-| Example 3                        | logisitc regression            | hierarchical clustering        |  TBC                        |  TBC                        |
+| Example 1                        | decision trees                 | k-means                        |  Generative adversial networks |  Q-learning                        |
+| Example 2                        | support vector machine         | a-priori                       |  Self-trained Naïve Bayes classifier                |  Model-based value estimation                        |
+| Example 3                        | logisitc regression            | hierarchical clustering        |  TBC                        |  TBC     
 
 <h3>Example uses</h3>
-| Comparison of example uses       | Supervised                     | Unsupervised                   | Semi-supervised                   | Reinforced  |
+| Comparison of example uses       | Supervised                     | Unsupervised                   | Semi-supervised                | Reinforced  |
 | -------------------------------- | ------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
-| Example 1                        | decision trees                 | k-means                        |  TBC                        |  TBC                        |
-| Example 2                        | support vector machine         | a-priori                       | TBC                         |  TBC                        |
+| Example 1                        | decision trees                 | k-means                        |  Generative adversial networks |  Q-learning                        |
+| Example 2                        | support vector machine         | a-priori                       |  Self-trained Naïve Bayes classifier                |  Model-based value estimation                        |
 | Example 3                        | logisitc regression            | hierarchical clustering        |  TBC                        |  TBC                        |
 
 <h3>Challenges using each approach</h3>
