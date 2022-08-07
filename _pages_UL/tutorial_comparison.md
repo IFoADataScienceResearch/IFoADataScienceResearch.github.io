@@ -18,12 +18,14 @@ tags:
 
 
 <h3>Introduction</h3>
-Withing Artificial Intelligence (AI) and Machine Learning, Supervised and Unsupervised Learning are 2 fundamental approaches.  Below we compare these 2 approaches.
+Supervised, unsupervised learning, semi-supervised and reinforced learning are 4 fundamental approaches of machine learning:
+-  <b>Supervised Learning</b>
+-  <b>Unsupervised Learning</b>
+-  <b>Reinforced Learning</b>
+-  <b>Semi-Supervised Learning</b>
 
-<br><b>Mention Reinforced Learning??</b>
-<br><b>Mention Semi-Supervised Learning??</b>
 
-<h3>Main</h3>
+<h3>Overview comparison between these methods</h3>
 
 | Category                         | Supervised                       | Unsupervised                     | Semi-supervised                  | Reinforced                     |
 | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
@@ -34,7 +36,7 @@ Withing Artificial Intelligence (AI) and Machine Learning, Supervised and Unsupe
 | Other                            | Known number of classes          | Unkown number of classes         |TBC                       |TBC                       |
 
 
-<h3>Example algorithms</h3>
+<h3>Example algorithms under each approach</h3>
 Below is a basic comparison table of the different approaches with a few example algorithms:
 
 | Comparison table     | Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
@@ -43,15 +45,24 @@ Below is a basic comparison table of the different approaches with a few example
 | Example 2            | support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
 | Example 3            | logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
 
-<h3>Example uses</h3>
+<h3>Example uses of each approach</h3>
 Below is a basic comparison table of the different approaches with a few example uses:
-| Comparison table     | Supervised                     | Unsupervised          | Semi-supervised                | Reinforced  |
-| -------------------- | ------------------------------ | --------------------- | ------------------------------ | ----------- |
-| Example 1   | decision trees                 | k-means                         |  Generative adversial networks      |  Q-learning                   |
-| Example 2   | support vector machine         | a-priori                        |  Self-trained Naïve Bayes classifier|  Model-based value estimation |
-| Example 3   | logisitc regression            | hierarchical clustering         |  TBC                                |  TBC                          |
+
+| Comparison table     | Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
+| -------------------- | ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
+| Example 1            | decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
+| Example 2            | support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
+| Example 3            | logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
 
 <h3>Challenges using each approach</h3>
 
+| Comparison table     | Supervised                     | Unsupervised            | Semi-supervised                      | Reinforced                    |
+| -------------------- | ------------------------------ | ----------------------- | ------------------------------------ | ----------------------------- |
+| Example 1            | decision trees                 | k-means                 |  Generative adversial networks       |  Q-learning                   |
+| Example 2            | support vector machine         | a-priori                |  Self-trained Naïve Bayes classifier |  Model-based value estimation |
+| Example 3            | logisitc regression            | hierarchical clustering |  TBC                                 |  TBC                          |
+
 <h3>Further reading / Links</h3>
+
+
 [IBM article](https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning)
