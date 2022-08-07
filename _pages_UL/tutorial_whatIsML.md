@@ -27,9 +27,9 @@ The below schematic gives an overview of the relationship between artificial int
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_VennDiagram_AIvsMLvsDL.jpg){: .align-left}
 
-- <b>Artificial intelligence</b> Overall area where human intelligence and behaviour is mimicked by computers and machines. <br />
-- <b>Machine learning </b> Computers can "learn" from the data, without a pre-programmed set of rules. <br /> 
-- <b>Deep learning </b> This is an area which is inspired by the way the human brain works e.g. by network of neurons.  <br /> 
+<b>Artificial intelligence</b> Overall area where human intelligence and behaviour is mimicked by computers and machines. <br />
+<b>Machine learning </b> Computers can "learn" from the data, without a pre-programmed set of rules. <br /> 
+<b>Deep learning </b> Area is inspired by the way the human brain works e.g. network of neurons.  <br /> 
 
 <h3>What is Machine Learning?</h3>
 
