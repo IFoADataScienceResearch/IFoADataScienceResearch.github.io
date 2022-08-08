@@ -67,7 +67,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 5    | :fireworks:   |[Convolutional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)  |Overview of convolutional neural networks|
 | 6    | :fireworks:    |[Radial Basis Functional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)    |Overview of radial basis functional neural networks |
 | 7    | :fireworks:    |[Recurrent Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)      |Overview of recurrent neural network |
-| 8    | :fireworks:    |[LSTM](/unsupervised-learning/tutorial_neuralNetworks/)                          |Overview of "long-term short memory" |
+| 8    | :fireworks:    |[LTSM](/unsupervised-learning/tutorial_neuralNetworks/)                          |Overview of "long-term short memory" |
 | 9    | :fireworks:    |[Sequence to Sequence Models](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of sequence-to-sequence models   |
 | 10   | :fireworks:    |[Modular neural network](/unsupervised-learning/tutorial_neuralNetworks/)        |Overview of modular neural network |
 
