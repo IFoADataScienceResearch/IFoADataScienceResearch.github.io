@@ -25,16 +25,16 @@ tags:
 <i>Dimensional reduction</i> is commonly used during the stage of preprocessing data stage.  The following are examples of <i>dimensional reduction</i> methods (found e.g. via sciKit-learn, see link below) are:
 
 
-1. Decomposition algorithms
+1. <b>Decomposition algorithms</b>
 - Principal Component Analysis
 - Kernel Principal Component Analysis
 - Non-Negative Matrix Factorization 
 - Singular Value Decomposition 
-2. Manifold learning algorithms
+2. <b>Manifold learning algorithms</b>
 - t-Distributed Stochastic Neighbor Embedding
 - Spectral Embedding
 - Locally Linear Embedding
-3. Discriminant Analysis
+3.<b>Discriminant Analysis</b>
 - Linear Discriminant Analysis
 
 Autoencoders are a type of unsupervised neural network which compresses input data to lower dimension before reconstructing the input back.
