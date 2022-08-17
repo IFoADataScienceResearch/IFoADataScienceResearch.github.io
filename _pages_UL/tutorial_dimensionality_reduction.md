@@ -58,4 +58,4 @@ Disadvantages of dimensionality reduction:
 
 - [IBM Cloud Hub](https://www.ibm.com/cloud/learn/unsupervised-learning)
 - [Autoencoders](/unsupervised-learning/tutorial_autoencoders/) 
-- [Scikit-learn](https://scikit-learn.org/))
+- [Scikit-learn](https://scikit-learn.org/)
