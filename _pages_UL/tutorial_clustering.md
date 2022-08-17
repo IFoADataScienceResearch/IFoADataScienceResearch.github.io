@@ -30,6 +30,7 @@ The clustering algorithms are classified into following different types: </br>
 
 
 <h3>Use cases</h3>
+
 -	Recommender systems such as grouping together users with similar viewing patterns on Netflix, in order to recommend similar content
 -	Anomaly detection such as fraud detection, detecting defective mechanical parts
 -	Genetics such as clustering DNA patterns to analyze evolutionary biology
