@@ -19,6 +19,7 @@ tags:
 Clustering is a technique which groups unlabeled data based on their similarities and differences. These algorithms are used to process raw, unclassified data into groups which are represented by structures and patterns in the information. 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_clustering.jpg){: .align-left}
+<span style="color:red">COPYRIGHT OR CHANGE JPEG</span>
 
 The clustering algorithms are classified into following different types: </br>
 - Exclusive clustering – Exclusive clustering does not allow for a data point to exist in multiple clusters hence called “hard clustering”. A widely used clusteing algorithm ‘k-means clustering” is an example of exclusive clustering. 
