@@ -14,6 +14,8 @@ tags:
   - Clustering
 ---
 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
+
 <h3>Introduction</h3>
 Clustering is an unsupervised learning method and is a technique which groups unlabelled data based on their similarities. 
 
@@ -27,10 +29,10 @@ Please see diagram below:
 
 The clustering algorithms are classified into following different types:
 
-- <b>Exclusive clustering:</b> Exclusive clustering does not allow for a data point to exist in multiple clusters hence called 'hard clustering'. A widely used clustering algorithm 'k-means clustering' is an example of exclusive clustering. 
-- <b>Overlapping clustering:</b> Overlapping clusters allow one data point to exist in multiple clusters. It is also called 'soft clustering'.
-- <b>Hierarchal clustering:</b> Heirarichal clustering is divided into two types, 'agglomerative' or 'divisive'. <i>Agglomerative clustering</i> follows a bottom-up approach, where the data points are isolated as separate groupings initially, and then they are merged together iteratively on the basis of similarity until one cluster has been achieved. <i>Divisive clustering</i> can be defined as the opposite of agglomerative clustering; instead it takes a top-down approach. In this case, a single data cluster is divided based on the differences between data points. 
--	<b>Probabilistic clustering:</b> In probabilistic clustering, data points are clustered based on the likelihood that they belong to a particular distribution. The Gaussian Mixture Model (GMM) is the one of the most commonly used probabilistic clustering methods.
+- <b>Exclusive clustering:</b> Exclusive clustering does not allow for a data point to exist in multiple clusters hence called 'hard clustering'.  A widely used clustering algorithm 'k-means clustering' is an example of exclusive clustering. 
+- <b>Overlapping clustering:</b> Overlapping clusters allow one data point to exist in multiple clusters.  It is also called 'soft clustering'.
+- <b>Hierarchal clustering:</b> Heirarichal clustering is divided into two types, 'agglomerative' or 'divisive'. <i>Agglomerative clustering</i> follows a bottom-up approach, where the data points are isolated as separate groupings initially, and then they are merged together iteratively on the basis of similarity until one cluster has been achieved.  <i>Divisive clustering</i> can be defined as the opposite of agglomerative clustering; instead it takes a top-down approach.  In this case, a single data cluster is divided based on the differences between data points. 
+-	<b>Probabilistic clustering:</b> In probabilistic clustering, data points are clustered based on the likelihood that they belong to a particular distribution.  The Gaussian Mixture Model (GMM) is the one of the most commonly used probabilistic clustering methods.
 
 <h3>Example uses</h3>
 Example uses of clustering include:
@@ -41,7 +43,7 @@ Example uses of clustering include:
 -	Customer segmentation in oder to understand different customer segments to devise marketing strategies.
 
 <h3>Example algorthims</h3>
-Example clustering algorithms, as discuss e.g. in Sci-Kit include:
+Example clustering algorithms, as discuss e.g. in Sci-Kit Learn include:
 
 - K-means
 - Affinity propogation
