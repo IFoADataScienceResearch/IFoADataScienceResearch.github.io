@@ -55,5 +55,6 @@ Example clustering algorithms, as discuss e.g. in Sci-Kit include:
 - Bisecting K-Means
 
 <h3>Further reading</h3>
-- [IBM Cloud](https://www.ibm.com/cloud/learn/unsupervised-learning)
+
+- [IBM Cloud](https://www.ibm.com/cloud/learn/unsupervised-learning) </br>
 - [Sci-Kit](https://scikit-learn.org/stable/modules/clustering.html)
