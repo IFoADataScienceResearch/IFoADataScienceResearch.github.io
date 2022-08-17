@@ -11,6 +11,7 @@ categories:
   - Tutorial
 tags:
   - Unsupervised Learning
+  - Dimensional Reduction
 ---
 
 
