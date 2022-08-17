@@ -14,7 +14,7 @@ tags:
 ---
 
 <h3>Introduction</h3>
-Clustering is an unsupervised learning method.  Clustering is a technique which groups unlabelled data based on their similarities and differences. 
+Clustering is an unsupervised learning method and is a technique which groups unlabelled data based on their similarities. 
 
 <h3>Main</h3>
 Clustering algorithms are used to process raw, unclassified data into groups which are represented by structures and patterns in the information. 
@@ -56,5 +56,5 @@ Example clustering algorithms, as discuss e.g. in Sci-Kit include:
 
 <h3>Further reading</h3>
 
-- [IBM Cloud](https://www.ibm.com/cloud/learn/unsupervised-learning) </br>
+- [IBM Cloud](https://www.ibm.com/cloud/learn/unsupervised-learning)
 - [Sci-Kit](https://scikit-learn.org/stable/modules/clustering.html)
