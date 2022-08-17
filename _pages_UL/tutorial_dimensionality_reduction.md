@@ -36,7 +36,7 @@ tags:
 - Spectral Embedding
 - Locally Linear Embedding
 
-3.<b>Discriminant Analysis</b>
+3. <b>Discriminant Analysis</b>
 - Linear Discriminant Analysis
 
 Autoencoders are a type of unsupervised neural network which compresses input data to lower dimension before reconstructing the input back.
