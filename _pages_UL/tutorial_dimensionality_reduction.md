@@ -21,7 +21,7 @@ tags:
 <i>Dimensional reduction</i> is a common unsupervised learning approach.  It reduces the number of features (input variables) to a manageable size, whilst ensuring that the remaining data is meaningful.  Sometimes the number of input variables is too high or adds little value to the model.  Further, more features make the modelling more complex - sometimes unncessarily complex.  Hence, <i>dimensional reduction</i> addresses this issue.
 
 <h3>Main</h3>
-<i>Dimensional reduction</i> is commonly used during the stage of preprocessing data stage.  The following are examples of <i>dimensional reduction</i> methods (found e.g. via [scikit-learn](https://scikit-learn.org/)) are:
+<i>Dimensional reduction</i> is commonly used during the stage of preprocessing data stage.  The following are examples of <i>dimensional reduction</i> methods (found e.g. via sciKit-learn, see link below) are:
 
 
 1. Decomposition algorithms
@@ -36,7 +36,7 @@ tags:
 3. Discriminant Analysis
 - Linear Discriminant Analysis
 
-[Autoencoders](/unsupervised-learning/tutorial_autoencoders/) are a type of unsupervised neural network which compresses input data to lower dimension before reconstructing the input back.
+Autoencoders are a type of unsupervised neural network which compresses input data to lower dimension before reconstructing the input back.
 
 <h3>Advantages and Disadvatanges</h3>
 
@@ -55,4 +55,7 @@ Disadvantages of dimensionality reduction:
 <h3>Conclusion</h3>
 
 <h3>Further reading / Links</h3>
-[IBM Cloud Hub](https://www.ibm.com/cloud/learn/unsupervised-learning)
+
+- [IBM Cloud Hub](https://www.ibm.com/cloud/learn/unsupervised-learning)
+- [Autoencoders](/unsupervised-learning/tutorial_autoencoders/) 
+- [Scikit-learn](https://scikit-learn.org/))
