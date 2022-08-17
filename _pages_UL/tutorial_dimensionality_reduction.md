@@ -54,9 +54,6 @@ Disadvantages of dimensionality reduction:
 
 - It may reduce the overall accuracy of the model produced.
 
-
-<h3>Conclusion</h3>
-
 <h3>Further reading / Links</h3>
 
 - [IBM Cloud Hub](https://www.ibm.com/cloud/learn/unsupervised-learning)
