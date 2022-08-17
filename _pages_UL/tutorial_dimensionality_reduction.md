@@ -30,10 +30,12 @@ tags:
 - Kernel Principal Component Analysis
 - Non-Negative Matrix Factorization 
 - Singular Value Decomposition 
+
 2. <b>Manifold learning algorithms</b>
 - t-Distributed Stochastic Neighbor Embedding
 - Spectral Embedding
 - Locally Linear Embedding
+
 3.<b>Discriminant Analysis</b>
 - Linear Discriminant Analysis
 
