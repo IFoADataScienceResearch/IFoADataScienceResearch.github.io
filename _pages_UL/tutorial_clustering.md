@@ -11,6 +11,7 @@ categories:
   - Tutorial
 tags:
   - Unsupervised Learning
+  - Clustering
 ---
 
 <h3>Introduction</h3>
