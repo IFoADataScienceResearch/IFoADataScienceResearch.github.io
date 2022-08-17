@@ -57,6 +57,8 @@ Example clustering algorithms, as discuss e.g. in Sci-Kit Learn include:
 - BIRCH
 - Bisecting K-Means
 
+<h3>Advantages and Disadvantages</h3>
+
 <h3>Further reading</h3>
 
 - [IBM Cloud](https://www.ibm.com/cloud/learn/unsupervised-learning)
