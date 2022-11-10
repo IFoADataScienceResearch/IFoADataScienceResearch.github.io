@@ -37,15 +37,16 @@ Our aim is to construct highly flexible actuarial models such as:
 11. <b> Giampiero Marra</b>, Professor of Statistics, Dept of Statistical Science at University College London
 12. <b> Michael Merz</b>, Professor, Faculty of Business Administration Hamburger Business School, Universität Hamburg
 13. <b> Aristidis Nikoloulopoulos </b>, Associate Professor in Statistics, School of Computing Sciences, University of East Anglia
-14. <b> Gareth Peters</b>, Janet & Ian Duncan Endowed Chair of Actuarial Science, Chair Professor of Statistics for Risk and Insurance, Dept of Statistics & Applied Probability, University of California Santa Barbara
-15. <b> Rosalba Radice</b>, Reader in Statistics, Bayes Business School, City, University of London
-16. <b> José Maria Sarabia</b>, Professor of Statistics and Operations Research and Full Professor of Quantitative Methods, CUNEF Universidad
-17. <b> Dionisios Sotiropoulos</b>, Assistant Professor, Dept of Computer Science, University of Piraeus
-18. <b> George Streftaris</b>,  Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University
-19. <b> Andreas Tsanakas</b>, Professor, Risk Management, Bayes Business School, City, University of London 
-20. <b> Spyridon Vrontos</b>, Senior Lecturer in Actuarial Science, Dept of Mathematical Sciences, University of Essex
-21. <b> Mario V. Wüthrich</b>, Professor for Actuarial Science, Dept of Mathematics at ETH
-22. <b> Xueyuan Wu </b>, Associate Professor, Centre for actuarial studies, Dept of Economics, The University of Melbourne
+14. <b> Peng Shi </b>, Associate Professor, Risk and Insurance Department, Wisconsin School of Business
+15. <b> Gareth Peters</b>, Janet & Ian Duncan Endowed Chair of Actuarial Science, Chair Professor of Statistics for Risk and Insurance, Dept of Statistics & Applied Probability, University of California Santa Barbara
+16. <b> Rosalba Radice</b>, Reader in Statistics, Bayes Business School, City, University of London
+17. <b> José Maria Sarabia</b>, Professor of Statistics and Operations Research and Full Professor of Quantitative Methods, CUNEF Universidad
+18. <b> Dionisios Sotiropoulos</b>, Assistant Professor, Dept of Computer Science, University of Piraeus
+19. <b> George Streftaris</b>,  Professor, Dept of Actuarial Mathematics and Statistics, Heriot Watt University
+20. <b> Andreas Tsanakas</b>, Professor, Risk Management, Bayes Business School, City, University of London 
+21. <b> Spyridon Vrontos</b>, Senior Lecturer in Actuarial Science, Dept of Mathematical Sciences, University of Essex
+22. <b> Mario V. Wüthrich</b>, Professor for Actuarial Science, Dept of Mathematics at ETH
+23. <b> Xueyuan Wu </b>, Associate Professor, Centre for actuarial studies, Dept of Economics, The University of Melbourne
 
 ## Research Papers
 1. <a href="https://ifoadatascienceresearch.github.io/blog/multivariate-mixed-NB/"> The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking </a>
