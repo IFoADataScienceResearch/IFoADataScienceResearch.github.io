@@ -22,10 +22,8 @@ Clustering is an unsupervised learning method and is a technique which groups un
 <h3>Main</h3>
 Clustering algorithms are used to process raw, unclassified data into groups which are represented by structures and patterns in the information. 
 
-Please see diagram below:
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_clustering.jpg){: .align-left}
-<span style="color:red">COPYRIGHT OR CHANGE JPEG</span>
+<span style="color:red">Please see diagram below:</span>
+<span style="color:red">ADD IN JPEG</span>
 
 The clustering algorithms are classified into following different types:
 
