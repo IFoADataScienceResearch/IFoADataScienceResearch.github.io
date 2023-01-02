@@ -45,13 +45,13 @@ The diagram below shows the different branches of Machine Learning:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial_MachineLearning.jpg){: .align-left}
 
-The three major machine learning techniques we can use:
+There are three major machine learning techniques:
 *	<b>1. Supervised learning</b>: Supervised learning uses the dataset which contains both the predictor and response variables where the data is labelled, and it uses a known dataset to make future predictions or classifications;
 *	<b>2. Unsupervised learning</b>: Unsupervised learning uses the dataset which does not have a labelled response variable and is commonly used for clustering analysis i.e. to identify similar groups or patterns;
 *	<b>3. Reinforcement learning</b>: Reinforcement learning uses a series of "rewards" to encourage certain outcomes and "penalise" undesired ones.
 
 Further to the above, we also have:
-*	<b>3. Semi-supervised learning</b>: Semi-supervised learning uses the dataset which is partially labelled and the algorithm uses the labelled data to understand the parameters for interpreting the unlabelled data.
+*	<b>4. Semi-supervised learning</b>: Semi-supervised learning uses the dataset which is partially labelled and the algorithm uses the labelled data to understand the parameters for interpreting the unlabelled data i.e. it is a combination of supervised and unsupervised techniques.
 
 <h3>Further reading </h3>
 - Evaluation machine learning models: [Evaluating Machine Learning book](https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)<br />
