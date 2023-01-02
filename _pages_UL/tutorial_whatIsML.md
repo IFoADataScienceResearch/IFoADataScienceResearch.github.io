@@ -40,6 +40,11 @@ The below schematic gives an overview of the relationship between artificial int
 
 Machine learning is a sub-category of artificial intelligence and refers to the process by which computers develop pattern recognition, or the ability to continuously learn from and predictions based on data, then adjust without being specifically programmed to do so. 
 
+<h3>Machine learning areas</h3>
+The diagream below shows the different branches of Machine Learning:
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial_MachineLearning.jpg){: .align-left}
+
 The three major machine learning techniques we can use:
 *	<b>1. Supervised learning</b>: Supervised learning uses the dataset which contains both the predictor and response variables where the data is labelled, and it uses a known dataset to make future predictions or classifications;
 *	<b>2. Unsupervised learning</b>: Unsupervised learning uses the dataset which does not have a labelled response variable and is commonly used for clustering analysis i.e. to identify similar groups or patterns;
@@ -47,11 +52,6 @@ The three major machine learning techniques we can use:
 
 Further to the above, we also have:
 *	<b>3. Semi-supervised learning</b>: Semi-supervised learning uses the dataset which is partially labelled and the algorithm uses the labelled data to understand the parameters for interpreting the unlabelled data.
-
-<h3>Machine learning areas</h3>
-The diagream below shows the different branches of Machine Learning:
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial_MachineLearning.jpg){: .align-left}
 
 <h3>Further reading </h3>
 - Evaluation machine learning models: [Evaluating Machine Learning book](https://www.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)<br />
