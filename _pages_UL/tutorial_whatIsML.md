@@ -41,7 +41,7 @@ The below schematic gives an overview of the relationship between artificial int
 Machine learning is a sub-category of artificial intelligence and refers to the process by which computers develop pattern recognition, or the ability to continuously learn from and predictions based on data, then adjust without being specifically programmed to do so. 
 
 <h3>Machine learning areas</h3>
-The diagream below shows the different branches of Machine Learning:
+The diagram below shows the different branches of Machine Learning:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial_MachineLearning.jpg){: .align-left}
 
