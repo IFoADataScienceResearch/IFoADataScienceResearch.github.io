@@ -43,7 +43,7 @@ Machine learning is a sub-category of artificial intelligence and refers to the 
 The three major machine learning techniques we can use:
 *	<b>1. Supervised learning</b>: Supervised learning uses the dataset which contains both the predictor and response variables where the data is labelled, and it uses a known dataset to make future predictions or classifications;
 *	<b>2. Unsupervised learning</b>: Unsupervised learning uses the dataset which does not have a labelled response variable and is commonly used for clustering analysis i.e. to identify similar groups or patterns;
-*	<b>3. Reinforced learning</b>: Reinforced learning uses a series of "rewards" to develop our model.
+*	<b>3. Reinforcement learning</b>: Reinforcement learning uses a series of "rewards" to encourage certain outcomes and "penalise" undesired ones.
 
 Further to the above, we also have:
 *	<b>3. Semi-supervised learning</b>: Semi-supervised learning uses the dataset which is partially labelled and the algorithm uses the labelled data to understand the parameters for interpreting the unlabelled data.
