@@ -53,9 +53,8 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :milky_way:  |Python                        |Introduction to coding in Python                    |
-| 2    | :milky_way:  |Other Python libraries        |Introduction to Numpy, Pandas, etc libraries        |
-| 3    | :milky_way:  |Tensorflow & Keras            |Introduction to Tensorflow & Keras                  |
-| 4    | :milky_way:  |PyTorch                       |Introduction to PyTorch library                     |
-| 5    | :milky_way:  |SciKit                        |Introduction to SciKit library                      |
+| 1    | :milky_way:  |Python & Python-based libraries|Introduction to coding in Python and other usefule libraries e.g. Pandas, Numpy |
+| 2    | :milky_way:  |Tensorflow & Keras            |Introduction to Tensorflow & Keras                  |
+| 3    | :milky_way:  |PyTorch                       |Introduction to PyTorch library                     |
+| 4    | :milky_way:  |SciKit                        |Introduction to SciKit library                      |
 
