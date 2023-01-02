@@ -1,7 +1,7 @@
 ---
 permalink: /unsupervised-learning/tutorials/
 classes: wide
-title: "Unsupervised Learning Working Party - Tutorials"
+title: "Data Science Tutorials"
 author_profile: false
 toc: true
 sidebar:
@@ -15,7 +15,7 @@ tags:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorials.jpg){: .align-left}
 
-Please find below a list of tutorials which cover topics on Machine Learning teachniques, as well as other useful resources including technical background and coding approaches.
+Please find below a list of tutorials which cover topics on Data Science areas, as well as other useful resources including technical background and coding approaches.
 
 ## 01: Machine Learning - Background
 
