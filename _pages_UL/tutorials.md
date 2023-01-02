@@ -47,7 +47,7 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :microscope:  |[Linear algebra]              |Overview of Linear Algebra     |
+| 1    | :microscope:  |Linear algebra                |Overview of Linear Algebra     |
 
 ## 06: Coding
 
