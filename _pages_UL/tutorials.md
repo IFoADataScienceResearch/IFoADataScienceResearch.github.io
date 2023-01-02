@@ -44,32 +44,12 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 
 ## 05: Unsupervised Approaches Revisited - Dimensional Reduction
 
-| Entry|               |Link                          |Description                    |
-| -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :unlock:      |[Principal Component Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of Principal Component Analysis                    |
-| 2    | :unlock:      |[Kernel Principal Component Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/) |Overview of Kernel Principal Component Analysis          |
-| 3    | :unlock:      |[Non-Negative Matrix Factorization](/unsupervised-learning/tutorial_dimensionality_reduction/)   |Overview of Non-Negative Matrix Factorization               |
-| 4    | :unlock:      |[Singular Value Decomposition](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of Singular Value Decomposition               |
-| 5    | :unlock:      |[t-Distributed Stochastic Neighbour Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of t-Distributed Stochastic Neighbour Embedding                    |
-| 6    | :unlock:      |[Spectral Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)              |Overview of Spectral Embedding                    |
-| 7    | :unlock:      |[Locally Linear Embedding](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of Locally Linear Embedding                   |
-| 8    | :unlock:      |[Linear Discriminant Analysis](/unsupervised-learning/tutorial_dimensionality_reduction/)    |Overview of Linear Discriminant Analysis                |
-
 
 ## 06: Neural networks
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
 | 1    | :fireworks:    |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)               |Introduction to neural networks          |
-| 2    | :fireworks:    |[Perceptron](/unsupervised-learning/tutorial_neuralNetworks/)                    |Overview of perceptrons                  |
-| 3    | :fireworks:    |[Feed forward neural network](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of feed-forward neural networks |
-| 4    | :fireworks:    |[Multilayer perceptron](/unsupervised-learning/tutorial_neuralNetworks/)         |Overview of multi-layer perceptrons      |
-| 5    | :fireworks:   |[Convolutional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)  |Overview of convolutional neural networks|
-| 6    | :fireworks:    |[Radial Basis Functional Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)    |Overview of radial basis functional neural networks |
-| 7    | :fireworks:    |[Recurrent Neural Network](/unsupervised-learning/tutorial_neuralNetworks/)      |Overview of recurrent neural network |
-| 8    | :fireworks:    |[LTSM](/unsupervised-learning/tutorial_neuralNetworks/)                          |Overview of "long-term short memory" |
-| 9    | :fireworks:    |[Sequence to Sequence Models](/unsupervised-learning/tutorial_neuralNetworks/)   |Overview of sequence-to-sequence models   |
-| 10   | :fireworks:    |[Modular neural network](/unsupervised-learning/tutorial_neuralNetworks/)        |Overview of modular neural network |
 
 
 ## 07: Unsupervised networks
@@ -77,11 +57,6 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
 | 1    | :microscope:  |[Hopfield](/unsupervised-learning/tutorial_hopfield/)                      |Overview of Hopfield networks               |
-| 2    | :microscope:  |[Boltzmann](/unsupervised-learning/tutorial_boltzmann/)                    |Overview of Boltzmann machines              |
-| 3    | :microscope:  |[RBM](/unsupervised-learning/tutorial_restrictedBoltzmann/)                |Overview of restricted Boltzmann machines   |
-| 4    | :microscope:  |[Stacked Boltzmann](/unsupervised-learning/tutorial_stackedBoltzmann/)     |Overview of stacked Boltzmann machines      |
-| 5    | :microscope:  |[Helmholtz](/unsupervised-learning/tutorial_helmholtz/)                    |Overview of Helmholtz machines              |
-| 6    | :microscope:  |[Autoencoders](/unsupervised-learning/tutorial_autoencoders/)              |Overview of Autoencoders                    |
 
 ## 08: Coding
 
@@ -92,5 +67,6 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 3    | :milky_way:  |Pandas                        |Introduction to Pandas library                    |
 | 4    | :milky_way:  |Tensorflow                    |Introduction to Tensorflow library                    |
 | 5    | :milky_way:  |Keras                         |Introduction to Keras library                    |
-| 6    | :milky_way:  |SciKit                        |Introduction to SciKit library                     |
-| 7    | :milky_way:  |IDEs                          |Introduction to exmaple IDEs e.g. Colab, Visual Studio Code|
+| 6    | :milky_way:  |PyTorch                       |Introduction to PyTorch library                    |
+| 7    | :milky_way:  |SciKit                        |Introduction to SciKit library                     |
+| 8    | :milky_way:  |IDEs                          |Introduction to exmaple IDEs e.g. Colab, Visual Studio Code|
