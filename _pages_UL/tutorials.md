@@ -13,10 +13,7 @@ tags:
   - Unsupervised Learning
 ---
 
-
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorials.jpg){: .align-left}
-
-
 
 Please find below a list of tutorials which cover topics on Unsupervised Learning teachniques, including technical background and coding approaches.
 
@@ -30,7 +27,9 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 4    |:computer:     |[Real world applications](/unsupervised-learning/tutorial_realApplications/)|Examples of where machine learning is used in the real world|
 | 5    |:computer:     |[Actuarial applications](/unsupervised-learning/tutorial_actuarialApplications/)        |Examples of current and potential use in the actuarial industry|
 
-## 02: Overview of Unsupervised Approaches
+## 02: Overview of Supervised Approaches
+
+## 03: Overview of Unsupervised Approaches
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
@@ -38,35 +37,25 @@ Please find below a list of tutorials which cover topics on Unsupervised Learnin
 | 2    | :bar_chart:   |[Association rules](/unsupervised-learning/tutorial_association_rules/)                      |Overview of association rules techniques and applications                    |
 | 3    | :bar_chart:   |[Dimensionality reduction](/unsupervised-learning/tutorial_dimensionality_reduction/)        |Overview of dimensionality reduction techniques and applications                    |
 
-## 03: Unsupervised Approaches Revisited - Clustering
-
-## 04: Unsupervised Approaches Revisited - Association Rules
-
-## 05: Unsupervised Approaches Revisited - Dimensional Reduction
-
-
-## 06: Neural networks
+## 04: Neural networks
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
 | 1    | :fireworks:    |[Neural networks](/unsupervised-learning/tutorial_neuralNetworks/)               |Introduction to neural networks          |
 
-
-## 07: Unsupervised networks
+## 05: Mathematical background
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :microscope:  |[Hopfield](/unsupervised-learning/tutorial_hopfield/)                      |Overview of Hopfield networks               |
+| 1    | :microscope:  |[Linear algebra]              |Overview of Linear Algebra     |
 
-## 08: Coding
+## 06: Coding
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
 | 1    | :milky_way:  |Python                        |Introduction to coding in Python                    |
-| 2    | :milky_way:  |Numpy                         |Introduction to Numpy library                    |
-| 3    | :milky_way:  |Pandas                        |Introduction to Pandas library                    |
-| 4    | :milky_way:  |Tensorflow                    |Introduction to Tensorflow library                    |
-| 5    | :milky_way:  |Keras                         |Introduction to Keras library                    |
-| 6    | :milky_way:  |PyTorch                       |Introduction to PyTorch library                    |
-| 7    | :milky_way:  |SciKit                        |Introduction to SciKit library                     |
-| 8    | :milky_way:  |IDEs                          |Introduction to exmaple IDEs e.g. Colab, Visual Studio Code|
+| 2    | :milky_way:  |Other Python libraries        |Introduction to Numpy, Pandas, etc libraries        |
+| 3    | :milky_way:  |Tensorflow & Keras            |Introduction to Tensorflow & Keras                  |
+| 4    | :milky_way:  |PyTorch                       |Introduction to PyTorch library                     |
+| 5    | :milky_way:  |SciKit                        |Introduction to SciKit library                      |
+
