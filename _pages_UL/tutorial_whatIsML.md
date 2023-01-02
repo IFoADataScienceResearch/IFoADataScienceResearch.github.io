@@ -40,17 +40,16 @@ The below schematic gives an overview of the relationship between artificial int
 
 Machine learning is a sub-category of artificial intelligence and refers to the process by which computers develop pattern recognition, or the ability to continuously learn from and predictions based on data, then adjust without being specifically programmed to do so. 
 
-There are two types of problems that machine learning can solve:
-*	<b>Regression analysis:</b> The problem we are trying to solve is if we can predict a "response variable" (i.e. observed outputs) based on a "predictor variable" (i.e. adjustable input) , for example, predicting a house price from the square metres of the house; and 
-*	<b>Classification:</b> The problem we are trying to solve is if we can determine what a particular instance belongs to, for example, is a particular email spam or not.
-
-The three major machine learning algorithms are as follows:
+The three major machine learning techniques we can use:
 *	<b>1. Supervised learning</b>: Supervised learning uses the dataset which contains both the predictor and response variables where the data is labelled, and it uses a known dataset to make future predictions or classifications;
 *	<b>2. Unsupervised learning</b>: Unsupervised learning uses the dataset which does not have a labelled response variable and is commonly used for clustering analysis i.e. to identify similar groups or patterns;
+*	<b>3. Reinforced learning</b>: Reinforced learning uses a series of "rewards" to develop our model.
+
+Further to the above, we also have:
 *	<b>3. Semi-supervised learning</b>: Semi-supervised learning uses the dataset which is partially labelled and the algorithm uses the labelled data to understand the parameters for interpreting the unlabelled data.
 
-<h3>Machine learning algorithm – Selection process</h3>
-The selection of machine learning algorithm depends on the data available and the question we want to ask.
+<h3>Machine learning areas</h3>
+The diagream below shows the different branches of Machine Learning:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial_MachineLearning.jpg){: .align-left}
 
