@@ -134,3 +134,9 @@ embedded-nav:
     children:
       - title: "Applying Analytics in Embedded Insurance"
         url: https://ifoadatascienceresearch.github.io/blog/Applying-Analytics-in-Embedded-Insurance/
+ 
+tutorial-nav:
+  - title: "Tutorials Home"
+    url: https://ifoadatascienceresearch.github.io/tutorials/
+
+ 
