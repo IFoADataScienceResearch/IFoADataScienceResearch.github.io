@@ -1,12 +1,12 @@
 ---
-permalink: /unsupervised-learning/tutorial_actuarialApplications/
+permalink: /tutorials/tutorial_actuarialApplications/
 classes: wide
 title: "Examples of Potential Actuarial Applications"
 author_profile: false
 toc: false
 sidebar:
   title: "Contents"
-  nav: unsupervised-nav
+  nav: tutorial-nav
 categories:
   - Tutorial
 tags:
