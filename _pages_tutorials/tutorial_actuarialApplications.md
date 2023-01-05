@@ -10,7 +10,8 @@ sidebar:
 categories:
   - Tutorial
 tags:
-  - Unsupervised Learning
+  - Actuarial
+  - Applications
   - Machine Learning
 ---
 
