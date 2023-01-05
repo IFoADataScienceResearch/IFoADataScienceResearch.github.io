@@ -55,7 +55,6 @@ Please find below a list of tutorials which cover topics on data science areas, 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
 | 1    | :milky_way:  |Python & Python-based libraries|Introduction to coding in Python and other usefule libraries e.g. Pandas, Numpy |
-| 2    | :milky_way:  |Tensorflow & Keras            |Introduction to Tensorflow & Keras                  |
-| 3    | :milky_way:  |PyTorch                       |Introduction to PyTorch library                     |
-| 4    | :milky_way:  |SciKit                        |Introduction to SciKit library                      |
+| 2    | :milky_way:  |ML frameworks                  |Introduction to Tensorflow & Keras, & PyTorch                                   |
+| 3    | :milky_way:  |SciKit                         |Introduction to SciKit library                      |
 
