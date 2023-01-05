@@ -1,12 +1,12 @@
 ---
-permalink: /unsupervised-learning/tutorial_clustering/
+permalink: /tutorials/tutorial_clustering/
 classes: wide
 title: "Clustering"
 author_profile: false
 toc: false
 sidebar:
   title: "Contents"
-  nav: unsupervised-nav
+  nav: tutorial-nav
 categories:
   - Tutorial
 tags:
