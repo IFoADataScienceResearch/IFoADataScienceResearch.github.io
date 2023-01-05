@@ -10,9 +10,8 @@ sidebar:
 categories:
   - Tutorial
 tags:
-  - Unsupervised Learning
-  - Machine Learning
   - AI
+  - Machine Learning
   - Deep Learning
 ---
 
