@@ -1,5 +1,5 @@
 ---
-permalink: /tutorial/tutorial_ULbackground/
+permalink: /tutorials/tutorial_ULbackground/
 classes: wide
 title: "Unsupervised Learning background"
 author_profile: false
