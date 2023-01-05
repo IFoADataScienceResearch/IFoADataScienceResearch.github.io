@@ -1,5 +1,4 @@
 ---
-permalink: /tutorials/tutorial_clustering/
 classes: wide
 title: "Clustering"
 author_profile: false

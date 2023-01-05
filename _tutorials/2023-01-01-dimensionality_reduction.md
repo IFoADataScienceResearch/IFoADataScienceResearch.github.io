@@ -1,5 +1,4 @@
 ---
-permalink: /tutorials/tutorial_dimensionality_reduction/
 classes: wide
 title: "Dimensionality Reduction"
 author_profile: false

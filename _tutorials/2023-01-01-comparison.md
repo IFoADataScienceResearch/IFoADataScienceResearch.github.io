@@ -1,5 +1,4 @@
 ---
-permalink: /tutorials/tutorial_comparison/
 classes: wide
 title: "Comparison of Supervised, Unsupervised, Semi-Supervised and Reinforcement "
 author_profile: false

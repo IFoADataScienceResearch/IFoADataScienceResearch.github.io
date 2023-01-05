@@ -1,5 +1,4 @@
 ---
-permalink: /tutorials/tutorial_realApplications/
 classes: wide
 title: "Examples of Real-World Applications"
 author_profile: false

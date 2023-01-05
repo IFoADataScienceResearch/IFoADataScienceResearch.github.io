@@ -28,7 +28,7 @@ main:
       - title: "Downloads & Links"
         url: /resources/
       - title: "Tutorials"
-        url: https://ifoadatascienceresearch.github.io/tutorials/
+        url: https://ifoadatascienceresearch.github.io/tutorial/tutoriallist/
   - title: "About"
     url: /about/
 

@@ -38,7 +38,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _pages_tutorials
+  - _tutorials
 
 # Analytics
 analytics:
@@ -127,8 +127,8 @@ defaults:
       author_profile: false
   # _pages_tutorials
   - scope:
-      path: "_pages_tutorials"
-      type: pages
+      path: "_tutorials"
+      type: posts
     values:
       layout: single
       author_profile: false

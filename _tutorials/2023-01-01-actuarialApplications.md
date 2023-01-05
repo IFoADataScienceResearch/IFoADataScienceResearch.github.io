@@ -1,5 +1,4 @@
 ---
-permalink: /tutorials/tutorial_actuarialApplications/
 classes: wide
 title: "Examples of Potential Actuarial Applications"
 author_profile: false
