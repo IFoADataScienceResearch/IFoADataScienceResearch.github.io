@@ -10,7 +10,9 @@ sidebar:
 categories:
   - Tutorial
 tags:
-  - Unsupervised Learning
+  - Machine Learning
+  - Data Science
+  - Applications
 ---
 
 
