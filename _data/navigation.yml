@@ -25,7 +25,7 @@ main:
     url: /tags/
   - title: "Resources"
     sublinks:
-      - title: "Donwloads & Links"
+      - title: "Downloads & Links"
         url: /resources/
       - title: "Tutorials"
         url: https://ifoadatascienceresearch.github.io/tutorials/
