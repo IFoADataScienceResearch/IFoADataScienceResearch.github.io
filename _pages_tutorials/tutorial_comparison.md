@@ -1,12 +1,12 @@
 ---
-permalink: /unsupervised-learning/tutorial_comparison/
+permalink: /tutorials/tutorial_comparison/
 classes: wide
 title: "Comparison of Supervised, Unsupervised, Semi-Supervised and Reinforcement "
 author_profile: false
 toc: false
 sidebar:
   title: "Contents"
-  nav: unsupervised-nav
+  nav: tutorial-nav
 categories:
   - Tutorial
 tags:
