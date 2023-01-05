@@ -1,12 +1,12 @@
 ---
-permalink: /unsupervised-learning/tutorial_realApplications/
+permalink: /tutorials/tutorial_realApplications/
 classes: wide
 title: "Examples of Real-World Applications"
 author_profile: false
 toc: false
 sidebar:
   title: "Contents"
-  nav: unsupervised-nav
+  nav: tutorial-nav
 categories:
   - Tutorial
 tags:
