@@ -1,12 +1,12 @@
 ---
-permalink: /unsupervised-learning/tutorial_dimensionality_reduction/
+permalink: /tutorials/tutorial_dimensionality_reduction/
 classes: wide
 title: "Dimensionality Reduction"
 author_profile: false
 toc: false
 sidebar:
   title: "Contents"
-  nav: unsupervised-nav
+  nav: tutorial-nav
 categories:
   - Tutorial
 tags:
