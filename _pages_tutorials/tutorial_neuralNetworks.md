@@ -1,16 +1,16 @@
 ---
-permalink: /unsupervised-learning/tutorial_neuralNetworks/
+permalink: /tutorials/tutorial_neuralNetworks/
 classes: wide
 title: "Neural Networks"
 author_profile: false
 toc: false
 sidebar:
   title: "Contents"
-  nav: unsupervised-nav
+  nav: tutorial-nav
 categories:
   - Tutorial
 tags:
-  - Unsupervised Learning
+  - Neural Networks
 ---
 
 
