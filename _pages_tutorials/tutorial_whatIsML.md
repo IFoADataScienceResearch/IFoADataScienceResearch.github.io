@@ -1,12 +1,12 @@
 ---
-permalink: /unsupervised-learning/tutorial_whatIsML/
+permalink: /tutorials/tutorial_whatIsML/
 classes: wide
 title: "What is Machine Learning?"
 author_profile: false
 toc: false
 sidebar:
   title: "Contents"
-  nav: unsupervised-nav
+  nav: tutorial-nav
 categories:
   - Tutorial
 tags:
