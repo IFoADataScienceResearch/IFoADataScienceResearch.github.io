@@ -38,23 +38,25 @@ Please find below a list of tutorials which cover topics on data science areas, 
 | 2    | :bar_chart:   |Association rules                      |Overview of association rules techniques and applications                    |
 | 3    | :bar_chart:   |[Dimensionality reduction](/tutorials/tutorial_dimensionality_reduction/)        |Overview of dimensionality reduction techniques and applications                    |
 
-## 04: Neural networks
+## 04: Overview of Reinforcement Learning Approaches
 
-| Entry|               |Link                          |Description                    |
-| -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :fireworks:    |[Neural networks](/tutorials/tutorial_neuralNetworks/)               |Introduction to neural networks          |
+## 05: Neural networks
 
-## 05: Mathematical background
+| Entry|               |Link                                                          |Description                     |
+| -----| ------------- |------------------------------------------------------------- |--------------------------------|
+| 1    | :fireworks:   |[Neural networks](/tutorials/tutorial_neuralNetworks/)        |Introduction to neural networks |
+
+## 06: Mathematical background
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
 | 1    | :microscope:  |Linear algebra                |Overview of Linear Algebra     |
 
-## 06: Coding
+## 07: Coding
 
-| Entry|               |Link                          |Description                    |
-| -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :milky_way:  |Python & Python-based libraries|Introduction to coding in Python and other usefule libraries e.g. Pandas, Numpy |
-| 2    | :milky_way:  |ML frameworks                  |Introduction to Tensorflow & Keras, & PyTorch                                   |
-| 3    | :milky_way:  |SciKit                         |Introduction to SciKit library                      |
+| Entry|               |Link                          |Description                                                                     |
+| -----| ------------- |----------------------------- |--------------------------------------------------------------------------------|
+| 1    | :milky_way:  |Python & Python-based libraries|Introduction to coding in Python and other useful libraries e.g. Pandas, Numpy  |
+| 2    | :milky_way:  |ML frameworks                  |Introduction to Tensorflow, Keras, & PyTorch                                    |
+| 3    | :milky_way:  |SciKit                         |Introduction to SciKit library                                                  |
 
