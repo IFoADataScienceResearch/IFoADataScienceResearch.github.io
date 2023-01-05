@@ -16,7 +16,7 @@ tags:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_tutorials/tutorial.jpg){: .align-left}
 
 
 <h3>Introduction</h3>

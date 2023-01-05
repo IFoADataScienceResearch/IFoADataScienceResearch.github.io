@@ -13,7 +13,7 @@ tags:
   - Clustering
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/UL_tutorial.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_tutorials/tutorial.jpg){: .align-left}
 
 <h3>Introduction</h3>
 Clustering is an unsupervised learning method and is a technique which groups unlabelled data based on their similarities. 

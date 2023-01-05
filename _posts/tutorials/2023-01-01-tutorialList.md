@@ -12,7 +12,7 @@ tags:
   - Data Science
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/tutorials.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_tutorials/tutorials.jpg){: .align-left}
 
 Please find below a list of tutorials which cover topics on data science areas, as well as other useful resources including technical background and coding approaches.
 
