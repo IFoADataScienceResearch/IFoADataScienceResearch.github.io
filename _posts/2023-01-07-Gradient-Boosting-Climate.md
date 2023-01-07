@@ -9,11 +9,11 @@ sidebar:
   - title: ["Asif John"](https://www.linkedin.com/in/asifjohn/)
   - title: ["Stathis Kroustalis"] 
   - title: ["Debashish Dey"](https://www.linkedin.com/in/debashish-dey-669025a3/)
-  - title: ["Konstantin Kutzkov"](https://www.linkedin.com/in/🇺🇦-konstantin-kutzkov-10a98667/?originalSubdomain=bg)
+  - title: ["Konstantin Kutzkov"]()
 categories:
-  - Research
+  - Blog
 tags:
-  - Actuarial Journals
+  - Research Papers
   - Climate
   - Boosting
   - LightGBM
