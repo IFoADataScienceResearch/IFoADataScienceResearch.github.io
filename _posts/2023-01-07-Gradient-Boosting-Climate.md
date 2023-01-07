@@ -22,7 +22,7 @@ tags:
 ---
 
 Originally published by The Instituto de Actuarios Espanioles, December 2022. © Instituto de Actuarios Espanioles. <br>
-<a href="[https://www.theactuary.com/features/2020/07/08/pieces-technology-puzzle](https://www.actuarios.org/anales2022_6/)"> Click here to summary page at the main site for the Journal.</a>.
+<a href="[https://www.actuarios.org/anales2022_6/](https://www.actuarios.org/anales2022_6/)"> Click here to summary page at the main site for the Journal.</a>.
 {: .notice}
 
 <b> Abstract </b>
