@@ -11,7 +11,6 @@ sidebar:
   - title: "Debashish Dey"
   - title: "Konstantin Kutzkov" 
 categories:
-  - Blog
   - Research
 tags:
   - Actuarial Journals
