@@ -4,11 +4,11 @@ author_profile: false
 classes: wide
 comments: true
 sidebar:
-  - title: ["George Tzougas"](https://www.researchgate.net/profile/George-Tzougas-2)
-  - title: ["Viet Dang"](https://www.linkedin.com/in/viet-dang-phd-6786151a2/)
-  - title: ["Asif John"](https://www.linkedin.com/in/asifjohn/)
+  - title: "George Tzougas"
+  - title: "Viet Dang"
+  - title: "Asif John"
   - title: "Stathis Kroustalis" 
-  - title: ["Debashish Dey"](https://www.linkedin.com/in/debashish-dey-669025a3/)
+  - title: "Debashish Dey"
   - title: "Konstantin Kutzkov"
 categories:
   - Blog
