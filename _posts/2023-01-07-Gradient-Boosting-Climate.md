@@ -7,9 +7,9 @@ sidebar:
   - title: ["George Tzougas"](https://www.researchgate.net/profile/George-Tzougas-2)
   - title: ["Viet Dang"](https://www.linkedin.com/in/viet-dang-phd-6786151a2/)
   - title: ["Asif John"](https://www.linkedin.com/in/asifjohn/)
-  - title: ["Stathis Kroustalis"] 
+  - title: "Stathis Kroustalis" 
   - title: ["Debashish Dey"](https://www.linkedin.com/in/debashish-dey-669025a3/)
-  - title: ["Konstantin Kutzkov"]()
+  - title: "Konstantin Kutzkov"
 categories:
   - Blog
 tags:
