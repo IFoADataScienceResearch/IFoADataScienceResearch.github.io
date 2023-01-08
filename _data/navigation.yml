@@ -21,8 +21,12 @@ main:
         url: https://ifoadatascienceresearch.github.io/embedded-insurance/
   - title: "Events"
     url: /events/
-  - title: "Articles"
-    url: /tags/
+  - title: "Posts"
+    sublinks:
+      - title: "By category"
+        url: /categories/
+      - title: "By tag"
+        url: /tags/
   - title: "Resources"
     sublinks:
       - title: "Downloads & Links"
