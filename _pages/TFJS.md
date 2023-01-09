@@ -1,5 +1,6 @@
-layout: splash
+---
 permalink: /TFJS/
+---
 
 <html>
 <head></head>
