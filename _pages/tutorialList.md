@@ -1,4 +1,5 @@
 ---
+permalink: /tutorials/tutorialList/
 layout: splash
 header:
   overlay_image: /assets/images_for_tutorials/tutorials.jpg
