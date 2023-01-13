@@ -159,7 +159,11 @@ vis-nav:
         url: https://ifoadatascienceresearch.github.io/blog/python-dashboard/
       - title: "Singapore GI Market Dashboard"
         url: https://ifoadatascienceresearch.github.io/blog/Singpore-GI-dashboard/
-        
+
+#W11 - contents & webpages
+contents-webpages-nav:
+
+
 #W09 - Data Analytics in Embedded Insurance 
 embedded-nav:
   - title: "Blog Posts"
@@ -169,6 +173,12 @@ embedded-nav:
 
 #W10 - Supervised learning
 statistical-nav:
+
+#W11 - Algorithmic fairness
+algo-nav:
+
+#W12 - Bayesian methods
+bayesian-nav:
 
 
         
