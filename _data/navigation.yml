@@ -177,10 +177,21 @@ statistical-nav:
 
 #W11 - Algorithmic fairness
 algo-nav:
-
+  - title: "Homepage"
+    url: https://ifoadatascienceresearch.github.io/algorithmic-fairness/
+  - title: "Publications"
+    url: https://ifoadatascienceresearch.github.io/algorithmic-fairness/publications/
+  - title: "Members"
+    url: https://ifoadatascienceresearch.github.io/algorithmic-fairness/members/
+    
 #W12 - Bayesian methods
 bayesian-nav:
-
+  - title: "Homepage"
+    url: https://ifoadatascienceresearch.github.io/bayesian-methods/
+  - title: "Publications"
+    url: https://ifoadatascienceresearch.github.io/bayesian-methods/publications/
+  - title: "Members"
+    url: https://ifoadatascienceresearch.github.io/bayesian-methods/members/
 
         
  
