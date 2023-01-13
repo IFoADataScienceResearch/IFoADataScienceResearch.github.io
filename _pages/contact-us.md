@@ -1,11 +1,11 @@
 ---
-permalink: /unsupervised-learning/contact/
+permalink: /contact-us/
 classes: wide
 title: "Contact us"
 author_profile: false
 toc: false
 sidebar:
-  title: "Contents"
+  title: "Contact form"
   nav: unsupervised-nav
 ---
 
