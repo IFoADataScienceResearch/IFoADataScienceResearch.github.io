@@ -1,12 +1,17 @@
 ---
 permalink: /members/
+layout: splash
+header:
+  overlay_image: /assets/images/about.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 classes: wide
 title: "Members' Profile"
 author_profile: false
-sidebar:
-  title: "Site Navigation"
-  nav: about-nav
+toc: false
 ---
+
+{% include feature_row %}
+
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/john.jfif){: .align-left}{: width="200" } John Ng <br> <small> John Ng is Senior Data Scientist and Actuary at RGA, providing predictive modelling solutions and research insights for clients on mortality, morbidity, biometrics, actuarial pricing and digital distribution. Previously he designed and led Automated Machine Learning platforms to price a range of personal lines products. John is passionate about promoting the adoption of advance and responsible data science within the actuarial community. </small>
 <br>
