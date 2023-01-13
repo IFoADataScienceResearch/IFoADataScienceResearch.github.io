@@ -84,16 +84,15 @@ about-nav:
       - title: "Bayesian Methods"
         url: https://ifoadatascienceresearch.github.io/bayesian-methods/
 
+
 #Navigation for Tutorial page
 tutorial-nav:
   - title: "Tutorials Home"
     url: https://ifoadatascienceresearch.github.io/tutorial/tutorialList/
 
 
+
 #Navigation for individual Working Parties
-
-
-
 
 #W01 - Supervised learning
 super-nav:
