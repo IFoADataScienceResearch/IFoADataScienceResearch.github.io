@@ -1,18 +1,16 @@
 ---
+layout: splash
+header:
+  overlay_image: /assets/images_for_tutorials/tutorials.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 classes: wide
 title: "Data Science Tutorials"
 author_profile: false
-toc: true
-sidebar:
-  title: "Contents"
-  nav: tutorial-nav
-categories:
-  - Tutorial
-tags:
-  - Data Science
+toc: false
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_tutorials/tutorials.jpg){: .align-left}
+{% include feature_row %}
+
 
 Please find below a list of tutorials which cover topics on data science areas, as well as other useful resources including technical background and coding approaches.
 
