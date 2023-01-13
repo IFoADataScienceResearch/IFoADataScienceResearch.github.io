@@ -1,7 +1,7 @@
 ---
 permalink: /contents-webpages/
 classes: wide
-title: "IFoA Algorithmic Fairness Working Party"
+title: "IFoA Contents & Webpages Working Party"
 author_profile: false
 toc: false
 sidebar:
