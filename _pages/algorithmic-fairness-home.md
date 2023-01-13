@@ -10,7 +10,7 @@ sidebar:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/algorithmic_fairness.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/algorithmic-fairness.jpg){: .align-left}
 
 
 <br />
