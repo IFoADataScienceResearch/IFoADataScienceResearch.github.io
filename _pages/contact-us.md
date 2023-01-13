@@ -2,7 +2,7 @@
 permalink: /contact-us/
 layout: splash
 header:
-  overlay_image: /assets/images/splash-image/images/contact.jpg
+  overlay_image: /assets/images/images/contact.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 classes: wide
 title: "Contact us"
@@ -10,14 +10,11 @@ author_profile: false
 toc: false
 ---
 
-# Contact us
 {% include feature_row %}
 
 If you have any queries, suggestions, would like to volunteer or contribute, we would love to hear from you!  
 
 Please contact us via the form below.
-
-<h3>Contact form</h3>
 
 <form accept-charset="UTF-8" action="mailto:debsdey@hotmail.com" enctype="multipart/form-data" target="_blank">
           <div class="form-group">
