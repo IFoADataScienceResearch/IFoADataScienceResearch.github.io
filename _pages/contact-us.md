@@ -8,10 +8,12 @@ sidebar:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/contact.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/contact.jpg){: .align-left}
 
-If you have any queries, suggestions, volunteer or contribute, we would love to hear from you!  Please contact us via the form below.
 
+If you have any queries, suggestions, would like to volunteer or contribute, we would love to hear from you!  
+
+Please contact us via the form below.
 
 <h3>Contact form</h3>
 
