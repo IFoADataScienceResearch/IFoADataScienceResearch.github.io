@@ -8,7 +8,7 @@ sidebar:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/contact.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/contact.jpg){: .align-left}
 
 
 If you have any queries, suggestions, would like to volunteer or contribute, we would love to hear from you!  
