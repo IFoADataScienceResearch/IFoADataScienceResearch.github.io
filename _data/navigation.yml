@@ -1,3 +1,4 @@
+#Main navigation for dropdown menu
 main:
   - title: "Working Parties"
     sublinks:
@@ -42,6 +43,7 @@ main:
   - title: "About"
     url: /about/
 
+#Navigation for About page
 about-nav:
   - title: "General"
     children:
@@ -79,14 +81,26 @@ about-nav:
         url: https://ifoadatascienceresearch.github.io/algorithmic-fairness/
       - title: "Bayesian Methods"
         url: https://ifoadatascienceresearch.github.io/bayesian-methods/
-   
-       
+
+#Navigation for Tutorial page
+tutorial-nav:
+  - title: "Tutorials Home"
+    url: https://ifoadatascienceresearch.github.io/tutorial/tutorialList/
+
+
+#Navigation for individual Working Parties
+
+
+
+
+#W01 - Supervised learning
 super-nav:
   - title: "Blog Posts"
     children:
       - title: "Supervised learning techniques in claims frequency modelling"
         url: https://ifoadatascienceresearch.github.io/blog/supervised-learning-techniques-in-claims-frequency/
-        
+
+#W02 - Federated learning
 federated-nav:
   - title: "Events"
     children:
@@ -104,7 +118,8 @@ federated-nav:
         url: https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/
       - title: "All together now: modelling claims using federated learning"
         url: https://ifoadatascienceresearch.github.io/blog/all-together-now/
-        
+
+#W03 - Natural Language
 nlp-nav:
   - title: "Events"
     children:
@@ -116,21 +131,8 @@ nlp-nav:
         url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
       - title: "From raw to processed tweets"
         url: https://ifoadatascienceresearch.github.io/blog/from-raw-to-processed-tweets/
-        
-vis-nav:
-  - title: "Blog Posts"
-    children:
-      - title: "Python Visualisation Dashboard"
-        url: https://ifoadatascienceresearch.github.io/blog/python-dashboard/
-      - title: "Singapore GI Market Dashboard"
-        url: https://ifoadatascienceresearch.github.io/blog/Singpore-GI-dashboard/
 
-xai-nav:
-  - title: "Blog Posts"
-    children:
-      - title: "All clear: How Shapley values make opaque models more transparent"
-        url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
-        
+#W04 - Unsupervised learning
 unsupervised-nav:
   - title: "Homepage"
     url: https://ifoadatascienceresearch.github.io/unsupervised-learning/
@@ -139,19 +141,39 @@ unsupervised-nav:
   - title: "Members"
     url: https://ifoadatascienceresearch.github.io/unsupervised-learning/members/
 
+#W05 - Supervised learning
 deeplearning-nav:
 
-statistical-nav:
+#W06 - Explainable AI
+xai-nav:
+  - title: "Blog Posts"
+    children:
+      - title: "All clear: How Shapley values make opaque models more transparent"
+        url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
 
+#W07 - Explainable AI
+vis-nav:
+  - title: "Blog Posts"
+    children:
+      - title: "Python Visualisation Dashboard"
+        url: https://ifoadatascienceresearch.github.io/blog/python-dashboard/
+      - title: "Singapore GI Market Dashboard"
+        url: https://ifoadatascienceresearch.github.io/blog/Singpore-GI-dashboard/
+        
+#W09 - Data Analytics in Embedded Insurance 
 embedded-nav:
   - title: "Blog Posts"
     children:
       - title: "Applying Analytics in Embedded Insurance"
         url: https://ifoadatascienceresearch.github.io/blog/Applying-Analytics-in-Embedded-Insurance/
+
+#W10 - Supervised learning
+statistical-nav:
+
+
+        
  
-tutorial-nav:
-  - title: "Tutorials Home"
-    url: https://ifoadatascienceresearch.github.io/tutorial/tutorialList/
+
 
  
  
