@@ -2,7 +2,7 @@
 permalink: /about/
 layout: splash
 header:
-  overlay_image: /assets/images/images/contact.jpg
+  overlay_image: /assets/images/about.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 classes: wide
 title: "About"
