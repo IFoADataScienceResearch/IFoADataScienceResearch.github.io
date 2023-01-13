@@ -69,10 +69,17 @@ about-nav:
         url: https://ifoadatascienceresearch.github.io/explainable-ai/
       - title: "Data Visualisation"
         url: https://ifoadatascienceresearch.github.io/data-visualisation/
-      - title: "Statistical Learning in Actuarial Applications"
-        url: https://ifoadatascienceresearch.github.io/statistical-learning/
+      - title: "Contents & Webpages"
+        url: https://ifoadatascienceresearch.github.io/contents-webpages/
       - title: "Data Analytics in Embedded Insurance"
         url: https://ifoadatascienceresearch.github.io/embedded-insurance/
+      - title: "Statistical Learning in Actuarial Applications"
+        url: https://ifoadatascienceresearch.github.io/statistical-learning/
+      - title: "Algorithmic Fairness"
+        url: https://ifoadatascienceresearch.github.io/algorithmic-fairness/
+      - title: "Bayesian Methods"
+        url: https://ifoadatascienceresearch.github.io/bayesian-methods/
+   
        
 super-nav:
   - title: "Blog Posts"
