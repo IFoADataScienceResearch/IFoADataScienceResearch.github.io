@@ -17,17 +17,19 @@ We aim to achieve this by:
 2. Conducting research and case studies, including but not limited to pricing, underwriting, capital modelling, mortality, morbidity, fraud, customer behaviour, privacy and technology
 3. Publishing data science case studies and papers, via The Actuary magazine, journals, webinars, web blogs, LinkedIn and conferences
 
-The IFoA Data Science Research Section consists of 10 working parties:
-1. Statistical Learning in Actuarial Application Working Party
-2. Federated Learning Working Party
-3. Supervised Learning Working Party
-4. Natural Language Processing (NLP) Working Party
-5. Unsupervised Learning Working Party
-6. Deep Learning Working Party
-7. Explainable Artificial Intelligence (xAI) Working Party
-8. Data Visualisation Working Party
-9. Data Analytics in Embedded Insurance Working Party
-10. Data Science Contents and Webpage Working Party
+The IFoA Data Science Research Section consists of the following working parties:
+1. Supervised Learning 
+2. Federated Learning
+3. Natural Language Processing (NLP)
+4. Unsupervised Learning
+5. Deep Learning Working Party
+6. Explainable Artificial Intelligence (xAI)
+7. Data Visualisation
+8. Data Science Contents and Webpage
+9. Data Analytics in Embedded Insurance
+10.Statistical Learning in Actuarial Application
+11.Algorithmic Fairness
+12.Bayesian Methods
 
 ## Committee
 
