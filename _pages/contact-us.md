@@ -5,8 +5,6 @@ title: "Contact us"
 author_profile: false
 toc: false
 sidebar:
-  title: "Contact form"
-  nav: unsupervised-nav
 ---
 
 
