@@ -21,20 +21,6 @@ We aim to achieve this by:
 2. Conducting research and case studies, including but not limited to pricing, underwriting, capital modelling, mortality, morbidity, fraud, customer behaviour, privacy and technology
 3. Publishing data science case studies and papers, via The Actuary magazine, journals, webinars, web blogs, LinkedIn and conferences
 
-The IFoA Data Science Research Section consists of the following working parties:
-1. Supervised Learning 
-2. Federated Learning
-3. Natural Language Processing (NLP)
-4. Unsupervised Learning
-5. Deep Learning Working Party
-6. Explainable Artificial Intelligence (xAI)
-7. Data Visualisation
-8. Data Science Contents and Webpage
-9. Data Analytics in Embedded Insurance
-10. Statistical Learning in Actuarial Application
-11. Algorithmic Fairness
-12. Bayesian Methods
-
 ## Committee
 
 Chair of Research Section: <a href="https://www.linkedin.com/in/aiglauer/?originalSubdomain=ch"> Alexis Iglauer </a> <br>
@@ -48,9 +34,6 @@ Chair of Explainable Artificial Intelligence (XAI) WP: <a href href="https://www
 Chair of Data Visualisation WP: <a href href="https://www.linkedin.com/in/eilish-bouse-655194b2/"> Eilish Bouse </a> <br>
 Chair of Data Analytics in Embedded Insurance WP: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
 Chair of Data Science Contents and Webpage WP: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
-
-## Contact us
-If you have any questions about the IFoA Data Science Research Section, please contact <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> or the Professional Communities Team (professional.communities@actuaries.org.uk)
 
 ## Disclaimer
 The views expressed on this site are those of invited contributors and not necessarily those of the Institute and Faculty of Actuaries. The Institute and Faculty of Actuaries do not endorse any of the views stated, nor any claims or representations made on this site and accept no responsibility or liability to any person for loss or damage suffered as a consequence of their placing reliance upon any view, claim or representation made on this site. 
