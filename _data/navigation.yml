@@ -42,6 +42,8 @@ main:
         url: https://ifoadatascienceresearch.github.io/tutorial/tutorialList/
   - title: "About"
     url: /about/
+  - title: "Conact us"
+    url: /contact-us/
 
 #Navigation for About page
 about-nav:
