@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title                   : IFoA Data Science
-subtitle                : Data Science Research Section & Research Working Parties
+subtitle                : Research Section
 email                   :
 description             : IFoA Data Science Research & Research Working Parties
 baseurl                 : /
