@@ -2,7 +2,7 @@
 permalink: /contact-us/
 layout: splash
 header:
-  overlay_image: /assets/images/images/contact.jpg
+  overlay_image: /assets/images/contact.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 classes: wide
 title: "Contact us"
