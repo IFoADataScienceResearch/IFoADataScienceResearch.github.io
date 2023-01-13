@@ -1,15 +1,17 @@
 ---
 permalink: /contact-us/
+layout: splash
+header:
+  overlay_image: /assets/images/splash-image/images/contact.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 classes: wide
 title: "Contact us"
 author_profile: false
 toc: false
-sidebar:
 ---
 
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/contact.jpg){: .align-left}
-
+# Contact us
+{% include feature_row %}
 
 If you have any queries, suggestions, would like to volunteer or contribute, we would love to hear from you!  
 
@@ -32,3 +34,5 @@ Please contact us via the form below.
           </div>
           <button type="submit" class="btn btn-primary">Submit</button>
         </form>
+        
+
