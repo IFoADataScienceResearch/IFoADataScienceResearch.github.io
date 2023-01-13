@@ -1,13 +1,17 @@
 ---
 permalink: /about/
+layout: splash
+header:
+  overlay_image: /assets/images/images/contact.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 classes: wide
 title: "About"
 author_profile: false
-toc: true
-sidebar:
-  title: "Site Navigation"
-  nav: about-nav
+toc: false
 ---
+
+{% include feature_row %}
+
 
 The Institute and Faculty of Actuaries (IFoA) Data Science Research Section is an international research community, consisting of actuaries, data scientists, statisticians and academics meeting regularly to research and develop data science techniques in actuarial and insurance applications. We organised and disseminate our works through research working parties.
 
