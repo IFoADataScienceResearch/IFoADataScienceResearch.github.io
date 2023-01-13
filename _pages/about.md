@@ -27,9 +27,9 @@ The IFoA Data Science Research Section consists of the following working parties
 7. Data Visualisation
 8. Data Science Contents and Webpage
 9. Data Analytics in Embedded Insurance
-10.Statistical Learning in Actuarial Application
-11.Algorithmic Fairness
-12.Bayesian Methods
+10. Statistical Learning in Actuarial Application
+11. Algorithmic Fairness
+12. Bayesian Methods
 
 ## Committee
 
