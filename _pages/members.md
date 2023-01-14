@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/members.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 classes: wide
-title: "Members' Profile"
+title: "Member Profiles"
 author_profile: false
 toc: false
 ---
