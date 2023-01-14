@@ -9,6 +9,3 @@ author_profile: false
 toc: false
 
 ---
-
-<object data="../assets/pdfs/FL_predictive_maintenance.pdf" width="1000" height="1000" type='application/pdf'></object>
-
