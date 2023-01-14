@@ -29,7 +29,7 @@ Please contact us via the form below.  Alternatively, if you have any questions 
             <label for="exampleMessage">Message</label>
               <textarea type="text" id="message" class="form-control" name="message" rows="4" cols="50" placeholder="Enter your message here" required="required"></textarea>
           </div>
-          <button type="submit" class="btn btn-primary">Submit</button>
+          <button type="submit" class="btn btn--info">Submit</button>
         </form>
         
 
