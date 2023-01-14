@@ -1,0 +1,80 @@
+---
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: splash
+permalink: /home2/
+hidden: true
+header:
+  # overlay_color: "#5e616c"
+  overlay_image: /assets/images/splash-image/splash-pencil.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Read Now"
+      url: "https://ifoadatascienceresearch.github.io/about/"
+excerpt: > 
+    We are an international research community of actuaries, data scientists, statisticians and academics. <br />
+
+feature_row_group:
+
+  - image_path: /assets/images_for_posts/all-together-now/All-together-now_Figure-3.jpg
+    title: "All together now: modelling claims using federated learning"
+    excerpt: "Read more as Małgorzata, Dylan and Claudio discuss federated learning and how to model claims anonymously using this new technique.<br><small>Originally published by The Actuary, September 2021. © The Institute and Faculty of Actuaries.</small>"
+    url: "https://ifoadatascienceresearch.github.io/blog/all-together-now/"
+    btn_class: "btn--primary"
+    btn_label: "Read More"
+
+  - image_path: /assets/images/cover/actuarymagazinejul2021.jpg
+    title: "Supervised learning techniques in claims frequency modelling"
+    excerpt: "Read on as Neptune Jin shares the Data Science Research Section’s work looking at the merits of different supervised learning techniques for claim frequency modelling.<br><small>Originally published by The Actuary, July 2021. © The Institute and Faculty of Actuaries.</small>"
+    url: "https://ifoadatascienceresearch.github.io/blog/supervised-learning-techniques-in-claims-frequency/"
+    btn_class: "btn--primary"
+    btn_label: "Read More"
+
+  - image_path: /assets/images/cover/actuarymagazinemar2021.jpg
+    title: "Insurance: Collaboration without compromise"
+    excerpt: "Learn more as Małgorzata Śmietanka introduces the opportunities for federated learning and privacy-preserving data access in insurance. <br><small>Originally published by The Actuary, March 2021. © The Institute and Faculty of Actuaries.</small>"
+    url: "https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/"
+    btn_class: "btn--primary"
+    btn_label: "Read More"
+
+feature_row_visuals:
+
+  - image_path: /assets/images/cover/py_dashboard.PNG
+    title: "Python Visualisation Dashboard"
+    excerpt: "Try out the latest python visualisation dashboard created by Afzaal Ahmed that explores claims from the French motor third-party liability (MTPL) insurance portfolio."
+    url: "https://ifoadatascienceresearch.github.io/blog/python-dashboard/"
+    btn_class: "btn--primary"
+    btn_label: "Read More"
+
+feature_row_6:
+
+  - image_path: /assets/images_for_posts/all-clear-shapley-values/01.png
+    title: "All clear: How Shapley values make opaque models more transparent"
+    excerpt: "Karol Gawlowksi, Christian Richard and Dylan Liew show how Shapley values can be used to make opaque models more transparent.<small>Originally published by The Actuary, March 2022. © The Institute and Faculty of Actuaries. </small>"
+    url: "https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/"
+    btn_class: "btn--primary"
+    btn_label: "Read More"
+
+feature_row_7:
+
+  - image_path: /assets/images/cover/climate.png
+    title: "Classification of climate-related insurance claims using gradient boosting"
+    excerpt: "Research article published showing the use of gradient boosting techniques, using open source LightGBM package, to classify climate-related insurance claims.<br><small>Originally published by the Instituto de Actuarios Espanioles, December 2022. © Instituto de Actuarios Espanioles.</small>"
+    url: "https://ifoadatascienceresearch.github.io/blog/Gradient-Boosting-Climate/"
+    btn_class: "btn--primary"
+    btn_label: "Read More"     
+---
+
+<p style="font-size:30px;font-family:arial"><b>Featured articles of the month</b></p>
+{% include feature_row id="feature_row_7" type="left" %}
+{% include feature_row id="feature_row_6" type="right" %}
+
+<p style="font-size:30px;font-family:arial"><b>Other recent articles</b></p>
+{% include feature_row id="feature_row_group" %}
+
+<p style="font-size:30px;font-family:arial"><b>Visuals</b></p>
+{% include feature_row id="feature_row_visuals" type="left" %}
+
+<p style="font-size:30px;font-family:arial"><b>Latest Knowledge Sharing Session</b></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K0URbeLdKAw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
