@@ -12,6 +12,8 @@ toc: false
 
 Please find below a list of tutorials which cover topics on data science areas, as well as other useful resources including technical background and coding approaches.
 
+
+
 <html>
 
 <head>
@@ -170,9 +172,8 @@ body .container .card .box .content a:hover {
           <p><a href="/tutorial/whatIsML/">Applications for actuaries</a></p>
         </div>
       </div>
-  </div>
-      
     </div>
+  </div>
 
 </body>
 
