@@ -30,3 +30,18 @@ Małgorzata Śmietanka is PhD researcher in the UCL Computer Science Department,
 <hr>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/afzaal-ahmed.jpg){: .align-left}{: width="200" } Afzaal Ahmed <br> <small> Afzaal is a qualified Actuary with experience primarily within life insurance consulting, where he specialised in modelling and transaction engagements. In recent years he has been involved in the technology space where he specialised in the development and sale of web applications directly to end-users. Afzaal is passionate about solution development within the field of data analysis. </small>
 
+
+## Committee
+
+Chair of Research Section: <a href="https://www.linkedin.com/in/aiglauer/?originalSubdomain=ch"> Alexis Iglauer </a> <br>
+Academic Chair of Statistical Learning in Actuarial Applications WP: <a href="https://researchportal.hw.ac.uk/en/persons/george-tzougas"> Associate Professor George Tzougas </a> <br>
+Chair of Federated Learning WP: <a href href="https://www.linkedin.com/in/ma%C5%82gorzata-%C5%9Bmietanka-a1963a112/"> Malgorzata Smietanka </a> <br>
+Chair of Supervised Learning WP: <a href href="https://www.linkedin.com/in/neptune-jin-0a1aba93/"> Neptune Jin </a> <br>
+Chair of Natural Language Processing (NLP) WP: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
+Chair of Unsupervised Learning WP: <a href="https://www.linkedin.com/in/debashish-dey-669025a3/"> Debashish Dey </a> <br>
+Chair of Deep Learning WP: <a href href="https://www.linkedin.com/in/pieter-knox/"> Pieter Knox </a> <br>
+Chair of Explainable Artificial Intelligence (XAI) WP: <a href href="https://www.linkedin.com/in/jonathan-bowden-22433b27/"> Jonathan Bowden </a> <br>
+Chair of Data Visualisation WP: <a href href="https://www.linkedin.com/in/eilish-bouse-655194b2/"> Eilish Bouse </a> <br>
+Chair of Data Analytics in Embedded Insurance WP: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
+Chair of Data Science Contents and Webpage WP: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
+
