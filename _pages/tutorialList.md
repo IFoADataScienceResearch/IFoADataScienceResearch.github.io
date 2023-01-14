@@ -111,7 +111,7 @@ body .container .card .box .content h3 {
 }
 
 body .container .card .box .content p {
-  font-size: 0.6rem;
+  font-size: 0.9rem;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.9);
   z-index: 1;
@@ -134,12 +134,12 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>01</h2>
               <h3>Machine Learning Background</h3>
-              <p><i class="fa-solid fa-atom-simple"></i> <a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
-              <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Supervised Learning</a></p>
-              <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Unsupervised Learning</a></p>
-              <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Comparison of methods</a></p>
-              <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Real-world applications</a></p>
-              <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Applications for actuaries</a></p>
+              <p><i class="fa-solid fa-microchip"></i><a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
+              <p><a href="/tutorial/whatIsML/">Supervised Learning</a></p>
+              <p><a href="/tutorial/whatIsML/">Unsupervised Learning</a></p>
+              <p><a href="/tutorial/whatIsML/">Comparison of methods</a></p>
+              <p></i> <a href="/tutorial/whatIsML/">Real-world applications</a></p>
+              <p></i> <a href="/tutorial/whatIsML/">Applications for actuaries</a></p>
             </div>
           </div>
       </div>
