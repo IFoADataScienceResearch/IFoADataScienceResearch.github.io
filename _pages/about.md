@@ -41,3 +41,18 @@ Chair of Data Science Contents and Webpage WP: <a href href="https://www.linkedi
 The views expressed on this site are those of invited contributors and not necessarily those of the Institute and Faculty of Actuaries. The Institute and Faculty of Actuaries do not endorse any of the views stated, nor any claims or representations made on this site and accept no responsibility or liability to any person for loss or damage suffered as a consequence of their placing reliance upon any view, claim or representation made on this site. 
 
 The information and expressions of opinion contained on this site are not intended to be a comprehensive study, nor to provide actuarial advice or advice of any nature and should not be treated as a substitute for specific advice concerning individual situations. On no account may any part of this publication be reproduced without the written permission of the Institute and Faculty of Actuaries.
+
+
+{% capture notice-2 %}
+**Extended notice box**:
+* You can include lists
+* and even fenced code blocks:
+
+```html
+<html>
+  <body>Some body.<body>
+</html>
+```
+{% endcapture %}
+
+<div class="notice">{{ notice-2 | markdownify }}</div>
