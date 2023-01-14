@@ -149,9 +149,9 @@ body .container .card .box .content a:hover {
           <div class="box">
             <div class="content">
               <h2>01</h2>
-              <h3>Card One</h3>
+              <h3>Supervised Learning</h3>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
-              <a href="#">Read More</a>
+              <a href="/supervised-learning/">Read More</a>
             </div>
           </div>
         </div>
@@ -160,7 +160,7 @@ body .container .card .box .content a:hover {
           <div class="box">
             <div class="content">
               <h2>02</h2>
-              <h3>Card Two</h3>
+              <h3>Federated Learning</h3>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
               <a href="#">Read More</a>
             </div>
@@ -171,12 +171,113 @@ body .container .card .box .content a:hover {
           <div class="box">
             <div class="content">
               <h2>03</h2>
-              <h3>Card Three</h3>
+              <h3>Natural Language</h3>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
               <a href="#">Read More</a>
             </div>
           </div>
         </div>
+      
+      <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>04</h2>
+              <h3>Unsupervised Learning</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>05</h2>
+              <h3>Deep Learning</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>06</h2>
+              <h3>Explainable AI</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      
+      <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>07</h2>
+              <h3>Data Visualisation</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>08</h2>
+              <h3>Contents and Pages</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>09</h2>
+              <h3>Embedded Insurance</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      
+       <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>10</h2>
+              <h3>Statistical Learning</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>11</h2>
+              <h3>Algorithmic Fairness</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>12</h2>
+              <h3>Bayesian Methods</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      
+      
       </div>
 
 </body>
