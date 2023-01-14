@@ -141,7 +141,7 @@ body .container .card .box .content {
 
 body .container .card .box .content h2 {
   position: absolute;
-  top: -70px;
+  top: -300px;
   right: 30px;
   font-size: 6rem;
   color: rgba(255, 255, 255, 0.1);
