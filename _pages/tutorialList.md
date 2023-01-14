@@ -10,51 +10,228 @@ author_profile: false
 toc: false
 ---
 
-{% include feature_row %}
-
-
 Please find below a list of tutorials which cover topics on data science areas, as well as other useful resources including technical background and coding approaches.
 
-## 01: Machine Learning - Background
+<html>
 
-| Entry|               |Link                          |Description                    |
-| ---- | ------------- |----------------------------- |-------------------------------|
-| 1    |:computer:     |[What is Machine Learning?](/tutorial/whatIsML/)     |Background to Machine Learning |
-| 2    |:computer:     |Supervised background       |An overview of Supervised Learning |
-| 3    |:computer:     |[Unsupervised background](/tutorial/ULbackground/)       |An overview of Unsupervised Learning |
-| 4    |:computer:     |[Comparison of learning methods](/tutorial/comparison/)      |A brief comparison between supervised vs unsupervised vs semi-supervised vs reinforced techniques|
-| 5    |:computer:     |[Real world applications](/tutorial/realApplications/)|Examples of where machine learning is used in the real world|
-| 6    |:computer:     |[Actuarial applications](/tutorial/actuarialApplications/)        |Examples of current and potential use in the actuarial industry|
+<head>
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
 
-## 02: Overview of Supervised Approaches
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  background: #f8f8f9;
+}
 
-## 03: Overview of Unsupervised Approaches
+body .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 40px 0;
+}
 
-| Entry|               |Link                          |Description                    |
-| -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :bar_chart:    |[Clustering](/tutorial/clustering/)                                   |Overview of clustering techniques and applications                    |
-| 2    | :bar_chart:   |Association rules                      |Overview of association rules techniques and applications                    |
-| 3    | :bar_chart:   |[Dimensionality reduction](/tutorial/dimensionality_reduction/)        |Overview of dimensionality reduction techniques and applications                    |
+body .container .card {
+  position: relative;
+  min-width: 320px;
+  height: 440px;
+  box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.2),
+    inset -5px -5px 15px rgba(255, 255, 255, 0.1),
+    5px 5px 15px rgba(40, 32, 162, 0.3), -5px -5px 15px rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  margin: 30px;
+  transition: 0.5s;
+}
 
-## 04: Overview of Reinforcement Learning Approaches
 
-## 05: Neural networks
+body .container .card:nth-child(s) .box .content a {
+  background: #87aed716;
+}
 
-| Entry|               |Link                                                          |Description                     |
-| -----| ------------- |------------------------------------------------------------- |--------------------------------|
-| 1    | :fireworks:   |[Neural networks](/tutorial/neuralNetworks/)        |Introduction to neural networks |
+body .container .card .box {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  background: #6a88c675;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  transition: 0.5s;
+}
 
-## 06: Mathematical background
 
-| Entry|               |Link                          |Description                    |
-| -----| ------------- |----------------------------- |-------------------------------|
-| 1    | :microscope:  |Linear algebra                |Overview of Linear Algebra     |
+body .container .card .box:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background: rgba(26, 9, 124, 0.03);
+}
 
-## 07: Coding
+body .container .card .box .content {
+  padding: 20px;
+  text-align: center;
+}
 
-| Entry|               |Link                          |Description                                                                     |
-| -----| ------------- |----------------------------- |--------------------------------------------------------------------------------|
-| 1    | :milky_way:  |Python & Python-based libraries|Introduction to coding in Python and other useful libraries e.g. Pandas, Numpy  |
-| 2    | :milky_way:  |ML frameworks                  |Introduction to Tensorflow, Keras, & PyTorch                                    |
-| 3    | :milky_way:  |SciKit                         |Introduction to SciKit library                                                  |
+body .container .card .box .content h2 {
+  position: absolute;
+  top: -10px;
+  right: 30px;
+  font-size: 6rem;
+  color: rgba(255, 255, 255, 0.1);
+}
+
+body .container .card .box .content h3 {
+  font-size: 1.2rem;
+  color: #fff;
+  z-index: 1;
+  transition: 0.5s;
+  margin-bottom: 15px;
+}
+
+body .container .card .box .content p {
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.9);
+  z-index: 1;
+  transition: 0.5s;
+}
+
+
+body .container .card .box .content a:hover {
+  color: #000;
+}
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>01</h2>
+              <h3>Machine Learning Background</h3>
+              <p><a href="/tutorial/whatIsML/">What is Machine Learning?</p><a>
+              <p><a href="#">Supervised Learning</p><a>
+              <p><a href="/tutorial/ULbackground/">Unsupervised Learning</p><a>
+              <p><a href="/tutorial/comparison/">Comparison of Learning Methods</p><a>
+              <p><a href="/tutorial/realApplications/">Real Word Applications</p><a>
+              <p><a href="/tutorial/actuarialApplications/">Actuarial Applications</p><a>
+            </div>
+          </div>
+        </div>
+      
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>02</h2>
+              <h3>Supervised Learning</h3>
+              <p><a href="#">What is Machine Learning?</p><a>
+              <p><a href="#">Supervised Learning</p><a>
+              <p><a href="#">Unsupervised Learning</p><a>
+              <p><a href="#">Comparison of Learning Methods</p><a>
+              <p><a href="#">Real Word Applications</p><a>
+              <p><a href="#">Actuarial Applications</p><a>
+            </div>
+          </div>
+        </div>
+      
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>03</h2>
+              <h3>Unsupervised Learning</h3>
+              <p><a href="#">What is Machine Learning?</p><a>
+              <p><a href="#">Supervised Learning</p><a>
+              <p><a href="#">Unsupervised Learning</p><a>
+              <p><a href="#">Comparison of Learning Methods</p><a>
+              <p><a href="#">Real Word Applications</p><a>
+              <p><a href="#">Actuarial Applications</p><a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>04</h2>
+              <h3>Reinforcement Learning</h3>
+              <p><a href="#">What is Machine Learning?</p><a>
+              <p><a href="#">Supervised Learning</p><a>
+              <p><a href="#">Unsupervised Learning</p><a>
+              <p><a href="#">Comparison of Learning Methods</p><a>
+              <p><a href="#">Real Word Applications</p><a>
+              <p><a href="#">Actuarial Applications</p><a>
+            </div>
+          </div>
+        </div>
+     
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>05</h2>
+              <h3>Neural Networks</h3>
+              <p><a href="/tutorial/whatIsML/">What is Machine Learning?</p><a>
+              <p><a href="#">Supervised Learning</p><a>
+              <p><a href="/tutorial/ULbackground/">Unsupervised Learning</p><a>
+              <p><a href="/tutorial/comparison/">Comparison of Learning Methods</p><a>
+              <p><a href="/tutorial/realApplications/">Real Word Applications</p><a>
+              <p><a href="/tutorial/actuarialApplications/">Actuarial Applications</p><a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>06</h2>
+              <h3>Mathematical Background</h3>
+              <p><a href="#">What is Machine Learning?</p><a>
+              <p><a href="#">Supervised Learning</p><a>
+              <p><a href="#">Unsupervised Learning</p><a>
+              <p><a href="#">Comparison of Learning Methods</p><a>
+              <p><a href="#">Real Word Applications</p><a>
+              <p><a href="#">Actuarial Applications</p><a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>07</h2>
+              <h3>Coding</h3>
+              <p><a href="#">What is Machine Learning?</p><a>
+              <p><a href="#">Supervised Learning</p><a>
+              <p><a href="#">Unsupervised Learning</p><a>
+              <p><a href="#">Comparison of Learning Methods</p><a>
+              <p><a href="#">Real Word Applications</p><a>
+              <p><a href="#">Actuarial Applications</p><a>
+            </div>
+          </div>
+        </div>
+      
+      </div>
+
+</body>
+
+</html>
 
