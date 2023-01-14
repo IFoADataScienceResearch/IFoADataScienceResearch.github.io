@@ -14,240 +14,171 @@ toc: true
 
 <head>
     <style>
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bree+Serif&family=EB+Garamond:ital,wght@0,500;1,800&display=swap');
+        @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
 
 body {
-background: #DFC2F2;
-	background-image: linear-gradient( to right, #ffffb3,#ffe6e6);
-	background-attachment: fixed;	
-	background-size: cover;
-  
-	}
-
-#container{
-	box-shadow: 0 15px 30px 1px grey;
-	background: rgba(255, 255, 255, 0.90);
-	text-align: center;
-	border-radius: 5px;
-	overflow: hidden;
-	margin: 5em auto;
-	height: 350px;
-	width: 700px;
-  
-	
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  background: #9c9aab;
 }
 
-.product-details {
-	position: relative;
-	text-align: left;
-	overflow: hidden;
-	padding: 30px;
-	height: 100%;
-	float: left;
-	width: 40%;
-
+body .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 40px 0;
 }
 
-#container .product-details h1{
-	font-family: 'Bebas Neue', cursive;
-	display: inline-block;
-	position: relative;
-	font-size: 30px;
-	color: #344055;
-	margin: 0;
-	
-}
-
-#container .product-details h1:before{
-	position: absolute;
-	content: '';
-	right: 0%; 
-	top: 0%;
-	transform: translate(25px, -15px);
-	font-family: 'Bree Serif', serif;
-	display: inline-block;
-	background: #ffe6e6;
-	border-radius: 5px;
-	font-size: 14px;
-	padding: 5px;
-	color: white;
-	margin: 0;
-	animation: chan-sh 6s ease infinite;
-
-}
-
-
-
-	
-
-
-.hint-star {
-	display: inline-block;
-	margin-left: 0.5em;
-	color: gold;
-	width: 50%;
-}
-
-
-#container .product-details > p {
-font-family: 'EB Garamond', serif;
-	text-align: center;
-	font-size: 18px;
-	color: #7d7d7d;
-	
-}
-.control{
-	position: absolute;
-	bottom: 20%;
-	left: 22.8%;
-	
-}
-.btn {
-
-	transform: translateY(0px);
-	transition: 0.3s linear;
-	background:  #809fff;
-	border-radius: 5px;
+body .container .card {
   position: relative;
-  overflow: hidden;
-	cursor: pointer;
-	outline: none;
-	border: none;
-	color: #eee;
-	padding: 0;
-	margin: 0;
-	
+  min-width: 320px;
+  height: 440px;
+  box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.2),
+    inset -5px -5px 15px rgba(255, 255, 255, 0.1),
+    5px 5px 15px rgba(0, 0, 0, 0.3), -5px -5px 15px rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  margin: 30px;
+  transition: 0.5s;
 }
 
-.btn:hover{transform: translateY(-6px);
-	background: #1a66ff;}
-
-.btn span {
-	font-family: 'Farsan', cursive;
-	transition: transform 0.3s;
-	display: inline-block;
-  padding: 10px 20px;
-	font-size: 1.2em;
-	margin:0;
-	
-}
-.btn .price, .shopping-cart{
-	background: #333;
-	border: 0;
-	margin: 0;
+body .container .card:nth-child(1) .box .content a {
+  background: #2196f3;
 }
 
-.btn .price {
-	transform: translateX(-10%); padding-right: 15px;
+body .container .card:nth-child(2) .box .content a {
+  background: #e91e63;
 }
 
-.btn .shopping-cart {
-	transform: translateX(-100%);
+body .container .card:nth-child(3) .box .content a {
+  background: #23c186;
+}
+
+body .container .card .box {
   position: absolute;
-	background: #333;
-	z-index: 1;
-  left: 0;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  background: #2a2b2f;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  transition: 0.5s;
+}
+
+body .container .card .box:hover {
+  transform: translateY(-50px);
+}
+
+body .container .card .box:before {
+  content: "";
+  position: absolute;
   top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.03);
 }
 
-.btn .buy {z-index: 3; font-weight: bolder;}
-
-.btn:hover .price {transform: translateX(-110%);}
-
-.btn:hover .shopping-cart {transform: translateX(0%);}
-
-
-
-.product-image {
-	transition: all 0.3s ease-out;
-	display: inline-block;
-	position: relative;
-	overflow: hidden;
-	height: 100%;
-	float: right;
-	width: 45%;
-	display: inline-block;
+body .container .card .box .content {
+  padding: 20px;
+  text-align: center;
 }
 
-#container img {width: 100%;height: 100%;}
-
-.info {
-    background: rgba(27, 26, 26, 0.9);
-    font-family: 'Bree Serif', serif;
-    transition: all 0.3s ease-out;
-    transform: translateX(-100%);
-    position: absolute;
-    line-height: 1.8;
-    text-align: left;
-    font-size: 105%;
-    cursor: no-drop;
-    color: #FFF;
-    height: 100%;
-    width: 100%;
-    left: 0;
-    top: 0;
+body .container .card .box .content h2 {
+  position: absolute;
+  top: -10px;
+  right: 30px;
+  font-size: 8rem;
+  color: rgba(255, 255, 255, 0.1);
 }
 
-.info h2 {text-align: center}
-.product-image:hover .info{transform: translateX(0);}
+body .container .card .box .content h3 {
+  font-size: 1.8rem;
+  color: #fff;
+  z-index: 1;
+  transition: 0.5s;
+  margin-bottom: 15px;
+}
 
-.info ul li{transition: 0.3s ease;}
-.info ul li:hover{transform: translateX(50px) scale(1.3);}
+body .container .card .box .content p {
+  font-size: 1rem;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.9);
+  z-index: 1;
+  transition: 0.5s;
+}
 
-.product-image:hover img {transition: all 0.3s ease-out;}
-.product-image:hover img {transform: scale(1.2, 1.2);}
-
+body .container .card .box .content a {
+  position: relative;
+  display: inline-block;
+  padding: 8px 20px;
+  background: black;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  margin-top: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  transition: 0.5s;
+}
+body .container .card .box .content a:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+  background: #fff;
+  color: #000;
+}
 
     </style>
-
 </head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<div id="container">	
-	
-	<div class="product-details">
-		
-	<h1>CHRISTMAS TREE</h1>
-	<span class="hint-star star">
-		<i class="fa fa-star" aria-hidden="true"></i>
-		<i class="fa fa-star" aria-hidden="true"></i>
-		<i class="fa fa-star" aria-hidden="true"></i>
-		<i class="fa fa-star" aria-hidden="true"></i>
-		<i class="fa fa-star-o" aria-hidden="true"></i>
-	</span>
-		
-			<p class="information">" Let's spread the joy , here is Christmas , the most awaited day of the year.Christmas Tree is what one need the most. Here is the correct tree which will enhance your Christmas.</p>
 
-		
-		
-<div class="control">
-	
-	<button class="btn">
-	 <span class="price">$250</span>
-   <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
-   <span class="buy">Get now</span>
- </button>
-	
-</div>
-			
-</div>
-	
-<div class="product-image">
-	
-	<img src="https://images.unsplash.com/photo-1606830733744-0ad778449672?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzl8fGNocmlzdG1hcyUyMHRyZWV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="">
-	
+<body>
+    <div class="container">
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>01</h2>
+              <h3>Card One</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>02</h2>
+              <h3>Card Two</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      
+        <div class="card">
+          <div class="box">
+            <div class="content">
+              <h2>03</h2>
+              <h3>Card Three</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <a href="#">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
 
-<div class="info">
-	<h2> Description</h2>
-	<ul>
-		<li><strong>Height : </strong>5 Ft </li>
-		<li><strong>Shade : </strong>Olive green</li>
-		<li><strong>Decoration: </strong>balls and bells</li>
-		<li><strong>Material: </strong>Eco-Friendly</li>
-		
-	</ul>
-</div>
-</div>
-
-</div>
+</body>
 
 </html>
