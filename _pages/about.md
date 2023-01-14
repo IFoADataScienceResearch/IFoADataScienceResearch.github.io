@@ -35,7 +35,6 @@ Chair of Data Visualisation WP: <a href href="https://www.linkedin.com/in/eilish
 Chair of Data Analytics in Embedded Insurance WP: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
 Chair of Data Science Contents and Webpage WP: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
 
-
 <div class="notice--danger" markdown="1">
 ##Disclaimer
 
