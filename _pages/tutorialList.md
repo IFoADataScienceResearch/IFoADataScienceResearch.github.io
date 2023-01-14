@@ -12,6 +12,7 @@ toc: false
 
 Please find below a list of tutorials which cover topics on data science areas, as well as other useful resources including technical background and coding approaches.
 
+
 <html>
 
 <head>
@@ -129,109 +130,16 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>01</h2>
               <h3>Machine Learning Background</h3>
-              <p><a href="/tutorial/whatIsML/">What is Machine Learning?</p><a>
-              <p><a href="#">Supervised Learning</p><a>
-              <p><a href="/tutorial/ULbackground/">Unsupervised Learning</p><a>
-              <p><a href="/tutorial/comparison/">Comparison of Learning Methods</p><a>
-              <p><a href="/tutorial/realApplications/">Real Word Applications</p><a>
-              <p><a href="/tutorial/actuarialApplications/">Actuarial Applications</p><a>
+              <p><a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
+           
             </div>
           </div>
         </div>
       
-        <div class="card">
-          <div class="box">
-            <div class="content">
-              <h2>02</h2>
-              <h3>Supervised Learning</h3>
-              <p><a href="#">What is Machine Learning?</p><a>
-              <p><a href="#">Supervised Learning</p><a>
-              <p><a href="#">Unsupervised Learning</p><a>
-              <p><a href="#">Comparison of Learning Methods</p><a>
-              <p><a href="#">Real Word Applications</p><a>
-              <p><a href="#">Actuarial Applications</p><a>
-            </div>
-          </div>
-        </div>
-      
-        <div class="card">
-          <div class="box">
-            <div class="content">
-              <h2>03</h2>
-              <h3>Unsupervised Learning</h3>
-              <p><a href="#">What is Machine Learning?</p><a>
-              <p><a href="#">Supervised Learning</p><a>
-              <p><a href="#">Unsupervised Learning</p><a>
-              <p><a href="#">Comparison of Learning Methods</p><a>
-              <p><a href="#">Real Word Applications</p><a>
-              <p><a href="#">Actuarial Applications</p><a>
-            </div>
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="box">
-            <div class="content">
-              <h2>04</h2>
-              <h3>Reinforcement Learning</h3>
-              <p><a href="#">What is Machine Learning?</p><a>
-              <p><a href="#">Supervised Learning</p><a>
-              <p><a href="#">Unsupervised Learning</p><a>
-              <p><a href="#">Comparison of Learning Methods</p><a>
-              <p><a href="#">Real Word Applications</p><a>
-              <p><a href="#">Actuarial Applications</p><a>
-            </div>
-          </div>
-        </div>
-     
-        <div class="card">
-          <div class="box">
-            <div class="content">
-              <h2>05</h2>
-              <h3>Neural Networks</h3>
-              <p><a href="/tutorial/whatIsML/">What is Machine Learning?</p><a>
-              <p><a href="#">Supervised Learning</p><a>
-              <p><a href="/tutorial/ULbackground/">Unsupervised Learning</p><a>
-              <p><a href="/tutorial/comparison/">Comparison of Learning Methods</p><a>
-              <p><a href="/tutorial/realApplications/">Real Word Applications</p><a>
-              <p><a href="/tutorial/actuarialApplications/">Actuarial Applications</p><a>
-            </div>
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="box">
-            <div class="content">
-              <h2>06</h2>
-              <h3>Mathematical Background</h3>
-              <p><a href="#">What is Machine Learning?</p><a>
-              <p><a href="#">Supervised Learning</p><a>
-              <p><a href="#">Unsupervised Learning</p><a>
-              <p><a href="#">Comparison of Learning Methods</p><a>
-              <p><a href="#">Real Word Applications</p><a>
-              <p><a href="#">Actuarial Applications</p><a>
-            </div>
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="box">
-            <div class="content">
-              <h2>07</h2>
-              <h3>Coding</h3>
-              <p><a href="#">What is Machine Learning?</p><a>
-              <p><a href="#">Supervised Learning</p><a>
-              <p><a href="#">Unsupervised Learning</p><a>
-              <p><a href="#">Comparison of Learning Methods</p><a>
-              <p><a href="#">Real Word Applications</p><a>
-              <p><a href="#">Actuarial Applications</p><a>
-            </div>
-          </div>
-        </div>
+       
       
       </div>
 
 </body>
 
 </html>
-
