@@ -12,10 +12,11 @@ toc: false
 
 Please find below a list of tutorials which cover topics on data science areas, as well as other useful resources including technical background and coding approaches.
 
-
 <html>
 
 <head>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
         @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap");
 * {
@@ -100,7 +101,7 @@ body .container .card .box .content h2 {
 }
 
 body .container .card .box .content h3 {
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   color: #fff;
   z-index: 1;
   transition: 0.5s;
@@ -108,7 +109,7 @@ body .container .card .box .content h3 {
 }
 
 body .container .card .box .content p {
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.9);
   z-index: 1;
@@ -125,20 +126,53 @@ body .container .card .box .content a:hover {
 
 <body>
     <div class="container">
-        <div class="card">
+        
+      <div class="card">
           <div class="box">
             <div class="content">
               <h2>01</h2>
               <h3>Machine Learning Background</h3>
-              <p><a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
-           
+              <p><i class="fa-sharp fa-solid fa-desktop"></i> <a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
+              <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Supervised Learning</a></p>
+              <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Unsupervised Learning</a></p>
+              <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Comparison of methods</a></p>
+              <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Real-world applications</a></p>
+              <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Applications for actuaries</a></p>
             </div>
           </div>
-        </div>
-      
-       
-      
       </div>
+      
+      <div class="card">
+        <div class="box">
+          <div class="content">
+            <h2>02</h2>
+            <h3>Supervised Learning</h3>
+            <p><a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
+            <p><a href="/tutorial/whatIsML/">Supervised Learning</a></p>
+            <p><a href="/tutorial/whatIsML/">Unsupervised Learning</a></p>
+            <p><a href="/tutorial/whatIsML/">Comparison of methods</a></p>
+            <p><a href="/tutorial/whatIsML/">Real-world applications</a></p>
+            <p><a href="/tutorial/whatIsML/">Applications for actuaries</a></p>
+          </div>
+        </div>
+    </div>
+
+    <div class="card">
+      <div class="box">
+        <div class="content">
+          <h2>03</h2>
+          <h3>Unsupervised Learning</h3>
+          <p><a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
+          <p><a href="/tutorial/whatIsML/">Supervised Learning</a></p>
+          <p><a href="/tutorial/whatIsML/">Unsupervised Learning</a></p>
+          <p><a href="/tutorial/whatIsML/">Comparison of methods</a></p>
+          <p><a href="/tutorial/whatIsML/">Real-world applications</a></p>
+          <p><a href="/tutorial/whatIsML/">Applications for actuaries</a></p>
+        </div>
+      </div>
+  </div>
+      
+    </div>
 
 </body>
 
