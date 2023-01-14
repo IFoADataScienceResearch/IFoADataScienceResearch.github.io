@@ -134,7 +134,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>01</h2>
               <h3>Machine Learning Background</h3>
-              <p><i class="fa-sharp fa-solid fa-desktop"></i> <a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
+              <p><i class="fa-solid fa-atom-simple"></i> <a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
               <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Supervised Learning</a></p>
               <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Unsupervised Learning</a></p>
               <p><i class="fa fa-cloud"></i> <a href="/tutorial/whatIsML/">Comparison of methods</a></p>
