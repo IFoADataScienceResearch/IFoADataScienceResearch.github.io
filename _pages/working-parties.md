@@ -28,7 +28,7 @@ body {
   align-items: center;
   flex-wrap: wrap;
   min-height: 100vh;
-  background: #9c9aab;
+  background: #f8f8f9;
 }
 
 body .container {
@@ -102,12 +102,12 @@ body .container .card .box .content h2 {
   position: absolute;
   top: -10px;
   right: 30px;
-  font-size: 8rem;
+  font-size: 6rem;
   color: rgba(255, 255, 255, 0.1);
 }
 
 body .container .card .box .content h3 {
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   color: #fff;
   z-index: 1;
   transition: 0.5s;
@@ -115,7 +115,7 @@ body .container .card .box .content h3 {
 }
 
 body .container .card .box .content p {
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.9);
   z-index: 1;
