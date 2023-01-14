@@ -33,7 +33,7 @@ feature_row1:
     btn_class: "btn--primary"
     btn_label: "Read More"
 
-feature_row_2:
+feature_row2:
 
   - image_path: /assets/images_for_posts/all-together-now/All-together-now_Figure-3.jpg
     title: "All together now: modelling claims using federated learning"
