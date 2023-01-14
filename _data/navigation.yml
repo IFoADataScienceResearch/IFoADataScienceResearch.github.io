@@ -40,6 +40,8 @@ main:
         url: /resources/
       - title: "Tutorials"
         url: https://ifoadatascienceresearch.github.io/tutorials/tutorialList/
+      - title: "Dashboards"
+      - title: "Videos"
   - title: "About"
     url: /about/
   - title: "Contact us"
