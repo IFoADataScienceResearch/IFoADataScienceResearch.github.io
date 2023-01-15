@@ -12,7 +12,7 @@ tags:
   - Statistical Learning
 ---
 
-[Orginally published in the North American Actuarial Journal, 30 October 2021]()<br>
+Orginally published in the Insurance: Mathematics and Economics Journal, November 2021
 [Link to journal post](https://doi.org/10.1016/j.insmatheco.2021.10.001)<br>
 [Download article](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/The%20multivariate%20mixed%20Negative%20Binomial%20regression%20model%20with%20an%20application%20to%20insurance%20a%20posteriori%20ratemaking.pdf)
 {: .notice}
