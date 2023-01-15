@@ -46,7 +46,9 @@ main:
       - title: "Tutorials"
         url: https://ifoadatascienceresearch.github.io/tutorials/tutorialList/
       - title: "Dashboards"
+        url: https://ifoadatascienceresearch.github.io/dashboards/
       - title: "Videos"
+        url: https://ifoadatascienceresearch.github.io/videos/
   - title: "About"
     url: /about/
   - title: "Contact us"
