@@ -34,6 +34,11 @@ main:
         url: /categories/
       - title: "By tag"
         url: /tags/
+      - title: "Blogs"
+        url: 
+      - title: "Research papers"
+        url: 
+       
   - title: "Resources"
     sublinks:
       - title: "Downloads & Links"
