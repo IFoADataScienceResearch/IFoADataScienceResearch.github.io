@@ -16,7 +16,7 @@ If you have any queries, suggestions, would like to volunteer or contribute, we 
 
 Please contact us via the form below.  Alternatively, if you have any questions about the IFoA Data Science Research Section, please contact John Ng or the Professional Communities Team (professional.communities@actuaries.org.uk).
 
-<form accept-charset="UTF-8" action="mailto:debsdey@hotmail.com" enctype="multipart/form-data" target="_blank">
+<form action="https://getform.io/f/4dff9407-8d4a-4175-a453-6411475f7444" method="POST">
           <div class="form-group">
             <label for="exampleInputEmail1" required="required">Email address</label>
             <input type="email" name="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter your email address"  required="required">
@@ -25,26 +25,22 @@ Please contact us via the form below.  Alternatively, if you have any questions 
             <label for="exampleInputName">Name</label>
             <input type="text" name="name" class="form-control" id="name" placeholder="Enter your name" required="required">
           </div>
-        <div class="form-group">
+          <div class="form-group">
+            
             <label for="exampleMessage">Message</label>
               <textarea type="text" id="message" class="form-control" name="message" rows="4" cols="50" placeholder="Enter your message here" required="required"></textarea>
           </div>
+      
+          <div>
+           <select name="Query type">
+                <option value="general">General</option>
+                <option value="volunteer">Volunteer request</option>
+                <option value="research">Research suggestion</option>
+            </select>
+          </div>
+  
           <button type="submit" class="btn btn--info">Submit</button>
         </form>
-        
-<form action="https://getform.io/f/4dff9407-8d4a-4175-a453-6411475f7444" method="POST">
-    <input type="text" name="name">
-    <input type="email" name="email">
-    <input type="text" name="message">
-    <!-- add hidden Honeypot input to prevent spams -->
-    <input type="hidden" name="_gotcha" style="display:none !important">
-    <!-- checkbox handle -->
-    <input type="checkbox" name="subscribe" value="yes" checked>
-    <input type="hidden" name="subscribe" value="no">
-    <!-- select field handle -->
-    <select name="work-experience">
-        <option value="one-year">0-1 years</option>
-        <option value="one-five-years">1-5 years</option>
-    </select>
-    <button type="submit" class="btn btn--info">Send</button>
-</form>
+       
+
+ 
