@@ -11,9 +11,8 @@ sidebar:
   - title: "Debashish Dey"
   - title: "Konstantin Kutzkov"
 categories:
-  - Blog
-tags:
   - Research Papers
+tags:
   - Climate
   - Boosting
   - LightGBM
