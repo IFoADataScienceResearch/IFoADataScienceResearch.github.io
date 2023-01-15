@@ -10,7 +10,7 @@ sidebar:
     icon: "fa-linkedin"
     url: "https://www.linkedin.com/in/afzaalahmeduk/"
 categories:
-  - Blog
+  - Dashboards
 tags:
   - Data visualisation
 ---
