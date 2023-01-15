@@ -111,7 +111,7 @@ body .container .card .box .content h3 {
 }
 
 body .container .card .box .content p {
-  font-size: 0.9rem;
+  font-size: 0.75rem;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.9);
   z-index: 1;
