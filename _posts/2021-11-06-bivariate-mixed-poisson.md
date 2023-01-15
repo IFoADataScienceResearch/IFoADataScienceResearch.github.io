@@ -12,6 +12,7 @@ tags:
   - Statistical Learning
 ---
 
+Orginally published in the North American Actuarial Journal, 30 October 2021<br>
 [Link to journal post](https://doi.org/10.1080/10920277.2021.1978850)<br>
 [Download article](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Bivariate%20Mixed%20Poisson%20Regression%20Models%20with%20Varying%20Dispersion.pdf)
 {: .notice}
