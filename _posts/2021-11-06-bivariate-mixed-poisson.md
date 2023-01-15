@@ -7,13 +7,12 @@ sidebar:
   - title: "George Tzougas"
   - title: "Alice Pignatelli di Cerchiarab"
 categories:
-  - Blog
+  - Research Papers
 tags:
   - Statistical Learning
-  - Research Papers
 ---
 
-https://doi.org/10.1080/10920277.2021.1978850
+[Link to original publication](https://doi.org/10.1080/10920277.2021.1978850)
 {: .notice}
 
 <b> Abstract </b>
