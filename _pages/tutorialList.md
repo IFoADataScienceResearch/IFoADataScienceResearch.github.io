@@ -149,7 +149,6 @@ body .container .card .box .content a:hover {
           <div class="content">
             <h2>02</h2>
             <h3>Supervised Learning</h3>
-   
           </div>
         </div>
       </div>
@@ -165,39 +164,8 @@ body .container .card .box .content a:hover {
           </div>
         </div>
       </div>
-    </div>
-
-      <div class="card">
-        <div class="box">
-          <div class="content">
-            <h2>04</h2>
-            <h3>Neural Networks</h3>
-   
-          </div>
-        </div>
-      </div>
-  
-      <div class="card">
-        <div class="box">
-          <div class="content">
-            <h2>05</h2>
-            <h3>Mathematical background</h3>
-   
-          </div>
-        </div>
-      </div>
       
-      <div class="card">
-        <div class="box">
-          <div class="content">
-            <h2>06</h2>
-            <h3>Coding</h3>
-   
-          </div>
-        </div>
-      </div>
-  
- 
+    </div>
 </body>
 
 </html>
