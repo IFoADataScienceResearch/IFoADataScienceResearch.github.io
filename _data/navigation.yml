@@ -30,14 +30,14 @@ main:
     url: /events/
   - title: "Posts"
     sublinks:
+      - title: "Blogs"
+        url: /categories/#blog
+      - title: "Research papers"
+        url: /categories/#research-papers
       - title: "By category"
         url: /categories/
       - title: "By tag"
         url: /tags/
-      - title: "Blogs"
-        url: 
-      - title: "Research papers"
-        url: 
        
   - title: "Resources"
     sublinks:
