@@ -14,7 +14,9 @@ tags:
 
 ---
 
-https://doi.org/10.1080/02664763.2021.1993798
+Orginally published in the Journal of Applied Statistics, 1 November 2021<br>
+[Link to journal post](https://doi.org/10.1080/02664763.2021.1993798)<br>
+[Download article](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/A%20first%20order%20binomial%20mixed%20Poisson%20integer%20valued%20autoregressive%20model%20with%20serially%20dependent%20innovations.pdf)
 {: .notice}
 
 <b> Abstract </b>
