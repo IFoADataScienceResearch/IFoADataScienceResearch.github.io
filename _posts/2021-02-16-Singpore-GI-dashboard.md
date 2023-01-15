@@ -6,7 +6,7 @@ comments: true
 sidebar:
   - title: "Zack Chan"
 categories:
-  - Blog
+  - Dashboards
 tags:
   - Data visualisation
 ---
