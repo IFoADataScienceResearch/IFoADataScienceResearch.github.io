@@ -135,11 +135,11 @@ body .container .card .box .content a:hover {
               <h2>01</h2>
               <h3>Machine Learning Background</h3>
               <p><i class="fa fa-cloud"></i><a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
-              <p><a href="/tutorial/whatIsML/">Supervised Learning</a></p>
-              <p><a href="/tutorial/whatIsML/">Unsupervised Learning</a></p>
-              <p><a href="/tutorial/whatIsML/">Comparison of methods</a></p>
-              <p><a href="/tutorial/whatIsML/">Real-world applications</a></p>
-              <p><a href="/tutorial/whatIsML/">Applications for actuaries</a></p>
+              <p><a href="/tutorial/SLbackground/">Supervised Learning</a></p>
+              <p><a href="/tutorial/ULbackground/">Unsupervised Learning</a></p>
+              <p><a href="/tutorial/comparison/">Comparison of methods</a></p>
+              <p><a href="/tutorial/realApplications/">Real-world applications</a></p>
+              <p><a href="/tutorial/actuarialApplications/">Applications for actuaries</a></p>
             </div>
           </div>
       </div>
@@ -149,32 +149,55 @@ body .container .card .box .content a:hover {
           <div class="content">
             <h2>02</h2>
             <h3>Supervised Learning</h3>
-            <p><a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
-            <p><a href="/tutorial/whatIsML/">Supervised Learning</a></p>
-            <p><a href="/tutorial/whatIsML/">Unsupervised Learning</a></p>
-            <p><a href="/tutorial/whatIsML/">Comparison of methods</a></p>
-            <p><a href="/tutorial/whatIsML/">Real-world applications</a></p>
-            <p><a href="/tutorial/whatIsML/">Applications for actuaries</a></p>
+   
           </div>
         </div>
-    </div>
+      </div>
 
-    <div class="card">
-      <div class="box">
-        <div class="content">
-          <h2>03</h2>
-          <h3>Unsupervised Learning</h3>
-          <p><a href="/tutorial/whatIsML/">What is Machine Learning?</a></p>
-          <p><a href="/tutorial/whatIsML/">Supervised Learning</a></p>
-          <p><a href="/tutorial/whatIsML/">Unsupervised Learning</a></p>
-          <p><a href="/tutorial/whatIsML/">Comparison of methods</a></p>
-          <p><a href="/tutorial/whatIsML/">Real-world applications</a></p>
-          <p><a href="/tutorial/whatIsML/">Applications for actuaries</a></p>
+      <div class="card">
+        <div class="box">
+          <div class="content">
+            <h2>03</h2>
+            <h3>Unsupervised Learning</h3>
+            <p><a href="/tutorial/clustering/">Clustering</a></p>
+            <p><a href="/tutorial/associationRules/"></a>Association rules</p>
+            <p><a href="/tutorial/dimensionality_reduction/">Dimensial reductionality</a></p>
+          </div>
         </div>
       </div>
     </div>
-  </div>
 
+      <div class="card">
+        <div class="box">
+          <div class="content">
+            <h2>04</h2>
+            <h3>Neural Networks</h3>
+   
+          </div>
+        </div>
+      </div>
+  
+      <div class="card">
+        <div class="box">
+          <div class="content">
+            <h2>05</h2>
+            <h3>Mathematical background</h3>
+   
+          </div>
+        </div>
+      </div>
+      
+      <div class="card">
+        <div class="box">
+          <div class="content">
+            <h2>06</h2>
+            <h3>Coding</h3>
+   
+          </div>
+        </div>
+      </div>
+  
+ 
 </body>
 
 </html>
