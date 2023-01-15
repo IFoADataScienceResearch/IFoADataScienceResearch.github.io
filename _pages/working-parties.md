@@ -312,7 +312,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>12</h2>
               <h3>Bayesian Methods</h3>
-              <p>Working party set up to explore bayesian methods in data science models</p>
+              <p>Working party set up to explore bayesian methods</p>
               <a href="/bayesian-methods/">Read More</a>
             </div>
           </div>
