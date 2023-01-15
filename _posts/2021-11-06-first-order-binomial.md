@@ -8,10 +8,10 @@ sidebar:
   - title: "Angelos Dassios"
   - title: "George Tzougas"
 categories:
-  - Blog
+  - Research Papers
 tags:
   - Statistical Learning
-  - Research Papers
+
 ---
 
 https://doi.org/10.1080/02664763.2021.1993798
