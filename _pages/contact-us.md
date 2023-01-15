@@ -12,9 +12,7 @@ toc: false
 
 {% include feature_row %}
 
-If you have any queries, suggestions, would like to volunteer or contribute, we would love to hear from you!  
-
-Please contact us via the form below.  Alternatively, if you have any questions about the IFoA Data Science Research Section, please contact John Ng or the Professional Communities Team (professional.communities@actuaries.org.uk).
+If you have any queries, suggestions, would like to volunteer or contribute, we would love to hear from you!  For direct queries on IFoA Professional Communities, do feel free to contact them directly: <a href="mailto:professional.communities@actuaries.org.uk">professional.communities@actuaries.org.uk</a>.
 
 <form action="https://getform.io/f/4dff9407-8d4a-4175-a453-6411475f7444" method="POST">
           <div class="form-group">
