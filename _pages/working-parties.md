@@ -3,7 +3,7 @@ permalink: /working-parties/
 layout: splash
 title: "Research Working Parties"
 header:
-  overlay_image: /assets/images/working-parties.jpg
+  overlay_image: /assets/images/wp.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: false
 toc: true
@@ -191,7 +191,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>01</h2>
               <h3>Supervised Learning</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore supervised learning techniques</p>
               <a href="/supervised-learning/">Read More</a>
             </div>
           </div>
