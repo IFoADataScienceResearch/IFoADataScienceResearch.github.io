@@ -290,7 +290,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>10</h2>
               <h3>Statistical Learning</h3>
-              <p>Working party set up to explore data science and statistical learning techniques/p>
+              <p>Working party set up to explore data science and statistical learning techniques</p>
               <a href="/statistical-learning/">Read More</a>
             </div>
           </div>
@@ -312,7 +312,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>12</h2>
               <h3>Bayesian Methods</h3>
-              <p>Working party set up to explore bayesian methods</p>
+              <p>Working party set up to explore bayesian methods used in data science models</p>
               <a href="/bayesian-methods/">Read More</a>
             </div>
           </div>
