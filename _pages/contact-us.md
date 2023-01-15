@@ -32,4 +32,19 @@ Please contact us via the form below.  Alternatively, if you have any questions 
           <button type="submit" class="btn btn--info">Submit</button>
         </form>
         
-
+<form action="https://getform.io/f/4dff9407-8d4a-4175-a453-6411475f7444" method="POST">
+    <input type="text" name="name">
+    <input type="email" name="email">
+    <input type="text" name="message">
+    <!-- add hidden Honeypot input to prevent spams -->
+    <input type="hidden" name="_gotcha" style="display:none !important">
+    <!-- checkbox handle -->
+    <input type="checkbox" name="subscribe" value="yes" checked>
+    <input type="hidden" name="subscribe" value="no">
+    <!-- select field handle -->
+    <select name="work-experience">
+        <option value="one-year">0-1 years</option>
+        <option value="one-five-years">1-5 years</option>
+    </select>
+    <button type="submit" class="btn btn--info">Send</button>
+</form>
