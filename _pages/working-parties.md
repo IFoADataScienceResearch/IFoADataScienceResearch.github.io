@@ -202,7 +202,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>02</h2>
               <h3>Federated Learning</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore federated learning techniques</p>
               <a href="/federated-learning/">Read More</a>
             </div>
           </div>
@@ -213,7 +213,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>03</h2>
               <h3>Natural Language</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore natural learning models</p>
               <a href="/nlp/">Read More</a>
             </div>
           </div>
@@ -224,7 +224,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>04</h2>
               <h3>Unsupervised Learning</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore unsupervised learning techniques</p>
               <a href="/unsupervised-learning/">Read More</a>
             </div>
           </div>
@@ -235,7 +235,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>05</h2>
               <h3>Deep Learning</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore deep learning techniques</p>
               <a href="/deep-learning/">Read More</a>
             </div>
           </div>
@@ -246,7 +246,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>06</h2>
               <h3>Explainable AI</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore explainable AI models</p>
               <a href="/explainable-ai/">Read More</a>
             </div>
           </div>
@@ -257,7 +257,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>07</h2>
               <h3>Data Visualisation</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore data visualisation models</p>
               <a href="/data-visualisation/">Read More</a>
             </div>
           </div>
@@ -268,7 +268,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>08</h2>
               <h3>Contents and Pages</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore data science applications in mobile and web browsers</p>
               <a href="/contents-webpages/">Read More</a>
             </div>
           </div>
@@ -279,7 +279,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>09</h2>
               <h3>Embedded Insurance</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore data science applications in embedded insurance</p>
               <a href="/embedded-insurance/">Read More</a>
             </div>
           </div>
@@ -290,7 +290,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>10</h2>
               <h3>Statistical Learning</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore data science and statistical learning techniques/p>
               <a href="/statistical-learning/">Read More</a>
             </div>
           </div>
@@ -301,7 +301,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>11</h2>
               <h3>Algorithmic Fairness</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore algorithmic features in data science models</p>
               <a href="/algorithmic-fairness/">Read More</a>
             </div>
           </div>
@@ -312,7 +312,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>12</h2>
               <h3>Bayesian Methods</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+              <p>Working party set up to explore bayesian methods in data science models</p>
               <a href="/bayesian-methods/">Read More</a>
             </div>
           </div>
