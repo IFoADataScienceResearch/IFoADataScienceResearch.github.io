@@ -12,7 +12,7 @@ tags:
   - Statistical Learning
 ---
 
-[Link to journal post](https://doi.org/10.1080/10920277.2021.1978850)
+[Link to journal post](https://doi.org/10.1080/10920277.2021.1978850)<br>
 [Download article](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Bivariate%20Mixed%20Poisson%20Regression%20Models%20with%20Varying%20Dispersion.pdf)
 {: .notice}
 
