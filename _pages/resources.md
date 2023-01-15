@@ -26,13 +26,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Download"
 
-  - image_path: /assets/images_for_resources/The multivariate mixed Negative Binomial.png
-    alt: "The multivariate mixed Negative Binomial regression model"
-    title: "The multivariate mixed Negative Binomial regression model"
-    excerpt: "This paper is concerned with introducing a family of multivariate mixed Negative Binomial regression models in the context of a posteriori ratemaking."
-    url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/The%20multivariate%20mixed%20Negative%20Binomial%20regression%20model%20with%20an%20application%20to%20insurance%20a%20posteriori%20ratemaking.pdf"
-    btn_class: "btn--primary"
-    btn_label: "Download"
 ---
 
 # Downloads
@@ -41,20 +34,6 @@ feature_row:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/fairness in ML.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf" download>Differentiation Privacy and Fairness in Automated Decision Making</a> <br> 
 <small> Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset </small> 
-<br>
-<br>
-<br>
-<br>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/binomial mixed Poisson.png){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/A%20first%20order%20binomial%20mixed%20Poisson%20integer%20valued%20autoregressive%20model%20with%20serially%20dependent%20innovations.pdf" download>A first order binomial mixed Poisson integer valued autoregressive model with serially dependent innovations</a> <br> 
-<small> This paper is motivated by the extended Poisson INAR(1), which allows innovations to be serially dependent, develops a new family of binomial-mixed Poisson INAR(1) (BMP INAR(1)) processes by adding a mixed Poisson component to the innovations of the classical Poisson INAR(1) process.  </small> 
-<br>
-<br>
-<br>
-<br>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/Bivariate Mixed Poisson Regression.png){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Bivariate%20Mixed%20Poisson%20Regression%20Models%20with%20Varying%20Dispersion.pdf" download>Bivariate Mixed Poisson Regression Models with Varying Dispersion</a> <br> 
-<small> The main purpose of this article is to present a new class of bivariate mixed Poisson regression models with varying dispersion that offers sufficient flexibility for accommodating  overdispersion and accounting for the positive correlation between the number of claims from third-party liability bodily injury and property damage.  </small> 
 <br>
 <br>
 <br>
