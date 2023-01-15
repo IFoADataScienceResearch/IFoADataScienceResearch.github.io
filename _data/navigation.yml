@@ -34,6 +34,8 @@ main:
         url: /categories/#blog
       - title: "Research papers"
         url: /categories/#research-papers
+      - title: "By year"
+        url: /posts/
       - title: "By category"
         url: /categories/
       - title: "By tag"
