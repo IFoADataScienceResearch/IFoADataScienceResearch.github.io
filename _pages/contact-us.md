@@ -12,7 +12,10 @@ toc: false
 
 {% include feature_row %}
 
-If you have any queries, suggestions, would like to volunteer or contribute, we would love to hear from you!  For direct queries on IFoA Professional Communities, do feel free to contact them directly: <a href="mailto:professional.communities@actuaries.org.uk">professional.communities@actuaries.org.uk</a>.
+If you have any queries, suggestions, would like to volunteer or contribute, we would love to hear from you!  Please complete the form below and we will back in touch shortly.
+
+
+For direct queries on IFoA Professional Communities, do feel free to contact: <a href="mailto:professional.communities@actuaries.org.uk">professional.communities@actuaries.org.uk</a>.
 
 <form action="https://getform.io/f/4dff9407-8d4a-4175-a453-6411475f7444" method="POST">
           <div class="form-group">
