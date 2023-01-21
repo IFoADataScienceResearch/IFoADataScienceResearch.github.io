@@ -52,9 +52,11 @@ main:
       - title: "Videos"
         url: https://ifoadatascienceresearch.github.io/videos/
   - title: "About"
-    url: /aboutus/
-  - title: "Members"
-    url: /members/
+    sublinks:
+    - title: "About us"
+      url: /aboutus/
+    - title: "Members"
+      url: /members/
   - title: "Contact us"
     url: /contact-us/
 
