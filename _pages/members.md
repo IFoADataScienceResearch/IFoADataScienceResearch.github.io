@@ -14,7 +14,8 @@ toc: false
 
 <h1>Committee</h1>
 
-Please see below the current Committee and list of chairs for each Working Party.  For details of members of each Working Party, please visit each Working Party homepage, via the main menu above.
+Please see below the current Committee and list of chairs for each Working Party.  
+For details of members of each Working Party, please visit each Working Party homepage, via the main menu above.
 
 Chair of Research Section: <a href="https://www.linkedin.com/in/aiglauer/?originalSubdomain=ch"> Alexis Iglauer </a>
 <br>Vice Chair of Research Section: <a href="https://www.linkedin.com/in/dylanliew/"> Dylan Liew </a>
