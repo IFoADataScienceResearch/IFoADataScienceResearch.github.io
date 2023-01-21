@@ -84,7 +84,7 @@ author:
 
 footer:
   links:
-    - label: "Posts"
+    - label: "Posts by year"
       icon: "fas fa-book-open"
       url: /posts/
     - label: "Tags"
@@ -95,7 +95,7 @@ footer:
       url: /members/
     - label: "About"
       icon: "far fa-question-circle"
-      url: /about/
+      url: /aboutus/
       
       
 #    - label: "GitHub"
