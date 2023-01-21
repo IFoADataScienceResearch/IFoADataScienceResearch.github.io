@@ -14,7 +14,7 @@ toc: false
 
 <h1>Committee</h1>
 
-Please see below a list of the current Committee.  For details of members, please visit each Working Party page.
+Please see below the current Committee and list of chairs for each Working Party.  For details of members of each Working Party, please visit each Working Party homepage, via the main menu above.
 
 Chair of Research Section: <a href="https://www.linkedin.com/in/aiglauer/?originalSubdomain=ch"> Alexis Iglauer </a>
 <br>Vice Chair of Research Section: <a href="https://www.linkedin.com/in/dylanliew/"> Dylan Liew </a>
@@ -31,7 +31,7 @@ W01 - Supervised Learning: <a href href="https://www.linkedin.com/in/neptune-jin
 <br>W07 - Data Visualisation: <a href href="https://www.linkedin.com/in/eilish-bouse-655194b2/"> Eilish Bouse </a>
 <br>W08 - Contents & Webpages: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a>
 <br>W09 - Data Analytics in Embedded Insurance: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a>
-<br>W10 - Statistical Learning: <a href="https://researchportal.hw.ac.uk/en/persons/george-tzougas"> Associate Professor George Tzougas </a>
+<br>W10 - Statistical Learning: <a href="https://researchportal.hw.ac.uk/en/persons/george-tzougas"> George Tzougas </a>
 <br>W11 - Algorithmic Fairness: <a href="https://www.linkedin.com/in/saunak-dutta-b74a551b/"> Saunak Datta </a>
 <br>W12 - Bayesian Methods: <a href="https://www.linkedin.com/in/arijitdas1986/"> Arjit Das </a>
 </div>
