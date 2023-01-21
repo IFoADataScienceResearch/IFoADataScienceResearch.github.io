@@ -36,7 +36,8 @@ Vice Chair of Research Section: <a href="https://www.linkedin.com/in/dylanliew/"
 </div>
 
 <div class="notice--primary" markdown="1">
-
+**Selected members**
+Below are more detailed profiles of members of the Data Science group.
 <br>
 <br>
 <br>
