@@ -16,8 +16,8 @@ toc: false
 
 Please see below a list of the current Committee.  For details of members, please visit each Working Party page.
 
-Chair of Research Section: <a href="https://www.linkedin.com/in/aiglauer/?originalSubdomain=ch"> Alexis Iglauer </a> <br>
-Vice Chair of Research Section: <a href="https://www.linkedin.com/in/dylanliew/"> Dylan Liew </a> <br>
+<br>Chair of Research Section: <a href="https://www.linkedin.com/in/aiglauer/?originalSubdomain=ch"> Alexis Iglauer </a>
+<br>Vice Chair of Research Section: <a href="https://www.linkedin.com/in/dylanliew/"> Dylan Liew </a>
 
 **Chairs for individual Working Parties**
 
