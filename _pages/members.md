@@ -21,15 +21,15 @@ Vice Chair of Research Section: <a href="https://www.linkedin.com/in/dylanliew/"
 
 **Chairs for individual Working Parties**
 
-<br>W01 - Supervised Learning: <a href href="https://www.linkedin.com/in/neptune-jin-0a1aba93/"> Neptune Jin </a> <br>
-<br>W02 - Federated Learning: <a href href="https://www.linkedin.com/in/ma%C5%82gorzata-%C5%9Bmietanka-a1963a112/"> Malgorzata Smietanka </a> <br>
-<br>W03 - Natural Language Processing: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a> <br>
-<br>W04 - Unsupervised Learning: <a href="https://www.linkedin.com/in/debashish-dey-669025a3/"> Debashish Dey </a> <br>
-<br>W05 - Deep Learning: <a href href="https://www.linkedin.com/in/pieter-knox/"> Pieter Knox </a> <br>
-<br>W06 - Explainable AI: <a href href="https://www.linkedin.com/in/jonathan-bowden-22433b27/"> Jonathan Bowden </a> <br>
-<br>W07 - Data Visualisation: <a href href="https://www.linkedin.com/in/eilish-bouse-655194b2/"> Eilish Bouse </a> <br>
-<br>W08 - Contents & Webpages: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
-<br>W09 - Data Analytics in Embedded Insurance: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a> <br>
+<br>W01 - Supervised Learning: <a href href="https://www.linkedin.com/in/neptune-jin-0a1aba93/"> Neptune Jin </a>
+<br>W02 - Federated Learning: <a href href="https://www.linkedin.com/in/ma%C5%82gorzata-%C5%9Bmietanka-a1963a112/"> Malgorzata Smietanka </a>
+<br>W03 - Natural Language Processing: <a href="https://www.linkedin.com/in/wui-hua-ng/"> John Ng </a>
+<br>W04 - Unsupervised Learning: <a href="https://www.linkedin.com/in/debashish-dey-669025a3/"> Debashish Dey </a>
+<br>W05 - Deep Learning: <a href href="https://www.linkedin.com/in/pieter-knox/"> Pieter Knox </a>
+<br>W06 - Explainable AI: <a href href="https://www.linkedin.com/in/jonathan-bowden-22433b27/"> Jonathan Bowden </a>
+<br>W07 - Data Visualisation: <a href href="https://www.linkedin.com/in/eilish-bouse-655194b2/"> Eilish Bouse </a>
+<br>W08 - Contents & Webpages: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a>
+<br>W09 - Data Analytics in Embedded Insurance: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a>
 <br>W10 - Statistical Learning: <a href="https://researchportal.hw.ac.uk/en/persons/george-tzougas"> Associate Professor George Tzougas </a>
 <br>W11 - Algorithmic Fairness: <a href="https://www.linkedin.com/in/saunak-dutta-b74a551b/"> Saunak Datta </a>
 <br>W12 - Bayesian Methods: <a href="https://www.linkedin.com/in/arijitdas1986/"> Arjit Das </a>
