@@ -10,7 +10,7 @@ author_profile: false
 toc: false
 ---
 
-<div class="notice--success" markdown="1">
+<div class="notice--info" markdown="1">
 
 **Committee**
 
