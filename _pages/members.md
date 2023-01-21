@@ -39,7 +39,10 @@ W01 - Supervised Learning: <a href href="https://www.linkedin.com/in/neptune-jin
 
 <div class="notice--primary" markdown="1">
 <h2>Selected members</h2>
-Below are more detailed profiles of members of the Data Science group.
+Below are more detailed profiles of selected members of the Data Science group.
+<br>
+<br>
+<br>
 <br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bio/john.jfif){: .align-left}{: width="200" } John Ng is Senior Data Scientist and Actuary at RGA, providing predictive modelling solutions and research insights for clients on mortality, morbidity, biometrics, actuarial pricing and digital distribution. Previously he designed and led Automated Machine Learning platforms to price a range of personal lines products. John is passionate about promoting the adoption of advance and responsible data science within the actuarial community.
 <br>
