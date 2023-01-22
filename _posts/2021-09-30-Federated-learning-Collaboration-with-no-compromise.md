@@ -11,7 +11,7 @@ categories:
   - Presentation
 tags:
   - Federated Learning
-  - W02 Federated Learning
+  - W02 Federated Learning Working Party
 ---
 
 Orginally presented in the Data Science Research Section monthly sharing session, September 2021<br>
