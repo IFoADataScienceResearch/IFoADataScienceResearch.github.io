@@ -11,8 +11,8 @@ tags:
   - Automated Decison Making 
 ---
 
-Orginally presented in the IFoA Research Section Knowledge Sharing Session monthly sharing session, February 2022<br>
-[Link to slides](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pd)<br>
+Orginally presented in the IFoA Research Section Knowledge Sharing Session, February 2022<br>
+[Link to slides](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf)<br>
 {: .notice}
 
 <b> Summary </b>
