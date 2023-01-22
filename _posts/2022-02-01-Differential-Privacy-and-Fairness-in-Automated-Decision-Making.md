@@ -19,7 +19,10 @@ Orginally presented in the IFoA Research Section Knowledge Sharing Session, Febr
 
 Presented at the monthly sharing session. 
 
-Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset. 
+Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset. <br>
+
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/fairness in ML.PNG){: .align-left}{: width="300" } <br>
 
 Topics covered in this knowledge sharing session:<br>
 -- 1 Automated Decision Making Introduction<br>
