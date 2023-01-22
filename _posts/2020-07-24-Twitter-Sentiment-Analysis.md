@@ -13,9 +13,9 @@ tags:
 ---
 
 Orginally presented in the Data Science Research Section monthly sharing session, July 2020<br>
-[Link to event](https://www.actuaries.org.uk/learn-develop/attend-event/twitter-sentiment-analysis-what-does-social-media-tell-us-about-coronavirus-concerns-uk)
-[Link to slides](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/IFoA%20COVID%20Twitter%20Analysis_02072020.pdf)
-[Download slides](https://www.actuaries.org.uk/system/files/field/document/Twitter%20Sentiment%20Analysis.pdf)
+[Link to event](https://www.actuaries.org.uk/learn-develop/attend-event/twitter-sentiment-analysis-what-does-social-media-tell-us-about-coronavirus-concerns-uk)< /br>
+[Link to slides](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/IFoA%20COVID%20Twitter%20Analysis_02072020.pdf) < /br>
+[Download slides](https://www.actuaries.org.uk/system/files/field/document/Twitter%20Sentiment%20Analysis.pdf)< /br>
 {: .notice}
 
 <b> Summary </b>
