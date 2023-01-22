@@ -22,4 +22,6 @@ Orginally presented in the Data Science Research Section monthly sharing session
 
 Presented at the monthly sharing session. 
 
-Read more about the application of federated learning to predict claims frequency as shared by the Federated Learning WP in the September 2021 Data Science Research Section monthly sharing session. 
+Read more about the application of federated learning to predict claims frequency as shared by the Federated Learning WP in the September 2021 Data Science Research Section monthly sharing session. <br>
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/sept_2021_sharing_session.PNG){: .align-left}{: width="300" }
