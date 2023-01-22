@@ -13,20 +13,6 @@ toc: true
 # Downloads
 {% include feature_row %}
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/fairness in ML.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf" download>Differentiation Privacy and Fairness in Automated Decision Making</a> <br> 
-<small> Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset </small> 
-<br>
-<br>
-<br>
-<br>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/predictive.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/FL_predictive_maintenance.pdf" download>Application of federated learning in predictive maintenance to predict remaining useful life</a> <br> 
-<small> Learn more as Zack applied two open-source federated learning packages - FATE and dc_federated - to predict failure of turbofan engines. </small> 
-<br>
-<br>
-<br>
-<br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/eea-conference.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/E0260_Abstract_e-Conference_Ng.pdf" download>NLP and ML in Social Media Opinion Mining</a> <br> 
 <small> Learn more as John introduces NLP and Machine Learning Techniques in social media opinion mining to uncover insights
@@ -35,17 +21,14 @@ pertinent to public interest and the insurance industry. </small>
 <br>
 <br>
 <br>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/datavis.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Data%20Visualisation%20in%20Insurance.pdf" download>Data Visualisation in Insurance</a> <br> 
-<small> Learn more as Małgorzata introduces visualisation libraries for python. </small> 
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/EMLpipeline.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Modular%20Framework%20of%20Machine%20Learning%20Pipeline.pdf" download>Modular Framework of Machine Learning Pipeline (Preview)</a> <br> 
 <small> In this presentation, John Ng introduced the Actuarial Data Science Control Cycle and a modular framework of streamlining analytics and machine learning workflow in enterprises. (IFoA Data Science Webinar Series; IFoA Asia Conference 2020) </small> 
+<br>
+<br>
+<br>
+<br>
 <br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/guideforethicalds.PNG){: .align-left}{: width="300" } 
 <a href="https://www.actuaries.org.uk/system/files/field/document/An%20Ethical%20Charter%20for%20Date%20Science%20WEB%20FINAL.PDF" download>A Guide for Ethical Data Science (RSS and IFoA)</a> <br> 
