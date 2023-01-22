@@ -4,11 +4,12 @@ author_profile: false
 classes: wide
 comments: true
 sidebar:
-  - title: "Data Analytics in Embedded Insurance WP"
+  - title: "Zack Chan"
 categories:
   - Blog
 tags:
   - Embedded Insurance
+  - W09 Data Analytics in Embedded Insurance Working Party
 ---
 <b> Introduction </b>
 <br>
