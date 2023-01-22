@@ -20,13 +20,6 @@ toc: true
 <br>
 <br>
 <br>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/sept_2021_sharing_session.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/knowledge_sharing/September%202021%20-%20IFoA%20Knowledge%20Sharing%20Session.pdf" download> Federated Learning: Collaboration with no compromise </a> <br> 
-<small> Read more about the application of federated learning to predict claims frequency as shared by the Federated Learning WP in the September 2021 Data Science Research Section monthly sharing session. </small> 
-<br>
-<br>
-<br>
-<br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/predictive.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/FL_predictive_maintenance.pdf" download>Application of federated learning in predictive maintenance to predict remaining useful life</a> <br> 
 <small> Learn more as Zack applied two open-source federated learning packages - FATE and dc_federated - to predict failure of turbofan engines. </small> 
@@ -53,13 +46,6 @@ pertinent to public interest and the insurance industry. </small>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/EMLpipeline.PNG){: .align-left}{: width="300" } 
 <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Modular%20Framework%20of%20Machine%20Learning%20Pipeline.pdf" download>Modular Framework of Machine Learning Pipeline (Preview)</a> <br> 
 <small> In this presentation, John Ng introduced the Actuarial Data Science Control Cycle and a modular framework of streamlining analytics and machine learning workflow in enterprises. (IFoA Data Science Webinar Series; IFoA Asia Conference 2020) </small> 
-<br>
-<br>
-<br>
-<br>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/fedlearnpaper.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Federated%20Learning%20for%20Privacy-Preserving%20Data%20Access.pdf" download>Federated Learning for Privacy-Preserving Data Access</a> <br> 
-<small> Federated learning is a pioneering privacy-preserving data technology and also a new machine learning model trained on distributed data sets. This paper discusses federated learning as a solution for privacy-preserving data access and distributed machine learning applied to distributed data sets. It also presents a privacy-preserving federated learning infrastructure.  </small> 
 <br>
 <br>
 <br>
