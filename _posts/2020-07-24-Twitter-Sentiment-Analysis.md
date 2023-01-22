@@ -22,4 +22,6 @@ Orginally presented in the Data Science Research Section monthly sharing session
 
 Presented at the monthly sharing session. 
 
-The aim of this webinar is to provide an overview of research undertaken within the Data Science Working Party on applying machine learning methods for sentiment analysis and opinion mining of UK Twitter data relating to COVID-19.
+The aim of this webinar is to provide an overview of research undertaken within the Data Science Working Party on applying machine learning methods for sentiment analysis and opinion mining of UK Twitter data relating to COVID-19.<br>
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/twittersentimentanalysis.PNG){: .align-left}{: width="300" }
