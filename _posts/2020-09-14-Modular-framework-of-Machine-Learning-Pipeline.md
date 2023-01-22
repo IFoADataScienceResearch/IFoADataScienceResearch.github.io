@@ -12,6 +12,8 @@ tags:
 ---
 
 Orginally presented in the IFoA Data Science Webinar Series; and at the IFoA Asia Conference 2020 September 2022<br>
+[Link to event](https://www.actuaries.org.uk/learn-develop/attend-event/asia-conference-webinar-modular-framework-machine-learning-pipeline)<br>
+[Link to IFoA Virtual Learning Environment](https://learning.actuaries.org.uk/course/view.php?id=718&section=7)<br>
 [Link to slides](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Modular%20Framework%20of%20Machine%20Learning%20Pipeline.pdf)<br>
 {: .notice}
 
