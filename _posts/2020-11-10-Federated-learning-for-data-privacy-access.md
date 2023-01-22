@@ -1,5 +1,5 @@
 ---
-title: "Federated Learning for Privacy-preserving data acce"
+title: "Federated Learning for Privacy-preserving data access"
 author_profile: false 
 classes: wide
 comments: true
