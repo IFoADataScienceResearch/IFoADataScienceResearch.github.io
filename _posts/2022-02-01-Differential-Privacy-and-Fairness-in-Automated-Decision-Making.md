@@ -21,7 +21,7 @@ Presented at the monthly sharing session.
 
 Read about how Arijit Das tackles the issue of balancing privacy and fairness in automated decison making while maintaing high model accuracy using the UCI Credit-Card Default dataset. 
 
-Topics covered in this knowledge sharing session:
--- 1 Automated Decision Making Introduction
--- 2 Measuring Privacy and Fairness Differential Privacy
--- 3 Learning Differentially Private and Fair Models
+Topics covered in this knowledge sharing session:<br>
+-- 1 Automated Decision Making Introduction<br>
+-- 2 Measuring Privacy and Fairness Differential Privacy<br>
+-- 3 Learning Differentially Private and Fair Models<br>
