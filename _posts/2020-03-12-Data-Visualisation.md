@@ -20,4 +20,6 @@ Orginally presented in the IFoA Data Science Seminar, March 2020<br>
 
 Presented at the IFoA Data Science Seminar. 
 
-The aim of this webinar is to discuss Data Visualisation for Insurance.
+Learn more as Małgorzata introduces visualisation libraries for python. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/datavis.PNG){: .align-left}{: width="300" } 
+
