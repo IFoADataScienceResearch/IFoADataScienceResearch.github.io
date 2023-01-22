@@ -4,7 +4,7 @@ author_profile: false
 classes: wide
 comments: true
 sidebar:
-  - title: "George Tzougas"
+  - title: "Zezhun Chen"
   - title: "Angelos Dassios"
   - title: "George Tzougas"
 categories:
@@ -19,7 +19,5 @@ Orginally published in MDPI, May 2022 <br>
 {: .notice}
 
 <b> Abstract </b>
-
-Abstract
 
 In this paper, we present a new family of bivariate mixed exponential regression models for taking into account the positive correlation between the cost of claims from motor third party liability bodily injury and property damage in a versatile manner. Furthermore, we demonstrate how maximum likelihood estimation of the model parameters can be achieved via a novel Expectation-Maximization algorithm. The implementation of two members of this family, namely the bivariate Pareto or, Exponential-Inverse Gamma, and bivariate Exponential-Inverse Gaussian regression models is illustrated by a real data application which involves fitting motor insurance data from a European motor insurance company.
