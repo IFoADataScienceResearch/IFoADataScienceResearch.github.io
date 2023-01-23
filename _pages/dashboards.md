@@ -3,8 +3,7 @@ permalink: /dashboards/
 layout: splash
 title: "Dashboards"
 header:
-  overlay_image: /assets/images/splash-image/splash-code.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_color: "#FF8040"
 author_profile: false
 toc: true
 ---
