@@ -1,5 +1,5 @@
 ---
-permalink: /resources/
+permalink: /links/
 layout: splash
 title: "Download the latest materials here"
 header:
@@ -10,24 +10,11 @@ toc: true
 
 ---
 
-# Downloads
-{% include feature_row %}
+<div class="notice--warning" markdown="1">
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/eea-conference.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/E0260_Abstract_e-Conference_Ng.pdf" download>NLP and ML in Social Media Opinion Mining</a> <br> 
-<small> Learn more as John introduces NLP and Machine Learning Techniques in social media opinion mining to uncover insights
-pertinent to public interest and the insurance industry. </small> 
-<br>
-<br>
-<br>
-<br>
+<h2>Links to Institute and Faculty of Actuaries (IFoA)</h2>
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/EMLpipeline.PNG){: .align-left}{: width="300" } 
-<a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Modular%20Framework%20of%20Machine%20Learning%20Pipeline.pdf" download>Modular Framework of Machine Learning Pipeline (Preview)</a> <br> 
-<small> In this presentation, John Ng introduced the Actuarial Data Science Control Cycle and a modular framework of streamlining analytics and machine learning workflow in enterprises. (IFoA Data Science Webinar Series; IFoA Asia Conference 2020) </small> 
-<br>
-<br>
-<br>
+[Link to main website](https://actuaries.org.uk)
 <br>
 <br>
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/guideforethicalds.PNG){: .align-left}{: width="300" } 
@@ -36,15 +23,32 @@ pertinent to public interest and the insurance industry. </small>
 <br>
 <br>
 <br>
-# Other resources
-
-(*) Highly Recommmended
-
-## Data Science in Actuarial Institutes and Societies
-
 1. <a href="https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/certificate-data-science">Institute and Faculty of Actuaries (IFoA) and Southampton Data Science Academy - Certificate in Data Science</a>
 2.	<a href=" https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/data-science">IFoA – Data Science and Lifelong Learning</a>
-3.	<a href="https://institute-and-faculty-of-actuaries.github.io/mlr-blog/">IFoA – General Insurance Machine Learning in Reserving working party</a>
+</div>
+
+<div class="notice--success" markdown="1">
+
+<h2> Github account </h2>
+
+[Main Github repository](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io)<br>
+
+</div>
+
+<div class="notice--danger" markdown="1">
+
+<h2> Other ML working parties at IFoA </h2>
+
+<a href="https://institute-and-faculty-of-actuaries.github.io/mlr-blog/">IFoA – General Insurance Machine Learning in Reserving working party</a>
+
+</div>
+
+<div class="notice--primary" markdown="1">
+
+<h2> Other resources </h2>
+
+<h3> Data Science in Actuarial Institutes and Societies </h3>
+
 4.	<a href="https://www.actuarialdatascience.org/ADS-Tutorials/">Swiss Association of Actuaries – Actuarial Data Science tutorials and courses</a>
 5.	<a href="https://thecasinstitute.org/professional-education/predictive-analytics/">iCAS – Predictive Analytics and Data Science</a>
 6.	<a href="https://www.soa.org/sections/technology/technology-data-analytics-resources/">Society of Actuaries – Data Analytics Resources</a>
@@ -53,16 +57,16 @@ pertinent to public interest and the insurance industry. </small>
 9.	<a href="https://www.actuaries.org/IAA/IAA/Task_Force/Big_Data_Task_Force.aspx?WebsiteKey=ff59269c-4928-4369-a169-03e74a6bd8ca&CommitteeTabs=3#CommitteeTabs">International Actuarial Association – Big Data Task Force</a>
 10.	<a href="https://github.com/JSchelldorfer/DeepLearningWithActuarialApplications">Deep Learning with Actuarial Applications in R</a>
 
-## Actuarial Publications
+<h3> Actuarial Publications </h3>
 1. <a href="https://www.theactuary.com/categories/topics/data-science">The Actuary magazine IFoA – Data Science topics</a>
 2. <a href="https://theactuarymagazine.org/category/innovation-technology/">The Actuary magazine SOA</a>
 3. <a href="https://www.cambridge.org/core/journals/annals-of-actuarial-science">Annals of Actuarial Science</a>
 
-## Books and Publications
+<h3> Books and Publications </h3>
 1. <a href="http://faculty.marshall.usc.edu/gareth-james/">(*) An Introduction to Statistical Learning</a>
 2. <a href="https://web.stanford.edu/~hastie/ElemStatLearn//">(*) The Elements of Statistical Learning</a>
 
-## Courses
+<h3> Courses </h3>
 1. <a href="https://www.coursera.org/learn/machine-learning">(*) Andrew Ng’s Machine Learning Course</a>
 2. <a href="https://www.coursera.org/">Coursera</a>
 3. <a href="https://www.edx.org/">EdX</a>
@@ -70,14 +74,16 @@ pertinent to public interest and the insurance industry. </small>
 5. <a href="https://www.udemy.com/">Udemy</a>
 6. <a href="http://bigdatauniversity.com/">Big Data University</a>
 
-## Websites
+<h3> Websites </h3>
 1. <a href="https://www.kaggle.com/">Kaggle</a>
 2. <a href="http://www.kdnuggets.com/">KDnuggets</a>
 3. <a href="https://towardsdatascience.com/">Towards data science</a>
 
-## Data Sources
+<h3> Data Sources </h3>
 1. <a href="https://www.mortality.org/">The Human Mortality Database</a>
 2. <a href="https://www.actuaries.org.uk/documents/ifoa-mortality-data-directory-version-1">Mortality Data Directory, by the Mortality Research Steering Committee (MRSC) and IFoA</a>
 3. <a href="https://www.ons.gov.uk/">Office for National Statistics</a>
 4. <a href="http://cas.uqam.ca/">CASdatasets package: a collection of insurance datasets</a>
 5. <a href="https://registry.opendata.aws/">Amazon: Open Data on AWS</a>
+
+</div>
