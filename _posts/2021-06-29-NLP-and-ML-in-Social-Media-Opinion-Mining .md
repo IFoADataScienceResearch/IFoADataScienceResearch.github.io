@@ -1,5 +1,5 @@
 ---
-title: "Twitter Sentiment Analysis: What does Social Media tell us about coronavirus concerns in the UK?"
+title: "NLP and ML in Social Media Opinion Mining"
 author_profile: false 
 classes: wide
 comments: true
@@ -9,7 +9,7 @@ sidebar:
 categories:
   - Presentation
 tags:
-  - W03 Natural Language Processing Working Party
+  - 
 ---
 
 Orginally presented at the EAA e-Conference on Data Science & Data Ethics, June 2021<br>
