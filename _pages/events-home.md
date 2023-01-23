@@ -41,6 +41,9 @@ feature_row_left:
 
 ---
 
-<p style="font-size:30px;font-family:arial"><b>External Events</b></p>
-{% include feature_row id="feature_row_left" type="left" %}
+<div class="notice--primary" markdown="1">
 
+  <h1><b>External Events</h1>
+  {% include feature_row id="feature_row_left" type="left" %}
+
+</div>
