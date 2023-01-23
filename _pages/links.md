@@ -11,46 +11,45 @@ toc: true
 
 <div class="notice--warning" markdown="1">
 
-<h2>Links to Institute and Faculty of Actuaries (IFoA)</h2>
+  <h2>Links to the Institute and Faculty of Actuaries (IFoA) website</h2>
 
-<figure class="third">
-  <a href="">
-  <img src=""></a>
-  <a href="https://actuaries.org.uk">
-  <img src="/assets/images_for_resources/IFoA.jpg"></a>
-  <a href="">
-  <img src=""></a>
-</figure>
+  <figure class="third">
+    <a href="">
+    <img src=""></a>
+    <a href="https://actuaries.org.uk">
+    <img src="/assets/images_for_resources/IFoA.jpg"></a>
+    <a href="">
+    <img src=""></a>
+  </figure>
 
-<figure class="third">
-  <a href="https://actuaries.org.uk/learn/lifelong-learning/data-science">
-  <img src="/assets/images_for_resources/Lifelong-learning.jpg"></a>
+  <figure class="third">
+    <a href="https://actuaries.org.uk/learn/lifelong-learning/data-science">
+    <img src="/assets/images_for_resources/Lifelong-learning.jpg"></a>
 
-  <a href="https://www.actuaries.org.uk/system/files/field/document/An%20Ethical%20Charter%20for%20Date%20Science%20WEB%20FINAL.PDF">
-  <img src="/assets/images_for_resources/Ethical-guide.jpg"></a>
+    <a href="https://www.actuaries.org.uk/system/files/field/document/An%20Ethical%20Charter%20for%20Date%20Science%20WEB%20FINAL.PDF">
+    <img src="/assets/images_for_resources/Ethical-guide.jpg"></a>
 
-  <a href="https://actuaries.org.uk/certificate-in-data-science">
-  <img src="/assets/images_for_resources/Certificate-in-data-science.jpg"></a>
-  <br>
+    <a href="https://actuaries.org.uk/certificate-in-data-science">
+    <img src="/assets/images_for_resources/Certificate-in-data-science.jpg"></a>
+    <br>
 
-</figure>
+  </figure>
 
 </div>
-
 
 <div class="notice--success" markdown="1">
 
-<h2> Github account </h2>
+  <h2> Other IFoA-related links </h2>
 
-[Main Github repository](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io)<br>
+  <figure class="half">
+    <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io">
+    <img src="/assets/images_for_resources/Github.jpg"></a>
 
-</div>
+    <a href="https://institute-and-faculty-of-actuaries.github.io/mlr-blog/">
+    <img src="/assets/images_for_resources/MLR.jpg"></a>
+    <br>
 
-<div class="notice--danger" markdown="1">
-
-<h2> Other ML working parties at IFoA </h2>
-
-<a href="https://institute-and-faculty-of-actuaries.github.io/mlr-blog/">IFoA – General Insurance Machine Learning in Reserving working party</a>
+  </figure>
 
 </div>
 
