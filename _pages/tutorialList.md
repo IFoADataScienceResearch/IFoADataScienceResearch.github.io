@@ -13,9 +13,6 @@ Please find below a list of tutorials which cover topics on data science areas, 
 
 
 
-<html>
-
-<body>
     <div class="container">
         
       <div class="card">
@@ -55,6 +52,4 @@ Please find below a list of tutorials which cover topics on data science areas, 
       </div>
       
     </div>
-</body>
 
-</html>
