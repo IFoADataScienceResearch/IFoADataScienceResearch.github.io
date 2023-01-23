@@ -8,7 +8,7 @@ author_profile: false
 toc: true
 
 feature_row_left:
- - image_path: /assets/images_for_events/multivariate-claim-count.PNG
+  - image_path: /assets/images_for_events/multivariate-claim-count.PNG
     alt: "Multivariate claim count regression model with varying dispersion and dependence parameters"
     title: "Multivariate claim count regression model with varying dispersion and dependence parameters"
     excerpt: "22nd February 2022"
