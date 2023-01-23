@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
 feature_row_left:
-  - image_path: /assets/images_for_events/eaa-conference.PNG
+  - image_path: /assets/images_for_events/dsevent.jpg
     alt: "EAA e-Conference on Data Science & Data Ethics"
     title: "EAA e-Conference on Data Science & Data Ethics"
     excerpt: "29th June 2021"
@@ -41,9 +41,8 @@ feature_row_left:
 
 ---
 
-<div class="notice--primary" markdown="1">
+
 
   <h1>External Events</h1>
   {% include feature_row id="feature_row_left" type="left" %}
 
-</div>
