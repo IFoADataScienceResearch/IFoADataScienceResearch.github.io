@@ -2,8 +2,7 @@
 permalink: /members/
 layout: splash
 header:
-  overlay_image: /assets/images/members.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_color: "#444444"
 classes: wide
 title: "Member Profiles"
 author_profile: false
