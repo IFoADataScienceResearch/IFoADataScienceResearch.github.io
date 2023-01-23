@@ -23,7 +23,7 @@ toc: true
 <br>
 <br>
 <br>
-1. <a href="https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/certificate-data-science">Institute and Faculty of Actuaries (IFoA) and Southampton Data Science Academy - Certificate in Data Science</a>
+1. <a href="https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/certificate-data-science">Institute and Faculty of Actuaries (IFoA) and Southampton Data Science Academy - Certificate in Data Science</a> <br>
 2.	<a href=" https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/data-science">IFoA – Data Science and Lifelong Learning</a>
 </div>
 
