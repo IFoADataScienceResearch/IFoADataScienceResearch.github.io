@@ -17,7 +17,6 @@ toc: true
 * [Link to main IFoA website](https://actuaries.org.uk)<br>
 * <a href="https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/certificate-data-science">Institute and Faculty of Actuaries (IFoA) and Southampton Data Science Academy - Certificate in Data Science</a> <br>
 * <a href=" https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/data-science">IFoA – Data Science and Lifelong Learning</a>
-</div>
 <br>
 <br>
 <br>
@@ -27,6 +26,8 @@ toc: true
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/guideforethicalds.PNG){: .align-left}{: width="300" } 
 <a href="https://www.actuaries.org.uk/system/files/field/document/An%20Ethical%20Charter%20for%20Date%20Science%20WEB%20FINAL.PDF" download>A Guide for Ethical Data Science (RSS and IFoA)</a> <br> 
 <small> The Royal Statistical Society and the Institute and Faculty of Actuaries have worked together to jointly produce an ethical framework for their members and practitioners working in the field of data science. Created with practitioners in mind, this guide seeks to provide practical support to members on ethical practice. Structured around our five core ethical themes, the guide provides examples of common ethical challenges in the field and how they could be applied.  </small> 
+</div>
+
 
 <div class="notice--success" markdown="1">
 
