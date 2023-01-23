@@ -7,31 +7,6 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
 feature_row_left:
-
-  - image_path: /assets/images_for_events/multivariate-claim-count.PNG
-    alt: "Multivariate claim count regression model with varying dispersion and dependence parameters"
-    title: "Multivariate claim count regression model with varying dispersion and dependence parameters"
-    excerpt: "22nd February 2022"
-    url: "https://www.youtube.com/watch?v=K0URbeLdKAw"
-    btn_class: "btn--primary"
-    btn_label: "Watch now"
-
-  - image_path: /assets/images_for_resources/fairness in ML.PNG
-    alt: "Differential Privacy and Fairness in Machine Learning"
-    title: "Differential Privacy and Fairness in Machine Learning"
-    excerpt: "1st February 2022"
-    url: "https://www.youtube.com/watch?v=0RMokFBXdEM"
-    btn_class: "btn--primary"
-    btn_label: "Watch now"
-
-  - image_path: /assets/images_for_events/multivariate zero-modified.PNG
-    alt: "Multivariate zero-modiﬁed hurdle models in insurance"
-    title: "Multivariate zero-modiﬁed hurdle models in insurance"
-    excerpt: "28th January 2022"
-    url: "https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Multivariate%20zero-modified%20hurdle%20models%20in%20insurance.pdf"
-    btn_class: "btn--primary"
-    btn_label: "Read now"
-
   - image_path: /assets/images_for_events/eaa-conference.PNG
     alt: "EAA e-Conference on Data Science & Data Ethics"
     title: "EAA e-Conference on Data Science & Data Ethics"
