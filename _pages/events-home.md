@@ -43,7 +43,7 @@ feature_row_left:
 
 <div class="notice--primary" markdown="1">
 
-  <h1><b>External Events</h1>
+  <h1>External Events</h1>
   {% include feature_row id="feature_row_left" type="left" %}
 
 </div>
