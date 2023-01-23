@@ -3,8 +3,7 @@ permalink: /links/
 layout: splash
 title: "Useful links"
 header:
-  overlay_image: /assets/images/splash-image/splash-code.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_color: "#bf9000"
 author_profile: false
 toc: true
 ---
@@ -40,13 +39,10 @@ toc: true
 
   <h2> Other IFoA-related links </h2>
 
-  <figure class="third">
+  <figure class="half">
     <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io">
     <img src="/assets/images_for_resources/Github.jpg"></a>
   
-    <a href="">
-    <img src=""></a>
-
     <a href="https://institute-and-faculty-of-actuaries.github.io/mlr-blog/">
     <img src="/assets/images_for_resources/MLR.jpg"></a>
     <br>
