@@ -7,11 +7,6 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: false
 toc: true
-gallery1:
-  - url: "https://actuaries.org.uk"
-    image_path: /assets/images_for_resources/IFoA.jpg
-    alt: "Insitute and Faculty of Actuaries"
-    title: "Insitute and Faculty of Actuaries"
 ---
 
 <div class="notice--warning" markdown="1">
@@ -20,7 +15,11 @@ gallery1:
 
 {% include gallery id="gallery1" caption="Link to the main IFoA website" %}
 
+<figure class="third">
+  <a href="https://actuaries.org.uk">
+  <img src="/assets/images_for_resources/IFoA.jpg"></a>
 
+</figure>
 
 <figure class="third">
   <a href="https://actuaries.org.uk/learn/lifelong-learning/data-science">
