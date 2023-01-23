@@ -15,13 +15,14 @@ feature_row_left:
     url: "https://www.youtube.com/watch?v=K0URbeLdKAw"
     btn_class: "btn--primary"
     btn_label: "Watch now"
-  - image_path: /assets/images_for_events/multivariate-claim-count.PNG
+  - image_path: /assets/images_for_events/fairness%20in%20ML.PNG
     alt: "Differential Privacy and Fairness in Automated Decision Making?"
     title: "Differential Privacy and Fairness in Automated Decision Making?"
     excerpt: "February 2022"
     url: "https://www.youtube.com/watch?v=0RMokFBXdEM"
     btn_class: "btn--primary"
     btn_label: "Watch now"
+  
 ---
 
   <h1>Link to our Youtube channel</h1>
