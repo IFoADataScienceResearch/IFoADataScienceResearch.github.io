@@ -3,8 +3,7 @@ permalink: /videos/
 layout: splash
 title: "Videos"
 header:
-  overlay_image: /assets/images/splash-image/splash-code.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_color: "#6aa84f"
 author_profile: false
 toc: true
 ---
