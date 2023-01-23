@@ -7,25 +7,34 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: false
 toc: true
-
+gallery1:
+  - url: "https://actuaries.org.uk"
+    image_path: /assets/images_for_resources/IFoA.jpg
+    alt: "Insitute and Faculty of Actuaries"
+    title: "Insitute and Faculty of Actuaries"
 ---
 
 <div class="notice--warning" markdown="1">
 
 <h2>Links to Institute and Faculty of Actuaries (IFoA)</h2>
 
-* [Link to main IFoA website](https://actuaries.org.uk)<br>
-* <a href="https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/certificate-data-science">Institute and Faculty of Actuaries (IFoA) and Southampton Data Science Academy - Certificate in Data Science</a> <br>
-* <a href=" https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/data-science">IFoA – Data Science and Lifelong Learning</a>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/guideforethicalds.PNG){: .align-left}{: width="300" } 
-<a href="https://www.actuaries.org.uk/system/files/field/document/An%20Ethical%20Charter%20for%20Date%20Science%20WEB%20FINAL.PDF" download>A Guide for Ethical Data Science (RSS and IFoA)</a> <br> 
-<small> The Royal Statistical Society and the Institute and Faculty of Actuaries have worked together to jointly produce an ethical framework for their members and practitioners working in the field of data science. Created with practitioners in mind, this guide seeks to provide practical support to members on ethical practice. Structured around our five core ethical themes, the guide provides examples of common ethical challenges in the field and how they could be applied.  </small> 
+{% include gallery id="gallery1" caption="Link to the main IFoA website" %}
+
+
+
+<figure class="third">
+  <a href="https://actuaries.org.uk/learn/lifelong-learning/data-science">
+  <img src="/assets/images_for_resources/Lifelong-learning.jpg"></a>
+
+  <a href="https://www.actuaries.org.uk/system/files/field/document/An%20Ethical%20Charter%20for%20Date%20Science%20WEB%20FINAL.PDF">
+  <img src="/assets/images_for_resources/Ethical-guide.jpg"></a>
+
+  <a href="https://actuaries.org.uk/certificate-in-data-science">
+  <img src="/assets/images_for_resources/Certificate-in-data-science.jpg"></a>
+  
+  <figcaption>Useful links at the main IFoA site.</figcaption>
+</figure>
+
 </div>
 
 
