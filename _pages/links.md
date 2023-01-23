@@ -31,7 +31,7 @@ gallery1:
 
   <a href="https://actuaries.org.uk/certificate-in-data-science">
   <img src="/assets/images_for_resources/Certificate-in-data-science.jpg"></a>
-  
+  <br>
   <figcaption>Useful links at the main IFoA site.</figcaption>
 </figure>
 
