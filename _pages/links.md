@@ -13,12 +13,13 @@ toc: true
 
 <h2>Links to Institute and Faculty of Actuaries (IFoA)</h2>
 
-{% include gallery id="gallery1" caption="Link to the main IFoA website" %}
-
 <figure class="third">
+  <a href="">
+  <img src=""></a>
   <a href="https://actuaries.org.uk">
   <img src="/assets/images_for_resources/IFoA.jpg"></a>
-
+  <a href="">
+  <img src=""></a>
 </figure>
 
 <figure class="third">
@@ -31,7 +32,7 @@ toc: true
   <a href="https://actuaries.org.uk/certificate-in-data-science">
   <img src="/assets/images_for_resources/Certificate-in-data-science.jpg"></a>
   <br>
-  <figcaption>Useful links at the main IFoA site.</figcaption>
+
 </figure>
 
 </div>
