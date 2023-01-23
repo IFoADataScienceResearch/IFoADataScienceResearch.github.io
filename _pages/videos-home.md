@@ -25,7 +25,5 @@ feature_row_left:
   
 ---
 
-  <h1>Link to our Youtube channel</h1>
-
   <h1>List of videos</h1>
   {% include feature_row id="feature_row_left" type="left" %}
