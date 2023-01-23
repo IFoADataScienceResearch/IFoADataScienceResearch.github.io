@@ -2,8 +2,7 @@
 permalink: /tutorials/tutorialList/
 layout: splash
 header:
-  overlay_image: /assets/images_for_tutorials/tutorials.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_color: "#507CA5"
 classes: wide
 title: "Data Science Tutorials"
 author_profile: false
