@@ -40,7 +40,7 @@ toc: true
 
   <h2> Other IFoA-related links </h2>
 
-  <figure class="thirs">
+  <figure class="third">
     <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io">
     <img src="/assets/images_for_resources/Github.jpg"></a>
   
