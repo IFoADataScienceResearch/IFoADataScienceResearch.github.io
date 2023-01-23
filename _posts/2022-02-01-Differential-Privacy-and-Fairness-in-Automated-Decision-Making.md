@@ -12,7 +12,7 @@ tags:
 ---
 
 Orginally presented in the IFoA Research Section Knowledge Sharing Session, February 2022<br>
-[Link to video](https://www.youtube.com/watch?v=0RMokFBXdEM)
+[Link to video](https://www.youtube.com/watch?v=0RMokFBXdEM)><br>
 [Link to slides](https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/knowledge_sharing/Differential%20Privacy%20and%20Fairness%20in%20Machine%20Learning.pdf)<br>
 {: .notice}
 
