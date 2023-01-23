@@ -40,9 +40,12 @@ toc: true
 
   <h2> Other IFoA-related links </h2>
 
-  <figure class="half">
+  <figure class="thirs">
     <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io">
     <img src="/assets/images_for_resources/Github.jpg"></a>
+  
+    <a href="">
+    <img src=""></a>
 
     <a href="https://institute-and-faculty-of-actuaries.github.io/mlr-blog/">
     <img src="/assets/images_for_resources/MLR.jpg"></a>
