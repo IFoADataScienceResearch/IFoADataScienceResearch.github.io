@@ -191,7 +191,7 @@ embedded-nav:
 #W10 - Statistical learning
 statistical-nav:
  - title: "Publications"
-    children:
+   children:
       - title: "The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking"
         url: https://ifoadatascienceresearch.github.io/research%20papers/multivariate-mixed-NB/
       - title: "A first-order binomial-mixed Poisson integer-valued autoregressive model with serially dependent innovations"
