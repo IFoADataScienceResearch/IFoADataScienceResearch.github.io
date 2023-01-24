@@ -27,7 +27,7 @@ feature_row_left:
     alt: "Twitter Sentiment Analysis: What does Social Media tell us about coronavirus concerns in the UK?"
     title: "Twitter Sentiment Analysis: What does Social Media tell us about coronavirus concerns in the UK?"
     excerpt: "24th July 2020"
-    url: "https://www.actuaries.org.uk/learn-develop/attend-event/data-science-how-actuaries-can-optimize-usage-data-science-techniques-within-their-sectors"
+    url: "https://www.actuaries.org.uk/learn-develop/attend-event/twitter-sentiment-analysis-what-does-social-media-tell-us-about-coronavirus-concerns-uk"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
 
