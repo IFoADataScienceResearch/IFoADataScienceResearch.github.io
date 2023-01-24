@@ -127,9 +127,9 @@ federated-nav:
   - title: "Publications"
     children:
       - title: "Federated Learning for Privacy-Preserving Data Access"
-        url: https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/raw/master/assets/pdfs/Federated%20Learning%20for%20Privacy-Preserving%20Data%20Access.pdf
+        url: https://ifoadatascienceresearch.github.io/research%20papers/Federated-learning-for-data-privacy-access/
       - title: "Application of federated learning in predictive maintenance to predict remaining useful life"
-        url: https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/FL_predictive_maintenance.pdf
+        url: https://ifoadatascienceresearch.github.io/publications/Application-of-Federated-Learning/
   - title: "Blog Posts"
     children:
       - title: "Insurance: Collaboration without compromise"
