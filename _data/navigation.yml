@@ -32,6 +32,8 @@ main:
     sublinks:
       - title: "Blogs"
         url: /categories/#blog
+      - title: "Publications"
+        url: /categories/#publications
       - title: "Research papers"
         url: /categories/#research-papers
       - title: "By year"
