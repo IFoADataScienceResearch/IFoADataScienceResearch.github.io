@@ -14,7 +14,6 @@ categories:
   - Research Papers
 tags:
   - Federated Learning
-  - W02 Federated Learning Working Party
 
 ---
 
