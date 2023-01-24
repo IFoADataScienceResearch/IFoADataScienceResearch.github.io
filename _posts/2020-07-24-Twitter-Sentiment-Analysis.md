@@ -9,7 +9,7 @@ sidebar:
 categories:
   - Presentation
 tags:
-  - W03 Natural Language Processing Working Party
+  - NLP
 ---
 
 Orginally presented in the Data Science Research Section monthly sharing session, July 2020<br>
