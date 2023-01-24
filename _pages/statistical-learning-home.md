@@ -48,10 +48,4 @@ Our aim is to construct highly flexible actuarial models such as:
 22. <b> Mario V. Wüthrich</b>, Professor for Actuarial Science, Dept of Mathematics at ETH
 23. <b> Xueyuan Wu </b>, Associate Professor, Centre for actuarial studies, Dept of Economics, The University of Melbourne
 
-## Research Papers
-1. <a href="https://ifoadatascienceresearch.github.io/blog/multivariate-mixed-NB/"> The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking </a>
-2. <a href="https://ifoadatascienceresearch.github.io/blog/first-order-binomial/"> A first-order binomial-mixed Poisson integer-valued autoregressive model with serially dependent innovations </a>
-3. <a href="https://ifoadatascienceresearch.github.io/blog/bivariate-mixed-poisson/"> Bivariate Mixed Poisson Regression Models with Varying Dispersion </a>
-4. <a href="https://github.com/IFoADataScienceResearch/IFoADataScienceResearch.github.io/blob/master/assets/pdfs/EM%20Estimation%20for%20the%20Bivariate%20Mixed%20ER%20Model.pdf"> EM Estimation for the Bivariate Mixed Exponential Regression Model </a>
-
 
