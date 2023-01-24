@@ -190,7 +190,17 @@ embedded-nav:
 
 #W10 - Statistical learning
 statistical-nav:
-
+ - title: "Publications"
+    children:
+      - title: "The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking"
+        url: https://ifoadatascienceresearch.github.io/research%20papers/multivariate-mixed-NB/
+      - title: "A first-order binomial-mixed Poisson integer-valued autoregressive model with serially dependent innovations"
+        url: https://ifoadatascienceresearch.github.io/research%20papers/first-order-binomial/
+      - title: "Bivariate Mixed Poisson Regression Models with Varying Dispersion"
+        url: https://ifoadatascienceresearch.github.io/research%20papers/bivariate-mixed-poisson/
+      - title: "EM Estimation for the Bivariate Mixed Exponential Regression Model"
+        url: https://ifoadatascienceresearch.github.io/research%20papers/EM-Estimation-for-the-Bivariate-Mixed-Exponential-Regression-Model/
+        
 #W11 - Algorithmic fairness
 algo-nav:
   - title: "Homepage"
