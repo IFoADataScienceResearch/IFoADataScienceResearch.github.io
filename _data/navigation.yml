@@ -107,7 +107,6 @@ tutorial-nav:
     url: https://ifoadatascienceresearch.github.io/tutorials/tutorialList/
 
 
-
 #Navigation for individual Working Parties
 
 #W01 - Supervised learning
@@ -168,16 +167,16 @@ xai-nav:
       - title: "All clear: How Shapley values make opaque models more transparent"
         url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
 
-#W07 - Explainable AI
+#W07 - Data visualisation
 vis-nav:
   - title: "Blog Posts"
     children:
       - title: "Python Visualisation Dashboard"
-        url: https://ifoadatascienceresearch.github.io/blog/python-dashboard/
+        url: https://ifoadatascienceresearch.github.io/dashboards/python-dashboard/
       - title: "Singapore GI Market Dashboard"
-        url: https://ifoadatascienceresearch.github.io/blog/Singpore-GI-dashboard/
+        url: https://ifoadatascienceresearch.github.io/dashboards/Singpore-GI-dashboard/
 
-#W11 - contents & webpages
+#W08 - Contents & webpages
 contents-webpages-nav:
 
 
