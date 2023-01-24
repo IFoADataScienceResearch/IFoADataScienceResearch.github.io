@@ -8,7 +8,7 @@ sidebar:
 categories:
   - Publications
 tags:
-  - W02 Federated Learning Working Party
+  - Federated Learning
 ---
 
 Submitted in partial fulfillment of the requirements for the MSc degree in Computing Science of Imperial College London, September 2021<br>
