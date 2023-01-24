@@ -9,7 +9,6 @@ categories:
   - Blog
 tags:
   - Embedded Insurance
-  - W09 Data Analytics in Embedded Insurance Working Party
 ---
 <b> Introduction </b>
 <br>
