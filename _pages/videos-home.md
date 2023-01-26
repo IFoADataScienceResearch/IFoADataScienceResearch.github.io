@@ -27,13 +27,14 @@ Monthly sharing of data science knowledge by Himchan Jeong on Multivariate claim
 
 
 
+
 <h2>Differential Privacy and Fairness in Automated Decision Making?</h2>
 <h3>February 2022</h3>
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_resources/fairness%20in%20ML.PNG){: .align-left}{: width="900" } 
 
 <a href="https://www.youtube.com/watch?v=0RMokFBXdEM">
-<img src="/assets/images_for_resources/fairness%20in%20ML.PNG"></a>
+<img src="/assets/images_for_resources/fairness%20in%20ML.PNG" width="600" height="400" id="hp"/></a>
 
 Monthly sharing of data science knowledge by Arjit Das on Differential Privacy and Fairness in Automated Decision Making.
 
