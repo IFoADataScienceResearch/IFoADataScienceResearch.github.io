@@ -3,7 +3,7 @@ permalink: /dashboards/
 layout: splash
 title: "Dashboards"
 header:
-  overlay_color: "#FF8040"
+  overlay_color: "#800080"
 author_profile: false
 toc: true
 ---
