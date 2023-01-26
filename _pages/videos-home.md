@@ -35,7 +35,7 @@ feature_row_left:
 <h3>Multivariate claim count regression model with varying dispersion and dependence parameters</h3>
 <h4>22nd February 2022</h4>
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_events/multivariate-claim-count.PNG){: .align-left}{: width="200" } 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_events/multivariate-claim-count.PNG){: .align-left}{: width="300" } 
 
 Monthly sharing of data science knowledge by Himchan Jeong onMultivariate claim count regression model with varying dispersion and dependence parameter.
 
