@@ -32,19 +32,17 @@ feature_row_left:
 
   <h1>List of current videos</h1>
 
-<h3>Multivariate claim count regression model with varying dispersion and dependence parameters"</h3>
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_events/multivariate-claim-count.PNG){: .align-left}{: width="200" } 
+<h3>Multivariate claim count regression model with varying dispersion and dependence parameters</h3>
+<h4>22nd February 2022</h4>
 
-<small>22nd February 2022</small>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_events/multivariate-claim-count.PNG){: .align-left}{: width="200" } 
 
 Monthly sharing of data science knowledge by Himchan Jeong onMultivariate claim count regression model with varying dispersion and dependence parameter.
 
 [Download slides](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1ZUZDNNZkwwRkFMWUJZQnlmRjFLSXFFYXFjUXxBQ3Jtc0tsZ2h6ejNLWkpxUHY3TWNCWlE4UkRPajJNNHE3ck8tZ0VhRmhWODN2WFM1MU9IeEZGTXlUYzc1YURydXhSNkhic3J0YlFDbk56RTh0ZHZycnhVR1phM19COHJVMUVUNU1nUDJaeGhhVzltY2lSRmxNUQ&q=https%3A%2F%2Fgithub.com%2FIFoADataScienceResearch%2FIFoADataScienceResearch.github.io%2Fraw%2Fmaster%2Fassets%2Fpdfs%2Fknowledge_sharing%2FMultiCount_Dispersion_slides.pdf&v=K0URbeLdKAw)
 
 <form action="https://www.youtube.com/watch?v=K0URbeLdKAw" method="get" target="_blank">
-         <button type="submit">Watch now</button>
+   <button type="submit">Watch now</button>
 </form>
   
-
-
 </div>
