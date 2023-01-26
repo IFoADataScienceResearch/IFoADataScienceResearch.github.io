@@ -9,7 +9,6 @@ toc: true
  
 ---
 
-<!DOCTYPE html>
 <html>
   <head>
     <style>
