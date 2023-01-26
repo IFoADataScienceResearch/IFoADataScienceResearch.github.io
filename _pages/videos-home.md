@@ -13,10 +13,7 @@ toc: true
 <html>
   <head>
     <style>
-     #hp  {
-            float: left;    
-             margin: 0 0 0 15px;
-          }
+     hp  {float: left; margin: 0 0 0 15px;}
     </style>
   </head>
   <body>
