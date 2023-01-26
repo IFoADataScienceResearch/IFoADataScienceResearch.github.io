@@ -25,5 +25,12 @@ feature_row_left:
   
 ---
 
-  <h1>List of videos</h1>
+
+
+
+<div class="notice" markdown="1">
+
+  <h1>List of current videos</h1>
   {% include feature_row id="feature_row_left" type="left" %}
+
+</div>
