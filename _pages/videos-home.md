@@ -16,8 +16,10 @@ toc: true
 <h2>Multivariate claim count regression model with varying dispersion and dependence parameters</h2>
 <h3>22nd February 2022</h3>
 
+<p style="text-align:center;">  
 <a href="https://www.youtube.com/watch?v=K0URbeLdKAw">
 <img src="/assets/images_for_events/multivariate-claim-count.PNG" width="600" height="400"/></a>
+</p>
 
 Monthly sharing of data science knowledge by Himchan Jeong on Multivariate claim count regression model with varying dispersion and dependence parameter.
 
@@ -27,8 +29,10 @@ Monthly sharing of data science knowledge by Himchan Jeong on Multivariate claim
 <h2>Differential Privacy and Fairness in Automated Decision Making?</h2>
 <h3>1 February 2022</h3>
 
+<p style="text-align:center;">  
 <a href="https://www.youtube.com/watch?v=0RMokFBXdEM">
 <img src="/assets/images_for_resources/fairness%20in%20ML.PNG" width="600" height="400"/></a>
+</p>
 
 Monthly sharing of data science knowledge by Arjit Das on Differential Privacy and Fairness in Automated Decision Making.
 
