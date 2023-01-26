@@ -9,8 +9,7 @@ toc: true
  
 ---
 
-<html>
-  <body>
+
     <div class="notice" markdown="1">
       <h1>List of current videos</h1>
       
@@ -23,7 +22,6 @@ toc: true
      
        
     </div>   
-  </body>
-</html>
+
 
 
