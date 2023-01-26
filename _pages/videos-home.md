@@ -29,7 +29,7 @@ Monthly sharing of data science knowledge by Himchan Jeong on Multivariate claim
 
 
 <h2>Differential Privacy and Fairness in Automated Decision Making?</h2>
-<h3>February 2022</h3>
+<h3>1 February 2022</h3>
 
 <a href="https://www.youtube.com/watch?v=0RMokFBXdEM">
 <img src="/assets/images_for_resources/fairness%20in%20ML.PNG" width="600" height="400"/></a>
