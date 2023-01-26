@@ -115,26 +115,26 @@ tutorial-nav:
 super-nav:
   - title: "Blog Posts"
     children:
-      - title: "Supervised learning techniques in claims frequency modelling"
+      - title: "-Supervised learning techniques in claims frequency modelling"
         url: https://ifoadatascienceresearch.github.io/blog/supervised-learning-techniques-in-claims-frequency/
 
 #W02 - Federated learning
 federated-nav:
   - title: "Events"
     children:
-      - title: "Data science - How actuaries can optimize usage of data science techniques within their sectors"
+      - title: "-Data science - How actuaries can optimize usage of data science techniques within their sectors"
         url: https://www.actuaries.org.uk/learn-develop/attend-event/data-science-how-actuaries-can-optimize-usage-data-science-techniques-within-their-sectors
   - title: "Publications"
     children:
-      - title: "Federated Learning for Privacy-Preserving Data Access"
+      - title: "-Federated Learning for Privacy-Preserving Data Access"
         url: https://ifoadatascienceresearch.github.io/research%20papers/Federated-learning-for-data-privacy-access/
-      - title: "Application of federated learning in predictive maintenance to predict remaining useful life"
+      - title: "-Application of federated learning in predictive maintenance to predict remaining useful life"
         url: https://ifoadatascienceresearch.github.io/publications/Application-of-Federated-Learning/
   - title: "Blog Posts"
     children:
-      - title: "Insurance: Collaboration without compromise"
+      - title: "-Insurance: Collaboration without compromise"
         url: https://ifoadatascienceresearch.github.io/blog/collaboration-without-compromise/
-      - title: "All together now: modelling claims using federated learning"
+      - title: "-All together now: modelling claims using federated learning"
         url: https://ifoadatascienceresearch.github.io/blog/all-together-now/
 
 #W03 - Natural Language
@@ -145,9 +145,9 @@ nlp-nav:
         url: https://www.actuaries.org.uk/learn-develop/attend-event/data-science-how-actuaries-can-optimize-usage-data-science-techniques-within-their-sectors
   - title: "Blog Posts"
     children:
-      - title: "Insurance and social media: Keyboard Warriors"
+      - title: "-Insurance and social media: Keyboard Warriors"
         url: https://ifoadatascienceresearch.github.io/blog/keyboard-warriors/
-      - title: "From raw to processed tweets"
+      - title: "-From raw to processed tweets"
         url: https://ifoadatascienceresearch.github.io/blog/from-raw-to-processed-tweets/
 
 #W04 - Unsupervised learning
@@ -166,16 +166,16 @@ deeplearning-nav:
 xai-nav:
   - title: "Blog Posts"
     children:
-      - title: "All clear: How Shapley values make opaque models more transparent"
+      - title: "-All clear: How Shapley values make opaque models more transparent"
         url: https://ifoadatascienceresearch.github.io/blog/How-Shapley-values-make-opaque-models-more-transparent/
 
 #W07 - Data visualisation
 vis-nav:
   - title: "Blog Posts"
     children:
-      - title: "Python Visualisation Dashboard"
+      - title: "-Python Visualisation Dashboard"
         url: https://ifoadatascienceresearch.github.io/dashboards/python-dashboard/
-      - title: "Singapore GI Market Dashboard"
+      - title: "-Singapore GI Market Dashboard"
         url: https://ifoadatascienceresearch.github.io/dashboards/Singpore-GI-dashboard/
 
 #W08 - Contents & webpages
@@ -186,20 +186,20 @@ contents-webpages-nav:
 embedded-nav:
   - title: "Blog Posts"
     children:
-      - title: "Applying Analytics in Embedded Insurance"
+      - title: "-Applying Analytics in Embedded Insurance"
         url: https://ifoadatascienceresearch.github.io/blog/Applying-Analytics-in-Embedded-Insurance/
 
 #W10 - Statistical learning
 statistical-nav:
  - title: "Publications"
    children:
-      - title: "The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking"
+      - title: "-The multivariate mixed Negative Binomial regression model with an application to insurance a posteriori ratemaking"
         url: https://ifoadatascienceresearch.github.io/research%20papers/multivariate-mixed-NB/
-      - title: "A first-order binomial-mixed Poisson integer-valued autoregressive model with serially dependent innovations"
+      - title: "-A first-order binomial-mixed Poisson integer-valued autoregressive model with serially dependent innovations"
         url: https://ifoadatascienceresearch.github.io/research%20papers/first-order-binomial/
-      - title: "Bivariate Mixed Poisson Regression Models with Varying Dispersion"
+      - title: "-Bivariate Mixed Poisson Regression Models with Varying Dispersion"
         url: https://ifoadatascienceresearch.github.io/research%20papers/bivariate-mixed-poisson/
-      - title: "EM Estimation for the Bivariate Mixed Exponential Regression Model"
+      - title: "-EM Estimation for the Bivariate Mixed Exponential Regression Model"
         url: https://ifoadatascienceresearch.github.io/research%20papers/EM-Estimation-for-the-Bivariate-Mixed-Exponential-Regression-Model/
         
 #W11 - Algorithmic fairness
