@@ -61,4 +61,4 @@ Plotly.newPlot("myPlot", data, layout);
 </html>
 
   
-<iframe width="500" height="500" frameborder="0" scrolling="no" src="//plotly.com/~SolClover/53.embed"></iframe>
+<iframe width="900" height="900" frameborder="5" scrolling="no" src="//plotly.com/~SolClover/53.embed"></iframe>
