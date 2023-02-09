@@ -32,8 +32,8 @@ W01 - Supervised Learning: <a href href="https://www.linkedin.com/in/neptune-jin
 <br>W08 - Contents & Webpages: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a>
 <br>W09 - Data Analytics in Embedded Insurance: <a href href="https://www.linkedin.com/in/chanzhanliang/"> Zack Chan </a>
 <br>W10 - Statistical Learning: <a href="https://researchportal.hw.ac.uk/en/persons/george-tzougas"> George Tzougas </a>
-<br>W11 - Algorithmic Fairness: <a href="https://www.linkedin.com/in/saunak-dutta-b74a551b/"> Saunak Datta </a>
-<br>W12 - Bayesian Methods: <a href="https://www.linkedin.com/in/arijitdas1986/"> Arjit Das </a>
+<br>W11 - Algorithmic Fairness: <a href="https://www.linkedin.com/in/arijitdas1986/"> Arjit Das </a>
+<br>W12 - Bayesian Methods:  <a href="https://www.linkedin.com/in/saunak-dutta-b74a551b/"> Saunak Datta </a>
 </div>
 
 <div class="notice--primary" markdown="1">
