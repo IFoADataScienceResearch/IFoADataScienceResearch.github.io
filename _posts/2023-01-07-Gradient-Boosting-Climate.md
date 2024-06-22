@@ -20,7 +20,7 @@ tags:
 ---
 
 Originally published by The Instituto de Actuarios Espanioles, December 2022. © Instituto de Actuarios Espanioles. <br>
-<a href="https://revistas.actuarios.org/index.php/aiae/article/view/33)"> Link to original post.</a> <br>
+<a href="https://revistas.actuarios.org/index.php/aiae/article/view/33"> Link to original post.</a> <br>
 <a href="https://pure.hw.ac.uk/ws/portalfiles/portal/83881350/ANALES_IAE062022_149_168_1.pdf)"> Read online full publication</a> <br>
 {: .notice}
 
