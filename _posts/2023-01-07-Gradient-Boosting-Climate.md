@@ -20,8 +20,8 @@ tags:
 ---
 
 Originally published by The Instituto de Actuarios Espanioles, December 2022. © Instituto de Actuarios Espanioles. <br>
-<a href="https://www.actuarios.org/anales2022_6/)"> Link to original post.</a> <br>
-<a href="https://www.actuarios.org/wp-content/uploads/2021/07/ANALES_IAE062022_149-168.pdf?fbclid=IwAR3zywUlstQ0THteaaQ36M_cYlhUHAxMUd6XE8qOv5uaatGJqQw2XN_vXqY)"> Read online full publication</a> <br>
+<a href="https://revistas.actuarios.org/index.php/aiae/article/view/33)"> Link to original post.</a> <br>
+<a href="https://pure.hw.ac.uk/ws/portalfiles/portal/83881350/ANALES_IAE062022_149_168_1.pdf)"> Read online full publication</a> <br>
 {: .notice}
 
 <b> Abstract </b>
