@@ -17,7 +17,7 @@ tags:
 
 <h3>Overview / Background</h3>
 
-Neural networks are at the heart of deep learning.  These are architectures which mimic the design of the brain and have the capability of being applied to any problem.  
+Neural networks are at the heart of deep learning.  These are architectures which mimic the design of the brain and have the capability to be trained to tackle  any problem.  
 
 Underlying a neural network are neurons, layers, weights and biases.
 
@@ -37,9 +37,13 @@ Neural networks are composed of layers of nodes. Each node is a perceptron that 
 3. **Output Layer**: Provides the final output.
 
 #### Example Activation Functions
+```
+$$
 - **Sigmoid**: \( \sigma(x) = \frac{1}{1 + e^{-x}} \)
 - **ReLU (Rectified Linear Unit)**: \( f(x) = \max(0, x) \)
 - **Tanh (Hyperbolic Tangent)**: \( \tanh(x) = \frac{e^x - e^{-x}}{e^x + e^{-x}} \)
+$$
+```
 
 #### Backpropagation
 A method used to calculate the gradient of the loss function and update weights in the network to minimize error.
@@ -47,10 +51,10 @@ A method used to calculate the gradient of the loss function and update weights 
 <h3>Examples</h3>
 
 #### Deep Neural Networks (DNN)
-Deep Neural Networks (DNN) are neural networks with multiple hidden layers between the input and output layers. They are capable of learning complex patterns in data by transforming the data through several layers of nonlinear operations.
+Deep Neural Networks (DNN) are neural networks with multiple hidden layers between the input and output layers. They are capable of learning complex patterns in data by transforming the data through several layers of non-linear operations.
 
 #### Convolutional Neural Networks (CNN)
-Convolutional Neural Networks (CNN) are specialized neural networks designed for processing data with a grid-like topology, such as images. They use convolutional layers to automatically and adaptively learn spatial hierarchies of features from input images.
+Convolutional Neural Networks (CNN) are specialised neural networks and can be applied on images. A CNN consists of a kernal and filter.
 
 #### Long Short-Term Memory (LSTM) Networks
 Long Short-Term Memory (LSTM) networks are a type of recurrent neural network (RNN) that are capable of learning long-term dependencies. They are well-suited for sequence prediction problems where the context is important, such as time series forecasting and natural language processing.
