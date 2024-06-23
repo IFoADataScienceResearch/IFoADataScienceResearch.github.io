@@ -1,5 +1,5 @@
 ---
-permalink: /aboutus/
+permalink: /about/
 layout: splash
 header:
   overlay_color: "#c90076"
