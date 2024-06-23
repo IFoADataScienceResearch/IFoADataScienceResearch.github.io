@@ -21,9 +21,6 @@ Clustering is an unsupervised learning method and is a technique which groups un
 <h3>Main</h3>
 Clustering algorithms are used to process raw, unclassified data into groups which are represented by structures and patterns in the information. 
 
-<span style="color:red">Please see diagram below:</span>
-<span style="color:red">ADD IN JPEG</span>
-
 The clustering algorithms are classified into following different types:
 
 - <b>Exclusive clustering:</b> Exclusive clustering does not allow for a data point to exist in multiple clusters hence called 'hard clustering'.  A widely used clustering algorithm 'k-means clustering' is an example of exclusive clustering. 

@@ -17,12 +17,15 @@ tags:
 
 <h3>Overview / Background</h3>
 
-Neural networks are a set of algorithms, modeled loosely after the human brain, that are designed to recognize patterns. They interpret sensory data through a kind of machine perception, labeling, and clustering of raw input.
+Neural networks are at the heart of deep learning.  These are architectures which mimic the design of the brain and have the capability of being applied to any problem.  
+
+Underlying a neural network are neurons, layers, weights and biases.
 
 #### Key Concepts
 - **Neurons**: Basic units of a neural network, which process inputs and generate an output.
 - **Layers**: Neural networks consist of input layers, hidden layers, and output layers.
 - **Weights and Biases**: Parameters within the network that are adjusted during training to minimize error.
+- **Activation functions**: Functions which allow non-linearity.
 
 <h3>Main</h3>
 
