@@ -11,7 +11,7 @@ sidebar:
 
 
 ## Aims
-Applications of Bayesion Methods
+Applications of Bayesian Methods
 
 ## Members
 1.  Saunak Datta (Chair) 

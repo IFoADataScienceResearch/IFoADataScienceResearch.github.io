@@ -11,7 +11,7 @@ sidebar:
 
 
 ## Aims
-Applications of Unsupervised Learning
+Applications of Algorithmic Fairness
 
 ## Members
 1.  Arjit Das (Chair) 
