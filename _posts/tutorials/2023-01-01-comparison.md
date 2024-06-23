@@ -35,7 +35,7 @@ Supervised, unsupervised learning, semi-supervised and reinforced learning are 4
 | Input data                       | All data is labelled             | All data is unlabelled           | Partially labelled               | No predefined data                       |
 | Training?          | External supervision                              | No supervision                               |    (Yes)                   | No supervision |
 | Use                              | Calculate outcomes                       | Discover underlying patterns                   | Improve learning performance                       | Learn a series of outcomes                       |
-| Computational complexity      | Simple                      | Complex                   | Depends                       | Comple                       |
+| Computational complexity      | Simple                      | Complex                   | Depends                       | Complex                       |
 | Accuracy      | Higher                      | Lesser                   | Lesser                       | Good for trial/error situations                       |
 
 
