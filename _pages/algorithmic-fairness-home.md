@@ -3,7 +3,7 @@ permalink: /algorithmic-fairness/
 classes: wide
 title: "IFoA Algorithmic Fairness Working Party"
 author_profile: false
-toc: false
+toc: true
 sidebar:
   title: "Contents"
   nav: algo-nav
@@ -13,13 +13,9 @@ sidebar:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/algorithmic-fairness.jpg){: .align-left}
 
 
-<br />
-Welcome to the main Github Page site for the IFoA Algorithmic Fairness Working Party.  
+## Aims
+Applications of Unsupervised Learning
 
-The aim of this volunteer Working Party is to promote the understanding of biases within algorithms and data science methods.  
+## Members
+1.  Arjit Das (Chair) 
 
-Please browse the links under the contents navigation on the left for useful pages.  
-
-Do let us know if you would like to be involved and have any suggestions, both for this site and for research areas.
-
-**Please note that this site is still under construction.**
