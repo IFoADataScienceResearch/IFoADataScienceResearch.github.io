@@ -25,6 +25,7 @@ Please find below a list of tutorials which cover topics on data science areas, 
 
 | Entry|               |Link                          |Description                    |
 | -----| ------------- |----------------------------- |-------------------------------|
+| 1    | :bar_chart:    |[Association rules](/tutorial/association_rules/)                                   |Overview of association rules and applications                    |
 | 1    | :bar_chart:    |[Clustering](/tutorial/clustering/)                                   |Overview of clustering techniques and applications                    |
 | 2    | :bar_chart:   |[Dimensionality reduction](/tutorial/dimensionality_reduction/)        |Overview of dimensionality reduction techniques and applications                    |
 
