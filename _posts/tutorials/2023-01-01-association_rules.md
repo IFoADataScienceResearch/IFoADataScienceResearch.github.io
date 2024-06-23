@@ -32,10 +32,10 @@ Association rule mining can be classified into different types:
 <h3>Example uses</h3>
 Examples of association rule mining applications include:
 
-- <b>Market Basket Analysis:</b> Analyzing customer purchase patterns to discover associations between products frequently bought together.
+- <b>Market Basket Analysis:</b> Analysing customer purchase patterns to discover associations between products frequently bought together.
 - <b>Cross-Selling:</b> Identifying product associations to enhance recommendations and increase sales.
 - <b>Medical Diagnosis:</b> Discovering patterns in patient records to assist in disease diagnosis and treatment planning.
-- <b>Web Usage Mining:</b> Understanding user behavior on websites to optimize content placement and user experience.
+- <b>Web Usage Mining:</b> Understanding user behavior on websites to optimise content placement and user experience.
 
 <h3>Example algorthims</h3>
 Common algorithms used in association rule mining include:
@@ -53,7 +53,7 @@ Association rule mining offers several advantages:
 However, there are also challenges:
 
 - Computational Complexity: Mining association rules from large datasets can be computationally expensive.
-= Quality of Rules: Generating meaningful rules requires careful parameter tuning and consideration of support and confidence thresholds.
+- Quality of Rules: Generating meaningful rules requires careful parameter tuning and consideration of support and confidence thresholds.
 
 <h3>Further reading</h3>
 For more detailed exploration of association rule mining techniques and applications, refer to advanced texts and research papers on the subject.
