@@ -10,9 +10,6 @@ sidebar:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/algorithmic-fairness.jpg){: .align-left}
-
-
 ## Aims
 Applications of Unsupervised Learning
 

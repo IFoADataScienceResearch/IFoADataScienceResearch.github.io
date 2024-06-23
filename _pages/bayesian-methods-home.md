@@ -10,9 +10,6 @@ sidebar:
 ---
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images_for_wp/bayesian_home.jpg){: .align-left}
-
-
 ## Aims
 Applications of Bayesion Methods
 

@@ -156,8 +156,11 @@ unsupervised-nav:
     url: https://ifoadatascienceresearch.github.io/unsupervised-learning/
   - title: "Publications"
 
-#W05 - Supervised learning
+#W05 - Deep Learning
 deeplearning-nav:
+  - title: "Blog Posts"
+    url: https://ifoadatascienceresearch.github.io/deep-learning/
+  - title: "Publications"
 
 #W06 - Explainable AI
 xai-nav:
