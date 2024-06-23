@@ -36,14 +36,6 @@ Neural networks are composed of layers of nodes. Each node is a perceptron that 
 2. **Hidden Layers**: Perform computations and transfer information from the input layer to the output layer.
 3. **Output Layer**: Provides the final output.
 
-#### Example Activation Functions
-```
-$$
-- **Sigmoid**: \( \sigma(x) = \frac{1}{1 + e^{-x}} \)
-- **ReLU (Rectified Linear Unit)**: \( f(x) = \max(0, x) \)
-- **Tanh (Hyperbolic Tangent)**: \( \tanh(x) = \frac{e^x - e^{-x}}{e^x + e^{-x}} \)
-$$
-```
 
 #### Backpropagation
 A method used to calculate the gradient of the loss function and update weights in the network to minimize error.
