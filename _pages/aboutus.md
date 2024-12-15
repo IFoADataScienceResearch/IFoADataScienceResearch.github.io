@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#c90076"
 classes: wide
-title: "About"
+title: "About us"
 author_profile: false
 toc: false
 ---
