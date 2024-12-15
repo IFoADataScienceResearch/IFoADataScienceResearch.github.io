@@ -17,8 +17,15 @@ Actuarial Data Science (ADS) is defined to be the intersection of Actuarial Scie
 
 ## Members
 1.  Karol Gawlowski (Chair)
+<br> Karol Gawlowski is an Actuarial Manager at EY UK and an actuarial data scientist. </br>
 2.  Jack Harrington
+<br> Jack Harrington is an actuarial contractor and predictive modeller at Allianz Personal. </br>
 3.  John Condon
+<br> John Condon is a lecturer in Actuarial Science, in the School of Mathematical Sciences at University College Cork, Ireland.
+John is a Fellow of the IFoA, and before lecturing in Actuarial Science, John worked as a GI pricing actuary on personal lines technical modelling.
+ </br>
 4.  Davide Ruffini
+<br> Davide Ruffini is a Pricing Actuary at AmTrust Assicurazioni specialized in Predictive Modelling. Davide Ruffini holds a Master’s degree in Quantitative Finance from the University of Milan, Bicocca and he is a member of the Italian Istitute of Actuaries (ONA). </br>
 5.  Cillian Williamson
+<br> Cillian Williamson is a lecturer in Actuarial Science and Statistics, in the School of Mathematical Sciences at University College Cork, Ireland. </br>
 
