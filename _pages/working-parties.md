@@ -323,7 +323,7 @@ body .container .card .box .content a:hover {
             <div class="content">
               <h2>12</h2>
               <h3>Actuarial Data Science</h3>
-              <p>Working party sey up to explore the intersection of Actuarial Science and Data Science</p>
+              <p>Working party set up to explore the intersection of Actuarial Science and Data Science</p>
               <a href="/actuarial-data-science/">Read More</a>
             </div>
           </div>
