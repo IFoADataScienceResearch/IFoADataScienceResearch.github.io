@@ -13,7 +13,7 @@ categories:
 tags:
   - Actuary Magazine
   - Actuarial Data Science
-  - Neural Networsk
+  - Neural Networks
 ---
 
 Originally published by The Actuary, 7 March 2024. © The Institute and Faculty of Actuaries. <br>
