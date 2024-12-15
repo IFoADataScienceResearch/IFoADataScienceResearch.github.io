@@ -95,7 +95,7 @@ footer:
       url: /members/
     - label: "About"
       icon: "far fa-question-circle"
-      url: /aboutus/
+      url: /about/
       
       
 #    - label: "GitHub"

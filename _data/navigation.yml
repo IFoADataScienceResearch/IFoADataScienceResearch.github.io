@@ -26,6 +26,8 @@ main:
         url: https://ifoadatascienceresearch.github.io/algorithmic-fairness/
       - title: "W12 - Bayesian Methods"
         url: https://ifoadatascienceresearch.github.io/bayesian-methods/
+      - title: "W13 - Actuarial Data Science"
+        url: https://ifoadatascienceresearch.github.io/actuarial-data-science/
   - title: "Events"
     url: /events/
   - title: "Posts"
@@ -101,6 +103,8 @@ about-nav:
         url: https://ifoadatascienceresearch.github.io/algorithmic-fairness/
       - title: "Bayesian Methods"
         url: https://ifoadatascienceresearch.github.io/bayesian-methods/
+      - title: "Actuarial Data Science"
+        url: https://ifoadatascienceresearch.github.io/actuarial-data-science/
 
 
 #Navigation for Tutorial page
@@ -214,7 +218,12 @@ bayesian-nav:
     url: https://ifoadatascienceresearch.github.io/bayesian-methods/
   - title: "Publications"
 
-        
+#W13 - Actuarial data science
+actuarial-data-science-nav:
+  - title: "Blog Posts"
+    url: https://ifoadatascienceresearch.github.io/actuarial-data-science/
+  - title: "Publications"
+    
  
 
 
