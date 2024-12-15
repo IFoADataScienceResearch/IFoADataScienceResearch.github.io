@@ -12,11 +12,11 @@ sidebar:
 
 ## Aims
 The main purpose of this website is to make the work and results of the working party "Actuarial Data Science Working Party” of the IFoA easily available to interested people. 
-Actuarial Data Science (ADS) is defined to be the intersection of Actuarial Science (AS) and Data Science (DS), and this Working Party aims to democratize these contents.
+Actuarial Data Science (ADS) is defined to be the intersection of Actuarial Science (AS) and Data Science (DS), and this Working Party aims to democratise these contents.
 
 
 ## Members
-1.  Karol Gawlowski
+1.  Karol Gawlowski (Chair)
 2.  Jack Harrington
 3.  John Condon
 4.  Davide Ruffini
