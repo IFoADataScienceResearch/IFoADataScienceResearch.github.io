@@ -223,6 +223,12 @@ actuarial-data-science-nav:
   - title: "Blog Posts"
     url: https://ifoadatascienceresearch.github.io/actuarial-data-science/
   - title: "Publications"
+    children:
+        - title: "-Gladiators, ready! Pricing models fight it out"
+          url: https://ifoadatascienceresearch.github.io/blog/gladiators-ready-pricing-models-fight-it-out/
+        - title: "-Crowd pleaser: Ensemble modelling for accuracy and explainability"
+          url: https://ifoadatascienceresearch.github.io/blog/crowd-pleaser-ensemble-modelling-for-accuracy-and-explainability/
+   
     
  
 
