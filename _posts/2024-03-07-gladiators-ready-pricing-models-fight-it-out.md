@@ -64,7 +64,7 @@ This structure predicts GLM’s coefficients for each individual record using a 
 
 Successfully training this neural network leaves us with a highly predictive model and a set of beta coefficients (attention weights) for each observation (Figure 2). Now we can interpret the prediction in a familiar way but also analyse the attention weights and how they vary for different predictors.
 
-<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/02.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/03.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 Figure 2: An example of a LocalGLMnet - Uncredited
 
@@ -77,13 +77,13 @@ We studied CANN and LocalGLMnet and included the GLM and FFNN models for compari
 Every second and every penny counts; used wisely, these solutions may present an advantage
 Table 1 shows the results of a cross-validation (CV) exercise over five folds of the data. In a five-fold CV exercise, the model is fitted once over four partitions of the modelling data, then tested on the fifth unseen partition. This is done five times, with a different unseen partition of data tested each time. The metric used to assess model performance here is the total Poisson deviance, where a lower deviance on the unseen partition is preferred. The ‘pinball score’ of the best neural net model, and of the GLM, is also shown for each partition. This score is essentially the percentage reduction in deviance from a null model to the model of interest.
 
-<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/03.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/04.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 Table 1: GLM vs neural net vs LocalGLMnet vs CANN Results - Uncredited
 
 We can see that the total Poisson deviance of CANN and LocalGLMnet are about the same, and are winning the race in terms of that metric. They are followed up by the FFNN, with the GLM coming in last. Most notably, the pinball score of the neural nets is approximately three times better than that of the GLM, over each unseen partition.
 
-<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/04.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/05.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 Figure 3: Poisson deviance per observation,per model - Uncredited
 
@@ -94,7 +94,7 @@ Hope-n-heimer: a Manhattan Project for climate change?
 Reporting for climate duty: the new IFRS standards explained
 Using a lift chart, we can assess how well these model architectures distinguish between high and low-risk policies. Figure 4 separates policies along the x axis in deciles, according to how risky the respective models view those policies. For example, the first decile contains the policies whose GLM prediction is in the lowest 10% of policies for that model. The first decile also contains the policies whose prediction of frequency is in the lowest 10% for each of the FFNN, CANN and LocalGLMnet models. Then, for each model’s lowest decile of policies, we calculate the actual average observed frequency and plot this point. This is calculated and plotted for all 10 deciles. The model that is best at distinguishing between low and high risk policies will then have the greatest lift between the low and high deciles in the chart. In Figure 4 we can see that neural network models are more successful at this task than a GLM.
 
-<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/05.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/06.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 Figure 4: Combined lift chart - Uncredited
 
