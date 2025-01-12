@@ -16,7 +16,7 @@ tags:
   - Neural Networks
 ---
 
-Originally published by The Actuary, 7 March 2024. © The Institute and Faculty of Actuaries. <br>
+Originally published by The Actuary, 8 November 2024. © The Institute and Faculty of Actuaries. <br>
 <a href="https://www.theactuary.com/2024/11/08/crowd-pleaser-ensemble-modelling-accuracy-and-explainability" target="_blank"> Click here to read the original article</a>.
 {: .notice}
 
