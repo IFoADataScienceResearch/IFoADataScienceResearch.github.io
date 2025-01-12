@@ -22,13 +22,15 @@ Originally published by The Actuary, 7 March 2024. © The Institute and Faculty 
 
 <b> Karol Gawlowski , John Condon, Jack Harrington and Davide Ruffini examine two relatively new Neural Network architectures, exploring their benefits and contrasting them to more typical GLMs and Feed Forward Neural Networks. </b>
 
-Nonplussed by neural networks? Intimidated by the jargon? You can’t afford to be, not in the fast-paced pricing arena. Four actuaries put two cutting-edge models to the test, to see which wins out.
+<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/01.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+
+<b>Nonplussed by neural networks? Intimidated by the jargon? You can’t afford to be, not in the fast-paced pricing arena. Four actuaries put two cutting-edge models to the test, to see which wins out.</b>
 
 In the competitive world of pricing, actuaries are racing to deliver greater accuracy in smaller timeframes – and a host of new and increasingly sophisticated modelling architectures can be used to gain that elusive edge. 
 
 Here, we describe and test two of these modelling technologies, the combined actuarial neural network and the LocalGLMnet, which use classical statistical methods alongside neural networks to improve predictive accuracy. Every second and penny counts; used wisely, these solutions may present an advantage.
 
-Putting it simply
+<b>Putting it simply</b>
 
 Neural networks can seem intimidating, with the terminology around these models no doubt contributing to this. The jargon, with its neurons, activation functions and layers, can sound foreboding at first – but don’t let it scare you off. Let’s demystify the nuts and bolts of neural network architecture.
 
@@ -38,9 +40,11 @@ The first (input) layer consists of our predictors, which are then passed to neu
 
 Why do we say neural networks are trained, or learn? As a comparison, when fitting a linear regression model, numerical techniques are used to converge on a solution to a closed-form problem. In neural networks, however, there are so many model parameters and so many intractable interactions between them that such closed-form formula does not exist. We use iterative optimisation techniques to tweak randomly initiated parameters until they produce an output close to the given target variable.
 
-Combined actuarial neural networks
+<b>Combined actuarial neural networks</b>
 
 A combined actuarial neural network (CANN) embeds a GLM into a neural network using a skip connection that directly links the input layer to the output layer (Figure 1).
+
+<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/02.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 Figure 1: An example of a CANN - Uncredited
 It is essentially a neural network that uses the benchmark GLM’s predictions while learning additional interactions among variables to improve the overall model’s predictive power. There are three common approaches to using a CANN:
@@ -53,14 +57,17 @@ A trainable credibility weighting can be introduced for the fixed GLM element wi
 
 While CANN may not generally outperform pure neural networks in minimising the objective loss function, its value for pricing teams lies in uncovering nuanced interactions that can enhance existing GLMs in production.
 
-LocalGLMnet
+<b>LocalGLMnet</b>
 
 This structure predicts GLM’s coefficients for each individual record using a neural network, leveraging the GLM’s advantages in terms of explainability. However, it gains predictive accuracy by allowing the coefficients to vary for each record. The LocalGLMnet uses a skip connection (different from that used in the CANN), directly linking the input features to the output layer. This provides a linear term in the model, which bypasses the neural network, and then weights these terms with potentially non-linear weights. 
 
 Successfully training this neural network leaves us with a highly predictive model and a set of beta coefficients (attention weights) for each observation (Figure 2). Now we can interpret the prediction in a familiar way but also analyse the attention weights and how they vary for different predictors.
 
+<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/02.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+
 Figure 2: An example of a LocalGLMnet - Uncredited
-Results
+
+<b>Results</b>
 
 Now that we have conceptually described these two new models, let’s road-test them and see how they perform on real-world data. In this case, we use them to predict the frequency of third-party motor liability claims for individual customers, using a publicly available dataset with 680,000 records and 11 features relating to motor policies of a French insurer. This dataset is commonly used in literature on actuarial models and model benchmarking.
 
@@ -69,8 +76,12 @@ We studied CANN and LocalGLMnet and included the GLM and FFNN models for compari
 Every second and every penny counts; used wisely, these solutions may present an advantage
 Table 1 shows the results of a cross-validation (CV) exercise over five folds of the data. In a five-fold CV exercise, the model is fitted once over four partitions of the modelling data, then tested on the fifth unseen partition. This is done five times, with a different unseen partition of data tested each time. The metric used to assess model performance here is the total Poisson deviance, where a lower deviance on the unseen partition is preferred. The ‘pinball score’ of the best neural net model, and of the GLM, is also shown for each partition. This score is essentially the percentage reduction in deviance from a null model to the model of interest.
 
+<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/03.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+
 Table 1: GLM vs neural net vs LocalGLMnet vs CANN Results - Uncredited
 We can see that the total Poisson deviance of CANN and LocalGLMnet are about the same, and are winning the race in terms of that metric. They are followed up by the FFNN, with the GLM coming in last. Most notably, the pinball score of the neural nets is approximately three times better than that of the GLM, over each unseen partition.
+
+<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/04.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 Figure 3: Poisson deviance per observation,per model - Uncredited
 We have looked at the total Poisson deviance, but we can look at the full distribution of values for each model as well. This is shown in the Figure 3, where we can see that the GLM model has its weight of deviances further from 0 when compared with the net models (CANN, FFNN, LocalGLMnet). LocalGLMnet appears to do best by this measure.
@@ -80,8 +91,11 @@ Hope-n-heimer: a Manhattan Project for climate change?
 Reporting for climate duty: the new IFRS standards explained
 Using a lift chart, we can assess how well these model architectures distinguish between high and low-risk policies. Figure 4 separates policies along the x axis in deciles, according to how risky the respective models view those policies. For example, the first decile contains the policies whose GLM prediction is in the lowest 10% of policies for that model. The first decile also contains the policies whose prediction of frequency is in the lowest 10% for each of the FFNN, CANN and LocalGLMnet models. Then, for each model’s lowest decile of policies, we calculate the actual average observed frequency and plot this point. This is calculated and plotted for all 10 deciles. The model that is best at distinguishing between low and high risk policies will then have the greatest lift between the low and high deciles in the chart. In Figure 4 we can see that neural network models are more successful at this task than a GLM.
 
+<img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/05.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+
 Figure 4: Combined lift chart - Uncredited
-What does it mean for pricing?
+
+<b>What does it mean for pricing?</b>
 
 It appears these newer architectures have more predictive power than legacy models. As other studies have found, sacrifices are made in terms of transparency and explainability when departing from GLM architecture, so explainable artificial intelligence (XAI) may be required to help with model interpretation. However, LocalGLMnet makes progress in this area where a local GLM structure is retained. The CANN could also be a useful concept for insurers that have already developed a GLM, as the neural network that is combined with the GLM may reveal opportunities for further model refinement.
 
