@@ -17,7 +17,7 @@ tags:
 ---
 
 Originally published by The Actuary, 7 March 2024. © The Institute and Faculty of Actuaries. <br>
-<a href="https://www.theactuary.com/2024/03/05/gladiators-ready-pricing-models-fight-it-out"> Click here to read the original article</a>.
+<a href="https://www.theactuary.com/2024/03/05/gladiators-ready-pricing-models-fight-it-out" target="_blank"> Click here to read the original article</a>.
 {: .notice}
 
 <b> Karol Gawlowski , John Condon, Jack Harrington and Davide Ruffini examine two relatively new Neural Network architectures, exploring their benefits and contrasting them to more typical GLMs and Feed Forward Neural Networks. </b>
@@ -72,7 +72,7 @@ Figure 2: An example of a LocalGLMnet - Uncredited
 
 Now that we have conceptually described these two new models, let’s road-test them and see how they perform on real-world data. In this case, we use them to predict the frequency of third-party motor liability claims for individual customers, using a publicly available dataset with 680,000 records and 11 features relating to motor policies of a French insurer. This dataset is commonly used in literature on actuarial models and model benchmarking.
 
-We studied CANN and LocalGLMnet and included the GLM and FFNN models for comparison. A simple intercept model is also included for reference. A full description of the implemented models is beyond the scope of this article, so we will focus on high-level results and conclusions from the exercise. A more detailed presentation of this work will be available in an accompanying blog post on Towards Data Science and a GitHub repository <a href="https://github.com/Karol-Gawlowski/ADSWP_NN"> (github.com/Karol-Gawlowski/ADSWP_NN)</a>.
+We studied CANN and LocalGLMnet and included the GLM and FFNN models for comparison. A simple intercept model is also included for reference. A full description of the implemented models is beyond the scope of this article, so we will focus on high-level results and conclusions from the exercise. A more detailed presentation of this work will be available in an accompanying blog post on Towards Data Science and a GitHub repository <a href="https://github.com/Karol-Gawlowski/ADSWP_NN" target="_blank"> (github.com/Karol-Gawlowski/ADSWP_NN)</a>.
 
 Every second and every penny counts; used wisely, these solutions may present an advantage
 Table 1 shows the results of a cross-validation (CV) exercise over five folds of the data. In a five-fold CV exercise, the model is fitted once over four partitions of the modelling data, then tested on the fifth unseen partition. This is done five times, with a different unseen partition of data tested each time. The metric used to assess model performance here is the total Poisson deviance, where a lower deviance on the unseen partition is preferred. The ‘pinball score’ of the best neural net model, and of the GLM, is also shown for each partition. This score is essentially the percentage reduction in deviance from a null model to the model of interest.
