@@ -17,12 +17,14 @@ tags:
 ---
 
 Originally published by The Actuary, 7 March 2024. © The Institute and Faculty of Actuaries. <br>
-<a href="https://www.theactuary.com/2024/11/08/crowd-pleaser-ensemble-modelling-accuracy-and-explainability"> Click here to read the original article</a>.
+<a href="https://www.theactuary.com/2024/11/08/crowd-pleaser-ensemble-modelling-accuracy-and-explainability" target="_blank"> Click here to read the original article</a>.
 {: .notice}
 
 <b> Karol Gawlowski , John Condon, Jack Harrington and Davide Ruffini  explore how ensembling techniques can help us to combine the strengths of GLMs and Machine learning algorithms (i.e. XGBoost) for improved performance without fully compromising transparency.</b>
 
-Actuaries no longer need to choose between accuracy and explainability when modelling. Ensembling can enhance both.
+<img src="/assets/images_for_posts/crowd-pleaser-ensemble-modelling-for-accuracy-and-explainability/01.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+
+<b>Actuaries no longer need to choose between accuracy and explainability when modelling. Ensembling can enhance both.</b>
 
 At the heart of every predictive modelling exercise is the accuracy-explainability dichotomy, which can pull actuaries in different directions. Traditional models such as generalised linear models (GLMs) have long been favoured for their simplicity and transparency, but the quest for better performance has introduced more complex algorithms, such as gradient boosting machines (GBMs). 
 
@@ -30,7 +32,7 @@ Practitioners often feel forced to opt for one or the other, depending on whethe
 
 Combining multiple model predictions into one is known as ensembling, with ‘bagging’ and ‘boosting’ being the standard techniques. Our goal is to use these combinations to improve predictive performance while retaining as much explainability  as possible.
 
-Bagging
+<b>Bagging</b>
 
 Bagging, short for ‘bootstrap aggregating’, involves randomly sampling with replacement from the data, and training a model on each of these bootstrapped samples. For a regression task, the final prediction is the average of all the model predictions. 
 
@@ -38,9 +40,11 @@ This idea is not new – the ‘wisdom of the crowd’ concept was first observe
 
 However, this approach can be undermined by systematic errors. In ensemble models, to reduce the risk of correlation between errors in the constituent models, bagging can be extended to only use a random subset of features when training each bootstrapped model. This approach is a random forest and typically performs better than bagging alone.
 
-Boosting
+<b>Boosting</b>
 
 Boosting builds an ensemble of decision trees sequentially, with each new tree correcting the errors of the previous ones. The chosen optimisation method during the fitting process is gradient descent – hence ‘gradient boosted’. While bagging and random forests achieve random model diversity, boosting creates targeted model diversity, improving performance. Figure 1 shows the process.
+
+<img src="/assets/images_for_posts/crowd-pleaser-ensemble-modelling-for-accuracy-and-explainability/02.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 Figure-1 - Uncredited
 For the boosted method, we modelled using XGBoost instead of the vanilla GBM. GBMs tend to have a longer training time than XGBoost because XGBoost implements parallelisation during training. XGBoost also includes regularisation techniques such as Lasso and Ridge or row/column subsampling and various other hyperparameters that prune overly complex and overfitting trees. Other differences include XGBoost’s automatic handling of missing data and more efficient splitting algorithm.
@@ -50,7 +54,7 @@ We set the different architectures a common task: predicting the frequency of th
 Unsurprisingly, XGBoost performed better than the pure GLM when fitting to the data. 
 The logical follow-up was to see if we could improve its performance using the GLM. It turns out that the different XGBoost-GLM ensembles did not outperform XGBoost alone. However, as we will explain, GBM practitioners may have many more uses for these ensembles, and performance improvements could be achieved on other, more varied datasets.
 
-Boosted GLMs
+<b>Boosted GLMs</b>
 
 Can we improve the GLM’s predictiveness without losing explainability? Enter GLM + XGBoost: the boosted GLM. 
 
@@ -58,7 +62,10 @@ A boosted GLM combines a standard GLM’s strengths with a GBM’s advanced capa
 
 This approach provides improved predictive performance, as Table 1 shows. It also allows actuaries to explain the primary drivers of the model’s predictions to stakeholders, avoiding the black-box nature of purely tree-based models.
 
+<img src="/assets/images_for_posts/crowd-pleaser-ensemble-modelling-for-accuracy-and-explainability/03.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+
 Table-1 - Uncredited
+
 One point to consider is the risk of overfitting – present with all models, but particularly prevalent when capturing residual patterns. Actuaries must validate the model’s performance on unseen data to ensure its generalisability. Cross validation can be used to ensure a more reliable estimate of model performance compared with using a single train-validation-test split. 
 
 In our modelling pipeline, we performed fivefold cross validation. The model was fitted once over three partitions of the data, using one as validation and one as an unseen test. This was done five times, varying the partitions in each iteration.
@@ -67,7 +74,7 @@ This ensemble approach used an additive adjustment from XGBoost to improve fit, 
 
 We can instead use XGBoost to model the ratio of the response variable to the GLM prediction, rather than modelling the residual itself, which may be better at capturing non-linear relationships or complex interactions. Its (GLM x XGBoost) superior model performance can be seen in Table 1 – and it delivers a more coherent and interpretable model. Sometimes you can have your cake and eat it!
 
-Other approaches
+<b>Other approaches</b>
 
 We’ve seen how GBMs can help the GLM practitioner, but does it work both ways? 
 
@@ -84,9 +91,6 @@ In our exercise, this ensemble achieved only a very small performance improvemen
 
 We also considered how GLM performance affects the ensemble. When examining novel model architectures, authors usually evaluate their proposition against a vanilla GLM. In practice, however, a GLM will have been carefully crafted. For a deep dive on that topic, we recommend the Swiss Association of Actuaries’ (SAA) GLM study, ‘Case Study: French Motor Third-Party Liability Claims’. Its proposed GLM is more performant than a vanilla GLM, but considerably worse than an out-of-the-box XGBoost. 
 
-Levelling up: How to close the pensions gap
-Snapshot: Modern slavery in numbers
-Modern slavery: Know the regulations
 Notably, ensembles of XGBoost with a basic GLM outperform ensembles using the superior GLM (SAA_GLM +/x XGBoost). This might be due to the basic model achieving more model diversity with the XGBoost, demonstrating the idea that ensemble models work best when the constituent models are uncorrelated in their residuals – but that is outside the scope of this article.
 
 The final architecture examined was a weighted average of the predictions from both the GLM and XGBoost:
@@ -95,15 +99,20 @@ Weighted average prediction = α * GLM prediction + (1- α)*XGBoost prediction w
 
 The model performed best by solely taking the XGBoost prediction. Neither the basic GLM or the SAA GLM could contribute the model diversity required to generate a predictive improvement when combined with XGBoost. Again, this outcome is specific to our dataset and the models fitted.
 
-watercolour houses - Credit: istock - 1266649316
-Results
+<img src="/assets/images_for_posts/crowd-pleaser-ensemble-modelling-for-accuracy-and-explainability/04.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+
+<b>Results</b>
 
 Table 1 shows the results of the cross-validation exercise. The metric used to assess model performance here is the pinball score, which calculates the percentage improvement in Poisson deviance for each model with a homogenous (mean-only) model as the baseline.
 
 Figure 2 compares the single SAA GLM against the SAA GLM assisted by the multiplicative XGBoost adjustment. The test dataset is divided into quintiles based on the ratio of the two models’ predictions. Each bucket contains both models’ mean actual values and mean predictions. The GBM adjustment’s effectiveness is seen in how closely the ensemble model aligns with the actual values compared to the GLM, indicating more prediction accuracy.
 
+<img src="/assets/images_for_posts/crowd-pleaser-ensemble-modelling-for-accuracy-and-explainability/05.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
+
 Figure-2 - Uncredited
-Historical wisdom
+
+
+<b>Historical wisdom</b>
 
 If he were around today, Aristotle would likely be a practitioner of ensembling: in his work Politics, he noted that “it is possible that the many, though not individually good men, yet when they come together may be better, not individually but collectively, than those who are so.” 
 
@@ -113,7 +122,7 @@ The key to success, however, is model diversity. If diversity is guaranteed, the
 
 Practitioners should consider ensembling even though it may increase the modelling workload. It uses the collective strengths of multiple models to achieve better predictive performance, echoing both historical wisdom and modern statistical insights.
 
-Click here to find the full modelling method on GitHub.
+<b>Click <a href="https://github.com/Karol-Gawlowski/ADSWP_Trees" target="_blank">here</a> to find the full modelling method on GitHub.</b>
 
 Karol Gawlowski is a predictive modeller at Allianz Commercial and chair of the IFoA Actuarial Data Science Working Party
 John Condon is a lecturer in actuarial science, School of Mathematical Sciences, University College Cork
