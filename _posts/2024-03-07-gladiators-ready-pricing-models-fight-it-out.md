@@ -47,6 +47,7 @@ A combined actuarial neural network (CANN) embeds a GLM into a neural network us
 <img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/02.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 Figure 1: An example of a CANN - Uncredited
+
 It is essentially a neural network that uses the benchmark GLM’s predictions while learning additional interactions among variables to improve the overall model’s predictive power. There are three common approaches to using a CANN:
 
 The GLM element is non-trainable, so the benchmark GLM is always present and only the network part changes. This is the form of CANN included in the analysis to follow.
@@ -71,7 +72,7 @@ Figure 2: An example of a LocalGLMnet - Uncredited
 
 Now that we have conceptually described these two new models, let’s road-test them and see how they perform on real-world data. In this case, we use them to predict the frequency of third-party motor liability claims for individual customers, using a publicly available dataset with 680,000 records and 11 features relating to motor policies of a French insurer. This dataset is commonly used in literature on actuarial models and model benchmarking.
 
-We studied CANN and LocalGLMnet and included the GLM and FFNN models for comparison. A simple intercept model is also included for reference. A full description of the implemented models is beyond the scope of this article, so we will focus on high-level results and conclusions from the exercise. A more detailed presentation of this work will be available in an accompanying blog post on Towards Data Science and a GitHub repository <a href="https://www.theactuary.com/2024/03/05/gladiators-ready-pricing-models-fight-it-out"> (github.com/Karol-Gawlowski/ADSWP_NN)</a>.
+We studied CANN and LocalGLMnet and included the GLM and FFNN models for comparison. A simple intercept model is also included for reference. A full description of the implemented models is beyond the scope of this article, so we will focus on high-level results and conclusions from the exercise. A more detailed presentation of this work will be available in an accompanying blog post on Towards Data Science and a GitHub repository <a href="https://github.com/Karol-Gawlowski/ADSWP_NN"> (github.com/Karol-Gawlowski/ADSWP_NN)</a>.
 
 Every second and every penny counts; used wisely, these solutions may present an advantage
 Table 1 shows the results of a cross-validation (CV) exercise over five folds of the data. In a five-fold CV exercise, the model is fitted once over four partitions of the modelling data, then tested on the fifth unseen partition. This is done five times, with a different unseen partition of data tested each time. The metric used to assess model performance here is the total Poisson deviance, where a lower deviance on the unseen partition is preferred. The ‘pinball score’ of the best neural net model, and of the GLM, is also shown for each partition. This score is essentially the percentage reduction in deviance from a null model to the model of interest.
@@ -79,11 +80,13 @@ Table 1 shows the results of a cross-validation (CV) exercise over five folds of
 <img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/03.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 Table 1: GLM vs neural net vs LocalGLMnet vs CANN Results - Uncredited
+
 We can see that the total Poisson deviance of CANN and LocalGLMnet are about the same, and are winning the race in terms of that metric. They are followed up by the FFNN, with the GLM coming in last. Most notably, the pinball score of the neural nets is approximately three times better than that of the GLM, over each unseen partition.
 
 <img src="/assets/images_for_posts/gladiators-ready-pricing-models-fight-it-out/04.png" style="width: auto; height: auto;max-width: 750px;max-height: 750px">
 
 Figure 3: Poisson deviance per observation,per model - Uncredited
+
 We have looked at the total Poisson deviance, but we can look at the full distribution of values for each model as well. This is shown in the Figure 3, where we can see that the GLM model has its weight of deviances further from 0 when compared with the net models (CANN, FFNN, LocalGLMnet). LocalGLMnet appears to do best by this measure.
 
 Changing Channel: the latest on Solvency II
