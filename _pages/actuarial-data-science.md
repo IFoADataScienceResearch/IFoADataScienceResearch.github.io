@@ -27,4 +27,6 @@ John is a Fellow of the IFoA, and before lecturing in Actuarial Science, John wo
 <br> Davide is a Pricing Actuary at AmTrust Assicurazioni specialized in Predictive Modelling. Davide Ruffini holds a Master’s degree in Quantitative Finance from the University of Milan, Bicocca and he is a member of the Italian Istitute of Actuaries (ONA). 
 5.  Cillian Williamson
 <br> Cillian is a lecturer in Actuarial Science and Statistics, in the School of Mathematical Sciences at University College Cork, Ireland. 
+6.  Patricia Wang
+<br> Patricia is an Actuarial Director at Convex. Patricia is a Fellow of the IFoA and holds a Master of Science degree in Business Analytics from Imperial College, London.
 
