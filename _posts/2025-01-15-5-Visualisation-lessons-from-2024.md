@@ -9,7 +9,6 @@ tags:
     - Top 5
     - Visualisation
 ---
-# 5 Visualisation lessons from 2024
 Why should you read this? Take this as a bit of a challenge to see whether you think deeply enough about your visualisations. See whether you agree with my top 5, do you have different opinions, do you have your own top 5?
 
 As 2024 came to a close, I looked to summarise my experience with visualisations this year and think about the things that I’ve learnt and will take into 2025.
@@ -41,7 +40,7 @@ However, I’ve seen them very effectively being used to provide many different 
 
 Tables also provide a benefit over graphs of being able to show data points in numbers which can be a simpler visualisation that adding data labels to a graph. It can also show the neighbourhood of numbers around a data point, e.g. could show temporal as well as data in different categories. For good and bad this gives your audience the power to draw their own comparisons.
 
-Of course, you can strike a middle ground by having a graph to show trends but a table to highlight specific numbers.
+Of course, you can strike a middle ground by having a graph to show trends and a table to highlight specific numbers.
 
 ## Show rather than tell
 Visualisation is about showing rather than telling. Your visualisations can summarise large sets of data for your audience allowing you to show them the trends and the key conclusions.
