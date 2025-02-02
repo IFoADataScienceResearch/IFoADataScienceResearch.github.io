@@ -29,4 +29,6 @@ John is a Fellow of the IFoA, and before lecturing in Actuarial Science, John wo
 <br> Cillian is a lecturer in Actuarial Science and Statistics, in the School of Mathematical Sciences at University College Cork, Ireland. 
 6.  Patricia Wang
 <br> Patricia is an Actuarial Director at Convex. Patricia is a Fellow of the IFoA and holds a Master of Science degree in Business Analytics from Imperial College, London.
+7.  Jennifer Loftus
+<br> Jennifer is an Executive Director of Acorn Life in Ireland and an Independent Non-Executive Director of Vhi, Ireland's state-owned health insurer. She holds an MSc in Data Analytics from CCT College, Dublin.
 
