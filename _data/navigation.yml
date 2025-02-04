@@ -224,10 +224,16 @@ actuarial-data-science-nav:
     url: https://ifoadatascienceresearch.github.io/actuarial-data-science/
   - title: "Publications"
     children:
+        - title: "On the write track: using machine learning to predict underwriting decisions"
+          url: https://ifoadatascienceresearch.github.io/blog/On-the-write-track-using-machine-learning-to-predict-underwriting-decisions/ 
         - title: "-Gladiators, ready! Pricing models fight it out"
           url: https://ifoadatascienceresearch.github.io/blog/gladiators-ready-pricing-models-fight-it-out/
+        - title: "Learning about lapse: Using AI to boost lapse prediction accuracy"
+          url: https://ifoadatascienceresearch.github.io/blog/Learning-about-lapse-Using-AI-to-boost-lapse-prediction-accuracy/
         - title: "-Crowd pleaser: Ensemble modelling for accuracy and explainability"
           url: https://ifoadatascienceresearch.github.io/blog/crowd-pleaser-ensemble-modelling-for-accuracy-and-explainability/
+        
+        
    
     
  
